@@ -1,1 +1,13 @@
-
+{
+    "system": "lobby",
+    "last_edit": "03.03.2024",
+    "translations":
+    {
+        "test.test":
+        {
+            "en_us": "&cAn error occured while sending your message to &6$player&c! &#face05Please try again later!",
+            "de_de": "&cBeim Senden deiner Nachricht an &6$player &cist ein Fehler aufgetreten! &#face05Bitte versuche es später erneut!",
+            "tr_tr": "&cHallofjkhrekjnge!"
+        }
+    }
+}
