@@ -7,7 +7,7 @@
         {
             "en_us": "&cAn error occured while sending your message to &6$player&c! &#face05Please try again later!",
             "de_de": "&cBeim Senden deiner Nachricht an &6$player &cist ein Fehler aufgetreten! &#face05Bitte versuche es später erneut!",
-            "tr_tr": "&cMesajınızı &6$player &c'ye gönderirken bir hata oluştu! &#face05Lütfen daha sonra tekrar deneyin!"
+            "tr_tr": "&cHallo!"
         },
         "discord.link":
         {
