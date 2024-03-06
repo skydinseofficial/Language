@@ -1,0 +1,183 @@
+{
+    "COMMENT": "Our language codes are based on the ISO format, but are sometimes modified for our own purposes and don't always correspond 100% to ISO standards.",
+    "languages":
+    {
+        "en_us":
+        {
+            "fallback": null,
+            "details.en_us":
+            {
+                "name": "English",
+                "country": "United States"
+            }
+        },
+        "en_gb":
+        {
+            "fallback": "en_us",
+            "details.en_gb":
+            {
+                "name": "English",
+                "country": "Great Britain"
+            },
+            "details.en_us":
+            {
+                "name": "English",
+                "country": "Great Britain"
+            }
+        },
+        "de_de":
+        {
+            "fallback": "en_us",
+            "details.de_de":
+            {
+                "name": "Deutsch",
+                "country": "Deutschland"
+            },
+            "details.en_us":
+            {
+                "name": "German",
+                "country": "Germany"
+            }
+        },
+        "de_at":
+        {
+            "fallback": "de_de",
+            "details.de_at":
+            {
+                "name": "Deitsch",
+                "country": "Österreich"
+            },
+            "details.en_us":
+            {
+                "name": "German",
+                "country": "Austria"
+            }
+        },
+        "de_fd":
+        {
+            "fallback": "de_de",
+            "details.de_fd":
+            {
+                "name": "Memedinse (Deutsch)",
+                "country": "Skydinse"
+            },
+            "details.en_us":
+            {
+                "name": "Memedinse (German)",
+                "country": "Skydinse"
+            }
+        },
+        "pt_pt":
+        {
+            "fallback": "en_us",
+            "details.pt_pt":
+            {
+                "name": "Português",
+                "country": "Portugal"
+            },
+            "details.en_us":
+            {
+                "name": "Portuguese",
+                "country": "Portugal"
+            }
+        },
+        "pt_br":
+        {
+            "fallback": "pt_pt",
+            "details.pt_br":
+            {
+                "name": "Português",
+                "country": "Brasil"
+            },
+            "details.en_us":
+            {
+                "name": "Portuguese",
+                "country": "Brazil"
+            }
+        },
+        "es_es":
+        {
+            "fallback": "en_us",
+            "details.es_es":
+            {
+                "name": "Español",
+                "country": "España"
+            },
+            "details.en_us":
+            {
+                "name": "Spanish",
+                "country": "Spain"
+            }
+        },
+        "es_mx":
+        {
+            "fallback": "es_es",
+            "details.es_mx":
+            {
+                "name": "Español",
+                "country": "México"
+            },
+            "details.en_us":
+            {
+                "name": "Spanish",
+                "country": "Mexico"
+            }
+        },
+        "fr_fr":
+        {
+            "fallback": "en_us",
+            "details.fr_fr":
+            {
+                "name": "Français",
+                "country": "France"
+            },
+            "details.en_us":
+            {
+                "name": "French",
+                "country": "France"
+            }
+        },
+        "pl_pl":
+        {
+            "fallback": "en_us",
+            "details.pl_pl":
+            {
+                "name": "Polski",
+                "country": "Polska"
+            },
+            "details.en_us":
+            {
+                "name": "Polish",
+                "country": "Poland"
+            }
+        },
+        "nl_nl":
+        {
+            "fallback": "en_us",
+            "details.nl_nl":
+            {
+                "name": "Nederlands",
+                "country": "Nederland"
+            },
+            "details.en_us":
+            {
+                "name": "Dutch",
+                "country": "Nederlands"
+            }
+        },
+        "tr_tr":
+        {
+            "fallback": "en_us",
+            "details.tr_tr":
+            {
+                "name": "Türkçe",
+                "country": "Türkiye"
+            },
+            "details.en_us":
+            {
+                "name": "Turkish",
+                "country": "Türkiye"
+            }
+        }
+    }
+}
