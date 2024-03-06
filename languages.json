@@ -54,6 +54,7 @@
         },
         "de_fd":
         {
+            "COMMENT": "made-up meme language",
             "fallback": "de_de",
             "details.de_fd":
             {
