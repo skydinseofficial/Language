@@ -3,9 +3,9 @@
     "last_edit": "06.03.2024",
     "translations":
     {
-        "msg.reply_error":
+        "suffix.reward":
         {
-            "en_us": "&cAn error occured while sending your message to &6$player&c! &#face05Please try again later!",
+            "en_us": "&7You have recieved a &x&f&a&c&e&0&5custom suffix &7for &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at <@https://www.skydinse.net/colorcodes>",
             "de_de": "&cBeim Senden deiner Nachricht an &6$player &cist ein Fehler aufgetreten! &#face05Bitte versuche es später erneut!",
             "tr_tr": "&cHallofjkhrekjnge!"
         },
