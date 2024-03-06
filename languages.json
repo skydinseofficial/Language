@@ -57,12 +57,12 @@
             "fallback": "de_de",
             "details.de_fd":
             {
-                "name": "Memedinse (Deutsch)",
+                "name": "Memedinse (ausgedachte Version von Deutsch)",
                 "country": "Skydinse"
             },
             "details.en_us":
             {
-                "name": "Memedinse (German)",
+                "name": "Memedinse (made-up version of German)",
                 "country": "Skydinse"
             }
         },
