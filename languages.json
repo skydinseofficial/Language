@@ -1,5 +1,4 @@
 {
-    "COMMENT": "Our language codes are based on the ISO format, but are sometimes modified for our own purposes and don't always correspond 100% to ISO standards.",
     "languages":
     {
         "en_us":
