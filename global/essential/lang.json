@@ -13,7 +13,7 @@
         "suffix.success":
         {
             "en_us": "&aYour custom suffix (\"&x&c&a&c&a&c&aVAR1&a\") has been set! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
-            "de_de": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!",
+            "de_de": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, um deinen Suffix überall auf den neuesten Stand zu bringen!",
             "pt_pt": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
         }
     }
