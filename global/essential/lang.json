@@ -6,12 +6,14 @@
         "suffix.reward":
         {
             "en_us": "&7You have recieved a &x&f&a&c&e&0&5custom suffix &7for a duration of &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
-            "de_de": "&7Du hast einen &x&f&a&c&e&0&5individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!"
+            "de_de": "&7Du hast einen &x&f&a&c&e&0&5individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!",
+            "pt_pt": "&7Recebeu um sufixo &x&f&a&c&e&0&5individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
         },
         "suffix.success":
         {
             "en_us": "&aYour custom suffix (\"&x&c&a&c&a&c&aVAR1&a\") has been set! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
-            "de_de": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!"
+            "de_de": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!",
+            "pt_pt": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
         }
     }
 }
