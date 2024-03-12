@@ -2,74 +2,74 @@
     "system": "essential",
     "translations":
     {
-        "CONVERTMSG.tooltip.command":
+        "CONVERTMSG.tip.command":
         {
             "en_us": "<#face05>Click to insert this command into your chat!",
             "en_xx": "<#face05>Clicketh to set this order in thy discourse!",
             "de_de": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
             "de_xx": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
-            "pt_pt": "<#face05>Clique para adicionar este comando ao seu chat!",
-            "fr_fr": "<#face05>Clique pour insérer cette commande dans ton chat !",
-            "es_es": "<#face05>Haz clic para añadir este comando a tu chat.",
-            "pl_pl": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
             "nl_nl": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
+            "pt_pt": "<#face05>Clique para adicionar este comando ao seu chat!",
+            "es_es": "<#face05>Haz clic para añadir este comando a tu chat.",
+            "fr_fr": "<#face05>Clique pour insérer cette commande dans ton chat !",
             "tr_tr": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
+            "pl_pl": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
             "ru_ru": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
         },
-        "CONVERTMSG.tooltip.sga":
+        "CONVERTMSG.tip.sga":
         {
             "en_us": "<#face05>Original text:",
             "en_xx": "<#face05>Originale texte:",
             "de_de": "<#face05>Originaltext:",
             "de_xx": "<#face05>Urschrift:",
-            "pt_pt": "<#face05>Texto original:",
-            "fr_fr": "<#face05>Texte original :",
-            "es_es": "<#face05>Texto original:",
-            "pl_pl": "<#face05>Oryginalny tekst:",
             "nl_nl": "<#face05>Originele tekst:",
+            "pt_pt": "<#face05>Texto original:",
+            "es_es": "<#face05>Texto original:",
+            "fr_fr": "<#face05>Texte original :",
             "tr_tr": "<#face05>Orijinal metin:",
+            "pl_pl": "<#face05>Oryginalny tekst:",
             "ru_ru": "<#face05>Оригинальный текст:"
         },
-        "CONVERTMSG.tooltip.link":
+        "CONVERTMSG.tip.link":
         {
             "en_us": "<#face05>Click to open this link!",
             "en_xx": "<#face05>Clicketh to unseal yon link!",
             "de_de": "<#face05>Klicke, um diesen Link zu öffnen!",
             "de_xx": "<#face05>Klicke, auf dass dieser Link sich öffne!",
-            "pt_pt": "<#face05>Clique para abrir esta ligação!",
-            "fr_fr": "<#face05>Cliquez pour ouvrir ce lien !",
-            "es_es": "<#face05>Haga clic para abrir este enlace.",
-            "pl_pl": "<#face05>Kliknij, aby otworzyć ten link!",
             "nl_nl": "<#face05>Klik om deze link te openen!",
+            "pt_pt": "<#face05>Clique para abrir esta ligação!",
+            "es_es": "<#face05>Haga clic para abrir este enlace.",
+            "fr_fr": "<#face05>Cliquez pour ouvrir ce lien !",
             "tr_tr": "<#face05>Bu bağlantıyı açmak için tıklayın!",
+            "pl_pl": "<#face05>Kliknij, aby otworzyć ten link!",
             "ru_ru": "<#face05>Нажмите, чтобы открыть эту ссылку!"
         },
-        "CONVERTMSG.tooltip.run":
+        "CONVERTMSG.tip.run":
         {
             "en_us": "<#face05>Click to execute this command!",
             "en_xx": "<#face05>Clicketh to enact this order!",
             "de_de": "<#face05>Klicke, um diesen Befehl auszuführen!",
             "de_xx": "<#face05>Klicket, um diese Anweisung zu erlassen!",
-            "pt_pt": "<#face05>Clique para executar este comando!",
-            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
-            "es_es": "<#face05>Haz clic para ejecutar este comando.",
-            "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
             "nl_nl": "<#face05>Klik om deze opdracht uit te voeren!",
+            "pt_pt": "<#face05>Clique para executar este comando!",
+            "es_es": "<#face05>Haz clic para ejecutar este comando.",
+            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
             "tr_tr": "<#face05>Bu komutu çalıştırmak için tıklayın!",
+            "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
             "ru_ru": "<#face05>Нажмите, чтобы выполнить эту команду!"
         },
-        "CONVERTMSG.tooltip.copy":
+        "CONVERTMSG.tip.copy":
         {
             "en_us": "<#face05>Click copy this text!",
             "en_xx": "<#face05>Clicketh to duplicate this scripture!",
             "de_de": "<#face05>Klicke, um diesen Text zu kopieren!",
             "de_xx": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
-            "pt_pt": "<#face05>Clique para copiar este texto!",
-            "fr_fr": "<#face05>Clique pour copier ce texte !",
-            "es_es": "<#face05>Haz clic para copiar este texto.",
-            "pl_pl": "<#face05>Kliknij, aby skopiować ten tekst!",
             "nl_nl": "<#face05>Klik om deze tekst te kopiëren!",
+            "pt_pt": "<#face05>Clique para copiar este texto!",
+            "es_es": "<#face05>Haz clic para copiar este texto.",
+            "fr_fr": "<#face05>Clique pour copier ce texte !",
             "tr_tr": "<#face05>Bu metni kopyalamak için tıklayın!",
+            "pl_pl": "<#face05>Kliknij, aby skopiować ten tekst!",
             "ru_ru": "<#face05>Нажмите, чтобы скопировать этот текст!"
         },
         "SUFFIX.reward":
