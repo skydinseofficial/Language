@@ -11,7 +11,6 @@
             "nl_nl": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
             "pt_pt": "<#face05>Clique para adicionar este comando ao seu chat!",
             "es_es": "<#face05>Haz clic para añadir este comando a tu chat.",
-            "fr_fr": "<#face05>Clique pour insérer cette commande dans ton chat !",
             "tr_tr": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
             "pl_pl": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
             "ru_ru": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
@@ -25,7 +24,6 @@
             "nl_nl": "<#face05>Originele tekst:",
             "pt_pt": "<#face05>Texto original:",
             "es_es": "<#face05>Texto original:",
-            "fr_fr": "<#face05>Texte original :",
             "tr_tr": "<#face05>Orijinal metin:",
             "pl_pl": "<#face05>Oryginalny tekst:",
             "ru_ru": "<#face05>Оригинальный текст:"
@@ -39,7 +37,6 @@
             "nl_nl": "<#face05>Klik om deze link te openen!",
             "pt_pt": "<#face05>Clique para abrir esta ligação!",
             "es_es": "<#face05>Haga clic para abrir este enlace.",
-            "fr_fr": "<#face05>Cliquez pour ouvrir ce lien !",
             "tr_tr": "<#face05>Bu bağlantıyı açmak için tıklayın!",
             "pl_pl": "<#face05>Kliknij, aby otworzyć ten link!",
             "ru_ru": "<#face05>Нажмите, чтобы открыть эту ссылку!"
@@ -53,7 +50,6 @@
             "nl_nl": "<#face05>Klik om deze opdracht uit te voeren!",
             "pt_pt": "<#face05>Clique para executar este comando!",
             "es_es": "<#face05>Haz clic para ejecutar este comando.",
-            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
             "tr_tr": "<#face05>Bu komutu çalıştırmak için tıklayın!",
             "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
             "ru_ru": "<#face05>Нажмите, чтобы выполнить эту команду!"
@@ -67,7 +63,6 @@
             "nl_nl": "<#face05>Klik om deze tekst te kopiëren!",
             "pt_pt": "<#face05>Clique para copiar este texto!",
             "es_es": "<#face05>Haz clic para copiar este texto.",
-            "fr_fr": "<#face05>Clique pour copier ce texte !",
             "tr_tr": "<#face05>Bu metni kopyalamak için tıklayın!",
             "pl_pl": "<#face05>Kliknij, aby skopiować ten tekst!",
             "ru_ru": "<#face05>Нажмите, чтобы скопировать этот текст!"
