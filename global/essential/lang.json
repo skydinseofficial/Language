@@ -32,17 +32,17 @@
         },
         "CONVERTMSG.tip.sga":
         {
-            "en_us": "<#face05>Original text:",
-            "en_xx": "<#face05>Originale texte:",
-            "de_de": "<#face05>Originaltext:",
+            "en_us": "<#face05>Normal text:",
+            "en_xx": "<#face05>Everyday writ:",
+            "de_de": "<#face05>Normaler Text:",
             "de_xx": "<#face05>Urschrift:",
-            "nl_nl": "<#face05>Originele tekst:",
-            "pt_pt": "<#face05>Texto original:",
-            "es_es": "<#face05>Texto original:",
-            "fr_fr": "<#face05>Texte original :",
-            "tr_tr": "<#face05>Orijinal metin:",
-            "pl_pl": "<#face05>Oryginalny tekst:",
-            "ru_ru": "<#face05>Оригинальный текст:"
+            "nl_nl": "<#face05>Normale tekst:",
+            "pt_pt": "<#face05>Texto normal:",
+            "es_es": "<#face05>Texto normal:",
+            "fr_fr": "<#face05>Texte normal :",
+            "tr_tr": "<#face05>Normal metin:",
+            "pl_pl": "<#face05>Normalny tekst:",
+            "ru_ru": "<#face05>Обычный текст:"
         },
         "CONVERTMSG.tip.link":
         {
