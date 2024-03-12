@@ -4,7 +4,7 @@
     {
         "CONVERTMSG.tip.command":
         {
-            "en_us": "<#face05>Click here to insert this command into your chat!",
+            "en_us": "<#face05>Click to insert this command into your chat!",
             "en_xx": "<#face05>Clicketh to set this order in thy discourse!",
             "de_de": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
             "de_xx": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
@@ -18,7 +18,7 @@
         },
         "CONVERTMSG.tip.run":
         {
-            "en_us": "<#face05>Click here to execute this command!",
+            "en_us": "<#face05>Click to execute this command!",
             "en_xx": "<#face05>Clicketh to enact this order!",
             "de_de": "<#face05>Klicke, um diesen Befehl auszuführen!",
             "de_xx": "<#face05>Klicket, um diese Anweisung zu erlassen!",
