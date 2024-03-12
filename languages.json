@@ -81,6 +81,20 @@
                 "country": "Skydinse"
             }
         },
+        "nl_nl":
+        {
+            "fallback": "en_us",
+            "details.nl_nl":
+            {
+                "name": "Nederlands",
+                "country": "Nederland"
+            },
+            "details.en_us":
+            {
+                "name": "Dutch",
+                "country": "Nederlands"
+            }
+        },
         "pt_pt":
         {
             "fallback": "en_us",
@@ -151,6 +165,20 @@
                 "country": "France"
             }
         },
+        "tr_tr":
+        {
+            "fallback": "en_us",
+            "details.tr_tr":
+            {
+                "name": "Türkçe",
+                "country": "Türkiye"
+            },
+            "details.en_us":
+            {
+                "name": "Turkish",
+                "country": "Türkiye"
+            }
+        },
         "pl_pl":
         {
             "fallback": "en_us",
@@ -165,32 +193,18 @@
                 "country": "Poland"
             }
         },
-        "nl_nl":
+        "ru_ru":
         {
             "fallback": "en_us",
-            "details.nl_nl":
+            "details.ru_ru":
             {
-                "name": "Nederlands",
-                "country": "Nederland"
+                "name": "Русский",
+                "country": "Россия"
             },
             "details.en_us":
             {
-                "name": "Dutch",
-                "country": "Nederlands"
-            }
-        },
-        "tr_tr":
-        {
-            "fallback": "en_us",
-            "details.tr_tr":
-            {
-                "name": "Türkçe",
-                "country": "Türkiye"
-            },
-            "details.en_us":
-            {
-                "name": "Turkish",
-                "country": "Türkiye"
+                "name": "Russian",
+                "country": "Russia"
             }
         }
     }
