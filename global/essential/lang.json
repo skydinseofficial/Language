@@ -16,6 +16,20 @@
             "pl_pl": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
             "ru_ru": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
         },
+        "CONVERTMSG.tip.run":
+        {
+            "en_us": "<#face05>Click to execute this command!",
+            "en_xx": "<#face05>Clicketh to enact this order!",
+            "de_de": "<#face05>Klicke, um diesen Befehl auszuführen!",
+            "de_xx": "<#face05>Klicket, um diese Anweisung zu erlassen!",
+            "nl_nl": "<#face05>Klik om deze opdracht uit te voeren!",
+            "pt_pt": "<#face05>Clique para executar este comando!",
+            "es_es": "<#face05>Haz clic para ejecutar este comando.",
+            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
+            "tr_tr": "<#face05>Bu komutu çalıştırmak için tıklayın!",
+            "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
+            "ru_ru": "<#face05>Нажмите, чтобы выполнить эту команду!"
+        },
         "CONVERTMSG.tip.sga":
         {
             "en_us": "<#face05>Original text:",
@@ -43,20 +57,6 @@
             "tr_tr": "<#face05>Bu bağlantıyı açmak için tıklayın!",
             "pl_pl": "<#face05>Kliknij, aby otworzyć ten link!",
             "ru_ru": "<#face05>Нажмите, чтобы открыть эту ссылку!"
-        },
-        "CONVERTMSG.tip.run":
-        {
-            "en_us": "<#face05>Click to execute this command!",
-            "en_xx": "<#face05>Clicketh to enact this order!",
-            "de_de": "<#face05>Klicke, um diesen Befehl auszuführen!",
-            "de_xx": "<#face05>Klicket, um diese Anweisung zu erlassen!",
-            "nl_nl": "<#face05>Klik om deze opdracht uit te voeren!",
-            "pt_pt": "<#face05>Clique para executar este comando!",
-            "es_es": "<#face05>Haz clic para ejecutar este comando.",
-            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
-            "tr_tr": "<#face05>Bu komutu çalıştırmak için tıklayın!",
-            "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
-            "ru_ru": "<#face05>Нажмите, чтобы выполнить эту команду!"
         },
         "CONVERTMSG.tip.copy":
         {
