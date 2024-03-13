@@ -19,10 +19,11 @@
 ## English
 ### __Become a translator__
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)! Please make sure that you meet the following requirements:
-    - Interest in languages and Minecraft
-    - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
-    - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **OR** provide a language certificate or proof of native speaker status
-    - Submit correctly translated texts (task will be set after the application)
+  - Fluency in English or German to communicate with our team
+  - Interest in languages and Minecraft
+  - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
+  - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **OR** provide a language certificate or proof of native speaker status
+  - Submit correctly translated texts (task will be set after the application)
 - __Unofficial translator__: If you don't want to be an official translator, you can volunteer here on GitHub and create your [own pull requests](#own-pull-requests). Your pull requests will then be checked by an official translator and adopted if they are okay.
 ##
 ### __File structure__
@@ -33,7 +34,12 @@
 - __Important__: all names of groups and systems are written __in lower case__!
 ##
 ### __languages.json file__
-soon!
+The [languages.json](https://github.com/skydinseofficial/Language/blob/main/languages.json) file defines the base language (English/en_US) and all available languages with their fallback language as well as their name and the country (including the region, if applicable) in the corresponding language and in English (en_US). The corresponding format can be taken directly from the [file](https://github.com/skydinseofficial/Language/blob/main/languages.json).
+Explanation of the individual entries:
+- **base_language** (base language): The base language is the language on which the entire language system is based. Texts must __always__ be defined in the base language (English/en_US) so that all other languages can be loaded without errors.
+- **fallback** (fallback language): The fallback language is the language that the system falls back on if a translation is not available in the selected language of a player. For example, if a text is not set in British English (en_GB) but is set in US-American English (en_US), the US-American text is used in place of the British text, as US-American English (de_DE) is the fallback language for British English (de_AT).
+- **details.LANG** (Details): The details "name" (name of the language) and "country" (country and possibly also region) are specified in the corresponding language in order to be able to display the language (e.g. in selection menus).
+- **details.en_US** (details): The details "name" (name of the language) and "country" (country and possibly also region) are also specified in English so that they can be displayed in addition to the details of the language (e.g. in selection menus). This way, every person reading knows which language is meant.
 ##
 ### __Language files (lang.json)__
 soon!
@@ -92,10 +98,11 @@ soon!
 ## Deutsch (German)
 ### __Werde Übersetzer:in__
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
-    - Interesse an Sprachen und an Minecraft
-    - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
-    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **ODER** Vorlage eines Sprachzeugnisses oder eines Nachweises einer Muttersprachlichkeit
-    - Korrekt übersetzte Texte vorlegen (Aufgabe wird nach der Bewerbung gestellt)
+  - Fließende Englisch- oder Deutschkenntnisse zur Kommunikation mit unserem Team
+  - Interesse an Sprachen und an Minecraft
+  - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
+  - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **ODER** Vorlage eines Sprachzeugnisses oder eines Nachweises einer Muttersprachlichkeit
+  - Korrekt übersetzte Texte vorlegen (Aufgabe wird nach der Bewerbung gestellt)
 - __Inoffizielle:r Übersetzer:in__: Falls du kein:e offizielle:r Übersetzer:in sein möchtest, kannst du dich auf freiwillig hier auf GitHub engagieren und deine [eigenen pull requests](#eigene-pull-requests) erstellen. Deine pull requests werden dann von einem:r offiziellen Übersetzer:in überprüft und übernommen, wenn sie in Ordnung sind.
 ##
 ### __Dateistruktur__
@@ -110,6 +117,8 @@ In der Datei [languages.json](https://github.com/skydinseofficial/Language/blob/
 Erklärung zu den einzelnen Einträgen:
 - **base_language** (Basissprache): Die Basissprache ist die Sprache, auf welcher sich das gesamte Sprachsystem aufbaut. Texte müssen __immer__ in der Bassisprache (Englisch/en_US) definiert sein, damit alle weiteren Sprachen fehlerfrei geladen werden können.
 - **fallback** (Fallback-Sprache): Die Fallback-Sprache ist die Sprache, auf die das System zurück greift, falls eine Übersetzung in der ausgewählten Sprache eines:r Spieler:in nicht verfügbar ist. Ist ein Text beispielsweise in österreichischem Deutsch (de_AT) nicht gesetzt, in Hochdeutsch (de_DE) allerdings schon, wird an Stelle des österreichischen Textes der Hochdeutsche Text verwendet, da Hochdeutsch (de_DE) die Fallback-Sprache für österreichisches Deutsch (de_AT) ist.
+- **details.LANG** (Details): Die Details "name" (Name der Sprache) und "country" (Land ggf. auch Region) werden in der entsprechenden Sprache angegeben, um die Sprache (z.B. in Auswahl-Menüs) anzeigen zu können.
+- **details.en_US** (Details): Die Details "name" (Name der Sprache) und "country" (Land ggf. auch Region) werden ebenfalls in Englisch angegeben, um diese zusätzlich neben den Details der Sprache (z.B. in Auswahl-Menüs) anzeigen zu können. Auf diese Art weiß jede lesende Person welche Sprache gemeint ist.
 ##
 ### __Sprachdateien (lang.json)__
 bald!
