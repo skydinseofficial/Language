@@ -1,11 +1,11 @@
 # Language-Docs
-- **English**:
+- **English** [🔗](#english):
   - [Become a translator](#become-a-translator)
   - [File structure](#file-structure)
   - [languages.json file](#languagesjson-file)
   - [Translation and language rules](#translation-and-language-rules)
   - [Text formats](#text-formats)
-- **Deutsch (German)**:
+- **Deutsch (German)** [🔗](#deutsch-german):
   - [Werde Übersetzer:in](#werde-Übersetzerin)
   - [Dateistruktur](#dateistruktur)
   - [languages.json-Datei](#languagesjson-datei)
@@ -70,7 +70,7 @@ soon!
 - **Text with tooltip**: This formatting is useful to generally display a tooltip when hovering over text. IMPORTANT: the tooltip is not used within the formatting for links, SGA, commands and copyable text. A tooltip can be used as follows: `<+tip:'TOOLTIP',text:'TEXT'>`
 
 ---
-## Deutsch
+## Deutsch (German)
 ### __Werde Übersetzer:in__
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
     - Interesse an Sprachen und an Minecraft
