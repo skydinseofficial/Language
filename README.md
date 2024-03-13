@@ -52,8 +52,8 @@ soon!
   - `[value]`: Any type of value
   - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... - These must retain their form so that no problems arise.
 - **Special rules or remarks for languages**:
-  - **SGA**: The use of the [SGA format](#text-formats) (`<?text>`) only works for all languages that use a Latin alphabet (e.g. English or German). Some letter variations of other languages (e.g. "ç" in Portuguese) will be added in the future. Languages that do not use the Latin alphabet at all (e.g. Russian - ru_ru) cannot be transferred to the SGA and will remain in their original form.
-  - **en_xx and de_xx**: en_xx and de_xx should be meme languages, which consist of old/medieval language and funny phrases - there are no strict rules to follow as with the other languages. Text for en_xx and de_xx is easiest to generate with ChatGPT based on en_us/en_gb and de_de respectively.
+  - **SGA**: The use of the [SGA format](#text-formats) (`<?text>`) only works for all languages that use a Latin alphabet (e.g. English or German). Some letter variations of other languages (e.g. "ç" in Portuguese) will be added in the future. Languages that do not use the Latin alphabet at all (e.g. Russian - ru_RU) cannot be transferred to the SGA and will remain in their original form.
+  - **en_XX and de_XX**: en_XX and de_XX should be meme languages, which consist of old/medieval language and funny phrases - there are no strict rules to follow as with the other languages. Text for en_XX and de_XX is easiest to generate with ChatGPT based on en_US/en_GB and de_DE respectively.
     - In English, the best results can be achieved with the following prompts: `"TEXT" in pilgrim english` or `"TEXT" in shakespearan english`. Examples: `"Your language is now set to [language]!" in pilgrim english` - Result: "Verily, thy tongue is now set to [language]!", `"Your language is now set to [language]!" in shakespearean english`- Result: "Thine language is present set to [language]!".
     - The best German results are with the prompt `"TEXT" in old medieval German`. Example: `"Your language is now set to [language]!" in Old Medieval German` - Result: "Truly, din sprahe is nu gestelt auf [language]!".
 ##
@@ -106,7 +106,10 @@ soon!
 - __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
 ##
 ### __languages.json-Datei__
-bald!
+In der Datei [languages.json](https://github.com/skydinseofficial/Language/blob/main/languages.json) werden die Basissprache (Englisch/en_US) und alle verfügbaren Sprachen mit ihrer Fallback-Sprache sowie deren Name und das Land (ggf. auch die Region) in der entsprechenden Sprache und in Englisch (en_US) definiert. Das entsprechende Format kann der [Datei](https://github.com/skydinseofficial/Language/blob/main/languages.json) direkt entnommen werden.
+Erklärung zu den einzelnen Einträgen:
+- **base_language** (Basissprache): Die Basissprache ist die Sprache, auf welcher sich das gesamte Sprachsystem aufbaut. Texte müssen __immer__ in der Bassisprache (Englisch/en_US) definiert sein, damit alle weiteren Sprachen fehlerfrei geladen werden können.
+- **fallback** (Fallback-Sprache): Die Fallback-Sprache ist die Sprache, auf die das System zurück greift, falls eine Übersetzung in der ausgewählten Sprache eines:r Spieler:in nicht verfügbar ist. Ist ein Text beispielsweise in österreichischem Deutsch (de_AT) nicht gesetzt, in Hochdeutsch (de_DE) allerdings schon, wird an Stelle des österreichischen Textes der Hochdeutsche Text verwendet, da Hochdeutsch (de_DE) die Fallback-Sprache für österreichisches Deutsch (de_AT) ist.
 ##
 ### __Sprachdateien (lang.json)__
 bald!
@@ -125,8 +128,8 @@ bald!
   - `[value]`: Jede Form von Wert
   - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
 - **Besondere Regeln oder Anmerkungen für Sprachen**:
-  - **SGA**: Die Verwendung des [SGA-Formats](#textformate) (`<?text>`) funktioniert nur für alle Sprachen, welche ein lateinisches Alphabet nutzen (z.B. Englisch oder Deutsch). Manche Buchstaben-Variationen anderer Sprachen (z.B. "ç" im portugiesischen) werden in Zukunft noch hinzugefügt. Sprachen, welche überhaupt nicht auf das lateinische Alphabet zurück greifen, (z.B. Russisch - ru_ru) können nicht ins SGA übertragen werden und verweilen dann in ihrer ursprünglichen Form.
-  - **en_xx und de_xx**: en_xx und de_xx sollen Meme-Sprachen sein, welche aus alter/mittelalterlicher Sprache und lustigen Phrasen bestehen - hierbei sind keine so strikten Regeln zu befolgen wie bei den anderen Sprachen. Text für en_xx und de_xx lässt sich am einfachsten mit ChatGPT auf der Grundlage von en_us/en_gb bzw. de_de generieren.
+  - **SGA**: Die Verwendung des [SGA-Formats](#textformate) (`<?text>`) funktioniert nur für alle Sprachen, welche ein lateinisches Alphabet nutzen (z.B. Englisch oder Deutsch). Manche Buchstaben-Variationen anderer Sprachen (z.B. "ç" im portugiesischen) werden in Zukunft noch hinzugefügt. Sprachen, welche überhaupt nicht auf das lateinische Alphabet zurück greifen, (z.B. Russisch - ru_RU) können nicht ins SGA übertragen werden und verweilen dann in ihrer ursprünglichen Form.
+  - **en_XX und de_XX**: en_XX und de_XX sollen Meme-Sprachen sein, welche aus alter/mittelalterlicher Sprache und lustigen Phrasen bestehen - hierbei sind keine so strikten Regeln zu befolgen wie bei den anderen Sprachen. Text für en_XX und de_XX lässt sich am einfachsten mit ChatGPT auf der Grundlage von en_US/en_GB bzw. de_DE generieren.
     - Auf Englisch lassen sich die besten Ergebnisse mit den folgenden Prompts erreichen: `"TEXT" in pilgrim english` oder `"TEXT" in shakespearan english`. Beispiele: `"Your language is now set to [language]!" in pilgrim english` - Ergebnis: "Verily, thy tongue is now set to [language]!", `"Your language is now set to [language]!" in shakespearean english`- Ergebnis: "Thine language is present set to [language]!".
     - Die besten Deutschen Ergebnisse sind mit dem Prompt `"TEXT" in  altmittelalterlichem Deutsch`. Beispiel: `"Deine Sprache ist jetzt auf [language] eingestellt!" in  altmittelalterlichem Deutsch` - Ergebnis: "Wahrlich, din sprahe ist nu gestelt auf [language]!".
 ##
