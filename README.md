@@ -14,7 +14,7 @@
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!Please make sure that you meet the following requirements:
     - Interest in languages and Minecraft
     - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
-    - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **or** provide a language certificate or proof of native speaker status
+    - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **OR** provide a language certificate or proof of native speaker status
     - Submit correctly translated texts (task will be set after the application)
 - __Unofficial translator__: If you don't want to be an official translator, you can volunteer here on GitHub and create your [own pull requests](#own-pull-requests). Your pull requests will then be checked by an official translator and adopted if they are okay.
 ##
@@ -55,7 +55,15 @@
 soon!
 ##
 ### __Language and grammar rules__
-- **AI**: 
+- AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
+- Placeholders**: Placeholders must be specified in the form `[name]`. If there are several values with the same name, these must be distinguished by `.NUMBER` (e.g. `[name.1]`, `[name.2]`, ...). Placeholder names are always in English and must not be translated. The respective placeholders specified by the developer must be adhered to. **Standard placeholders** are:
+  - `[player]`: Name of a:r player:in
+  - `[link]`: Link to a website
+  - `[command]`: Command
+  - `[message]`: Message
+  - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... These must initially retain their form so that no problems arise.
+- **Special rules for languages**:
+  soon!
 
 ---
 ## Deutsch
@@ -69,7 +77,7 @@ soon!
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
     - Interesse an Sprachen und an Minecraft
     - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
-    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **oder** Vorlage eines Sprachzeugnisses oder eines Nachweises einer Muttersprachlichkeit
+    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **ODER** Vorlage eines Sprachzeugnisses oder eines Nachweises einer Muttersprachlichkeit
     - Korrekt übersetzte Texte vorlegen (Aufgabe wird nach der Bewerbung gestellt)
 - __Inoffizielle:r Übersetzer:in__: Falls du kein:e offizielle:r Übersetzer:in sein möchtest, kannst du dich auf freiwillig hier auf GitHub engagieren und deine [eigenen pull requests](#eigene-pull-requests) erstellen. Deine pull requests werden dann von einem:r offiziellen Übersetzer:in überprüft und übernommen, wenn sie in Ordnung sind.
 ##
@@ -96,13 +104,13 @@ soon!
   - __Klickbare Commands (chat-paste)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken in die Chat-Zeile kopiert werden. Diese können mit dem Format `</COMMAND>` angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `</tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
   - __Klickbare Commands (auto-run)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken direkt in ihrer übermittelten Form vom Client ausgeführt werden. Diese können mit dem Format `<\COMMAND>` angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `<\tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
 
-- **Text mit Tooltip**: Diese Formatierung ist nützlich, um allgemein einen Tooltip beim Hovern über Text anzuzeigen. WICHTIG: der Tooltip wird nicht innerhalb der Formatierungen für Links, SGA, Commands und kopierbaren Text übernommen. Ein Tooltip kann wie folgt verwendet werden: `<+tip:'TOOLTIP',text:'TEXT'>`
+- **Text mit Tooltip**: Diese Formatierung ist nützlich, um allgemein einen Tooltip beim Hovern über Text anzuzeigen. WICHTIG: der Tooltip wird nicht innerhalb der Formatierungen für Links, SGA, Commands und kopierbaren Text übernommen. Ein Tooltip kann wie folgt verwendet werden: `<+tip:'TOOLTIP',text:'TEXT'>`.
 ##
 ### __Dateistruktur__
 
-- **global**: Globale language-files sind die Dateien für Systeme, welche global auf dem gesamten Skydinse-Netzwerk verfügbar sind und sich nicht beispielsweise auf einen bestimmten Spielmodus beschränken. Ein Dateipfad für das globale System "chat" sieht dann beispielsweise wie folgt aus: `/global/chat/lang.json`
+- **global**: Globale language-files sind die Dateien für Systeme, welche global auf dem gesamten Skydinse-Netzwerk verfügbar sind und sich nicht beispielsweise auf einen bestimmten Spielmodus beschränken. Ein Dateipfad für das globale System "chat" sieht dann beispielsweise wie folgt aus: `/global/chat/lang.json`.
 - **groups**: Die language-files in Gruppen (groups) sind das genaue Gegenteil zu ihren globalen äquivalenten. Die files (Dateien) einer Gruppe werden immer nur auf Servern mit der entsprechenden Gruppe geladen (ein Gruppenname kann hierbei entweder der erste Teil des Servernamens (z.B. "lobby" für "Lobby-1") oder ein in den Servereinstellungen definierter Name (z.B. "citybuild" für CBplot, CBfarm und CBend) sein). Ein Dateipfad für das System "game" aus der Gruppe Duels kann dann beispielsweise so aussehen: `/groups/duels/game/lang.json`. Ein Dateipfad für das System "citybuild" aus der Gruppe "citybuild" würde so aussehen: `/groups/citybuild/citybuild/lang.json` (in diesem Fall trägt das System zufällig den selben Namen wie die Gruppe).
-- Unterordner: Da viele Systeme auch über weitere, eigene untergeordnete Systeme verfügen, kann jedes System auch beliebig viele Unterordner (und Unterordner von Unterordnern, ...) haben. Das System "lobbygames" in der Lobby (Gruppe "lobby") ist beispielsweise dem System "lobby" untergeordnet. Ein Dateipfad sähe dann so aus: `/groups/lobby/lobby/lobbygames/lang.json`
+- Unterordner: Da viele Systeme auch über weitere, eigene untergeordnete Systeme verfügen, kann jedes System auch beliebig viele Unterordner (und Unterordner von Unterordnern, ...) haben. Das System "lobbygames" in der Lobby (Gruppe "lobby") ist beispielsweise dem System "lobby" untergeordnet. Ein Dateipfad sähe dann so aus: `/groups/lobby/lobby/lobbygames/lang.json`.
 - __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
 ##
 ### __languages.json-Datei__
@@ -110,4 +118,12 @@ soon!
 bald!
 ##
 ### __Übersetzungs- und Sprachregeln__
-- **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__,
+- **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
+- **Platzhalter**: Platzhalter sind in der Form `[name]` anzugeben. Falls es mehrere Werte mit demselben Namen gibt, sind diese durch `.ZAHL` zu unterscheiden (z.B. `[name.1]`, `[name.2]`, ...). Platzhalter-Namen sind immer Englisch und dürfen nicht übersetzt werden. Es muss sich an die jeweiligen Platzhalter gehalten werden, welche von dem:r Developer:in vorgegeben sind. **Standard-Platzhalter** sind:
+  - `[player]`: Name eines:r Spieler:in
+  - `[link]`: Link zu einer Webseite
+  - `[command]`: Befehl
+  - `[message]`: Nachricht
+  - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form zunächst beibehalten, damit keine Probleme entstehen.
+- **Besondere Regeln für Sprachen**:
+  bald!
