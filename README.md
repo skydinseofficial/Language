@@ -2,7 +2,7 @@
 - [**English**](#english):
   - [Become a translator](#become-a-translator)
   - [File structure](#file-structure)
-  - [languages.json file](#languagesjson-file) X
+  - [languages.json file](#languagesjson-file)
   - [Language files (lang.json)](#language-files-langjson) X
   - [Translation and language rules](#translation-and-language-rules)
   - [Text formats](#text-formats)
@@ -10,7 +10,7 @@
 - [**Deutsch (German)**](#deutsch-german):
   - [Werde Übersetzer:in](#werde-übersetzerin)
   - [Dateistruktur](#dateistruktur)
-  - [languages.json-Datei](#languagesjson-datei) X
+  - [languages.json-Datei](#languagesjson-datei)
   - [Sprachdateien (lang.json)](#sprachdateien-langjson) X
   - [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
   - [Textformate](#textformate)
