@@ -4,13 +4,13 @@
 
 ---
 ## English
-- [Become an translator](#become-an-translator)
+- [Become a translator](#become-a-translator)
 - [File structure](#file-structure)
 - [languages.json file](#languagesjson-file)
 - [Translation and language rules](#translation-and-language-rules)
 - [Text formats](#text-formats)
 ##
-### __Become an translator__
+### __Become a translator__
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)! Please make sure that you meet the following requirements:
     - Interest in languages and Minecraft
     - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
