@@ -11,7 +11,7 @@
 - [Translation and language rules](#translation-and-language-rules)
 ##
 ### __Become an translator__
-- __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!Please make sure that you meet the following requirements:
+- __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)! Please make sure that you meet the following requirements:
     - Interest in languages and Minecraft
     - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
     - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **OR** provide a language certificate or proof of native speaker status
