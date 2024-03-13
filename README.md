@@ -168,7 +168,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 ##
 ### __Textformate__
 
-- **Hex-Colors**: Hex-Colors können in zwei verschiedenen Formaten angegeben werden: `#&000000` oder `<#000000>`. Beispiele: `&#abc123`, `<#abc123>,`, `#&face05`, `<#face05>`. WICHTIG: der Colorcode __muss__ immer __6 Zeichen lang__ sein (statt "000" für schwarz müsste dann beispielsweise "000000" für schwarz angegeben werden)!
+- **Hex-Colors**: Hex-Colors können in zwei verschiedenen Formaten angegeben werden: `#&000000` oder `<#000000>`. Beispiele: `&#abc123`, `<#abc123>,`, `&#face05`, `<#face05>`. WICHTIG: der Colorcode __muss__ immer __6 Zeichen lang__ sein (statt "000" für schwarz müsste dann beispielsweise "000000" für schwarz angegeben werden)!
 
 - **Links**:
   - **automatische Formatierung**: Links können automatisch klickbar gemacht und mit tooltip versorgt werden (ähnlich wie im Chat), wenn diese im Format `<@LINK>` (z.B. `<@https://www.skydinse.net/>`) angegeben werden.
