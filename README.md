@@ -2,15 +2,15 @@
 - [**English**](#english):
   - [Become a translator](#become-a-translator)
   - [File structure](#file-structure)
-  - [languages.json file](#languagesjson-file)
-  - [Translation and language rules](#translation-and-language-rules)
+  - [languages.json file](#languagesjson-file) X
+  - [Translation and language rules](#translation-and-language-rules) X
   - [Text formats](#text-formats)
 
 - [**Deutsch (German)**](#deutsch-german):
-  - [Werde Übersetzer:in](#werde-Übersetzerin)
+  - [Werde Übersetzer:in](#werde-übersetzerin)
   - [Dateistruktur](#dateistruktur)
-  - [languages.json-Datei](#languagesjson-datei)
-  - [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
+  - [languages.json-Datei](#languagesjson-datei) X
+  - [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln) X
   - [Textformate](#textformate)
 
 ---
@@ -41,8 +41,13 @@ soon!
   - `[link]`: Link to a website
   - `[command]`: Command
   - `[message]`: Message
+  - `[game]`: Name of a game
+  - `[server]`: Name of a server
+  - `[error]`: Error code
+  - `[permission]`: Permission
+  - `[value]`: Any type of value
   - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... - These must retain their form so that no problems arise.
-- **Special rules for languages**:
+- **Special rules or remarks for languages**:
   soon!
 ##
 ### __Text formats__
@@ -69,6 +74,12 @@ soon!
   - __Clickable commands (auto-run)__ are commands (possibly with arguments) which are executed directly by the client in their transmitted form when clicked. These can be specified with the format `<\COMMAND>` (a tooltip is generated automatically, the text is the command). An individual tooltip and/or text can be used with the format `<\tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>`.
 
 - **Text with tooltip**: This formatting is useful to generally display a tooltip when hovering over text. IMPORTANT: the tooltip is not used within the formatting for links, SGA, commands and copyable text. A tooltip can be used as follows: `<+tip:'TOOLTIP',text:'TEXT'>`
+
+
+
+
+
+
 
 ---
 ## Deutsch (German)
@@ -98,9 +109,14 @@ bald!
   - `[link]`: Link zu einer Webseite
   - `[command]`: Befehl
   - `[message]`: Nachricht
+  - `[game]`: Name eines Spiels
+  - `[server]`: Name eines Servers
+  - `[error]`: Fehlercode
+  - `[permission]`: Berechtigung
+  - `[value]`: Jede Form von Wert
   - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
-- **Besondere Regeln für Sprachen**:
-  bald!
+- **Besondere Regeln oder Anmerkungen für Sprachen**:
+  - **Memedinse (Englisch)**: 
 ##
 ### __Textformate__
 
