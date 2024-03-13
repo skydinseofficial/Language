@@ -64,6 +64,7 @@ The language files are located in the individual system folders and __must__ hav
   - `[server]`: Name of a server
   - `[error]`: Error code
   - `[permission]`: Permission
+  - `[time]`: Period (e.g. in days)
   - `[value]`: Any type of value
   - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... - These must retain their form so that no problems arise.
 - **Special rules or remarks for languages**:
@@ -152,6 +153,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
   - `[server]`: Name eines Servers
   - `[error]`: Fehlercode
   - `[permission]`: Berechtigung
+  - `[time]`: Zeitraum (z.B. in Tagen)
   - `[value]`: Jede Form von Wert
   - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
 - **Besondere Regeln oder Anmerkungen für Sprachen**:
