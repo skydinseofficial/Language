@@ -65,6 +65,8 @@ The language files are located in the individual system folders and __must__ hav
   - `[error]`: Error code
   - `[permission]`: Permission
   - `[time]`: Period (e.g. in days)
+  - `[attacker]`: Attacker (e.g. in PvP)
+  - `[victim]`: Victim (e.g. in PvP)
   - `[value]`: Any type of value
   - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... - These must retain their form so that no problems arise.
 - **Special rules or remarks for languages**:
@@ -154,6 +156,8 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
   - `[error]`: Fehlercode
   - `[permission]`: Berechtigung
   - `[time]`: Zeitraum (z.B. in Tagen)
+  - `[attacker]`: Angreifer (z.B. im PvP)
+  - `[victim]`: Opfer (z.B. im PvP)
   - `[value]`: Jede Form von Wert
   - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
 - **Besondere Regeln oder Anmerkungen für Sprachen**:
