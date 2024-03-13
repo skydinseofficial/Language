@@ -42,7 +42,16 @@ Explanation of the individual entries:
 - __Important__: all names of groups and systems are written __in lower case__!
 ##
 ### __Language files (lang.json)__
-soon!
+The language files are located in the individual system folders and __must__ have the name "lang.json". The format of the messages must also be exactly as specified in the [example file](https://github.com/skydinseofficial/Language/blob/main/groups/example/example-system/lang.json). Above all, it is important to maintain the correct indentation and the structure of the brackets and commas. Otherwise, the file may not be recognized by the language system. Currently available languages are:
+- **English**: Variations: `en_US` (USA), `en_GB` (Great Britain), `en_XX` (meme language)
+- **German**: Variations: `en_DE` (Germany), `en_AT` (Austria), `en_XX` (meme language)
+- **Dutch**: Variations: `nl_NL` (Netherlands)
+- **Portuguese**: Variations: `pt_PT` (Portugal), `pt_BR` (Brazil)
+- **Spanish**: Variations: `es_ES` (Spain), `es_MX` (Mexico)
+- **French**: Variations: `fr_FR` (France)
+- **Turkish**: Variations: `tr_TR` (Turkey)
+- **Polish**: Variations: `pl_PL` (Poland)
+- **Russian**: Variations: `ru_RU` (Russia)
 ##
 ### __Translation and language rules__
 - **AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
@@ -121,7 +130,16 @@ Erklärung zu den einzelnen Einträgen:
 - __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
 ##
 ### __Sprachdateien (lang.json)__
-Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Namen "lang.json" tragen. Auch das Format der Nachrichten muss genau so sein, wie es in der []
+Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Namen "lang.json" tragen. Auch das Format der Nachrichten muss genau so sein, wie es in der [Beispiel-Datei](https://github.com/skydinseofficial/Language/blob/main/groups/example/example-system/lang.json) vorgegeben ist. Wichtig ist vor allem, die richtige Einrückung und auf die Struktur der Klammern und Kommas beizubehalten. Andernfalls kann es passieren, dass die Datei vom Sprachsystem nicht erkannt wird. Aktuell verfügbare Sprachen sind:
+- **Englisch**: Variationen: `en_US` (USA), `en_GB` (Großbritannien), `en_XX` (Meme-Sprache)
+- **Deutsch**: Variationen: `de_DE` (Deutschland), `de_AT` (Österreich), `de_XX` (Meme-Sprache)
+- **Niederländisch**: Variationen: `nl_NL` (Niederlande)
+- **Portugiesisch**: Variationen: `pt_PT` (Portugal), `pt_BR` (Brasilien)
+- **Spanisch**: Variationen: `es_ES` (Spanien), `es_MX` (Mexiko)
+- **Französisch**: Variationen: `fr_FR` (Frankreich)
+- **Türkisch**: Variationen: `tr_TR` (Türkei)
+- **Polnisch**: Variationen: `pl_PL` (Polen)
+- **Russisch**: Variationen: `ru_RU` (Russland)
 ##
 ### __Übersetzungs- und Sprachregeln__
 - **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
