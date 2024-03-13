@@ -1,15 +1,19 @@
 # Language-Docs
-- [English](#english)
-- [Deutsch (German)](#deutsch)
+- **English**:
+  - [Become a translator](#become-a-translator)
+  - [File structure](#file-structure)
+  - [languages.json file](#languagesjson-file)
+  - [Translation and language rules](#translation-and-language-rules)
+  - [Text formats](#text-formats)
+- **Deutsch (German)**:
+  - [Werde Übersetzer:in](#werde-Übersetzerin)
+  - [Dateistruktur](#dateistruktur)
+  - [languages.json-Datei](#languagesjson-datei)
+  - [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
+  - [Textformate](#textformate)
 
 ---
 ## English
-- [Become a translator](#become-a-translator)
-- [File structure](#file-structure)
-- [languages.json file](#languagesjson-file)
-- [Translation and language rules](#translation-and-language-rules)
-- [Text formats](#text-formats)
-##
 ### __Become a translator__
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)! Please make sure that you meet the following requirements:
     - Interest in languages and Minecraft
@@ -67,12 +71,6 @@ soon!
 
 ---
 ## Deutsch
-- [Werde Übersetzer:in](#werde-Übersetzerin)
-- [Dateistruktur](#dateistruktur)
-- [languages.json-Datei](#languagesjson-datei)
-- [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
-- [Textformate](#textformate)
-##
 ### __Werde Übersetzer:in__
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
     - Interesse an Sprachen und an Minecraft
