@@ -5,6 +5,7 @@
   - [languages.json file](#languagesjson-file)
   - [Translation and language rules](#translation-and-language-rules)
   - [Text formats](#text-formats)
+
 - [**Deutsch (German)** 🇩🇪](#deutsch-german):
   - [Werde Übersetzer:in](#werde-Übersetzerin)
   - [Dateistruktur](#dateistruktur)
