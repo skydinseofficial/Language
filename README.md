@@ -1,11 +1,11 @@
 # Language-Docs
-- [**English**](#english):
+- 🇺🇸 [**English**](#english):
   - [Become a translator](#become-a-translator)
   - [File structure](#file-structure)
   - [languages.json file](#languagesjson-file)
   - [Translation and language rules](#translation-and-language-rules)
   - [Text formats](#text-formats)
-- [**Deutsch (German)**](#deutsch-german):
+- 🇩🇪 [**Deutsch (German)**](#deutsch-german):
   - [Werde Übersetzer:in](#werde-Übersetzerin)
   - [Dateistruktur](#dateistruktur)
   - [languages.json-Datei](#languagesjson-datei)
