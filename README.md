@@ -15,6 +15,7 @@
     - Interest in languages and Minecraft
     - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
     - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **or** provide a language certificate or proof of native speaker status
+    - Submit correctly translated texts (task will be set after the application)
 - __Unofficial translator__: If you don't want to be an official translator, you can volunteer here on GitHub and create your [own pull requests](#own-pull-requests). Your pull requests will then be checked by an official translator and adopted if they are okay.
 ##
 ### __Text formats__
@@ -68,7 +69,8 @@ soon!
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
     - Interesse an Sprachen und an Minecraft
     - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
-    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **oder**
+    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **oder** Vorlage eines Sprachzeugnisses oder eines Nachweises einer Muttersprachlichkeit
+    - Korrekt übersetzte Texte vorlegen (Aufgabe wird nach der Bewerbung gestellt)
 - __Inoffizielle:r Übersetzer:in__: Falls du kein:e offizielle:r Übersetzer:in sein möchtest, kannst du dich auf freiwillig hier auf GitHub engagieren und deine [eigenen pull requests](#eigene-pull-requests) erstellen. Deine pull requests werden dann von einem:r offiziellen Übersetzer:in überprüft und übernommen, wenn sie in Ordnung sind.
 ##
 ### __Textformate__
