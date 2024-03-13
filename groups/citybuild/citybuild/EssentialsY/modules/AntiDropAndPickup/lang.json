@@ -14,7 +14,7 @@
         },
         "antidrop/pickup_enabled":
         {
-            "en_US": "&7You have &aactivated &7your &6VAL1 test",
+            "en_US": "&7You have &aactivated &7your &6VAL1",
             "de_DE": "&7Du hast deinen &6VAL1 &aaktiviert"
         },
         "antidrop/pickup_disabled":
