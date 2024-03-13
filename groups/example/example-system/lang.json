@@ -30,20 +30,6 @@
             "pl_PL": "<#face05>Kliknij, aby otworzyć ten link!",
             "ru_RU": "<#face05>Нажмите, чтобы открыть эту ссылку!"
         },
-        "EXAMPLE_TEXT_FUNCTION.copy":
-        {
-            "en_US": "<#face05>Click copy this text!",
-            "en_XX": "<#face05>Clicketh to duplicate this scripture!",
-            "de_DE": "<#face05>Klicke, um diesen Text zu kopieren!",
-            "de_XX": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
-            "nl_NL": "<#face05>Klik om deze tekst te kopiëren!",
-            "pt_PT": "<#face05>Clique para copiar este texto!",
-            "es_ES": "<#face05>Haz clic para copiar este texto.",
-            "fr_FR": "<#face05>Clique pour copier ce texte !",
-            "tr_TR": "<#face05>Bu metni kopyalamak için tıklayın!",
-            "pl_PL": "<#face05>Kliknij, aby skopiować ten tekst!",
-            "ru_RU": "<#face05>Нажмите, чтобы скопировать этот текст!"
-        },
         "EXAMPLE_SUFFIX_FUNCTOIN.reward":
         {
             "en_US": "&7You've recieved a <#face05>custom suffix &7for the duration of &e[time.1] &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have [time.2] minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
