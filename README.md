@@ -8,6 +8,7 @@
 - [Text formats](#text-formats)
 - [File structure](#file-structure)
 - [languages.json file](#languagesjson-file)
+- [Language and grammar rules](#language-and-grammar-rules)
 ##
 ### __Become an translator__
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!Please make sure that you meet the following requirements:
@@ -51,6 +52,10 @@
 ### __languages.json file__
 
 soon!
+##
+### __Language and grammar rules__
+
+soon!
 
 ---
 ## Deutsch
@@ -58,6 +63,7 @@ soon!
 - [Textformate](#textformate)
 - [Dateistruktur](#dateistruktur)
 - [languages.json-Datei](#languagesjson-datei)
+- [Sprach- und Grammatik-Regeln](#sprach--und-grammatik-regeln)
 ##
 ### __Werde Übersetzer:in__
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
@@ -99,5 +105,9 @@ soon!
 - __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
 ##
 ### __languages.json-Datei__
+
+bald!
+##
+### __Sprach- und Grammatik-Regeln__
 
 bald!
