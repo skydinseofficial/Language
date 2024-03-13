@@ -5,152 +5,152 @@
         "nopermission":
         {
             "en_US": "&cYou don't have permission for this!",
-            "de_de": "&cDazu hast du keine Berechtigung!"
+            "de_DE": "&cDazu hast du keine Berechtigung!"
         },
         "higherrankneeded":
         {
             "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nshop.skydinse.net",
-            "de_de": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nshop.skydinse.net"
+            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nshop.skydinse.net"
         },
         "spawnnotfound":
         {
             "en_US": "&cThe spawn you were last on could not be found and may be offline. &7&oConnecting to another spawn...",
-            "de_de": "&cDer Spawn, auf dem du dich zuletzt befunden hast, konnte nicht gefunden werden und ist möglicherweise offline. &7&oVerbinde auf einen anderen Spawn..."
+            "de_DE": "&cDer Spawn, auf dem du dich zuletzt befunden hast, konnte nicht gefunden werden und ist möglicherweise offline. &7&oVerbinde auf einen anderen Spawn..."
         },
         "spawnnotonline":
         {
             "en_US": "&cThis spawn is not online right now!",
-            "de_de": "&cDieser Spawn ist derzeit nicht online!"
+            "de_DE": "&cDieser Spawn ist derzeit nicht online!"
         },
         "spawnnotexists":
         {
             "en_US": "&cThis spawn does not exist!",
-            "de_de": "&cDieser Spawn existiert nicht!"
+            "de_DE": "&cDieser Spawn existiert nicht!"
         },
         "deathmessage.1":
         {
             "en_US": "VAR1 &7died.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.2":
         {
             "en_US": "VAR1 &7passed away.",
-            "de_de": "VAR1 &7ist verreckt."
+            "de_DE": "VAR1 &7ist verreckt."
         },
         "deathmessage.3":
         {
             "en_US": "VAR1 &7is pushing up daisies.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.4":
         {
             "en_US": "VAR1 &7gone to heaven.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.5":
         {
             "en_US": "VAR1 &7is leaving this mortal coil.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.6":
         {
             "en_US": "VAR1 &7gone to a better place.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.7":
         {
             "en_US": "&VAR1 &7moved over.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.8":
         {
             "en_US": "VAR1 &7is not with us anymore.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "deathmessage.9":
         {
             "en_US": "VAR1 &7went west.",
-            "de_de": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist gestorben."
         },
         "youdied.world":
         {
             "en_US": "&7You died in &6VAR1&7.",
-            "de_de": "&7Du bist in &6VAR1 &7gestorben."
+            "de_DE": "&7Du bist in &6VAR1 &7gestorben."
         },
         "youdied.location":
         {
             "en_US": "&7Your location was: &eVAR1",
-            "de_de": "&7Dein Standort war: &eVAR1"
+            "de_DE": "&7Dein Standort war: &eVAR1"
         },
         "youdied.back":
         {
             "en_US": "&7Use &x&F&F&D&8&0&0/back&7, to teleport to your death location.",
-            "de_de": "&7Nutze &x&F&F&D&8&0&0/back&7, um dich zum Todesort zu teleportieren."
+            "de_DE": "&7Nutze &x&F&F&D&8&0&0/back&7, um dich zum Todesort zu teleportieren."
         },
         "youdied.title":
         {
             "en_US": "&x&F&F&0&0&0&0You died!",
-            "de_de": "&x&F&F&0&0&0&0Du bist gestorben!"
+            "de_DE": "&x&F&F&0&0&0&0Du bist gestorben!"
         },
         "srvalias.plotworld":
         {
             "en_US": "Plotworld",
-            "de_de": "Plotwelt"
+            "de_DE": "Plotwelt"
         },
         "srvalias.farmworld":
         {
             "en_US": "Farmworld",
-            "de_de": "Farmwelt"
+            "de_DE": "Farmwelt"
         },
         "srvalias.endworld":
         {
             "en_US": "End dimension",
-            "de_de": "End-Dimension"
+            "de_DE": "End-Dimension"
         },
         "worldalias.overworld":
         {
             "en_US": "Overworld",
-            "de_de": "Oberwelt"
+            "de_DE": "Oberwelt"
         },
         "worldalias.nether":
         {
             "en_US": "Nether",
-            "de_de": "Hölle"
+            "de_DE": "Hölle"
         },
         "worldalias.end":
         {
             "en_US": "End",
-            "de_de": "Ende"
+            "de_DE": "Ende"
         },
         "cmd.back.teleportingyou":
         {
             "en_US": "&7You will be teleported to your last death location...",
-            "de_de": "&7Du wirst an deinen letzten Todesort teleportiert..."
+            "de_DE": "&7Du wirst an deinen letzten Todesort teleportiert..."
         },
         "cmd.back.nolastlocation":
         {
             "en_US": "&cYour death location could not be found.",
-            "de_de": "&cDein Todesort konnte nicht gefunden werden."
+            "de_DE": "&cDein Todesort konnte nicht gefunden werden."
         },
         "cmd.back.teleportingother":
         {
             "en_US": "&eVAR1 &7will be teleported to his/her last death location, if existing...",
-            "de_de": "&eVAR1 &7wird, wenn bestehend, an seinen/ihren letzten Todesort teleportiert..."
+            "de_DE": "&eVAR1 &7wird, wenn bestehend, an seinen/ihren letzten Todesort teleportiert..."
         },
         "cmd.back.teleportingothererror":
         {
             "en_US": "&eVAR1 &ccould not be teleported to his/her last death location!",
-            "de_de": "&eVAR1 &ckonnte nicht an seinen/ihren letzten Todesort teleportiert werden!"
+            "de_DE": "&eVAR1 &ckonnte nicht an seinen/ihren letzten Todesort teleportiert werden!"
         },
         "scoreboard.world":
         {
             "en_US": "World:",
-            "de_de": "Welt:"
+            "de_DE": "Welt:"
         },
         "scoreboard.playersonline":
         {
             "en_US": "Online:",
-            "de_de": "Online:"
+            "de_DE": "Online:"
         }
     }
 }
