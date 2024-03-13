@@ -116,7 +116,7 @@ bald!
   - `[value]`: Jede Form von Wert
   - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
 - **Besondere Regeln oder Anmerkungen für Sprachen**:
-  - **Memedinse (Englisch)**: 
+  - **en_xx**: 
 ##
 ### __Textformate__
 
