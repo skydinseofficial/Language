@@ -8,13 +8,13 @@
 - [Text formats](#text-formats)
 - [File structure](#file-structure)
 - [languages.json file](#languagesjson-file)
-- [Language and grammar rules](#language-and-grammar-rules)
+- [Translation and language rules](#translation-and-language-rules)
 ##
 ### __Become an translator__
 - __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!Please make sure that you meet the following requirements:
     - Interest in languages and Minecraft
     - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
-    - Proof that you have a very good command of the languages you would like to translate (passing a test provided by us, providing a language certificate or proof of native speaker status)
+    - Pass a language test (AI is permitted, but must be completely correct in terms of content and language) **or** provide a language certificate or proof of native speaker status
 - __Unofficial translator__: If you don't want to be an official translator, you can volunteer here on GitHub and create your [own pull requests](#own-pull-requests). Your pull requests will then be checked by an official translator and adopted if they are okay.
 ##
 ### __Text formats__
@@ -54,8 +54,7 @@
 soon!
 ##
 ### __Language and grammar rules__
-
-soon!
+- **AI**: 
 
 ---
 ## Deutsch
@@ -63,13 +62,13 @@ soon!
 - [Textformate](#textformate)
 - [Dateistruktur](#dateistruktur)
 - [languages.json-Datei](#languagesjson-datei)
-- [Sprach- und Grammatik-Regeln](#sprach--und-grammatik-regeln)
+- [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
 ##
 ### __Werde Übersetzer:in__
 - __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)! Bitte vergewissere dich, dass du folgenden Anforderungen erfüllst:
     - Interesse an Sprachen und an Minecraft
     - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
-    - Nachweis, dass du die Sprachen, welche du übersetzen möchtest, sehr gut beherrscht (Bestehen eines von uns gestellten Tests, Vorlage eines Sprachzeugnisses oder Nachweis einer Muttersprachlichkeit)
+    - Bestehen eines Sprachtests (KI ist erlaubt, muss aber inhaltlich und sprachlich komplett richtig sein) **oder**
 - __Inoffizielle:r Übersetzer:in__: Falls du kein:e offizielle:r Übersetzer:in sein möchtest, kannst du dich auf freiwillig hier auf GitHub engagieren und deine [eigenen pull requests](#eigene-pull-requests) erstellen. Deine pull requests werden dann von einem:r offiziellen Übersetzer:in überprüft und übernommen, wenn sie in Ordnung sind.
 ##
 ### __Textformate__
@@ -108,6 +107,5 @@ soon!
 
 bald!
 ##
-### __Sprach- und Grammatik-Regeln__
-
-bald!
+### __Übersetzungs- und Sprachregeln__
+- **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__,
