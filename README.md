@@ -4,17 +4,17 @@
 
 ---
 ## English
-- [Become an official translator](#become-an-official-translator)
+- [Become an translator](#become-an-translator)
 - [Text formats](#text-formats)
 - [File structure](#file-structure)
 - [languages.json file](#languagesjson-file)
 ##
-### __Become an official translator__
-To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!
-Prerequisites:
-  - Interest in languages and Minecraft
-  - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
-  - Proof that you have a very good command of the languages you would like to translate (passing a test provided by us, providing a language certificate or proof of native speaker status)
+### __Become an translator__
+- __Official translator__: To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!
+  Prerequisites:
+    - Interest in languages and Minecraft
+    - Pass an aptitude test (general knowledge of Minecraft and Skydinse)
+    - Proof that you have a very good command of the languages you would like to translate (passing a test provided by us, providing a language certificate or proof of native speaker status)
 ##
 ### __Text formats__
 
@@ -54,17 +54,17 @@ soon!
 
 ---
 ## Deutsch
-- [Werde offizielle:r Übersetzer:in](#werde-offizieller-Übersetzerin)
+- [Werde Übersetzer:in](#werde-Übersetzerin)
 - [Textformate](#textformate)
 - [Dateistruktur](#dateistruktur)
 - [languages.json-Datei](#languagesjson-datei)
 ##
-### __Werde offizielle:r Übersetzer:in__
-Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)!
-Voraussetzungen:
-  - Interesse an Sprachen und an Minecraft
-  - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
-  - Nachweis, dass du die Sprachen, welche du übersetzen möchtest, sehr gut beherrscht (Bestehen eines von uns gestellten Tests, Vorlage eines Sprachzeugnisses oder Nachweis einer Muttersprachlichkeit)
+### __Werde Übersetzer:in__
+- __Offizielle:r Übersetzer:in__: Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)!
+  Voraussetzungen:
+    - Interesse an Sprachen und an Minecraft
+    - Bestehen eines Eignungstests (allgemeines Wissen über Minecraft und Skydinse)
+    - Nachweis, dass du die Sprachen, welche du übersetzen möchtest, sehr gut beherrscht (Bestehen eines von uns gestellten Tests, Vorlage eines Sprachzeugnisses oder Nachweis einer Muttersprachlichkeit)
 ##
 ### __Textformate__
 
