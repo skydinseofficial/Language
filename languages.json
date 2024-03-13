@@ -1,207 +1,207 @@
 {
-    "base_language": "en_us",
+    "base_language": "en_US",
     "languages":
     {
-        "en_us":
+        "en_US":
         {
             "fallback": null,
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "English",
                 "country": "United States"
             }
         },
-        "en_gb":
+        "en_GB":
         {
-            "fallback": "en_us",
-            "details.en_gb":
+            "fallback": "en_US",
+            "details.en_GB":
             {
                 "name": "English",
                 "country": "Great Britain"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "English",
                 "country": "Great Britain"
             }
         },
-        "en_xx":
+        "en_XX":
         {
-            "fallback": "en_us",
-            "details.en_xx":
+            "fallback": "en_US",
+            "details.en_XX":
             {
                 "name": "Bewildered Tongue",
                 "country": "Skydinse"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Funny English Language",
                 "country": "Skydinse"
             }
         },
-        "de_de":
+        "de_DE":
         {
-            "fallback": "en_us",
-            "details.de_de":
+            "fallback": "en_US",
+            "details.de_DE":
             {
                 "name": "Deutsch",
                 "country": "Deutschland"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "German",
                 "country": "Germany"
             }
         },
-        "de_at":
+        "de_AT":
         {
-            "fallback": "de_de",
-            "details.de_at":
+            "fallback": "de_DE",
+            "details.de_AT":
             {
                 "name": "Deitsch",
                 "country": "Österreich"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "German",
                 "country": "Austria"
             }
         },
-        "de_xx":
+        "de_XX":
         {
-            "fallback": "de_de",
-            "details.de_xx":
+            "fallback": "de_DE",
+            "details.de_XX":
             {
                 "name": "Wirrwarrspruch",
                 "country": "Skydinse"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Funny German Language",
                 "country": "Skydinse"
             }
         },
-        "nl_nl":
+        "nl_NL":
         {
-            "fallback": "en_us",
-            "details.nl_nl":
+            "fallback": "en_US",
+            "details.nl_NL":
             {
                 "name": "Nederlands",
                 "country": "Nederland"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Dutch",
                 "country": "Nederlands"
             }
         },
-        "pt_pt":
+        "pt_PT":
         {
-            "fallback": "en_us",
-            "details.pt_pt":
+            "fallback": "en_US",
+            "details.pt_PT":
             {
                 "name": "Português",
                 "country": "Portugal"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Portuguese",
                 "country": "Portugal"
             }
         },
-        "pt_br":
+        "pt_BR":
         {
-            "fallback": "pt_pt",
-            "details.pt_br":
+            "fallback": "pt_PT",
+            "details.pt_BR":
             {
                 "name": "Português",
                 "country": "Brasil"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Portuguese",
                 "country": "Brazil"
             }
         },
-        "es_es":
+        "es_ES":
         {
-            "fallback": "en_us",
-            "details.es_es":
+            "fallback": "en_US",
+            "details.es_ES":
             {
                 "name": "Español",
                 "country": "España"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Spanish",
                 "country": "Spain"
             }
         },
-        "es_mx":
+        "es_MX":
         {
-            "fallback": "es_es",
-            "details.es_mx":
+            "fallback": "es_ES",
+            "details.es_MX":
             {
                 "name": "Español",
                 "country": "México"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Spanish",
                 "country": "Mexico"
             }
         },
-        "fr_fr":
+        "fr_FR":
         {
-            "fallback": "en_us",
-            "details.fr_fr":
+            "fallback": "en_US",
+            "details.fr_FR":
             {
                 "name": "Français",
                 "country": "France"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "French",
                 "country": "France"
             }
         },
-        "tr_tr":
+        "tr_TR":
         {
-            "fallback": "en_us",
-            "details.tr_tr":
+            "fallback": "en_US",
+            "details.tr_TR":
             {
                 "name": "Türkçe",
                 "country": "Türkiye"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Turkish",
                 "country": "Türkiye"
             }
         },
-        "pl_pl":
+        "pl_PL":
         {
-            "fallback": "en_us",
-            "details.pl_pl":
+            "fallback": "en_US",
+            "details.pl_PL":
             {
                 "name": "Polski",
                 "country": "Polska"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Polish",
                 "country": "Poland"
             }
         },
-        "ru_ru":
+        "ru_RU":
         {
-            "fallback": "en_us",
-            "details.ru_ru":
+            "fallback": "en_US",
+            "details.ru_RU":
             {
                 "name": "Русский",
                 "country": "Россия"
             },
-            "details.en_us":
+            "details.en_US":
             {
                 "name": "Russian",
                 "country": "Russia"
