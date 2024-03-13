@@ -10,8 +10,7 @@
 - [languages.json file](#languagesjson-file)
 ##
 ### __Become an official translator__
-
-soon!
+To become an official translator, please open a normal support ticket on our [Discord server](https://discord.skydinse.net/)!
 ##
 ### __Text formats__
 
@@ -57,7 +56,7 @@ soon!
 - [languages.json-Datei](#languagesjson-datei)
 ##
 ### __Werde offizielle:r Übersetzer:in__
-- bald!
+Um offizielle:r Übersetzer:in zu werden, öffne bitte ein Support-Ticket auf unserem [Discord server](https://discord.skydinse.net/)!
 ##
 ### __Textformate__
 
