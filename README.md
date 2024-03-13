@@ -1,17 +1,17 @@
 # Language-Docs
 - [**English**](#english):
   - [Become a translator](#become-a-translator)
-  - [File structure](#file-structure)
   - [languages.json file](#languagesjson-file)
-  - [Language files (lang.json)](#language-files-langjson) X
+  - [File structure](#file-structure)
+  - [Language files (lang.json)](#language-files-langjson)
   - [Translation and language rules](#translation-and-language-rules)
   - [Text formats](#text-formats)
 
 - [**Deutsch (German)**](#deutsch-german):
   - [Werde Übersetzer:in](#werde-übersetzerin)
-  - [Dateistruktur](#dateistruktur)
   - [languages.json-Datei](#languagesjson-datei)
-  - [Sprachdateien (lang.json)](#sprachdateien-langjson) X
+  - [Dateistruktur](#dateistruktur)
+  - [Sprachdateien (lang.json)](#sprachdateien-langjson)
   - [Übersetzungs- und Sprachregeln](#übersetzungs--und-sprachregeln)
   - [Textformate](#textformate)
 
@@ -26,13 +26,6 @@
   - Submit correctly translated texts (task will be set after the application)
 - __Unofficial translator__: If you don't want to be an official translator, you can volunteer here on GitHub and create your [own pull requests](#own-pull-requests). Your pull requests will then be checked by an official translator and adopted if they are okay.
 ##
-### __File structure__
-
-- **global**: Global language files are the files for systems that are globally available on the entire Skydinse network and are not limited to a specific game mode, for example. A file path for the global system "chat" would look like this: `/global/chat/lang.json`.
-- **groups**: The language files in groups are the exact opposite of their global equivalents. The files of a group are only ever loaded on servers with the corresponding group (a group name can either be the first part of the server name (e.g. "lobby" for "Lobby-1") or a name defined in the server settings (e.g. "citybuild" for CBplot, CBfarm and CBend)). A file path for the "game" system from the Duels group could look like this: `/groups/duels/game/lang.json`. A file path for the system "citybuild" from the group "citybuild" would look like this: `/groups/citybuild/citybuild/lang.json` (in this case the system happens to have the same name as the group).
-- Subfolders: Since many systems also have their own subordinate systems, each system can also have any number of subfolders (and subfolders of subfolders, ...). For example, the "lobbygames" system in the lobby (group "lobby") is subordinate to the "lobby" system. A file path would then look like this: `/groups/lobby/lobby/lobbygames/lang.json`.
-- __Important__: all names of groups and systems are written __in lower case__!
-##
 ### __languages.json file__
 The [languages.json](https://github.com/skydinseofficial/Language/blob/main/languages.json) file defines the base language (English/en_US) and all available languages with their fallback language as well as their name and the country (including the region, if applicable) in the corresponding language and in English (en_US). The corresponding format can be taken directly from the [file](https://github.com/skydinseofficial/Language/blob/main/languages.json).
 Explanation of the individual entries:
@@ -40,6 +33,13 @@ Explanation of the individual entries:
 - **fallback** (fallback language): The fallback language is the language that the system falls back on if a translation is not available in the selected language of a player. For example, if a text is not set in British English (en_GB) but is set in US-American English (en_US), the US-American text is used in place of the British text, as US-American English (de_DE) is the fallback language for British English (de_AT).
 - **details.LANG** (Details): The details "name" (name of the language) and "country" (country and possibly also region) are specified in the corresponding language in order to be able to display the language (e.g. in selection menus).
 - **details.en_US** (details): The details "name" (name of the language) and "country" (country and possibly also region) are also specified in English so that they can be displayed in addition to the details of the language (e.g. in selection menus). This way, every person reading knows which language is meant.
+##
+### __File structure__
+
+- **global**: Global language files are the files for systems that are globally available on the entire Skydinse network and are not limited to a specific game mode, for example. A file path for the global system "chat" would look like this: `/global/chat/lang.json`.
+- **groups**: The language files in groups are the exact opposite of their global equivalents. The files of a group are only ever loaded on servers with the corresponding group (a group name can either be the first part of the server name (e.g. "lobby" for "Lobby-1") or a name defined in the server settings (e.g. "citybuild" for CBplot, CBfarm and CBend)). A file path for the "game" system from the Duels group could look like this: `/groups/duels/game/lang.json`. A file path for the system "citybuild" from the group "citybuild" would look like this: `/groups/citybuild/citybuild/lang.json` (in this case the system happens to have the same name as the group).
+- Subfolders: Since many systems also have their own subordinate systems, each system can also have any number of subfolders (and subfolders of subfolders, ...). For example, the "lobbygames" system in the lobby (group "lobby") is subordinate to the "lobby" system. A file path would then look like this: `/groups/lobby/lobby/lobbygames/lang.json`.
+- __Important__: all names of groups and systems are written __in lower case__!
 ##
 ### __Language files (lang.json)__
 soon!
@@ -105,13 +105,6 @@ soon!
   - Korrekt übersetzte Texte vorlegen (Aufgabe wird nach der Bewerbung gestellt)
 - __Inoffizielle:r Übersetzer:in__: Falls du kein:e offizielle:r Übersetzer:in sein möchtest, kannst du dich auf freiwillig hier auf GitHub engagieren und deine [eigenen pull requests](#eigene-pull-requests) erstellen. Deine pull requests werden dann von einem:r offiziellen Übersetzer:in überprüft und übernommen, wenn sie in Ordnung sind.
 ##
-### __Dateistruktur__
-
-- **global**: Globale language-files sind die Dateien für Systeme, welche global auf dem gesamten Skydinse-Netzwerk verfügbar sind und sich nicht beispielsweise auf einen bestimmten Spielmodus beschränken. Ein Dateipfad für das globale System "chat" sieht dann beispielsweise wie folgt aus: `/global/chat/lang.json`.
-- **groups**: Die language-files in Gruppen (groups) sind das genaue Gegenteil zu ihren globalen äquivalenten. Die files (Dateien) einer Gruppe werden immer nur auf Servern mit der entsprechenden Gruppe geladen (ein Gruppenname kann hierbei entweder der erste Teil des Servernamens (z.B. "lobby" für "Lobby-1") oder ein in den Servereinstellungen definierter Name (z.B. "citybuild" für CBplot, CBfarm und CBend) sein). Ein Dateipfad für das System "game" aus der Gruppe Duels kann dann beispielsweise so aussehen: `/groups/duels/game/lang.json`. Ein Dateipfad für das System "citybuild" aus der Gruppe "citybuild" würde so aussehen: `/groups/citybuild/citybuild/lang.json` (in diesem Fall trägt das System zufällig den selben Namen wie die Gruppe).
-- Unterordner: Da viele Systeme auch über weitere, eigene untergeordnete Systeme verfügen, kann jedes System auch beliebig viele Unterordner (und Unterordner von Unterordnern, ...) haben. Das System "lobbygames" in der Lobby (Gruppe "lobby") ist beispielsweise dem System "lobby" untergeordnet. Ein Dateipfad sähe dann so aus: `/groups/lobby/lobby/lobbygames/lang.json`.
-- __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
-##
 ### __languages.json-Datei__
 In der Datei [languages.json](https://github.com/skydinseofficial/Language/blob/main/languages.json) werden die Basissprache (Englisch/en_US) und alle verfügbaren Sprachen mit ihrer Fallback-Sprache sowie deren Name und das Land (ggf. auch die Region) in der entsprechenden Sprache und in Englisch (en_US) definiert. Das entsprechende Format kann der [Datei](https://github.com/skydinseofficial/Language/blob/main/languages.json) direkt entnommen werden.
 Erklärung zu den einzelnen Einträgen:
@@ -120,8 +113,15 @@ Erklärung zu den einzelnen Einträgen:
 - **details.LANG** (Details): Die Details "name" (Name der Sprache) und "country" (Land ggf. auch Region) werden in der entsprechenden Sprache angegeben, um die Sprache (z.B. in Auswahl-Menüs) anzeigen zu können.
 - **details.en_US** (Details): Die Details "name" (Name der Sprache) und "country" (Land ggf. auch Region) werden ebenfalls in Englisch angegeben, um diese zusätzlich neben den Details der Sprache (z.B. in Auswahl-Menüs) anzeigen zu können. Auf diese Art weiß jede lesende Person welche Sprache gemeint ist.
 ##
+### __Dateistruktur__
+
+- **global**: Globale language-files sind die Dateien für Systeme, welche global auf dem gesamten Skydinse-Netzwerk verfügbar sind und sich nicht beispielsweise auf einen bestimmten Spielmodus beschränken. Ein Dateipfad für das globale System "chat" sieht dann beispielsweise wie folgt aus: `/global/chat/lang.json`.
+- **groups**: Die language-files in Gruppen (groups) sind das genaue Gegenteil zu ihren globalen äquivalenten. Die files (Dateien) einer Gruppe werden immer nur auf Servern mit der entsprechenden Gruppe geladen (ein Gruppenname kann hierbei entweder der erste Teil des Servernamens (z.B. "lobby" für "Lobby-1") oder ein in den Servereinstellungen definierter Name (z.B. "citybuild" für CBplot, CBfarm und CBend) sein). Ein Dateipfad für das System "game" aus der Gruppe Duels kann dann beispielsweise so aussehen: `/groups/duels/game/lang.json`. Ein Dateipfad für das System "citybuild" aus der Gruppe "citybuild" würde so aussehen: `/groups/citybuild/citybuild/lang.json` (in diesem Fall trägt das System zufällig den selben Namen wie die Gruppe).
+- Unterordner: Da viele Systeme auch über weitere, eigene untergeordnete Systeme verfügen, kann jedes System auch beliebig viele Unterordner (und Unterordner von Unterordnern, ...) haben. Das System "lobbygames" in der Lobby (Gruppe "lobby") ist beispielsweise dem System "lobby" untergeordnet. Ein Dateipfad sähe dann so aus: `/groups/lobby/lobby/lobbygames/lang.json`.
+- __Wichtig__: alle Namen von Gruppen und Systemen werden __kleingeschrieben__!
+##
 ### __Sprachdateien (lang.json)__
-bald!
+Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Namen "lang.json" tragen. Auch das Format der Nachrichten muss genau so sein, wie es in der []
 ##
 ### __Übersetzungs- und Sprachregeln__
 - **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
