@@ -1,4 +1,4 @@
-# LANGUAGE-DOCS
+# Language-Docs
 - [English](#english)
 - [Deutsch (German)](#deutsch)
 
