@@ -4,85 +4,85 @@
     {
         "CONVERTMSG.tip.command":
         {
-            "en_us": "<#face05>Click to insert this command into your chat!",
-            "en_xx": "<#face05>Clicketh to set this order in thy discourse!",
-            "de_de": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
-            "de_xx": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
-            "nl_nl": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
-            "pt_pt": "<#face05>Clique para adicionar este comando ao seu chat!",
-            "es_es": "<#face05>Haz clic para añadir este comando a tu chat.",
-            "fr_fr": "<#face05>Clique pour insérer cette commande dans ton chat !",
-            "tr_tr": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
-            "pl_pl": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
-            "ru_ru": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
+            "en_US": "<#face05>Click to insert this command into your chat!",
+            "en_XX": "<#face05>Clicketh to set this order in thy discourse!",
+            "de_DE": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
+            "de_XX": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
+            "nl_NL": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
+            "pt_PT": "<#face05>Clique para adicionar este comando ao seu chat!",
+            "es_ES": "<#face05>Haz clic para añadir este comando a tu chat.",
+            "fr_FR": "<#face05>Clique pour insérer cette commande dans ton chat !",
+            "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
+            "pl_PL": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
+            "ru_RU": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
         },
         "CONVERTMSG.tip.run":
         {
-            "en_us": "<#face05>Click to execute this command!",
-            "en_xx": "<#face05>Clicketh to enact this order!",
-            "de_de": "<#face05>Klicke, um diesen Befehl auszuführen!",
-            "de_xx": "<#face05>Klicket, um diese Anweisung zu erlassen!",
-            "nl_nl": "<#face05>Klik om deze opdracht uit te voeren!",
-            "pt_pt": "<#face05>Clique para executar este comando!",
-            "es_es": "<#face05>Haz clic para ejecutar este comando.",
-            "fr_fr": "<#face05>Clique pour exécuter cette commande !",
-            "tr_tr": "<#face05>Bu komutu çalıştırmak için tıklayın!",
-            "pl_pl": "<#face05>Kliknij, aby wykonać to polecenie!",
-            "ru_ru": "<#face05>Нажмите, чтобы выполнить эту команду!"
+            "en_US": "<#face05>Click to execute this command!",
+            "en_XX": "<#face05>Clicketh to enact this order!",
+            "de_DE": "<#face05>Klicke, um diesen Befehl auszuführen!",
+            "de_XX": "<#face05>Klicket, um diese Anweisung zu erlassen!",
+            "nl_NL": "<#face05>Klik om deze opdracht uit te voeren!",
+            "pt_PT": "<#face05>Clique para executar este comando!",
+            "es_ES": "<#face05>Haz clic para ejecutar este comando.",
+            "fr_FR": "<#face05>Clique pour exécuter cette commande !",
+            "tr_TR": "<#face05>Bu komutu çalıştırmak için tıklayın!",
+            "pl_PL": "<#face05>Kliknij, aby wykonać to polecenie!",
+            "ru_RU": "<#face05>Нажмите, чтобы выполнить эту команду!"
         },
         "CONVERTMSG.tip.sga":
         {
-            "en_us": "<#face05>Normal text:",
-            "en_xx": "<#face05>Everyday writ:",
-            "de_de": "<#face05>Normaler Text:",
-            "de_xx": "<#face05>Urschrift:",
-            "nl_nl": "<#face05>Normale tekst:",
-            "pt_pt": "<#face05>Texto normal:",
-            "es_es": "<#face05>Texto normal:",
-            "fr_fr": "<#face05>Texte normal :",
-            "tr_tr": "<#face05>Normal metin:",
-            "pl_pl": "<#face05>Normalny tekst:",
-            "ru_ru": "<#face05>Обычный текст:"
+            "en_US": "<#face05>Normal text:",
+            "en_XX": "<#face05>Everyday writ:",
+            "de_DE": "<#face05>Normaler Text:",
+            "de_XX": "<#face05>Urschrift:",
+            "nl_NL": "<#face05>Normale tekst:",
+            "pt_PT": "<#face05>Texto normal:",
+            "es_ES": "<#face05>Texto normal:",
+            "fr_FR": "<#face05>Texte normal :",
+            "tr_TR": "<#face05>Normal metin:",
+            "pl_PL": "<#face05>Normalny tekst:",
+            "ru_RU": "<#face05>Обычный текст:"
         },
         "CONVERTMSG.tip.link":
         {
-            "en_us": "<#face05>Click to open this link!",
-            "en_xx": "<#face05>Clicketh to unseal yon link!",
-            "de_de": "<#face05>Klicke, um diesen Link zu öffnen!",
-            "de_xx": "<#face05>Klicke, auf dass dieser Link sich öffne!",
-            "nl_nl": "<#face05>Klik om deze link te openen!",
-            "pt_pt": "<#face05>Clique para abrir esta ligação!",
-            "es_es": "<#face05>Haga clic para abrir este enlace.",
-            "fr_fr": "<#face05>Cliquez pour ouvrir ce lien !",
-            "tr_tr": "<#face05>Bu bağlantıyı açmak için tıklayın!",
-            "pl_pl": "<#face05>Kliknij, aby otworzyć ten link!",
-            "ru_ru": "<#face05>Нажмите, чтобы открыть эту ссылку!"
+            "en_US": "<#face05>Click to open this link!",
+            "en_XX": "<#face05>Clicketh to unseal yon link!",
+            "de_DE": "<#face05>Klicke, um diesen Link zu öffnen!",
+            "de_XX": "<#face05>Klicke, auf dass dieser Link sich öffne!",
+            "nl_NL": "<#face05>Klik om deze link te openen!",
+            "pt_PT": "<#face05>Clique para abrir esta ligação!",
+            "es_ES": "<#face05>Haga clic para abrir este enlace.",
+            "fr_FR": "<#face05>Cliquez pour ouvrir ce lien !",
+            "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!",
+            "pl_PL": "<#face05>Kliknij, aby otworzyć ten link!",
+            "ru_RU": "<#face05>Нажмите, чтобы открыть эту ссылку!"
         },
         "CONVERTMSG.tip.copy":
         {
-            "en_us": "<#face05>Click copy this text!",
-            "en_xx": "<#face05>Clicketh to duplicate this scripture!",
-            "de_de": "<#face05>Klicke, um diesen Text zu kopieren!",
-            "de_xx": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
-            "nl_nl": "<#face05>Klik om deze tekst te kopiëren!",
-            "pt_pt": "<#face05>Clique para copiar este texto!",
-            "es_es": "<#face05>Haz clic para copiar este texto.",
-            "fr_fr": "<#face05>Clique pour copier ce texte !",
-            "tr_tr": "<#face05>Bu metni kopyalamak için tıklayın!",
-            "pl_pl": "<#face05>Kliknij, aby skopiować ten tekst!",
-            "ru_ru": "<#face05>Нажмите, чтобы скопировать этот текст!"
+            "en_US": "<#face05>Click copy this text!",
+            "en_XX": "<#face05>Clicketh to duplicate this scripture!",
+            "de_DE": "<#face05>Klicke, um diesen Text zu kopieren!",
+            "de_XX": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
+            "nl_NL": "<#face05>Klik om deze tekst te kopiëren!",
+            "pt_PT": "<#face05>Clique para copiar este texto!",
+            "es_ES": "<#face05>Haz clic para copiar este texto.",
+            "fr_FR": "<#face05>Clique pour copier ce texte !",
+            "tr_TR": "<#face05>Bu metni kopyalamak için tıklayın!",
+            "pl_PL": "<#face05>Kliknij, aby skopiować ten tekst!",
+            "ru_RU": "<#face05>Нажмите, чтобы скопировать этот текст!"
         },
         "SUFFIX.reward":
         {
-            "en_us": "&7You've recieved a <#face05>custom suffix &7for the duration of &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
-            "de_de": "&7Du hast einen <#face05>individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!",
-            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!","pt_pt": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
+            "en_US": "&7You've recieved a <#face05>custom suffix &7for the duration of &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
+            "de_DE": "&7Du hast einen <#face05>individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!",
+            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!","pt_PT": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
         },
         "SUFFIX.success":
         {
-            "en_us": "&aYour custom suffix (\"&x&c&a&c&a&c&aVAR1&a\") has been set! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
-            "de_de": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, um deinen Suffix überall auf den neuesten Stand zu bringen!",
-            "pt_pt": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
+            "en_US": "&aYour custom suffix (\"&x&c&a&c&a&c&aVAR1&a\") has been set! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
+            "de_DE": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, um deinen Suffix überall auf den neuesten Stand zu bringen!",
+            "pt_PT": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
         }
     }
 }
