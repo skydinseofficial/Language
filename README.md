@@ -92,7 +92,7 @@ The language files are located in the individual system folders and __must__ hav
 
 - **SGA and TinyText**: Text with latin characters can also be automatically converted to SGA ([Standard Galactic Alphabet or Enchanting Table Language](https://kryptografie.de/kryptografie/chiffre/standard-galactic-alphabet.htm)) and to [TinyText](https://lingojam.com/TinyTextGenerator).
   - To display __Text in SGA__ the formatting `<?TEXT>` (e.g. `<?Here is text in SGA>`) must be used (the original text is always given as the tooltip, in the Bedrock edition text is not displayed in SGA). 
-  - To use __TinyText__, the formatting `<!TEXT>` (e.g. `<?Here is TinyText>`) must be used.
+  - To use __TinyText__, the formatting `<!TEXT>` (e.g. `<!Here is TinyText>`) must be used.
 
 - **Clickable commands**:
   - __Clickable commands (chat-paste)__ are commands (possibly with arguments) which are copied into a player's chat line when clicked. These can be specified with the format `</COMMAND>` (a tooltip is generated automatically, the text is the command). An individual tooltip and/or text can be used with the format `</tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>`.
@@ -183,7 +183,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 
 - **SGA und TinyText**: Text mit lateinischen Buchstaben kann auch automatisch ins SGA ([Standard Galactic Alphabet bzw. Enchanting Table Language](https://kryptografie.de/kryptografie/chiffre/standard-galactic-alphabet.htm)) und in [TinyText](https://lingojam.com/TinyTextGenerator) umgewandelt werden.
   - Um __Text im SGA__ anzuzeigen muss die Formatierung `<?TEXT>` (z.B. `<?Hier steht Text im SGA>`) verwendet werden (als Tooltip wird immer der Originaltext angegeben, in der Bedrock-Edition wird Text nicht im SGA wiedergegeben). 
-  - Um __TinyText__ zu verwenden, muss die Formatierung `<!TEXT>` (z.B. `<?Hier steht TinyText>`) verwendet werden.
+  - Um __TinyText__ zu verwenden, muss die Formatierung `<!TEXT>` (z.B. `<!Hier steht TinyText>`) verwendet werden.
 
 - **Klickbare Commands**:
   - __Klickbare Commands (chat-paste)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken in die Chat-Zeile kopiert werden. Diese können mit dem Format `</COMMAND>` angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `</tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
