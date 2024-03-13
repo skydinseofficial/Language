@@ -55,13 +55,13 @@
 soon!
 ##
 ### __Language and grammar rules__
-- AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
+- **AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
 - Placeholders**: Placeholders must be specified in the form `[name]`. If there are several values with the same name, these must be distinguished by `.NUMBER` (e.g. `[name.1]`, `[name.2]`, ...). Placeholder names are always in English and must not be translated. The respective placeholders specified by the developer must be adhered to. **Standard placeholders** are:
   - `[player]`: Name of a player
   - `[link]`: Link to a website
   - `[command]`: Command
   - `[message]`: Message
-  - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... These must initially retain their form so that no problems arise.
+  - Old placeholders are often still in the form "VAR1", "VAR2", ... or "VAL1", "VAL2", ... - These must retain their form so that no problems arise.
 - **Special rules for languages**:
   soon!
 
@@ -124,6 +124,6 @@ bald!
   - `[link]`: Link zu einer Webseite
   - `[command]`: Befehl
   - `[message]`: Nachricht
-  - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form zunächst beibehalten, damit keine Probleme entstehen.
+  - Alte Platzhalter sind oft noch in der Form "VAR1", "VAR2", ... oder "VAL1", "VAL2", ... angegeben, diese müssen ihre Form beibehalten, damit keine Probleme entstehen.
 - **Besondere Regeln für Sprachen**:
   bald!
