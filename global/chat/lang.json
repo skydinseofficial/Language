@@ -37,7 +37,7 @@
             "de_de": "<#face05>Klicke, um den folgenden Text zu kopieren:",
             "en_us": "<#face05>Click to copy the following text:"
         },
-        "COMMAND.tooltip":
+        "COMMAND.tooltip_original":
         {
             "de_de": "<#face05>Klicke, um den markierten Befehl zu nutzen!\n&7Bitte sei vorsichtig, wenn du Befehle verwendest, die dir von anderen gesendet wurden!",
             "en_us": "<#face05>Click to use the highlighted command!\n&7Please be careful when using commands sent to you by others!",
