@@ -44,7 +44,7 @@ Explanation of the individual entries:
 ### __Language files (lang.json)__
 The language files are located in the individual system folders and __must__ have the name "lang.json". The format of the messages must also be exactly as specified in the [example file](https://github.com/skydinseofficial/Language/blob/main/groups/example/example-system/lang.json). Above all, it is important to maintain the correct indentation and the structure of the brackets and commas. Otherwise, the file may not be recognized by the language system. Currently available languages are:
 - **English**: Variations: `en_US` (USA), `en_GB` (Great Britain), `en_XX` (meme language)
-- **German**: Variations: `en_DE` (Germany), `en_AT` (Austria), `en_XX` (meme language)
+- **German**: Variations: `de_DE` (Germany), `de_AT` (Austria), `de_XX` (meme language)
 - **Dutch**: Variations: `nl_NL` (Netherlands)
 - **Portuguese**: Variations: `pt_PT` (Portugal), `pt_BR` (Brazil)
 - **Spanish**: Variations: `es_ES` (Spain), `es_MX` (Mexico)
