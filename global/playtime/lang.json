@@ -1,0 +1,61 @@
+{
+    "system": "playtime",
+    "translations":
+    {
+        "toplist":
+        {
+            "de_de": "Top-Spielzeit",
+            "en_us": "Top-playtime"
+        },
+        "playtimesum":
+        {
+            "de_de": "Gesamte Spielzeit der Gruppe",
+            "en_us": "Total playtime of group"
+        },
+        "WORD_and":
+        {
+            "de_de": "und",
+            "en_us": "and"
+        },
+        "years":
+        {
+            "de_de": "Jahre",
+            "en_us": "years"
+        },
+        "days":
+        {
+            "de_de": "Tage",
+            "en_us": "days"
+        },
+        "hours":
+        {
+            "de_de": "Stunden",
+            "en_us": "hours"
+        },
+        "minutes":
+        {
+            "de_de": "Minuten",
+            "en_us": "minutes"
+        },
+        "playersplaytime":
+        {
+            "de_de": "'s Spielzeit in Gruppe",
+            "en_us": "'s playtime in group"
+        },
+        "totalplaytime":
+        {
+            "de_de": "'s insgesamte Spielzeit",
+            "en_us": "'s total playtime"
+        },
+        "groupnotexist":
+        {
+            "de_de": "Diese Gruppe konnte nicht gefunden werden!",
+            "en_us": "This group couldn't be found!"
+        },
+        "playernotexist":
+        {
+            "de_de": "Diese Person konnte nicht gefunden werden!",
+            "en_us": "This person couldn't be found!"
+        }
+    }
+}
