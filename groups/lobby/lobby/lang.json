@@ -1,0 +1,744 @@
+{
+    "system": "lobby",
+    "translations":
+    {
+        "STATS.yourstatstitle":
+        {
+            "en_US": "YOUR STATS",
+            "de_DE": "DEINE STATISTIKEN"
+        },
+        "STATS.nostats":
+        {
+            "en_US": "No stats collected!",
+            "de_DE": "Keine Stats gesammelt!"
+        },
+        "STATS.gamesplayed":
+        {
+            "en_US": "Games played:",
+            "de_DE": "Gespielte Spiele:"
+        },
+        "STATS.wins":
+        {
+            "en_US": "Wins:",
+            "de_DE": "Gewonnene Spiele:"
+        },
+        "STATS.lost":
+        {
+            "en_US": "Lost games:",
+            "de_DE": "Verlorene Spiele:"
+        },
+        "STATS.points":
+        {
+            "en_US": "Points:",
+            "de_DE": "Punkte:"
+        },
+        "STATS.rank":
+        {
+            "en_US": "Rank (Points):",
+            "de_DE": "Rang (Punkte):"
+        },
+        "STATS.bpbeds":
+        {
+            "en_US": "Beds destroyed:",
+            "de_DE": "Betten abgebaut:"
+        },
+        "STATS.deaths":
+        {
+            "en_US": "Deaths:",
+            "de_DE": "Tode:"
+        },
+        "STATS.kills":
+        {
+            "en_US": "Kills:",
+            "de_DE": "Kills:"
+        },
+        "STATS.level":
+        {
+            "en_US": "Level played:",
+            "de_DE": "Level gespielt:"
+        },
+        "STATS.powerups":
+        {
+            "en_US": "Powerups:",
+            "de_DE": "Powerups:"
+        },
+        "STATS.explosions":
+        {
+            "en_US": "Opponent explosios:",
+            "de_DE": "Gegner-Explosionen:"
+        },
+        "STATS.joinedtimes":
+        {
+            "en_US": "Joined times:",
+            "de_DE": "Beigetretene Male:"
+        },
+        "STATS.ghostkills":
+        {
+            "en_US": "Ghosts killed:",
+            "de_DE": "Geister getötet:"
+        },
+        "STATS.detonations":
+        {
+            "en_US": "Detonations:",
+            "de_DE": "Detonationen:"
+        },
+        "STATS.humans":
+        {
+            "en_US": "Humans infected:",
+            "de_DE": "Menschen infiziert:"
+        },
+        "SCOREBOARD.rank":
+        {
+            "en_US": "Rank",
+            "de_DE": "Rang"
+        },
+        "SCOREBOARD.comma":
+        {
+            "en_US": ".",
+            "de_DE": ","
+        },
+        "SCOREBOARD.playtime":
+        {
+            "en_US": "Playtime",
+            "de_DE": "Spielzeit"
+        },
+        "INVHOTBAR.navigator.name":
+        {
+            "en_US": "&6Navigator",
+            "de_DE": "&6Navigator"
+        },
+        "INVHOTBAR.navigator.desc":
+        {
+            "en_US": "&7The navigator can show you all warps \n&7of our minigames, mainmodes and lobbygames!",
+            "de_DE": "&7Im Navigator findest du alle Warps \n&7zu Minispielen, Hauptspielmodi und Lobbygames!"
+        },
+        "INVHOTBAR.navigator.click":
+        {
+            "en_US": "Rightclick to open.",
+            "de_DE": "Rechtsklicke zum öffnen."
+        },
+        "INVHOTBAR.playerhider.name.all":
+        {
+            "en_US": "Visibility: &aeveryone",
+            "de_DE": "Sichtbarkeit: &aalle"
+        },
+        "INVHOTBAR.playerhider.name.vip":
+        {
+            "en_US": "Visibility: &5VIP",
+            "de_DE": "Sichtbarkeit: &5VIP"
+        },
+        "INVHOTBAR.playerhider.name.nobody":
+        {
+            "en_US": "Visibility: &cnobody",
+            "de_DE": "Sichtbarkeit: &cniemand"
+        },
+        "INVHOTBAR.playerhider.desc":
+        {
+            "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
+            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken."
+        },
+        "INVHOTBAR.playerhider.click":
+        {
+            "en_US": "Rightclick to change.",
+            "de_DE": "Rechtsklicke zum ändern."
+        },
+        "INVHOTBAR.profile.name":
+        {
+            "en_US": "&6Your Profile",
+            "de_DE": "&6Dein Profil"
+        },
+        "INVHOTBAR.gadget.name":
+        {
+            "en_US": "&6Gadget",
+            "de_DE": "&6Gadget"
+        },
+        "INVHOTBAR.gadget.desc":
+        {
+            "en_US": "&7When activated, you can use\n&7funny gadgets in the lobby.",
+            "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast."
+        },
+        "INVHOTBAR.gadget.click":
+        {
+            "en_US": "Rightclick to use.",
+            "de_DE": "Rechtsklicke zum benutzen."
+        },
+        "INVHOTBAR.inventory.name":
+        {
+            "en_US": "&6Inventory",
+            "de_DE": "&6Inventar"
+        },
+        "INVHOTBAR.inventory.desc":
+        {
+            "en_US": "&7Overall in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
+            "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt."
+        },
+        "INVHOTBAR.inventory.click":
+        {
+            "en_US": "Rightclick to open.",
+            "de_DE": "Rechtsklicke zum öffnen."
+        },
+        "INVHOTBAR.settings.name":
+        {
+            "en_US": "Settings",
+            "de_DE": "Einstellungen"
+        },
+        "INVHOTBAR.settings.desc":
+        {
+            "en_US": "&7View some of your network-wide settings.",
+            "de_DE": "&7Siehe deine netzwerkweiten Einstellungen ein."
+        },
+        "INVHOTBAR.settings.click":
+        {
+            "en_US": "Rightclick to open.",
+            "de_DE": "Rechtsklicke zum öffnen."
+        },
+        "INVHOTBAR.lobbyswitcher.name":
+        {
+            "en_US": "&6Lobbyswitcher",
+            "de_DE": "&6Lobbywechsler"
+        },
+        "INVHOTBAR.lobbyswitcher.desc":
+        {
+            "en_US": "&7Switch between our lobbies,\n&7wich are currently online.",
+            "de_DE": "&7Wechsle zwischen unseren Lobbys,\n&7welche aktuell online sind."
+        },
+        "INVHOTBAR.lobbyswitcher.click":
+        {
+            "en_US": "Rightclick to open.",
+            "de_DE": "Rechtsklicke zum öffnen."
+        },
+        "SETTINGS.elytranoperm":
+        {
+            "en_US": "&7To use this feature you need at least the  rank.",
+            "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang."
+        },
+        "HOLO.discord.line1":
+        {
+            "en_US": "&7Join our Discord Server to",
+            "de_DE": "&7Tritt unserem Discord Server bei und"
+        },
+        "HOLO.discord.line2":
+        {
+            "en_US": "&7get the newest &finformations &7about",
+            "de_DE": "&7erhalte die neusten &fInformationen &7über das"
+        },
+        "HOLO.discord.line3":
+        {
+            "en_US": "&7the &fnetwork&7, &fgiveaways&7, &fevents &7and &fmore&7!",
+            "de_DE": "&fNetzwerk&7, &fGewinnspiele&7, &fEvents &7und &fmehr&7!"
+        },
+        "HOLO.discord.line4":
+        {
+            "en_US": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
+        },
+        "INVHOTBAR.lobbytype.title":
+        {
+            "en_US": "&eUse the lobbyswitcher to change lobby!",
+            "de_DE": "&eNutze den Lobbyswitcher um Lobby zu wechseln!"
+        },
+        "HOLO.apply.vip.line1":
+        {
+            "en_US": "&7Do you <#EE82EE>enjoy &7playing here and",
+            "de_DE": "&7Dir macht es Spaß hier zu spielen und"
+        },
+        "HOLO.apply.vip.line2":
+        {
+            "en_US": "&7want to <#EE82EE>support us &7with your <#EE82EE>reach&7?",
+            "de_DE": "&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?"
+        },
+        "HOLO.apply.vip.line3":
+        {
+            "en_US": "&7Then <#EE82EE>apply &7on Discord to become a <#EE82EE>VIP",
+            "de_DE": "&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um"
+        },
+        "HOLO.apply.vip.line4":
+        {
+            "en_US": "&7and get access to <#EE82EE>exclusive features&7.",
+            "de_DE": "&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten."
+        },
+        "HOLO.apply.vip.line5":
+        {
+            "en_US": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
+        },
+        "SETTINGS.item.jump.name":
+        {
+            "en_US": "Doublejump",
+            "de_DE": "Doppelsprung"
+        },
+        "SETTINGS.item.jump.mode":
+        {
+            "en_US": "Mode:",
+            "de_DE": "Modus:"
+        },
+        "SETTINGS.item.jump.mode.elytra":
+        {
+            "en_US": "Elytra",
+            "de_DE": "Elytra"
+        },
+        "SETTINGS.item.jump.mode.default":
+        {
+            "en_US": "Default",
+            "de_DE": "Standard"
+        },
+        "SETTINGS.item.jump.desc":
+        {
+            "en_US": "&7Change your type of doublejumping in any\n&7Lobby. A modern Elytra-Doublejump\n&7or a default doublejump.",
+            "de_DE": "&7Ändere den Doppelsprung, welcher in einer Lobby\n&7genutzt werden kann. Zur Verfügung stehen ein moderner\n&7Elytra-Doppelsprung oder ein standard Doppelsprung."
+        },
+        "SETTINGS.item.jump.click2change":
+        {
+            "en_US": "Click to change.",
+            "de_DE": "Klicke zum ändern."
+        },
+        "SETTINGS.item.visibility.name":
+        {
+            "en_US": "Playervisibility",
+            "de_DE": "Spielersichtbarkeit"
+        },
+        "TIKTOK.sky.already_owned":
+        {
+            "en_US": "You already own the Sky-rank (or a higher one)!",
+            "de_DE": "Du besitzt bereits den Sky-Rang (oder einen höheren)!"
+        },
+        "TIKTOK.sky.success":
+        {
+            "en_US": "You recieved the Sky-rank for 7 days!",
+            "de_DE": "Du hast den Sky-Rang für 7 Tage erhalten!"
+        },
+        "JOINTITLE.welcome.title":
+        {
+            "en_US": "Welcome",
+            "de_DE": "Willkommen"
+        },
+        "JOINTITLE.welcome.subtitle":
+        {
+            "en_US": "to Skydinse!",
+            "de_DE": "auf Skydinse!"
+        },
+        "LS.title":
+        {
+            "en_US": "Lobbyswitcher",
+            "de_DE": "Lobbywechsler"
+        },
+        "LS.nextpage":
+        {
+            "en_US": "Next Page",
+            "de_DE": "Nächste Seite"
+        },
+        "LS.previouspage":
+        {
+            "en_US": "Previous Page",
+            "de_DE": "Vorherige Seite"
+        },
+        "LS.players":
+        {
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
+        },
+        "LS.connected":
+        {
+            "en_US": "Connected",
+            "de_DE": "Verbunden"
+        },
+        "LS.click2connect":
+        {
+            "en_US": "Click to connect.",
+            "de_DE": "Klicke zum verbinden."
+        },
+        "LS.alreadyconnected":
+        {
+            "en_US": "You are already connected to this lobby!",
+            "de_DE": "Du bist bereits mit dieser Lobby verbunden!"
+        },
+        "LS.pleasewait":
+        {
+            "en_US": "Please wait a moment!",
+            "de_DE": "Bitte warte einen Moment!"
+        },
+        "INVENTORY.gui.title":
+        {
+            "en_US": "Your Inventory",
+            "de_DE": "Dein Inventar"
+        },
+        "INVENTORY.gui.soon":
+        {
+            "en_US": "A new category is created here!",
+            "de_DE": "Hier entsteht eine neue Kategorie!"
+        },
+        "INVENTORY.gui.skylore":
+        {
+            "en_US": "&7Network-wide rank\n&7obtainable through coins.\n&7\n<#FFD400>Features:\n&e● &7Lobby-doublejump\n&e● &7Sit down: /sit\n&e● &7private custom minigames\n&e● &7party memberlimit of 8",
+            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Lobby-Doppelsprung\n&e● &7Hinsetzen: /sit\n&e● &7Private Custom Minigames\n&e● &7maximal 8 Partymitglieder"
+        },
+        "INVENTORY.gui.galaxylore":
+        {
+            "en_US": "&7Network-wide rank\n&7obtainable through coins.\n&7\n<#FFD400>Features:\n&e● &7Every feature of &bSky\n&e● &7Lobby-elytra-doublejump (fly)\n&e● &7Join full servers\n&e● &7/joinme every 120 minutes\n&e● &7Public custom minigames\n&e● &7party memberlimit of 16\n&e● &7/start command in minigames\n&e● &7color codes in chat (&&7a, ...&7)",
+            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Alle &bSky&7-Features\n&e● &7Lobby-Elytra-Doppelsprung\n&e● &7Volle Server betreten\n&e● &7Alle 120 Minuten /joinme\n&e● &7Öffentliche Custom Minigames\n&e● &7maximal 16 Partymitglieder\n&e● &7/start Befehl in Minigames\n&e● &7Farbcodes im Chat (&&7a, ...&7)"
+        },
+        "INVENTORY.gui.costs":
+        {
+            "en_US": "Costs:",
+            "de_DE": "Kosten:"
+        },
+        "INVENTORY.gui.sure":
+        {
+            "en_US": "Sure?",
+            "de_DE": "Sicher?"
+        },
+        "INVENTORY.gui.cancel":
+        {
+            "en_US": "Cancel",
+            "de_DE": "Abbrechen"
+        },
+        "INVENTORY.gui.confirmpurchase":
+        {
+            "en_US": "Confirm purchase",
+            "de_DE": "Kauf bestätigen"
+        },
+        "INVENTORY.gui.duration":
+        {
+            "en_US": "&7Duration: &a30 Days",
+            "de_DE": "&7Dauer: &a30 Tage"
+        },
+        "INVENTORY.gui.time_left":
+        {
+            "en_US": "&8» &7Time left: ",
+            "de_DE": "&8» &7Zeit verbleibend: "
+        },
+        "INVENTORY.gui.extend":
+        {
+            "en_US": "&8» <#D5F836>Click to extend for 30 days!",
+            "de_DE": "&8» <#D5F836>Klicke, um 30 Tage zu verlängern!"
+        },
+        "INVENTORY.gui.alreadypurchased":
+        {
+            "en_US": "&8» &cAlready purchased!",
+            "de_DE": "&8» &cBereits gekauft!"
+        },
+        "INVENTORY.gui.higherrank":
+        {
+            "en_US": "&cYou own a higher rank!",
+            "de_DE": "&cDu besitzt einen höheren Rang!"
+        },
+        "INVENTORY.gui.click2purchase":
+        {
+            "en_US": "&8» <#F9BD31>Click to purchase!",
+            "de_DE": "&8» <#F9BD31>Klicke zum kaufen!"
+        },
+        "INVENTORY.gui.click2cancel":
+        {
+            "en_US": "Click to cancel.",
+            "de_DE": "Klicke zum abbrechen."
+        },
+        "INVENTORY.gui.successfullybought":
+        {
+            "en_US": "You have successfully purchased the following product for Coins:",
+            "de_DE": "Du hast erfolgreich folgendes Produkt für Coins gekauft:"
+        },
+        "INVENTORY.gui.notenoughcoins":
+        {
+            "en_US": "You do not have enough Coins to buy this product!",
+            "de_DE": "Du hast nicht genug Coins, um dieses Produkt zu kaufen!"
+        },
+        "INVENTORY.gui.alreadyowned":
+        {
+            "en_US": "You already own this product!",
+            "de_DE": "Du besitzt dieses Produkt bereits!"
+        },
+        "INVENTORY.gui.give_away":
+        {
+            "en_US": "Give away",
+            "de_DE": "Verschenken"
+        },
+        "INVENTORY.gui.time.seconds.plural":
+        {
+            "en_US": "seconds",
+            "de_DE": "Sekunden"
+        },
+        "INVENTORY.gui.time.seconds.singular":
+        {
+            "en_US": "second",
+            "de_DE": "Sekunde"
+        },
+        "INVENTORY.gui.time.minutes.plural":
+        {
+            "en_US": "minutes",
+            "de_DE": "Minuten"
+        },
+        "INVENTORY.gui.time.minutes.singular":
+        {
+            "en_US": "minute",
+            "de_DE": "Minute"
+        },
+        "INVENTORY.gui.time.hours.plural":
+        {
+            "en_US": "hours",
+            "de_DE": "Stunden"
+        },
+        "INVENTORY.gui.time.hours.singular":
+        {
+            "en_US": "hour",
+            "de_DE": "Stunde"
+        },
+        "INVENTORY.gui.time.days.plural":
+        {
+            "en_US": "days",
+            "de_DE": "Tage"
+        },
+        "INVENTORY.gui.time.days.singular":
+        {
+            "en_US": "day",
+            "de_DE": "Tag"
+        },
+        "NAVIGATOR.title.default":
+        {
+            "en_US": "包",
+            "de_DE": "果",
+            "pt_PT": "帮"
+        },
+        "NAVIGATOR.title.button_5":
+        {
+            "en_US": "船",
+            "de_DE": "狗",
+            "pt_PT": "湯"
+        },
+        "NAVIGATOR.title.button_6":
+        {
+            "en_US": "尾",
+            "de_DE": "貓",
+            "pt_PT": "匙"
+        },
+        "NAVIGATOR.button.random_game":
+        {
+            "en_US": "&6Play a random game!",
+            "de_DE": "&6Spiele ein zufälliges Spiel!"
+        },
+        "NAVIGATOR.button.random_fast_game":
+        {
+            "en_US": "&6Play a random &lfast &6game!",
+            "de_DE": "&6Spiele ein zufälliges &lschnelles &6Spiel!"
+        },
+        "NAVIGATOR.button.random_creative_game":
+        {
+            "en_US": "&6Play a random &lcreative &6game!",
+            "de_DE": "&6Spiele ein zufälliges &lkreatives &6Spiel!"
+        },
+        "NAVIGATOR.button.spawn":
+        {
+            "en_US": "<#face05>Spawn",
+            "de_DE": "<#face05>Spawn"
+        },
+        "NAVIGATOR.button.events":
+        {
+            "en_US": "&aEvents",
+            "de_DE": "&aEvents"
+        },
+        "NAVIGATOR.button.projects":
+        {
+            "en_US": "&cMineAttack IV\" # \"&cProjects",
+            "de_DE": "&cMineAttack IV\" # \"&cProjects"
+        },
+        "NAVIGATOR.button.game_blockparty":
+        {
+            "en_US": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y",
+            "de_DE": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y"
+        },
+        "NAVIGATOR.button.game_murdermystery":
+        {
+            "en_US": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r\" # <#fb491a>M<#f33f18>y<#eb3516>s<#e32b14>t<#db2111>e<#d3170f>r<#cb0d0d>y",
+            "de_DE": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r\" # <#fb491a>M<#f33f18>y<#eb3516>s<#e32b14>t<#db2111>e<#d3170f>r<#cb0d0d>y"
+        },
+        "NAVIGATOR.button.game_lavarises":
+        {
+            "en_US": "<#fb2600>L<#fb3700>a<#fc4800>v<#fc5900>a<#fc6b00>R<#fc7c00>i<#fd8d00>s<#fd9e00>e<#fdaf00>s",
+            "de_DE": "<#fb2600>L<#fb3700>a<#fc4800>v<#fc5900>a<#fc6b00>R<#fc7c00>i<#fd8d00>s<#fd9e00>e<#fdaf00>s"
+        },
+        "NAVIGATOR.button.game_duels":
+        {
+            "en_US": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
+            "de_DE": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s"
+        },
+        "NAVIGATOR.button.game_maze":
+        {
+            "en_US": "<#51c600>M<#8cd500>a<#8cd500>z<#51c600>e",
+            "de_DE": "<#51c600>M<#8cd500>a<#8cd500>z<#51c600>e"
+        },
+        "NAVIGATOR.button.game_buildffa":
+        {
+            "en_US": "&e???",
+            "de_DE": "&e???"
+        },
+        "NAVIGATOR.button.game_creative":
+        {
+            "en_US": "<#dd4900>C<#e76600>r<#f08400>e<#faa100>a<#faa100>t<#f08400>i<#e76600>v<#dd4900>e",
+            "de_DE": "<#dd4900>C<#e76600>r<#f08400>e<#faa100>a<#faa100>t<#f08400>i<#e76600>v<#dd4900>e"
+        },
+        "NAVIGATOR.button.game_newgame":
+        {
+            "en_US": "&e???",
+            "de_DE": "&e???"
+        },
+        "NAVIGATOR.button.game_citybuild":
+        {
+            "en_US": "&e???",
+            "de_DE": "&e???"
+        },
+        "NAVIGATOR.button.lobbygame_sdplace":
+        {
+            "en_US": "<#face05>SD/place",
+            "de_DE": "<#face05>SD/place"
+        },
+        "NAVIGATOR.button.lobbygame_minenbreak":
+        {
+            "en_US": "<#face05>Mine 'n' Break",
+            "de_DE": "<#face05>Mine 'n' Break"
+        },
+        "NAVIGATOR.button.lobbygame_cookieclicker":
+        {
+            "en_US": "<#face05>Cookie clicker",
+            "de_DE": "<#face05>Cookieclicker"
+        },
+        "NAVIGATOR.button.online":
+        {
+            "en_US": "&f\n&7» Currently online: &aVAR1",
+            "de_DE": "&f\n&7» Aktuell online: &eVAR1"
+        },
+        "NAVIGATOR.button.left_click":
+        {
+            "en_US": "&f\n&6LEFT CLICK &8» &7Teleport",
+            "de_DE": "&f\n&6LINKSKLICK &8» &7Teleportieren"
+        },
+        "NAVIGATOR.button.right_click":
+        {
+            "en_US": "&6RIGHT CLICK &8» &7Direct connect",
+            "de_DE": "&6RECHTSKLICK &8» &7Direkt verbinden"
+        },
+        "NAVIGATOR.details.game_blockparty":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Colorful\n&7● <#F6D206>Music\n&7● <#F6D206>One Chance",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Bunt\n&7● <#F6D206>Musik\n&7● <#F6D206>Eine Chance"
+        },
+        "NAVIGATOR.details.game_murdermystery":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Survive the longest\n&7● <#F6D206>Mysterious\n&7● <#F6D206>One against all",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Am längsten überleben\n&7● <#F6D206>Mysteriös\n&7● <#F6D206>Eine:r gegen alle"
+        },
+        "NAVIGATOR.details.game_lavarises":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Lucky blocks\n&7● <#F6D206>Survive the lava\n&7● <#F6D206>Equip yourself",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Luckyblöcke\n&7● <#F6D206>Die Lava überleben\n&7● <#F6D206>Rüste dich aus"
+        },
+        "NAVIGATOR.details.game_duels":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Destroy the anchor\n&7● <#F6D206>1v1",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Zerstöre den Anker\n&7● <#F6D206>1v1"
+        },
+        "NAVIGATOR.details.game_maze":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Find a way through\n  <#F6D206>the labyrinth\n&7● <#F6D206>Fight against everyone\n&7● <#F6D206>1v1",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Finde einen Weg\n  <#F6D206>durchs Labyrinth\n&7● <#F6D206>Kämpfe gegen alle\n&7● <#F6D206>1v1"
+        },
+        "NAVIGATOR.details.game_buildffa":
+        {
+            "en_US": "&f\n&7=> Release in the future!",
+            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!"
+        },
+        "NAVIGATOR.details.game_creative":
+        {
+            "en_US": "&f\n&7● <#F6D206>Creative game\n&7● <#F6D206>Build your own maps\n&7● <#F6D206>Play with your friends\n  <#F6D206>Create beautiful buildings",
+            "de_DE": "&f\n&7● <#F6D206>Kreatives Spiel\n&7● <#F6D206>Baue deine eigenen Maps\n&7● <#F6D206>Spiele mit deinen Freund:innen\n  <#F6D206>Erschaffes wunderschöne Bauwerke"
+        },
+        "NAVIGATOR.details.game_newgame":
+        {
+            "en_US": "&f\n&7=> Release in the future!",
+            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!"
+        },
+        "NAVIGATOR.details.game_citybuild":
+        {
+            "en_US": "&f\n&7=> Release in January 2024!",
+            "de_DE": "&f\n&7=> Veröffentlichung im Januar 2024!"
+        },
+        "NAVIGATOR.details.events":
+        {
+            "en_US": "&f\n&7=> &2&lVIPs can create events\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
+            "de_DE": "&f\n&7=> &2&lVIPs können Events erstellen\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says"
+        },
+        "NAVIGATOR.details.projects":
+        {
+            "en_US": "&f\n&7=> &a&lLAUNCH ON OCTOBER 29, 4PM!\n&f\n&7● <#F6D206>Inspired by CraftAttack\n  <#F6D206>(a German streamer project)\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/activatable",
+            "de_DE": "&f\n&7=> &a&lSTART AM 29.10. UM 16 UHR!\n&f\n&7● <#F6D206>Inspiriert von CraftAttack\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/aktivierbar"
+        },
+        "NAVIGATOR.randomjoin.connect":
+        {
+            "en_US": "&aFound a free game! &7Connecting you to &eVAR1&7...",
+            "de_DE": "&aFreies Spiel gefunden! &7Verbinde dich zu &eVAR1&7..."
+        },
+        "NAVIGATOR.randomjoin.error":
+        {
+            "en_US": "&cCouldn't find a free game!",
+            "de_DE": "&cKonnte kein freies Spiel finden!"
+        },
+        "NAVIGATOR.nospam":
+        {
+            "en_US": "&cPlease don't spam this action!",
+            "de_DE": "&cBitte spamme diese Aktion nicht!"
+        },
+        "HOTBAR.advent_calendar.title":
+        {
+            "en_US": "Advent Calendar",
+            "de_DE": "Adventskalender"
+        },
+        "HOTBAR.advent_calendar.lore":
+        {
+            "en_US": "&7In the advent calendar you can\n&7open a door with nice surprises\n&7every day!",
+            "de_DE": "&7Im Adventskalender kannst du\n&7jeden Tag ein Türchen mit tollen\n&7überraschungen öffnen!"
+        },
+        "NETWORKSTATS.title":
+        {
+            "en_US": "Network-Statistics",
+            "de_DE": "Netzwerk-Statistiken"
+        },
+        "NETWORKSTATS.registeredplayers":
+        {
+            "en_US": "Registered Players",
+            "de_DE": "Registrierte Spieler"
+        },
+        "NETWORKSTATS.playeramountrecord":
+        {
+            "en_US": "Player record",
+            "de_DE": "Spielerrekord"
+        },
+        "NETWORKSTATS.totalplaytime":
+        {
+            "en_US": "Total Playtime",
+            "de_DE": "Insgesamte Spielzeit"
+        },
+        "NETWORKSTATS.existence":
+        {
+            "en_US": "Released since",
+            "de_DE": "Öffentlich seit"
+        },
+        "NETWORKSTATS.friendships":
+        {
+            "en_US": "Friendships",
+            "de_DE": "Freundschaften"
+        },
+        "NETWORKSTATS.months":
+        {
+            "en_US": "months",
+            "de_DE": "Monate"
+        },
+        "NETWORKSTATS.discord_members":
+        {
+            "en_US": "members",
+            "de_DE": "Mitglieder"
+        },
+        "NETWORKSTATS.discord_online":
+        {
+            "en_US": "online",
+            "de_DE": "online"
+        }
+    }
+}
