@@ -60,7 +60,7 @@
         },
         "CONVERTMSG.tip.copy":
         {
-            "en_US": "<#face05>Click copy this text!",
+            "en_US": "<#face05>Click copy this TEST text!",
             "en_XX": "<#face05>Clicketh to duplicate this scripture!",
             "de_DE": "<#face05>Klicke, um diesen Text zu kopieren!",
             "de_XX": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
