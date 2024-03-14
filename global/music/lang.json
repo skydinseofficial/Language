@@ -4,188 +4,188 @@
     {
         "MUSIC.actionbar":
         {
-            "de_de": "&7Jetzt spielt:",
-            "en_us": "&7Now playing:"
+            "en_US": "&7Now playing:",
+            "de_DE": "&7Jetzt spielt:"
         },
         "MUSIC.volumecmd":
         {
-            "de_de": "&7Deine Musik-Lautstärke wurde auf &eVAR1 Prozent &7gesetzt!",
-            "en_us": "&7Your musik-volume has been set to &eVAR1 percent&7!"
+            "en_US": "&7Your musik-volume has been set to &eVAR1 percent&7!",
+            "de_DE": "&7Deine Musik-Lautstärke wurde auf &eVAR1 Prozent &7gesetzt!"
         },
         "MUSIC.volumegui":
         {
-            "de_de": "&7Deine Musik-Lautstärke wurde auf Stufe &eVAR1 &7gesetzt!",
-            "en_us": "&7Your music-volume has been set to level &eVAR1&7!"
+            "en_US": "&7Your music-volume has been set to level &eVAR1&7!",
+            "de_DE": "&7Deine Musik-Lautstärke wurde auf Stufe &eVAR1 &7gesetzt!"
         },
         "MUSIC.musicenabled":
         {
-            "de_de": "&7Deine Musik wurde &aaktiviert&7!",
-            "en_us": "&7Your music has been &aenabled&7!"
+            "en_US": "&7Your music has been &aenabled&7!",
+            "de_DE": "&7Deine Musik wurde &aaktiviert&7!"
         },
         "MUSIC.musicdisabled":
         {
-            "de_de": "&7Deine Musik wurde &cdeaktiviert&7!",
-            "en_us": "&7Your music has been &cdisabled&7!"
+            "en_US": "&7Your music has been &cdisabled&7!",
+            "de_DE": "&7Deine Musik wurde &cdeaktiviert&7!"
         },
         "MUSIC.nosound":
         {
-            "de_de": "&cDieser Song konnte nicht gefunden werden!",
-            "en_us": "&cCould not find this song!"
+            "en_US": "&cCould not find this song!",
+            "de_DE": "&cDieser Song konnte nicht gefunden werden!"
         },
         "MUSIC.songsavailable.java":
         {
-            "de_de": "&aDiese Songs sind verfügbar: &7(klickbar)",
-            "en_us": "&aThese songs are available: &7(clickable)"
+            "en_US": "&aThese songs are available: &7(clickable)",
+            "de_DE": "&aDiese Songs sind verfügbar: &7(klickbar)"
         },
         "MUSIC.songsavailable.bedrock":
         {
-            "de_de": "&aDiese Songs sind verfügbar: &7(/play <id>)",
-            "en_us": "&aThese songs are available: &7(/play <id>)"
+            "en_US": "&aThese songs are available: &7(/play <id>)",
+            "de_DE": "&aDiese Songs sind verfügbar: &7(/play <id>)"
         },
         "MUSIC.search":
         {
-            "de_de": "&7Suche song mit dem Suchbegriff \"\"&eVAR1&7\"\"...",
-            "en_us": "&7Searching song with the search term \"\"&eVAR1&7\"\"..."
+            "en_US": "&7Searching song with the search term \"\"&eVAR1&7\"\"...",
+            "de_DE": "&7Suche song mit dem Suchbegriff \"\"&eVAR1&7\"\"..."
         },
         "MUSIC.clicktoplay":
         {
-            "de_de": "&7Klicke hier um den Song &6VAR1 &7zu spielen!",
-            "en_us": "&7Click here to play the song &6VAR1&7!"
+            "en_US": "&7Click here to play the song &6VAR1&7!",
+            "de_DE": "&7Klicke hier um den Song &6VAR1 &7zu spielen!"
         },
         "MUSIC.repeat":
         {
-            "de_de": "&7Der Song &6VAR1 &7wird jetzt wiederholt!",
-            "en_us": "&7Now repeating the song: &6VAR1&7!"
+            "en_US": "&7Now repeating the song: &6VAR1&7!",
+            "de_DE": "&7Der Song &6VAR1 &7wird jetzt wiederholt!"
         },
         "MUSIC.repeatnothing":
         {
-            "de_de": "&7Der Song wird nun nicht mehr wiederholt!",
-            "en_us": "&7The song will no longer repeated!"
+            "en_US": "&7The song will no longer repeated!",
+            "de_DE": "&7Der Song wird nun nicht mehr wiederholt!"
         },
         "MUSIC.repeatnosong":
         {
-            "de_de": "&cBei dir läuft aktuell kein Song, welcher wiederholt werden könnte!",
-            "en_us": "&cThere's currently no playing song that could be repeated!"
+            "en_US": "&cThere's currently no playing song that could be repeated!",
+            "de_DE": "&cBei dir läuft aktuell kein Song, welcher wiederholt werden könnte!"
         },
         "MUSIC.skip":
         {
-            "de_de": "&7Überspringe den aktuellen Song...",
-            "en_us": "&7Skipping the current song..."
+            "en_US": "&7Skipping the current song...",
+            "de_DE": "&7Überspringe den aktuellen Song..."
         },
         "MUSIC.nospam":
         {
-            "de_de": "&cBitte spamme diesen Befehl nicht!",
-            "en_us": "&cPlease do not spam this command!"
+            "en_US": "&cPlease do not spam this command!",
+            "de_DE": "&cBitte spamme diesen Befehl nicht!"
         },
         "MUSIC.pause_notplaying":
         {
-            "de_de": "&cAktuell spielt keine Musik!",
-            "en_us": "&cCurrently there's no music playing!"
+            "en_US": "&cCurrently there's no music playing!",
+            "de_DE": "&cAktuell spielt keine Musik!"
         },
         "MUSIC.pause_pausing":
         {
-            "de_de": "&cPausiere &7deine Musik!",
-            "en_us": "&cPausing &7your music!"
+            "en_US": "&cPausing &7your music!",
+            "de_DE": "&cPausiere &7deine Musik!"
         },
         "MUSIC.pause_resuming":
         {
-            "de_de": "&7Deine Musik wird &afortgesetzt&7!",
-            "en_us": "&aResuming &7your music!"
+            "en_US": "&aResuming &7your music!",
+            "de_DE": "&7Deine Musik wird &afortgesetzt&7!"
         },
         "MUSICGUI.currentlyplaying":
         {
-            "de_de": "&7Aktuell spielt",
-            "en_us": "&7Currently playing"
+            "en_US": "&7Currently playing",
+            "de_DE": "&7Aktuell spielt"
         },
         "MUSICGUI.currentsong":
         {
-            "de_de": "&7Aktueller Song",
-            "en_us": "&7Current song"
+            "en_US": "&7Current song",
+            "de_DE": "&7Aktueller Song"
         },
         "MUSICGUI.title":
         {
-            "de_de": "Musik",
-            "en_us": "Music"
+            "en_US": "Music",
+            "de_DE": "Musik"
         },
         "MUSICGUI.music.paused":
         {
-            "de_de": "&6Musik: &cpausiert",
-            "en_us": "&6Music: &cpaused"
+            "en_US": "&6Music: &cpaused",
+            "de_DE": "&6Musik: &cpausiert"
         },
         "MUSICGUI.music.playing":
         {
-            "de_de": "&6Musik: &aspielt",
-            "en_us": "&6Music: &aplaying"
+            "en_US": "&6Music: &aplaying",
+            "de_DE": "&6Musik: &aspielt"
         },
         "MUSICGUI.music.off":
         {
-            "de_de": "&6Musik: &cAUS",
-            "en_us": "&6Music: &cOFF"
+            "en_US": "&6Music: &cOFF",
+            "de_DE": "&6Musik: &cAUS"
         },
         "MUSICGUI.music.on":
         {
-            "de_de": "&6Musik: &aAN",
-            "en_us": "&6Music: &aON"
+            "en_US": "&6Music: &aON",
+            "de_DE": "&6Musik: &aAN"
         },
         "MUSICGUI.volume":
         {
-            "de_de": "&6Lautstärke",
-            "en_us": "&6Volume"
+            "en_US": "&6Volume",
+            "de_DE": "&6Lautstärke"
         },
         "MUSICGUI.volumelore":
         {
-            "de_de": "&7Linksklick: &alauter\n&7Rechtsklick: &eleiser",
-            "en_us": "&7Left click: &avolume up\n&7Right click: &evolume down"
+            "en_US": "&7Left click: &avolume up\n&7Right click: &evolume down",
+            "de_DE": "&7Linksklick: &alauter\n&7Rechtsklick: &eleiser"
         },
         "MUSICGUI.skip":
         {
-            "de_de": "&6Song überspringen",
-            "en_us": "&6Skip song"
+            "en_US": "&6Skip song",
+            "de_DE": "&6Song überspringen"
         },
         "MUSICGUI.playanother":
         {
-            "de_de": "&7Überspringe den aktuellen Song,\n&7damit ein anderer abgespielt wird.",
-            "en_us": "&7Skip the current song\n&7to play another one."
+            "en_US": "&7Skip the current song\n&7to play another one.",
+            "de_DE": "&7Überspringe den aktuellen Song,\n&7damit ein anderer abgespielt wird."
         },
         "MUSICGUI.repeat":
         {
-            "de_de": "&6Song wiederholen",
-            "en_us": "&6Repeat song"
+            "en_US": "&6Repeat song",
+            "de_DE": "&6Song wiederholen"
         },
         "MUSICGUI.repeating":
         {
-            "de_de": "&7Wiederhole aktuell:",
-            "en_us": "&7Currently repeating:"
+            "en_US": "&7Currently repeating:",
+            "de_DE": "&7Wiederhole aktuell:"
         },
         "MUSICGUI.notrepeating":
         {
-            "de_de": "&7Aktuell werden keine Songs wiederholt!",
-            "en_us": "&7Currently no songs are repeated!"
+            "en_US": "&7Currently no songs are repeated!",
+            "de_DE": "&7Aktuell werden keine Songs wiederholt!"
         },
         "MUSICGUI.clicktoplay":
         {
-            "de_de": "Hier klicken zum abspielen!",
-            "en_us": "Click here to play!"
+            "en_US": "Click here to play!",
+            "de_DE": "Hier klicken zum abspielen!"
         },
         "MUSICGUI.searchsong":
         {
-            "de_de": "&6Song suchen",
-            "en_us": "&6Search song"
+            "en_US": "&6Search song",
+            "de_DE": "&6Song suchen"
         },
         "MUSICGUI.searchsonglore":
         {
-            "de_de": "&7Klicke hier um nach einem Song zu suchen!",
-            "en_us": "&7Click here to search for a song!"
+            "en_US": "&7Click here to search for a song!",
+            "de_DE": "&7Klicke hier um nach einem Song zu suchen!"
         },
         "MUSICGUI.searchsongchat1":
         {
-            "de_de": "&7Gib",
-            "en_us": "&7Type"
+            "en_US": "&7Type",
+            "de_DE": "&7Gib"
         },
         "MUSICGUI.searchsongchat2":
         {
-            "de_de": "&e<Suchbegriff> &7ein, um einen Song zu suchen!",
-            "en_us": "&e<search term> &7to search for a song!"
+            "en_US": "&e<search term> &7to search for a song!",
+            "de_DE": "&e<Suchbegriff> &7ein, um einen Song zu suchen!"
         }
     }
 }
