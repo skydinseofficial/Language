@@ -4,58 +4,58 @@
     {
         "toplist":
         {
-            "de_de": "Top-Spielzeit",
-            "en_us": "Top-playtime"
+            "en_US": "Top-playtime",
+            "de_DE": "Top-Spielzeit"
         },
         "playtimesum":
         {
-            "de_de": "Gesamte Spielzeit der Gruppe",
-            "en_us": "Total playtime of group"
+            "en_US": "Total playtime of group",
+            "de_DE": "Gesamte Spielzeit der Gruppe"
         },
         "WORD_and":
         {
-            "de_de": "und",
-            "en_us": "and"
+            "en_US": "and",
+            "de_DE": "und"
         },
         "years":
         {
-            "de_de": "Jahre",
-            "en_us": "years"
+            "en_US": "years",
+            "de_DE": "Jahre"
         },
         "days":
         {
-            "de_de": "Tage",
-            "en_us": "days"
+            "en_US": "days",
+            "de_DE": "Tage"
         },
         "hours":
         {
-            "de_de": "Stunden",
-            "en_us": "hours"
+            "en_US": "hours",
+            "de_DE": "Stunden"
         },
         "minutes":
         {
-            "de_de": "Minuten",
-            "en_us": "minutes"
+            "en_US": "minutes",
+            "de_DE": "Minuten"
         },
         "playersplaytime":
         {
-            "de_de": "'s Spielzeit in Gruppe",
-            "en_us": "'s playtime in group"
+            "en_US": "'s playtime in group",
+            "de_DE": "'s Spielzeit in Gruppe"
         },
         "totalplaytime":
         {
-            "de_de": "'s insgesamte Spielzeit",
-            "en_us": "'s total playtime"
+            "en_US": "'s total playtime",
+            "de_DE": "'s insgesamte Spielzeit"
         },
         "groupnotexist":
         {
-            "de_de": "Diese Gruppe konnte nicht gefunden werden!",
-            "en_us": "This group couldn't be found!"
+            "en_US": "This group couldn't be found!",
+            "de_DE": "Diese Gruppe konnte nicht gefunden werden!"
         },
         "playernotexist":
         {
-            "de_de": "Diese Person konnte nicht gefunden werden!",
-            "en_us": "This person couldn't be found!"
+            "en_US": "This person couldn't be found!",
+            "de_DE": "Diese Person konnte nicht gefunden werden!"
         }
     }
 }
