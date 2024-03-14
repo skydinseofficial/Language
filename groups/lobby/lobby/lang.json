@@ -5,212 +5,248 @@
         "STATS.yourstatstitle":
         {
             "en_US": "YOUR STATS",
-            "de_DE": "DEINE STATISTIKEN"
+            "de_DE": "DEINE STATISTIKEN",
+            "pt_PT": "TUAS ESTATÍSTICAS"
         },
         "STATS.nostats":
         {
             "en_US": "No stats collected!",
-            "de_DE": "Keine Stats gesammelt!"
+            "de_DE": "Keine Stats gesammelt!",
+            "pt_PT": "Nenhuma estatística coletada!"
         },
         "STATS.gamesplayed":
         {
             "en_US": "Games played:",
-            "de_DE": "Gespielte Spiele:"
+            "de_DE": "Gespielte Spiele:",
+            "pt_PT": "Jogos jogados:"
         },
         "STATS.wins":
         {
             "en_US": "Wins:",
-            "de_DE": "Gewonnene Spiele:"
+            "de_DE": "Gewonnene Spiele:",
+            "pt_PT": "Jogos ganhos:"
         },
         "STATS.lost":
         {
             "en_US": "Lost games:",
-            "de_DE": "Verlorene Spiele:"
+            "de_DE": "Verlorene Spiele:",
+            "pt_PT": "Jogos perdidos:"
         },
         "STATS.points":
         {
             "en_US": "Points:",
-            "de_DE": "Punkte:"
+            "de_DE": "Punkte:",
+            "pt_PT": "Pontos:"
         },
         "STATS.rank":
         {
             "en_US": "Rank (Points):",
-            "de_DE": "Rang (Punkte):"
+            "de_DE": "Rang (Punkte):",
+            "pt_PT": "Posição (Pontos):"
         },
         "STATS.bpbeds":
         {
             "en_US": "Beds destroyed:",
-            "de_DE": "Betten abgebaut:"
+            "de_DE": "Betten abgebaut:",
+            "pt_PT": "Camas destruídas:"
         },
         "STATS.deaths":
         {
             "en_US": "Deaths:",
-            "de_DE": "Tode:"
+            "de_DE": "Tode:",
+            "pt_PT": "Mortes:"
         },
         "STATS.kills":
         {
             "en_US": "Kills:",
-            "de_DE": "Kills:"
+            "de_DE": "Kills:",
+            "pt_PT": "Kills:"
         },
         "STATS.level":
         {
-            "en_US": "Level played:",
-            "de_DE": "Level gespielt:"
+            "en_US": "Levels played:",
+            "de_DE": "Levels gespielt:",
+            "de_DE": "Níveis jogados:"
         },
         "STATS.powerups":
         {
-            "en_US": "Powerups:",
-            "de_DE": "Powerups:"
+            "en_US": "Power-ups:",
+            "de_DE": "Power-ups:",
+            "pt_PT": "Power-ups:"
         },
         "STATS.explosions":
         {
             "en_US": "Opponent explosios:",
-            "de_DE": "Gegner-Explosionen:"
+            "de_DE": "Gegner-Explosionen:",
+            "pt_PT": "Explosões de inimigos:"
         },
         "STATS.joinedtimes":
         {
-            "en_US": "Joined times:",
-            "de_DE": "Beigetretene Male:"
+            "en_US": "Number of accessions:",
+            "de_DE": "Anzahl der Beitritte:",
+            "pt_PT": "Número de adesões:"
         },
         "STATS.ghostkills":
         {
             "en_US": "Ghosts killed:",
-            "de_DE": "Geister getötet:"
+            "de_DE": "Geister getötet:",
+            "pt_PT": "Fantasmas mortos:"
         },
         "STATS.detonations":
         {
             "en_US": "Detonations:",
-            "de_DE": "Detonationen:"
+            "de_DE": "Detonationen:",
+            "pt_PT": "Detonações:"
         },
         "STATS.humans":
         {
             "en_US": "Humans infected:",
-            "de_DE": "Menschen infiziert:"
+            "de_DE": "Menschen infiziert:",
+            "pt_PT": "Pessoas infectadas:"
         },
         "SCOREBOARD.rank":
         {
             "en_US": "Rank",
-            "de_DE": "Rang"
+            "de_DE": "Rang",
+            "pt_PT": "Cargo"
         },
         "SCOREBOARD.comma":
         {
             "en_US": ".",
-            "de_DE": ","
+            "de_DE": ",",
+            "pt_PT": ","
         },
         "SCOREBOARD.playtime":
         {
             "en_US": "Playtime",
-            "de_DE": "Spielzeit"
+            "de_DE": "Spielzeit",
+            "pt_PT": "Tempo de jogo"
         },
         "INVHOTBAR.navigator.name":
         {
             "en_US": "&6Navigator",
-            "de_DE": "&6Navigator"
+            "de_DE": "&6Navigator",
+            "pt_PT": "&6Navegador"
         },
         "INVHOTBAR.navigator.desc":
         {
             "en_US": "&7The navigator can show you all warps \n&7of our minigames, mainmodes and lobbygames!",
-            "de_DE": "&7Im Navigator findest du alle Warps \n&7zu Minispielen, Hauptspielmodi und Lobbygames!"
+            "de_DE": "&7Im Navigator findest du alle Warps \n&7zu Minispielen, Hauptspielmodi und Lobbygames!",
+            "pt_PT": "&7No Navegador encontrarás todos os warps \n&7para mini-jogos, modos de jogo principais e jogos de lobby!"
         },
         "INVHOTBAR.navigator.click":
         {
-            "en_US": "Rightclick to open.",
-            "de_DE": "Rechtsklicke zum öffnen."
+            "en_US": "Rightclick to open!",
+            "de_DE": "Rechtsklicke um zu öffnen!",
+            "pt_PT": "Para abrir, clique com o botão direito!"
         },
         "INVHOTBAR.playerhider.name.all":
         {
             "en_US": "Visibility: &aeveryone",
-            "de_DE": "Sichtbarkeit: &aalle"
+            "de_DE": "Sichtbarkeit: &aalle",
+            "pt_PT": "Visibilidade: &atodos"
         },
         "INVHOTBAR.playerhider.name.vip":
         {
             "en_US": "Visibility: &5VIP",
-            "de_DE": "Sichtbarkeit: &5VIP"
+            "de_DE": "Sichtbarkeit: &5VIP",
+            "pt_PT": "Visibilidade: &5VIP"
         },
         "INVHOTBAR.playerhider.name.nobody":
         {
             "en_US": "Visibility: &cnobody",
-            "de_DE": "Sichtbarkeit: &cniemand"
+            "de_DE": "Sichtbarkeit: &cniemand",
+            "de_DE": "Visibilidade: &cninguém"
         },
         "INVHOTBAR.playerhider.desc":
         {
             "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
-            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken."
-        },
-        "INVHOTBAR.playerhider.click":
-        {
-            "en_US": "Rightclick to change.",
-            "de_DE": "Rechtsklicke zum ändern."
+            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
+            "pt_PT": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente."
         },
         "INVHOTBAR.profile.name":
         {
             "en_US": "&6Your Profile",
-            "de_DE": "&6Dein Profil"
+            "de_DE": "&6Dein Profil",
+            "pt_PT": "&6Teu perfil"
         },
         "INVHOTBAR.gadget.name":
         {
             "en_US": "&6Gadget",
-            "de_DE": "&6Gadget"
+            "de_DE": "&6Gadget",
+            "pt_PT": "&6Gadget"
         },
         "INVHOTBAR.gadget.desc":
         {
             "en_US": "&7When activated, you can use\n&7funny gadgets in the lobby.",
-            "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast."
+            "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast.",
+            "pt_PT": "&7Desfrute de gadgets divertidos na lobby, se você tiver escolhido algum."
         },
         "INVHOTBAR.gadget.click":
         {
-            "en_US": "Rightclick to use.",
-            "de_DE": "Rechtsklicke zum benutzen."
+            "en_US": "Rightclick to use!",
+            "de_DE": "Rechtsklicke zum benutzen!",
+            "pt_PT": "Para usar, clique com o botão direito!"
         },
         "INVHOTBAR.inventory.name":
         {
             "en_US": "&6Inventory",
-            "de_DE": "&6Inventar"
+            "de_DE": "&6Inventar",
+            "pt_PT": "&6Inventário"
         },
         "INVHOTBAR.inventory.desc":
         {
             "en_US": "&7Overall in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
-            "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt."
+            "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt.",
+            "pt_PT": "&7Em toda a área do lobby, encontrará pequenas lojas onde pode comprar animais de estimação, músicas de vencedor, asas e muito mais com moedas. Aqui pode ver todos os itens que possui."
         },
         "INVHOTBAR.inventory.click":
         {
-            "en_US": "Rightclick to open.",
-            "de_DE": "Rechtsklicke zum öffnen."
+            "en_US": "Rightclick to open!",
+            "de_DE": "Rechtsklicke um zu öffnen!",
+            "pt_PT": "Para abrir, clique com o botão direito!"
         },
         "INVHOTBAR.settings.name":
         {
             "en_US": "Settings",
-            "de_DE": "Einstellungen"
+            "de_DE": "Einstellungen",
+            "pt_PT": "Opções"
         },
         "INVHOTBAR.settings.desc":
         {
             "en_US": "&7View some of your network-wide settings.",
-            "de_DE": "&7Siehe deine netzwerkweiten Einstellungen ein."
+            "de_DE": "&7Siehe deine netzwerkweiten Einstellungen ein.",
+            "pt_PT": "&7Veja as suas opções de configuração em toda a rede."
         },
         "INVHOTBAR.settings.click":
         {
-            "en_US": "Rightclick to open.",
-            "de_DE": "Rechtsklicke zum öffnen."
+            "en_US": "Rightclick to open!",
+            "de_DE": "Rechtsklicke um zu öffnen!",
+            "pt_PT": "Para abrir, clique com o botão direito!"
         },
         "INVHOTBAR.lobbyswitcher.name":
         {
             "en_US": "&6Lobbyswitcher",
-            "de_DE": "&6Lobbywechsler"
+            "de_DE": "&6Lobbywechsler",
+            "pt_PT": "&6Mudança de lobby"
         },
         "INVHOTBAR.lobbyswitcher.desc":
         {
-            "en_US": "&7Switch between our lobbies,\n&7wich are currently online.",
-            "de_DE": "&7Wechsle zwischen unseren Lobbys,\n&7welche aktuell online sind."
+            "en_US": "&7Switch between lobbies.",
+            "de_DE": "&7Wechsle zwischen Lobbys.",
+            "pt_PT": "&7Alternar entre lobbies."
         },
         "INVHOTBAR.lobbyswitcher.click":
         {
-            "en_US": "Rightclick to open.",
-            "de_DE": "Rechtsklicke zum öffnen."
+            "en_US": "Rightclick to open!",
+            "de_DE": "Rechtsklicke um zu öffnen!",
+            "pt_PT": "Para abrir, clique com o botão direito!"
         },
         "SETTINGS.elytranoperm":
         {
             "en_US": "&7To use this feature you need at least the  rank.",
-            "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang."
+            "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang.",
+            "pt_PT": "&7Para usar este recurso, você precisa ter pelo menos a patente ."
         },
         "HOLO.discord.line1":
         {
