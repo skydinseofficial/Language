@@ -1,0 +1,36 @@
+{
+    "system": "esy-antidropandpickup",
+    "translations":
+    {
+        "antidrop_on":
+        {
+            "en_US": "&cYou are in the Antidrop mode.",
+            "de_DE": "&cDein Antidrop-Modus ist an."
+        },
+        "antipickup_on":
+        {
+            "en_US": "&cYou are in the Antipickup mode.",
+            "de_DE": "&cDein Antipickup-Modus ist an."
+        },
+        "antidrop/pickup_enabled":
+        {
+            "en_US": "&7You have &aactivated &7your &6VAL1",
+            "de_DE": "&7Du hast deinen &6VAL1 &aaktiviert"
+        },
+        "antidrop/pickup_disabled":
+        {
+            "en_US": "&7You have &cdisabled &7your &6VAL1",
+            "de_DE": "&7Du hast deinen &6VAL1 &cdeaktiviert"
+        },
+        "antidrop":
+        {
+            "en_US": "Antidrop mode",
+            "de_DE": "Antidrop-Modus"
+        },
+        "antipickup":
+        {
+            "en_US": "Antipickup mode",
+            "de_DE": "Antipickup-Modus"
+        }
+    }
+}
