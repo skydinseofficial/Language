@@ -4,47 +4,47 @@
     {
         "LINK.tooltip_verified":
         {
-            "de_de": "&2✔ <#24F024>Verifiziert &8| &7Klicke, um diesen Link zu öffnen.",
-            "en_us": "&2✔ <#24F024>Verified &8| &7Click to open this link."
+            "en_US": "&2✔ <#24F024>Verified &8| &7Click to open this link.",
+            "de_DE": "&2✔ <#24F024>Verifiziert &8| &7Klicke, um diesen Link zu öffnen."
         },
         "LINK.tooltip_secure":
         {
-            "de_de": "&2✔ &aSicher &8| &7Klicke, um diesen Link zu öffnen.",
-            "en_us": "&2✔ &aSecure &8| &7Click to open this link."
+            "en_US": "&2✔ &aSecure &8| &7Click to open this link.",
+            "de_DE": "&2✔ &aSicher &8| &7Klicke, um diesen Link zu öffnen."
         },
         "LINK.tooltip_warning":
         {
-            "de_de": "&6ℹ &ePotentiell unsicher! &8| &7Bitte sei vorsichtig, wenn du diesen Link öffnest!",
-            "en_us": "&6ℹ &ePotentially unsafe! &8| &7Please be careful when opening this link!"
+            "en_US": "&6ℹ &ePotentially unsafe! &8| &7Please be careful when opening this link!",
+            "de_DE": "&6ℹ &ePotentiell unsicher! &8| &7Bitte sei vorsichtig, wenn du diesen Link öffnest!"
         },
         "LINK.tooltip_unsecure":
         {
-            "de_de": "&4✘ &cNicht sicher! &8| &7Bitte öffne nicht diesen Link!",
-            "en_us": "&4✘ &cNot secure! &8| &7Please do not open this link!"
+            "en_US": "&4✘ &cNot secure! &8| &7Please do not open this link!",
+            "de_DE": "&4✘ &cNicht sicher! &8| &7Bitte öffne nicht diesen Link!"
         },
         "LINK.tooltip_blocked":
         {
-            "de_de": "&4✘ &cBlocked &8| &7Dieser Link wurde von unseren Teammitgliedern als unangemessen eingestuft!",
-            "en_us": "&4✘ &cBlocked &8| &7This link has been classified as inappropriate by our staff!"
+            "en_US": "&4✘ &cBlocked &8| &7This link has been classified as inappropriate by our staff!",
+            "de_DE": "&4✘ &cBlocked &8| &7Dieser Link wurde von unseren Teammitgliedern als unangemessen eingestuft!"
         },
         "SGA.tooltip_original":
         {
-            "de_de": "<#face05>Originaltext:",
-            "en_us": "<#face05>Original text:"
+            "en_US": "<#face05>Original text:",
+            "de_DE": "<#face05>Originaltext:"
         },
         "COPY.tooltip_original":
         {
-            "de_de": "<#face05>Klicke, um den folgenden Text zu kopieren:",
-            "en_us": "<#face05>Click to copy the following text:"
+            "en_US": "<#face05>Click to copy the following text:",
+            "de_DE": "<#face05>Klicke, um den folgenden Text zu kopieren:"
         },
         "COMMAND.tooltip_original":
         {
-            "de_de": "<#face05>Klicke, um den markierten Befehl zu nutzen!\n&7Bitte sei vorsichtig, wenn du Befehle verwendest, die dir von anderen gesendet wurden!",
-            "en_us": "<#face05>Click to use the highlighted command!\n&7Please be careful when using commands sent to you by others!",
-            "es_es": "<#face05>Haga clic para utilizar el comando resaltado.\n&7Ten cuidado al utilizar comandos que te envíen otras personas.",
-            "fr_fr": "<#face05>Cliquez pour utiliser la commande surlignée !\n&7Soyez prudent lorsque vous utilisez des commandes envoyées par d'autres personnes !",
-            "pt_pt": "<#face05>Clique para utilizar o comando realçado!\n&7Tenha cuidado ao utilizar comandos enviados por outras pessoas!",
-            "tr_tr": "<#face05>Vurgulanan komutu kullanmak için tıklayın!\n&7Lütfen başkaları tarafından size gönderilen komutları kullanırken dikkatli olun!"
+            "en_US": "<#face05>Click to use the highlighted command!\n&7Please be careful when using commands sent to you by others!",
+            "de_DE": "<#face05>Klicke, um den markierten Befehl zu nutzen!\n&7Bitte sei vorsichtig, wenn du Befehle verwendest, die dir von anderen gesendet wurden!",
+            "pt_PT": "<#face05>Clique para utilizar o comando realçado!\n&7Tenha cuidado ao utilizar comandos enviados por outras pessoas!",
+            "es_ES": "<#face05>Haga clic para utilizar el comando resaltado.\n&7Ten cuidado al utilizar comandos que te envíen otras personas.",
+            "fr_FR": "<#face05>Cliquez pour utiliser la commande surlignée !\n&7Soyez prudent lorsque vous utilisez des commandes envoyées par d'autres personnes !",
+            "tr_TR": "<#face05>Vurgulanan komutu kullanmak için tıklayın!\n&7Lütfen başkaları tarafından size gönderilen komutları kullanırken dikkatli olun!"
         }
     }
 }
