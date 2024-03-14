@@ -271,8 +271,8 @@
         },
         "SERVERSTOP.stop":
         {
-            "en_US": "&cThe server &6VAR1 &cis stopping!",
-            "de_DE": "&cDer Server &6VAR1 &cstoppt!"
+            "en_US": "&cThe server &6[server] &cis stopping!",
+            "de_DE": "&cDer Server &6[server] &cstoppt!"
         },
         "RELOADSK.wait":
         {
