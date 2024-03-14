@@ -86,580 +86,579 @@
         },
         "SUFFIX.error.empty":
         {
-            "de_de": "&cDu kannst deinen Suffix nicht auf nichts setzen!",
-            "en_us": "&cYou can't set your suffix to nothing!"
+            "en_US": "&cYou can't set your suffix to nothing!",
+            "de_DE": "&cDu kannst deinen Suffix nicht auf nichts setzen!"
         },
         "SUFFIX.error.no_spam":
         {
-            "de_de": "&cBitte spamme diese Aktion nicht!",
-            "en_us": "&cPlease do not spam this action!"
+            "en_US": "&cPlease do not spam this action!",
+            "de_DE": "&cBitte spamme diese Aktion nicht!"
         },
         "SUFFIX.error.no_perm":
         {
-            "de_de": "&cDu hast nicht die benötigte Berechtigung, um das Suffix-System zu nutzen!",
-            "en_us": "&cYou do not have the required permission to use the suffix system!"
+            "en_US": "&cYou do not have the required permission to use the suffix system!",
+            "de_DE": "&cDu hast nicht die benötigte Berechtigung, um das Suffix-System zu nutzen!"
         },
         "SUFFIX.error.cancel":
         {
-            "de_de": "&cDu hast den Vorgang abgebrochen.",
-            "en_us": "&cYou have cancelled the process."
+            "en_US": "&cYou have cancelled the process.",
+            "de_DE": "&cDu hast den Vorgang abgebrochen."
         },
         "SUFFIX.error.timeout":
         {
-            "de_de": "&cDie Zeit für deine Eingabe ist abgelaufen. &eVersuchte es bitte erneut!",
-            "en_us": "&cThe time for your entry has expired. &ePlease try again!"
+            "en_US": "&cThe time for your entry has expired. &ePlease try again!",
+            "de_DE": "&cDie Zeit für deine Eingabe ist abgelaufen. &eVersuchte es bitte erneut!"
         },
         "SUFFIX.error.long":
         {
-            "de_de": "&cDer Suffix, den du eingegeben hast, ist zu lang. Die maximale Länge für deinen Suffix (ohne Farb- and Formatierungscodes) ist &6VAR1&c! &eVersuchte es bitte erneut!",
-            "en_us": "&cThe suffix you entered is too long. The maximum length for your suffix (without color and formatting codes) is &6VAR1&c! &ePlease try again!"
+            "en_US": "&cThe suffix you entered is too long. The maximum length for your suffix (without color and formatting codes) is &6VAR1&c! &ePlease try again!",
+            "de_DE": "&cDer Suffix, den du eingegeben hast, ist zu lang. Die maximale Länge für deinen Suffix (ohne Farb- and Formatierungscodes) ist &6VAR1&c! &eVersuchte es bitte erneut!"
         },
         "SUFFIX.error.blocked":
         {
-            "de_de": "&cDer Suffix, den du eingegeben hast (\"\"<#cacaca>VAR1&c\"\"), ist zu lang! &eVersuchte es bitte erneut!",
-            "en_us": "&cThe suffix you entered (\"\"<#cacaca>VAR1&c\"\") has been blocked! &ePlease try again!"
+            "en_US": "&cThe suffix you entered (\"\"<#cacaca>VAR1&c\"\") has been blocked! &ePlease try again!",
+            "de_DE": "&cDer Suffix, den du eingegeben hast (\"\"<#cacaca>VAR1&c\"\"), ist zu lang! &eVersuchte es bitte erneut!"
         },
         "SUFFIX.info.set":
         {
-            "de_de": "&cDu hast bereits einen individuellen Suffix! &7Wenn du fortfährst, wird dein Suffix bearbeitet (und verlängert). Du kannst \"\"abbruch\"\" eingeben, um abzubrechen.",
-            "en_us": "&cYou already have a custom suffix! &7If you continue, your suffix will be edited (and extended). You can type \"\"cancel\"\" to cancel."
+            "en_US": "&cYou already have a custom suffix! &7If you continue, your suffix will be edited (and extended). You can type \"\"cancel\"\" to cancel.",
+            "de_DE": "&cDu hast bereits einen individuellen Suffix! &7Wenn du fortfährst, wird dein Suffix bearbeitet (und verlängert). Du kannst \"\"abbruch\"\" eingeben, um abzubrechen."
         },
         "SUFFIX.command.explanation_line1":
         {
-            "de_de": "&7Mit diesem Befehl kannst du deinen Suffix bearbeiten, verlängern oder einen neuen Suffix kaufen!",
-            "en_us": "&7With this command you can edit your suffix, extend it or buy a new suffix!"
+            "en_US": "&7With this command you can edit your suffix, extend it or buy a new suffix!",
+            "de_DE": "&7Mit diesem Befehl kannst du deinen Suffix bearbeiten, verlängern oder einen neuen Suffix kaufen!"
         },
         "SUFFIX.command.explanation_line2":
         {
-            "de_de": "<Tage>&r&8 - &7kaufe einen neuen Suffix für eine bestimmte Anzahl an Tagen",
-            "en_us": "<days>&r&8 - &7buy a new suffix for a specific amount of days"
+            "en_US": "<days>&r&8 - &7buy a new suffix for a specific amount of days",
+            "de_DE": "<Tage>&r&8 - &7kaufe einen neuen Suffix für eine bestimmte Anzahl an Tagen"
         },
         "SUFFIX.command.explanation_line3":
         {
-            "de_de": "<neuer Suffix>&r&8 - &7bearbeite deinen aktuellen Suffix",
-            "en_us": "<new suffix>&r&8 - &7edit your current suffix"
+            "en_US": "<new suffix>&r&8 - &7edit your current suffix",
+            "de_DE": "<neuer Suffix>&r&8 - &7bearbeite deinen aktuellen Suffix"
         },
         "SUFFIX.command.buy_disabled":
         {
-            "de_de": "&cSuffixes können aktuell nicht gekauft werden!",
-            "en_us": "&cSuffixes cannot be purchased at the moment!"
+            "en_US": "&cSuffixes cannot be purchased at the moment!",
+            "de_DE": "&cSuffixes können aktuell nicht gekauft werden!"
         },
         "SUFFIX.command.edit_noSUFFIX.1":
         {
-            "de_de": "&cDu hast aktuell keinen Suffix! Mit dem Befehl ",
-            "en_us": "&cYou don't have a suffix at the moment! You can buy a suffix using "
+            "en_US": "&cYou don't have a suffix at the moment! You can buy a suffix using ",
+            "de_DE": "&cDu hast aktuell keinen Suffix! Mit dem Befehl "
         },
         "SUFFIX.command.edit_noSUFFIX.2":
         {
-            "de_de": "<Tage>&r&c kannst du dir einen Suffix kaufen!",
-            "en_us": "<days>&r&c!"
+            "en_US": "<days>&r&c!",
+            "de_DE": "<Tage>&r&c kannst du dir einen Suffix kaufen!"
         },
         "SUFFIX.command.edit_noarg":
         {
-            "de_de": "&cBitte gib deinen gewünschten Suffix an!",
-            "en_us": "&cPlease enter your desired suffix!"
+            "en_US": "&cPlease enter your desired suffix!",
+            "de_DE": "&cBitte gib deinen gewünschten Suffix an!"
         },
         "SUFFIX.command.edit_nosql":
         {
-            "de_de": "&cWir konnten deine Suffix-Details nicht finden! Bitte kontaktiere unser Server-Team!",
-            "en_us": "&cCouldn't get your suffix details! Please contact our server team!"
+            "en_US": "&cCouldn't get your suffix details! Please contact our server team!",
+            "de_DE": "&cWir konnten deine Suffix-Details nicht finden! Bitte kontaktiere unser Server-Team!"
         },
         "SUFFIX.command.edit_success":
         {
-            "de_de": "&aDein individueller Suffix wurde geändert (\"\"<#cacaca>VAR1&a\"\")! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!",
-            "en_us": "&aYour custom suffix has been changed (\"\"<#cacaca>VAR1&a\"\")! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!"
+            "en_US": "&aYour custom suffix has been changed (\"\"<#cacaca>VAR1&a\"\")! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
+            "de_DE": "&aDein individueller Suffix wurde geändert (\"\"<#cacaca>VAR1&a\"\")! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!"
         },
         "SUFFIX.command.number_decimal_indicator":
         {
-            "de_de": ",",
-            "en_us": "."
+            "en_US": ".",
+            "de_DE": ","
         },
         "SOCIALMEDIA.discord":
         {
-            "de_de": "&7Trete unserem <#5865F2>Discord-Server &7bei:",
-            "en_us": "&7Join our <#5865F2>Discord server&7:"
+            "en_US": "&7Join our <#5865F2>Discord server&7:",
+            "de_DE": "&7Trete unserem <#5865F2>Discord-Server &7bei:"
         },
         "SOCIALMEDIA.tiktok":
         {
-            "de_de": "&7Folge uns auf <#00f2ea>Tik<#ff0050>Tok&7:",
-            "en_us": "&7Follow us on <#00f2ea>Tik<#ff0050>Tok&7:"
+            "en_US": "&7Follow us on <#00f2ea>Tik<#ff0050>Tok&7:",
+            "de_DE": "&7Folge uns auf <#00f2ea>Tik<#ff0050>Tok&7:"
         },
         "SOCIALMEDIA.youtube":
         {
-            "de_de": "&7Folge uns auf <#FF0000>YouTube&7:",
-            "en_us": "&7Follow us on <#FF0000>YouTube&7:"
+            "en_US": "&7Follow us on <#FF0000>YouTube&7:",
+            "de_DE": "&7Folge uns auf <#FF0000>YouTube&7:"
         },
         "SOCIALMEDIA.instagram":
         {
-            "de_de": "&7Folge uns auf <#E1306C>Instagram&7:",
-            "en_us": "&7Follow us on <#E1306C>Instagram&7:"
+            "en_US": "&7Follow us on <#E1306C>Instagram&7:",
+            "de_DE": "&7Folge uns auf <#E1306C>Instagram&7:"
         },
         "SOCIALMEDIA.x":
         {
-            "de_de": "&7Folge uns auf &fX&7:",
-            "en_us": "&7Follow us on &fX&7:"
+            "en_US": "&7Follow us on &fX&7:",
+            "de_DE": "&7Folge uns auf &fX&7:"
         },
         "GIVEHEAD.noarg_1":
         {
-            "de_de": "&cBitte gib den &6Namen &ceines Minecraft-Java-Accounts oder den &6Link von &n",
-            "en_us": "&cPlease provide the &6name &cof a Minecraft Java account or a &6link from &n"
+            "en_US": "&cPlease provide the &6name &cof a Minecraft Java account or a &6link from &n",
+            "de_DE": "&cBitte gib den &6Namen &ceines Minecraft-Java-Accounts oder den &6Link von &n"
         },
         "GIVEHEAD.noarg_2":
         {
-            "de_de": "&c an!",
-            "en_us": "&c!"
+            "en_US": "&c!",
+            "de_DE": "&c an!"
         },
         "GIVEHEAD.noperm":
         {
-            "de_de": "&cDu hast keine Berechtigung, diesen Befehl zu verwenden!",
-            "en_us": "&cYou do not have the required permission to use this command!"
+            "en_US": "&cYou do not have the required permission to use this command!",
+            "de_DE": "&cDu hast keine Berechtigung, diesen Befehl zu verwenden!"
         },
         "GIVEHEAD.head_error.name":
         {
-            "de_de": "&cKonnte &6VAR1&c's Kopf nicht finden!",
-            "en_us": "&cCouldn't find &6VAR1&c's head!"
+            "en_US": "&cCouldn't find &6VAR1&c's head!",
+            "de_DE": "&cKonnte &6VAR1&c's Kopf nicht finden!"
         },
         "GIVEHEAD.head_error.url":
         {
-            "de_de": "&cKonnte keinen Kopf mit dem Link &6VAR1 &cfinden!",
-            "en_us": "&cCouldn't find a head with the link &6VAR1&c!"
+            "en_US": "&cCouldn't find a head with the link &6VAR1&c!",
+            "de_DE": "&cKonnte keinen Kopf mit dem Link &6VAR1 &cfinden!"
         },
         "GIVEHEAD.nospam":
         {
-            "de_de": "&cBitte spamme diesen Befehl nicht!",
-            "en_us": "&cPlease do not spam this command!"
+            "en_US": "&cPlease do not spam this command!",
+            "de_DE": "&cBitte spamme diesen Befehl nicht!"
         },
         "GIVEHEAD.success.name":
         {
-            "de_de": "&eVAR1&7's Kopf wurde zu deinem Inventar &ahinzugefügt&7!",
-            "en_us": "&eVAR1&7's head was &aadded &7to your inventory!"
+            "en_US": "&eVAR1&7's head was &aadded &7to your inventory!",
+            "de_DE": "&eVAR1&7's Kopf wurde zu deinem Inventar &ahinzugefügt&7!"
         },
         "GIVEHEAD.success.url":
         {
-            "de_de": "&7Der Kopf &eVAR1 &7wurde zu deinem Inventar &ahinzugefügt&7!",
-            "en_us": "&7The head &eVAR1 &7was &aadded &7to your inventory!"
+            "en_US": "&7The head &eVAR1 &7was &aadded &7to your inventory!",
+            "de_DE": "&7Der Kopf &eVAR1 &7wurde zu deinem Inventar &ahinzugefügt&7!"
         },
         "SERVERSTOP.cancelled":
         {
-            "de_de": "Der Serverstop wurde abgebrochen.",
-            "en_us": "The server stop was cancelled."
+            "en_US": "The server stop was cancelled.",
+            "de_DE": "Der Serverstop wurde abgebrochen."
         },
         "SERVERSTOP.info":
         {
-            "de_de": "&c&lACHTUNG: <#ff6666>Der Server stoppt in",
-            "en_us": "&c&lATTENTION: <#ff6666>The server is stopping in"
+            "en_US": "&c&lATTENTION: <#ff6666>The server is stopping in",
+            "de_DE": "&c&lACHTUNG: <#ff6666>Der Server stoppt in"
         },
         "SERVERSTOP.seconds":
         {
-            "de_de": "Sekunden",
-            "en_us": "seconds"
+            "en_US": "seconds",
+            "de_DE": "Sekunden"
         },
         "SERVERSTOP.second":
         {
-            "de_de": "Sekunde",
-            "en_us": "second"
+            "en_US": "second",
+            "de_DE": "Sekunde"
         },
         "SERVERSTOP.minutes":
         {
-            "de_de": "Minuten",
-            "en_us": "minutes"
+            "en_US": "minutes",
+            "de_DE": "Minuten"
         },
         "SERVERSTOP.minute":
         {
-            "de_de": "Minute",
-            "en_us": "minute"
+            "en_US": "minute",
+            "de_DE": "Minute"
         },
         "SERVERSTOP.stop":
         {
-            "de_de": "&cDer Server &6[server] &cstoppt!",
-            "en_us": "&cThe server &6[server] &cis stopping!"
+            "en_US": "&cThe server &6VAR1 &cis stopping!",
+            "de_DE": "&cDer Server &6VAR1 &cstoppt!"
         },
         "RELOADSK.wait":
         {
-            "de_de": "&cDer Server &lLÄD GERADE ETWAS NEU&c... Bitte habe ein wenig Geduld!",
-            "en_us": "&cServer is &lRELOADING &csomething... Please be patient!"
+            "en_US": "&cServer is &lRELOADING &csomething... Please be patient!",
+            "de_DE": "&cDer Server &lLÄD GERADE ETWAS NEU&c... Bitte habe ein wenig Geduld!"
         },
         "RELOADSK.done":
         {
-            "de_de": "&aNeu laden abgeschlossen!",
-            "en_us": "&aReload complete!"
+            "en_US": "&aReload complete!",
+            "de_DE": "&aNeu laden abgeschlossen!"
         },
         "CHESTS.hint":
         {
-            "de_de": "&6TIPP: &7Doppelklicke in einer Kiste um die enthaltenen Items zu sortieren!",
-            "de_xx": "&6NICHT LESEN: &7Doppelklicke in einer Kiste um die enthaltenen Items zu löschen! ;)",
-            "en_us": "&6HINT: &7Double-click in a chest to sort the contained items!"
+            "en_US": "&6HINT: &7Double-click in a chest to sort the contained items!",
+            "de_DE": "&6TIPP: &7Doppelklicke in einer Kiste um die enthaltenen Items zu sortieren!",
+            "de_XX": "&6NICHT LESEN: &7Doppelklicke in einer Kiste um die enthaltenen Items zu löschen! ;)"
         },
         "CHAT.mention":
         {
-            "de_de": "hat dich in einer Nachricht erwähnt!",
-            "en_us": "has mentioned you in a message!"
+            "en_US": "has mentioned you in a message!",
+            "de_DE": "hat dich in einer Nachricht erwähnt!"
         },
         "CHAT.input.timeout":
         {
-            "de_de": "Die Zeit für deine Chateingabe ist abgelaufen!",
-            "en_us": "The time for your chat input has expired!"
+            "en_US": "The time for your chat input has expired!",
+            "de_DE": "Die Zeit für deine Chateingabe ist abgelaufen!"
         },
         "CHAT.command.color":
         {
-            "de_de": "Eine Anleitung für die Verwendung von Farben und Formatierungen im Chat findest du unter",
-            "en_us": "A tutorial on how to use colors and formatting in chat can be found at"
+            "en_US": "A tutorial on how to use colors and formatting in chat can be found at",
+            "de_DE": "Eine Anleitung für die Verwendung von Farben und Formatierungen im Chat findest du unter"
         },
         "CHAT.command.emoji":
         {
-            "de_de": "Verfügbare Emojis:",
-            "en_us": "Available emojis:"
+            "en_US": "Available emojis:",
+            "de_DE": "Verfügbare Emojis:"
         },
         "VANISH.disabled":
         {
-            "de_de": "&7Dein Vanish wurde &cdeaktiviert&7!",
-            "en_us": "&7Your vanish has been &cdisabled&7!"
+            "en_US": "&7Your vanish has been &cdisabled&7!",
+            "de_DE": "&7Dein Vanish wurde &cdeaktiviert&7!"
         },
         "VANISH.enabled":
         {
-            "de_de": "&7Dein Vanish wurde &aaktiviert&7!",
-            "en_us": "&7Your vanish has been &aenabled&7!"
+            "en_US": "&7Your vanish has been &aenabled&7!",
+            "de_DE": "&7Dein Vanish wurde &aaktiviert&7!"
         },
         "VANISH.disabledto1":
         {
-            "de_de": "&7Vanish von",
-            "en_us": "&7Vanish of"
+            "en_US": "&7Vanish of",
+            "de_DE": "&7Vanish von"
         },
         "VANISH.disabledto2":
         {
-            "de_de": "&7wurde &cdeaktiviert&7!",
-            "en_us": "&7has been &cdisabled&7!"
+            "en_US": "&7has been &cdisabled&7!",
+            "de_DE": "&7wurde &cdeaktiviert&7!"
         },
         "VANISH.enabledto1":
         {
-            "de_de": "&7Vanish von",
-            "en_us": "&7Vanish of"
+            "en_US": "&7Vanish of",
+            "de_DE": "&7Vanish von"
         },
         "VANISH.enabledto2":
         {
-            "de_de": "&7wurde &aaktiviert&7!",
-            "en_us": "&7has been &aenabled&7!"
+            "en_US": "&7has been &aenabled&7!",
+            "de_DE": "&7wurde &aaktiviert&7!"
         },
         "NICK.nopermission":
         {
-            "de_de": "Du hast nicht die benötigte Berechtigung um diesen Befehl auszuführen!",
-            "en_us": "You do not have the required permission to execute this command!"
+            "en_US": "You do not have the required permission to execute this command!",
+            "de_DE": "Du hast nicht die benötigte Berechtigung um diesen Befehl auszuführen!"
         },
         "NICK.nospam":
         {
-            "de_de": "Bitte verwende diesen Befehl ein wenig langsamer!",
-            "en_us": "Please use this command a little bit slower!"
+            "en_US": "Please use this command a little bit slower!",
+            "de_DE": "Bitte verwende diesen Befehl ein wenig langsamer!"
         },
         "NICK.nick_done":
         {
-            "de_de": "&aDein neuer Nickname wurde erfolgreich gesetzt! &7(Du siehst immernoch deinen alten Skin.)",
-            "en_us": "&aYour new nickname has been successfully set! &7(You still see your old skin.)"
+            "en_US": "&aYour new nickname has been successfully set! &7(You still see your old skin.)",
+            "de_DE": "&aDein neuer Nickname wurde erfolgreich gesetzt! &7(Du siehst immernoch deinen alten Skin.)"
         },
         "NICK.unnick_done":
         {
-            "de_de": "&aDein Nickname wurde erfolgreich entfernt!",
-            "en_us": "&aYour nickname has been successfully removed!"
+            "en_US": "&aYour nickname has been successfully removed!",
+            "de_DE": "&aDein Nickname wurde erfolgreich entfernt!"
         },
         "NICK.wait":
         {
-            "de_de": "Bitte warten",
-            "en_us": "Please wait"
+            "en_US": "Please wait",
+            "de_DE": "Bitte warten"
         },
         "NICK.namemc_tooltip":
         {
-            "de_de": "Klicke, um die NameMC-Seite zu öffnen.",
-            "en_us": "Click to open NameMC-Page."
+            "en_US": "Click to open NameMC-Page.",
+            "de_DE": "Klicke, um die NameMC-Seite zu öffnen."
         },
         "NICK.not_nicked":
         {
-            "de_de": "Du bist nicht genickt!",
-            "en_us": "You aren't nicked!"
+            "en_US": "You aren't nicked!",
+            "de_DE": "Du bist nicht genickt!"
         },
         "GIVEAWAY.recieve.title":
         {
-            "de_de": "<#ECAC2B>&lVAR1 &7≫ <#fb2d09>ʜ<#fb3409>ᴇ<#fb3b08>ʀ<#fb4208>ᴢ<#fb4907>ʟ<#fb5007>ɪ<#fc5606>ᴄ<#fc5d06>ʜ<#fc6406>ᴇ<#fc6b05>ɴ <#fc7205>ɢ<#fc7904>ʟ<#fc8004>ü<#fc8703>ᴄ<#fc8e03>ᴋ<#fc9503>ᴡ<#fd9b02>ᴜ<#fda202>ɴ<#fda901>s<#fdb001>ᴄ<#fdb700>ʜ<#fdbe00>!",
-            "en_us": "<#ECAC2B>&lVAR1 &7≫ <#fb2d09>ᴄ<#fb3708>ᴏ<#fb4008>ɴ<#fb4a07>ɢ<#fc5407>ʀ<#fc5d06>ᴀ<#fc6705>ᴛ<#fc7105>ᴜ<#fc7a04>ʟ<#fc8404>ᴀ<#fc8e03>ᴛ<#fc9702>ɪ<#fda102>ᴏ<#fdab01>ɴ<#fdb401>s<#fdbe00>!"
+            "en_US": "<#ECAC2B>&lVAR1 &7≫ <#fb2d09>ᴄ<#fb3708>ᴏ<#fb4008>ɴ<#fb4a07>ɢ<#fc5407>ʀ<#fc5d06>ᴀ<#fc6705>ᴛ<#fc7105>ᴜ<#fc7a04>ʟ<#fc8404>ᴀ<#fc8e03>ᴛ<#fc9702>ɪ<#fda102>ᴏ<#fdab01>ɴ<#fdb401>s<#fdbe00>!",
+            "de_DE": "<#ECAC2B>&lVAR1 &7≫ <#fb2d09>ʜ<#fb3409>ᴇ<#fb3b08>ʀ<#fb4208>ᴢ<#fb4907>ʟ<#fb5007>ɪ<#fc5606>ᴄ<#fc5d06>ʜ<#fc6406>ᴇ<#fc6b05>ɴ <#fc7205>ɢ<#fc7904>ʟ<#fc8004>ü<#fc8703>ᴄ<#fc8e03>ᴋ<#fc9503>ᴡ<#fd9b02>ᴜ<#fda202>ɴ<#fda901>s<#fdb001>ᴄ<#fdb700>ʜ<#fdbe00>!"
         },
         "GIVEAWAY.recieve.message_line.1":
         {
-            "de_de": "&7Du hast gerade einen Gewinncode für das Gewinnspiel gewonnen!",
-            "en_us": "&7You just won a winning code for the giveaway!"
+            "en_US": "&7You just won a winning code for the giveaway!",
+            "de_DE": "&7Du hast gerade einen Gewinncode für das Gewinnspiel gewonnen!"
         },
         "GIVEAWAY.recieve.message_line.2":
         {
-            "de_de": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Dein Code lautet \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren!\"\"}},{\"\"text\"\":\"\"! (klicke zum kopieren)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren!\"\"}}]",
-            "en_us": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Your code is \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy!\"\"}},{\"\"text\"\":\"\"! (click to copy)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy!\"\"}}]"
+            "en_US": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Your code is \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy!\"\"}},{\"\"text\"\":\"\"! (click to copy)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy!\"\"}}]",
+            "de_DE": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Dein Code lautet \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren!\"\"}},{\"\"text\"\":\"\"! (klicke zum kopieren)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren!\"\"}}]"
         },
         "GIVEAWAY.recieve.message_line.3":
         {
-            "de_de": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Du musst folgendes tun um eine Chance auf den Gewinn zu haben: \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}},{\"\"text\"\":\"\" (klicke zum kopieren/öffnen)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}}]",
-            "en_us": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"You must do the following to have a chance to win: \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy/open!\"\"}},{\"\"text\"\":\"\" (click to copy/open)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}}]"
+            "en_US": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"You must do the following to have a chance to win: \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy/open!\"\"}},{\"\"text\"\":\"\" (click to copy/open)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}}]",
+            "de_DE": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2714\"\",\"\"color\"\":\"\"##4CFF00\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSD\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Du musst folgendes tun um eine Chance auf den Gewinn zu haben: \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}},{\"\"text\"\":\"\" (klicke zum kopieren/öffnen)\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR2\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke zum kopieren/öffnen!\"\"}}]"
         },
         "RESOURCEPACK_UPDATE.message":
         {
-            "de_de": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Unser Ressoucenpaket wurde aktualisiert! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Das Update wird bei deinem nächsten Serverwechsel automatisch geladen. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[UPDATE JETZT LADEN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}}]",
-            "en_us": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Our resource pack has been updated! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"The update will be applied automatically with your next server switch. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLY UPDATE NOW] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}}]",
-            "es_es": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"¡Nuestro paquete de recursos ha sido actualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La actualización se aplicará automáticamente con su próximo cambio de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ACTUALIZACIÓN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}}]",
-            "fr_fr": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Notre pack de ressources a été mis à jour ! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La mise à jour sera appliquée automatiquement lors de votre prochain changement de serveur. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLIQUER LA MISE À JOUR] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"CliCliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}}]",
-            "pt_pt": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Nosso pacote de recursos foi atualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"A atualização será aplicada automaticamente com sua próxima troca de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ATUALIZAÇÃO] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}}]",
-            "tr_tr": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Kaynak paketimiz güncellendi! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Güncelleme, bir sonraki sunucu geçişinizde otomatik olarak uygulanacaktır. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[ŞİMDİ GÜNCELLEMEYİ UYGULA] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}}]"
+            "en_US": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Our resource pack has been updated! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"The update will be applied automatically with your next server switch. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLY UPDATE NOW] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}}]",
+            "de_DE": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Unser Ressoucenpaket wurde aktualisiert! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Das Update wird bei deinem nächsten Serverwechsel automatisch geladen. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[UPDATE JETZT LADEN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}}]",
+            "pt_PT": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Nosso pacote de recursos foi atualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"A atualização será aplicada automaticamente com sua próxima troca de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ATUALIZAÇÃO] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}}]",
+            "es_ES": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"¡Nuestro paquete de recursos ha sido actualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La actualización se aplicará automáticamente con su próximo cambio de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ACTUALIZACIÓN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}}]",
+            "fr_FR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Notre pack de ressources a été mis à jour ! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La mise à jour sera appliquée automatiquement lors de votre prochain changement de serveur. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLIQUER LA MISE À JOUR] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"CliCliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}}]",
+            "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Kaynak paketimiz güncellendi! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Güncelleme, bir sonraki sunucu geçişinizde otomatik olarak uygulanacaktır. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[ŞİMDİ GÜNCELLEMEYİ UYGULA] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}}]"
         },
         "RESOURCEPACK_LOADUPDATE.message":
         {
-            "de_de": "&aAkualisiere das Ressourcenpaket...",
-            "en_us": "&aUpdating the resource pack...",
-            "es_es": "&aActualizando el paquete de recursos...",
-            "fr_fr": "&aMise à jour du pack de ressources...",
-            "pt_pt": "&aAtualizando o pacote de recursos...",
-            "tr_tr": "&aKaynak paketi güncelleniyor..."
+            "en_US": "&aUpdating the resource pack...",
+            "de_DE": "&aAkualisiere das Ressourcenpaket...",
+            "pt_PT": "&aAtualizando o pacote de recursos...",
+            "es_ES": "&aActualizando el paquete de recursos...",
+            "fr_FR": "&aMise à jour du pack de ressources...",
+            "tr_TR": "&aKaynak paketi güncelleniyor..."
         },
         "RESOURCEPACK_LOADING.message":
         {
-            "de_de": "&aLade das Ressourcenpaket...",
-            "en_us": "&aLoading the resource pack...",
-            "es_es": "&aCargando el paquete de recursos...",
-            "fr_fr": "&aChargement du pack de ressources...",
-            "pt_pt": "&aCarregando o pacote de recursos...",
-            "tr_tr": "&aKaynak paketi yükleniyor..."
+            "en_US": "&aLoading the resource pack...",
+            "de_DE": "&aLade das Ressourcenpaket...",
+            "pt_PT": "&aCarregando o pacote de recursos...",
+            "es_ES": "&aCargando el paquete de recursos...",
+            "fr_FR": "&aChargement du pack de ressources...",
+            "tr_TR": "&aKaynak paketi yükleniyor..."
         },
         "RESOURCEPACK_UPDATE.nospam":
         {
-            "de_de": "&cBitte spamme diesen Befehl nicht!",
-            "en_us": "&cPlease do not spam this command!",
-            "es_es": "&c¡Por favor, no envíe spam con este comando!",
-            "fr_fr": "&cMerci de ne pas spammer cette commande !",
-            "pt_pt": "&cPor favor, não faça spam com este comando!",
-            "tr_tr": "&cLütfen bu komutu spam yapmayın!"
+            "en_US": "&cPlease do not spam this command!",
+            "de_DE": "&cBitte spamme diesen Befehl nicht!",
+            "pt_PT": "&cPor favor, não faça spam com este comando!",
+            "es_ES": "&c¡Por favor, no envíe spam con este comando!",
+            "fr_FR": "&cMerci de ne pas spammer cette commande !",
+            "tr_TR": "&cLütfen bu komutu spam yapmayın!"
         },
         "SIGN.lore":
         {
-            "de_de": "&7Signiert von <#face05>VAR1 &7am &eVAR2",
-            "en_us": "&7Signed by <#face05>VAR1 &7on &eVAR2"
+            "en_US": "&7Signed by <#face05>VAR1 &7on &eVAR2",
+            "de_DE": "&7Signiert von <#face05>VAR1 &7am &eVAR2"
         },
         "SIGN.lore.date_format":
         {
-            "de_de": "DAY. MONTH YEAR",
-            "en_us": "MONTH DAY, YEAR"
+            "en_US": "MONTH DAY, YEAR",
+            "de_DE": "DAY. MONTH YEAR"
         },
         "SIGN.lore.month01":
         {
-            "de_de": "Januar",
-            "en_us": "January"
+            "en_US": "January",
+            "de_DE": "Januar"
         },
         "SIGN.lore.month02":
         {
-            "de_de": "Februar",
-            "en_us": "February"
+            "en_US": "February",
+            "de_DE": "Februar"
         },
         "SIGN.lore.month03":
         {
-            "de_de": "März",
-            "en_us": "March"
+            "en_US": "March",
+            "de_DE": "März"
         },
         "SIGN.lore.month04":
         {
-            "de_de": "April",
-            "en_us": "April"
+            "en_US": "April",
+            "de_DE": "April"
         },
         "SIGN.lore.month05":
         {
-            "de_de": "Mai",
-            "en_us": "May"
+            "en_US": "May",
+            "de_DE": "Mai"
         },
         "SIGN.lore.month06":
         {
-            "de_de": "Juni",
-            "en_us": "June"
+            "en_US": "June",
+            "de_DE": "Juni"
         },
         "SIGN.lore.month07":
         {
-            "de_de": "Juli",
-            "en_us": "July"
+            "en_US": "July",
+            "de_DE": "Juli"
         },
         "SIGN.lore.month08":
         {
-            "de_de": "August",
-            "en_us": "August"
+            "en_US": "August",
+            "de_DE": "August"
         },
         "SIGN.lore.month09":
         {
-            "de_de": "September",
-            "en_us": "September"
+            "en_US": "September",
+            "de_DE": "September"
         },
         "SIGN.lore.month10":
         {
-            "de_de": "Oktober",
-            "en_us": "October"
+            "en_US": "October",
+            "de_DE": "Oktober"
         },
         "SIGN.lore.month11":
         {
-            "de_de": "November",
-            "en_us": "November"
+            "en_US": "November",
+            "de_DE": "November"
         },
         "SIGN.lore.month12":
         {
-            "de_de": "Dezember",
-            "en_us": "December"
+            "en_US": "December",
+            "de_DE": "Dezember"
         },
         "SIGN.disabled":
         {
-            "de_de": "&aDas Signieren von Items ist in diesem Spielmodus nicht erlaubt!",
-            "en_us": "&cSigning items is not allowed in this game mode!"
+            "en_US": "&cSigning items is not allowed in this game mode!",
+            "de_DE": "&aDas Signieren von Items ist in diesem Spielmodus nicht erlaubt!"
         },
         "SIGN.success":
         {
-            "de_de": "&aDu hast dein Item erfolgreich signiert!",
-            "en_us": "&aYou successfully signed your item!"
+            "en_US": "&aYou successfully signed your item!",
+            "de_DE": "&aDu hast dein Item erfolgreich signiert!"
         },
         "SIGN.success.other":
         {
-            "de_de": "&aDu hast dein Item erfolgreich im Namen von &eVAR1 &asigniert!",
-            "en_us": "&aYou successfully signed your item on behalf of &eVAR1&a!"
+            "en_US": "&aYou successfully signed your item on behalf of &eVAR1&a!",
+            "de_DE": "&aDu hast dein Item erfolgreich im Namen von &eVAR1 &asigniert!"
         },
         "SIGN.alreadysigned":
         {
-            "de_de": "&cDu hast dieses Item bereits signiert!",
-            "en_us": "&cYou already signed this item!"
+            "en_US": "&cYou already signed this item!",
+            "de_DE": "&cDu hast dieses Item bereits signiert!"
         },
         "SIGN.alreadysigned.other":
         {
-            "de_de": "&cDiese Person hat dieses Item bereits signiert!",
-            "en_us": "&cThis player already signed this item!"
+            "en_US": "&cThis player already signed this item!",
+            "de_DE": "&cDiese Person hat dieses Item bereits signiert!"
         },
         "SIGN.cooldown":
         {
-            "de_de": "&cDu kannst noch kein neues Item signieren! Bitte warte noch &6VAR1&c!",
-            "en_us": "&cYou can't sign a new item yet! Please wait another &6VAR1&c!"
+            "en_US": "&cYou can't sign a new item yet! Please wait another &6VAR1&c!",
+            "de_DE": "&cDu kannst noch kein neues Item signieren! Bitte warte noch &6VAR1&c!"
         },
         "SIGN.nostack":
         {
-            "de_de": "&cDu kannst keine gestapelten (gestackten) Items signieren!",
-            "en_us": "&cYou can't sign stacked items!"
+            "en_US": "&cYou can't sign stacked items!",
+            "de_DE": "&cDu kannst keine gestapelten (gestackten) Items signieren!"
         },
         "SIGN.noitem":
         {
-            "de_de": "&cBitte halte ein Item in deiner Hand, um dieses zu signieren!",
-            "en_us": "&cPlease hold an item in your hand to sign it!"
+            "en_US": "&cPlease hold an item in your hand to sign it!",
+            "de_DE": "&cBitte halte ein Item in deiner Hand, um dieses zu signieren!"
         },
         "TIME.word_and":
         {
-            "de_de": "und",
-            "en_us": "and",
-            "pt_pt": "e"
+            "en_US": "and",
+            "de_DE": "und"
         },
         "TIME.years":
         {
-            "de_de": "Jahre",
-            "en_us": "years"
+            "en_US": "years",
+            "de_DE": "Jahre"
         },
         "TIME.year":
         {
-            "de_de": "Jahr",
-            "en_us": "year"
+            "en_US": "year",
+            "de_DE": "Jahr"
         },
         "TIME.days":
         {
-            "de_de": "Tage",
-            "en_us": "days"
+            "en_US": "days",
+            "de_DE": "Tage"
         },
         "TIME.day":
         {
-            "de_de": "Tag",
-            "en_us": "day"
+            "en_US": "day",
+            "de_DE": "Tag"
         },
         "TIME.hours":
         {
-            "de_de": "Stunden",
-            "en_us": "hours"
+            "en_US": "hours",
+            "de_DE": "Stunden"
         },
         "TIME.hour":
         {
-            "de_de": "Stunde",
-            "en_us": "hour"
+            "en_US": "hour",
+            "de_DE": "Stunde"
         },
         "TIME.minutes":
         {
-            "de_de": "Minuten",
-            "en_us": "minutes"
+            "en_US": "minutes",
+            "de_DE": "Minuten"
         },
         "TIME.minute":
         {
-            "de_de": "Minute",
-            "en_us": "minute"
+            "en_US": "minute",
+            "de_DE": "Minute"
         },
         "TIME.seconds":
         {
-            "de_de": "Sekunden",
-            "en_us": "seconds"
+            "en_US": "seconds",
+            "de_DE": "Sekunden"
         },
         "TIME.second":
         {
-            "de_de": "Sekunde",
-            "en_us": "second"
+            "en_US": "second",
+            "de_DE": "Sekunde"
         },
         "GENERAL.nopermission":
         {
-            "de_de": "&cDu hast nicht die benötigte Berechtigung um diesen Befehl auszuführen!",
-            "en_us": "&cYou do not have the required permission to execute this command!"
+            "en_US": "&cYou do not have the required permission to execute this command!",
+            "de_DE": "&cDu hast nicht die benötigte Berechtigung um diesen Befehl auszuführen!"
         },
         "GENERAL.chatclear":
         {
-            "de_de": "&eVAR1 &7hat den Chat geleert.",
-            "en_us": "&eVAR1 &7has cleared the chat."
+            "en_US": "&eVAR1 &7has cleared the chat.",
+            "de_DE": "&eVAR1 &7hat den Chat geleert."
         },
         "GENERAL.nospam":
         {
-            "de_de": "&cBitte spamme diesen Befehl nicht!",
-            "en_us": "&cPlease do not spam this command!",
-            "es_es": "&c¡Por favor, no envíe spam con este comando!",
-            "fr_fr": "&cMerci de ne pas spammer cette commande !",
-            "pt_pt": "&cPor favor, não faça spam com este comando!",
-            "tr_tr": "&cLütfen bu komutu spam yapmayın!"
+            "en_US": "&cPlease do not spam this command!",
+            "de_DE": "&cBitte spamme diesen Befehl nicht!",
+            "pt_PT": "&cPor favor, não faça spam com este comando!",
+            "es_ES": "&c¡Por favor, no envíe spam con este comando!",
+            "fr_FR": "&cMerci de ne pas spammer cette commande !",
+            "tr_TR": "&cLütfen bu komutu spam yapmayın!"
         },
         "PLAY.nogame":
         {
-            "de_de": "&cDas Spiel \"\"&6VAR1&c\"\" konnte nicht gefunden werden!",
-            "en_us": "&cCouldn't find the game \"\"&6VAR1&c\"\"!"
+            "en_US": "&cCouldn't find the game \"\"&6VAR1&c\"\"!",
+            "de_DE": "&cDas Spiel \"\"&6VAR1&c\"\" konnte nicht gefunden werden!"
         },
         "PLAY.nofree":
         {
-            "de_de": "&cKonnte kein freies Spiel in \"\"&6VAR1&c\"\" finden!",
-            "en_us": "&cCouldn't a free game in \"\"&6VAR1&c\"\"!"
+            "en_US": "&cCouldn't a free game in \"\"&6VAR1&c\"\"!",
+            "de_DE": "&cKonnte kein freies Spiel in \"\"&6VAR1&c\"\" finden!"
         },
         "CST.teleportprotection":
         {
-            "de_de": "&7Du hast nun &6Teleportschutz &7für &e10 Sekunden&7!",
-            "en_us": "&7You now have &e10 seconds &7of &6teleport protection&7!"
+            "en_US": "&7You now have &e10 seconds &7of &6teleport protection&7!",
+            "de_DE": "&7Du hast nun &6Teleportschutz &7für &e10 Sekunden&7!"
         },
         "CST.teleportcancel.damage":
         {
-            "de_de": "&cDer Teleportvorgang wurde abgebrochen, da du Schaden erlitten hast!",
-            "en_us": "&cTeleport cancelled because you suffered damage!"
+            "en_US": "&cTeleport cancelled because you suffered damage!",
+            "de_DE": "&cDer Teleportvorgang wurde abgebrochen, da du Schaden erlitten hast!"
         },
         "CST.teleportcancel.move":
         {
-            "de_de": "&cDer Teleportvorgang wurde abgebrochen, da du dich bewegt hast!",
-            "en_us": "&cTeleport cancelled because you moved!"
+            "en_US": "&cTeleport cancelled because you moved!",
+            "de_DE": "&cDer Teleportvorgang wurde abgebrochen, da du dich bewegt hast!"
         },
         "CST.teleport.incountdown":
         {
-            "de_de": "&7Da du in den letzten 10 Sekunden Schaden erlitten hast, wirst du erst in 5 Sekunden teleportiert.",
-            "en_us": "&7Since you took damage in the last 10 seconds, you will get teleported in 5 seconds."
+            "en_US": "&7Since you took damage in the last 10 seconds, you will get teleported in 5 seconds.",
+            "de_DE": "&7Da du in den letzten 10 Sekunden Schaden erlitten hast, wirst du erst in 5 Sekunden teleportiert."
         },
         "CST.teleport.countdown":
         {
-            "de_de": "&7Teleportiere in &eVAR1 Sekunden&7...",
-            "en_us": "&7Teleporting in &eVAR1 seconds&7..."
+            "en_US": "&7Teleporting in &eVAR1 seconds&7...",
+            "de_DE": "&7Teleportiere in &eVAR1 Sekunden&7..."
         },
         "CST.teleport.error":
         {
-            "de_de": "&cEin Fehler ist aufgetreten! Du konntest nicht teleportiert werden! &7Bitte versuche es erneut, oder kontaktiere den Support.",
-            "en_us": "&cAn error occurred! You couldn't get teleported! &7Please try again or contact the support."
+            "en_US": "&cAn error occurred! You couldn't get teleported! &7Please try again or contact the support.",
+            "de_DE": "&cEin Fehler ist aufgetreten! Du konntest nicht teleportiert werden! &7Bitte versuche es erneut, oder kontaktiere den Support."
         },
         "CST.alreadyteleporting":
         {
-            "de_de": "&cEs läuft bereits ein Teleportvorgang!",
-            "en_us": "&cA teleport process is already in progress!"
+            "en_US": "&cA teleport process is already in progress!",
+            "de_DE": "&cEs läuft bereits ein Teleportvorgang!"
         }
     }
 }
