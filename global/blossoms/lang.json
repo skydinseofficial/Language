@@ -4,138 +4,138 @@
     {
         "PREFIX.java.info":
         {
-            "de_de": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ",
-            "en_us": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ"
+            "en_US": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ",
+            "de_DE": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ"
         },
         "PREFIX.bedrock.info":
         {
-            "de_de": "&8[&7i&8] &6Blüten &8&l»",
-            "en_us": "&8[&7i&8] &6Blossoms &8&l»"
+            "en_US": "&8[&7i&8] &6Blossoms &8&l»",
+            "de_DE": "&8[&7i&8] &6Blüten &8&l»"
         },
         "PREFIX.java.success":
         {
-            "de_de": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&a",
-            "en_us": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&a"
+            "en_US": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&a",
+            "de_DE": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&a"
         },
         "PREFIX.bedrock.success":
         {
-            "de_de": "&8[&a+&8] &6Blüten &8&l»&a",
-            "en_us": "&8[&a+&8] &6Blossoms &8&l»&a"
+            "en_US": "&8[&a+&8] &6Blossoms &8&l»&a",
+            "de_DE": "&8[&a+&8] &6Blüten &8&l»&a"
         },
         "PREFIX.java.error":
         {
-            "de_de": "&8[<#FF1000>✘&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&c",
-            "en_us": "&8[<#FF1000>✘&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&c"
+            "en_US": "&8[<#FF1000>✘&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&c",
+            "de_DE": "&8[<#FF1000>✘&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&c"
         },
         "PREFIX.bedrock.error":
         {
-            "de_de": "&8[&cX&8] &6Blüten &8&l»&c",
-            "en_us": "&8[&cX&8] &6Blossoms &8&l»&c"
+            "en_US": "&8[&cX&8] &6Blossoms &8&l»&c",
+            "de_DE": "&8[&cX&8] &6Blüten &8&l»&c"
         },
         "blossom":
         {
-            "de_de": "<#fb0026>B<#fc0050>l<#fc007a>ü<#fd00a3>t<#fd00cd>e",
-            "en_us": "<#fb0026>B<#fb0042>l<#fc005e>o<#fc007a>s<#fc0095>s<#fd00b1>o<#fd00cd>m"
+            "en_US": "<#fb0026>B<#fb0042>l<#fc005e>o<#fc007a>s<#fc0095>s<#fd00b1>o<#fd00cd>m",
+            "de_DE": "<#fb0026>B<#fc0050>l<#fc007a>ü<#fd00a3>t<#fd00cd>e"
         },
         "blossoms":
         {
-            "de_de": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n",
-            "en_us": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s"
+            "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s",
+            "de_DE": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n"
         },
         "CMD.blossoms":
         {
-            "de_de": "&7Du hast &eVAR1 <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n&7.",
-            "en_us": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s&7."
+            "en_US": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s&7.",
+            "de_DE": "&7Du hast &eVAR1 <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n&7."
         },
         "MSG.gotblossoms.1":
         {
-            "de_de": "&7Du hast <#4CFF00>VAR1 VAR2 &7erhalten!",
-            "en_us": "&7You got <#4CFF00>VAR1 VAR2&7!"
+            "en_US": "&7You got <#4CFF00>VAR1 VAR2&7!",
+            "de_DE": "&7Du hast <#4CFF00>VAR1 VAR2 &7erhalten!"
         },
         "MSG.gotblossoms.2":
         {
-            "de_de": "&8[&7Heute: &aVAR3&7/&eVAR4 &8| &7Gesamt: <#FFD800>VAR5&8]",
-            "en_us": "&8[&7Today: &aVAR3&7/&eVAR4 &8| &7Total: <#FFD800>VAR5&8]"
+            "en_US": "&8[&7Today: &aVAR3&7/&eVAR4 &8| &7Total: <#FFD800>VAR5&8]",
+            "de_DE": "&8[&7Heute: &aVAR3&7/&eVAR4 &8| &7Gesamt: <#FFD800>VAR5&8]"
         },
         "MSG.spentblossoms":
         {
-            "de_de": "&7Du hast <#FF0000>VAR1 VAR2 &7ausgegeben! &8[&7Gesamt: <#FFD800>VAR3&8]",
-            "en_us": "&7You spent <#FF0000>VAR1 VAR2&7! &8[&7Total: <#FFD800>VAR3&8]"
+            "en_US": "&7You spent <#FF0000>VAR1 VAR2&7! &8[&7Total: <#FFD800>VAR3&8]",
+            "de_DE": "&7Du hast <#FF0000>VAR1 VAR2 &7ausgegeben! &8[&7Gesamt: <#FFD800>VAR3&8]"
         },
         "CMD.nopermission":
         {
-            "de_de": "&cDazu hast du keine Berechtigung!",
-            "en_us": "&cYou don't have permission for this!"
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
         },
         "MSG.datanotloaded":
         {
-            "de_de": "&cDeine Daten sind noch nicht geladen!",
-            "en_us": "&cYour Data is not loaded yet!"
+            "en_US": "&cYour Data is not loaded yet!",
+            "de_DE": "&cDeine Daten sind noch nicht geladen!"
         },
         "MSG.hasbeensetto":
         {
-            "de_de": "&7Deine <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7wurden auf &eVAR1 &7gesetzt!",
-            "en_us": "&7Your <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7have been set to &eVAR1&7!"
+            "en_US": "&7Your <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7have been set to &eVAR1&7!",
+            "de_DE": "&7Deine <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7wurden auf &eVAR1 &7gesetzt!"
         },
         "ECOADMIN.error.general":
         {
-            "de_de": "&cEin Fehler ist aufgetreten! Bitte versuche es erneut.",
-            "en_us": "&cAn error occurred! Please try again."
+            "en_US": "&cAn error occurred! Please try again.",
+            "de_DE": "&cEin Fehler ist aufgetreten! Bitte versuche es erneut."
         },
         "ECOADMIN.error.playereconotloaded":
         {
-            "de_de": "&cDie Währung vom Spieler ist auf dem Zielserver nicht geladen!",
-            "en_us": "&cThe economy of the player is not loaded on the target server!"
+            "en_US": "&cThe economy of the player is not loaded on the target server!",
+            "de_DE": "&cDie Währung vom Spieler ist auf dem Zielserver nicht geladen!"
         },
         "ECOADMIN.error.playeredatanotloaded":
         {
-            "de_de": "&cDie Spielerdaten sind auf dem Zielserver noch nicht geladen!",
-            "en_us": "&cThe playerdata is not yet loaded on the target server!"
+            "en_US": "&cThe playerdata is not yet loaded on the target server!",
+            "de_DE": "&cDie Spielerdaten sind auf dem Zielserver noch nicht geladen!"
         },
         "ECOADMIN.error.playernotonlineontargetserver":
         {
-            "de_de": "&cDieser Spieler ist nicht auf dem Zielserver online!",
-            "en_us": "&cThis player is not online on the target server!"
+            "en_US": "&cThis player is not online on the target server!",
+            "de_DE": "&cDieser Spieler ist nicht auf dem Zielserver online!"
         },
         "ECOADMIN.error.playernotonline":
         {
-            "de_de": "&cDieser Spieler ist nicht online!",
-            "en_us": "&cThis player is not online!"
+            "en_US": "&cThis player is not online!",
+            "de_DE": "&cDieser Spieler ist nicht online!"
         },
         "ECOADMIN.error.entervalidinteger":
         {
-            "de_de": "&cBitte gebe eine valide Zahl an!",
-            "en_us": "&cPlease enter a valid number!"
+            "en_US": "&cPlease enter a valid number!",
+            "de_DE": "&cBitte gebe eine valide Zahl an!"
         },
         "ECOADMIN.error.enterplayername":
         {
-            "de_de": "&cBitte gebe einen Spielernamen an!",
-            "en_us": "&cPlease enter a playername!"
+            "en_US": "&cPlease enter a playername!",
+            "de_DE": "&cBitte gebe einen Spielernamen an!"
         },
         "ECOADMIN.give.success":
         {
-            "de_de": "&7Du hast VAR1 &aerfolgreich &eVAR2 VAR3 &7gutgeschrieben! &8(Diese Aktion wurde aufgezeichnet)",
-            "en_us": "&7You &asuccessfully &7gave VAR1 &eVAR2 VAR3&7! &8(This action was recorded)"
+            "en_US": "&7You &asuccessfully &7gave VAR1 &eVAR2 VAR3&7! &8(This action was recorded)",
+            "de_DE": "&7Du hast VAR1 &aerfolgreich &eVAR2 VAR3 &7gutgeschrieben! &8(Diese Aktion wurde aufgezeichnet)"
         },
         "ECOADMIN.give.success.considerlimit":
         {
-            "de_de": "&7(Das Limit wurde berücksichtigt, möglicherweise wurde dies dadurch erreicht.)",
-            "en_us": "&7(The limit was taken into account, perhaps this was achieved as a result.)"
+            "en_US": "&7(The limit was taken into account, perhaps this was achieved as a result.)",
+            "de_DE": "&7(Das Limit wurde berücksichtigt, möglicherweise wurde dies dadurch erreicht.)"
         },
         "ECOADMIN.remove.success":
         {
-            "de_de": "&7Du hast &aerfolgreich &eVAR2 VAR3 &7von VAR1 &7entfernt! &8(Diese Aktion wurde aufgezeichnet)",
-            "en_us": "&7You &asuccessfully &7removed &eVAR2 VAR3 &7from VAR1! &8(This action was recorded)"
+            "en_US": "&7You &asuccessfully &7removed &eVAR2 VAR3 &7from VAR1! &8(This action was recorded)",
+            "de_DE": "&7Du hast &aerfolgreich &eVAR2 VAR3 &7von VAR1 &7entfernt! &8(Diese Aktion wurde aufgezeichnet)"
         },
         "ECOADMIN.set.success":
         {
-            "de_de": "&7Du hast &aerfolgreich &eVAR1&7's <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7auf &eVAR2 &7gesetzt! &8(Diese Aktion wurde aufgezeichnet)",
-            "en_us": "&7You &asuccessfully &7set VAR1&7's <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7to &eVAR2&7! &8(This action was recorded)"
+            "en_US": "&7You &asuccessfully &7set VAR1&7's <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7to &eVAR2&7! &8(This action was recorded)",
+            "de_DE": "&7Du hast &aerfolgreich &eVAR1&7's <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7auf &eVAR2 &7gesetzt! &8(Diese Aktion wurde aufgezeichnet)"
         },
         "ECOADMIN.get.success":
         {
-            "de_de": "VAR1 &7hat &eVAR2 VAR3&7.",
-            "en_us": "VAR1 &7has &eVAR2 VAR3&7."
+            "en_US": "VAR1 &7has &eVAR2 VAR3&7.",
+            "de_DE": "VAR1 &7hat &eVAR2 VAR3&7."
         }
     }
 }
