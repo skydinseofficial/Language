@@ -4,338 +4,338 @@
     {
         "CLOUDRESTART.initial":
         {
-            "de_de": "&eVAR1 &7startet das Netzwerk neu!",
-            "en_us": "&eVAR1 &7is &crestarting the network!"
+            "en_US": "&eVAR1 &7is &crestarting the network!",
+            "de_DE": "&eVAR1 &7startet das Netzwerk neu!"
         },
         "CLOUDRESTART.aborted":
         {
-            "de_de": "&cNetzwerk-Neustart abgebrochen!",
-            "en_us": "&cAborted network restart!"
+            "en_US": "&cAborted network restart!",
+            "de_DE": "&cNetzwerk-Neustart abgebrochen!"
         },
         "CLOUDRESTART.broadcast":
         {
-            "de_de": "&cACHTUNG! Das Netzwerk startet in &6VAR1 Sekunden &cneu! &7Dieser Prozess kann bis zu 10 Minuten dauern!",
-            "en_us": "&cATTENTION! The network is restarting in &6VAR1 seconds&c! &7This process might take up to 10 minutes!"
+            "en_US": "&cATTENTION! The network is restarting in &6VAR1 seconds&c! &7This process might take up to 10 minutes!",
+            "de_DE": "&cACHTUNG! Das Netzwerk startet in &6VAR1 Sekunden &cneu! &7Dieser Prozess kann bis zu 10 Minuten dauern!"
         },
         "MSG.not_online":
         {
-            "de_de": "ist nicht online!",
-            "en_us": "is not online!"
+            "en_US": "is not online!",
+            "de_DE": "ist nicht online!"
         },
         "MSG.disabled_bypass":
         {
-            "de_de": "hat MSGs bei sich deaktiviert, du kannst deine Nachricht aber aufgrund einer Permission dennoch versenden!",
-            "en_us": "has disabled their MSGs, but you can still send the message due to a permission!"
+            "en_US": "has disabled their MSGs, but you can still send the message due to a permission!",
+            "de_DE": "hat MSGs bei sich deaktiviert, du kannst deine Nachricht aber aufgrund einer Permission dennoch versenden!"
         },
         "MSG.disabled":
         {
-            "de_de": "hat MSGs bei sich deaktiviert!",
-            "en_us": "has disabled their MSGs!"
+            "en_US": "has disabled their MSGs!",
+            "de_DE": "hat MSGs bei sich deaktiviert!"
         },
         "MSG.self_disabled":
         {
-            "de_de": "Du hast deine eigenen MSGs deaktiviert! Das heißt, du kannst zwar Nachrichten versenden aber dir kann niemand antworten!",
-            "en_us": "You have deactivated your own MSGs! That means, you can send messages but nobody can answer you!"
+            "en_US": "You have deactivated your own MSGs! That means, you can send messages but nobody can answer you!",
+            "de_DE": "Du hast deine eigenen MSGs deaktiviert! Das heißt, du kannst zwar Nachrichten versenden aber dir kann niemand antworten!"
         },
         "MSG.messagemissing":
         {
-            "de_de": "Bitte gib eine Nachricht ein!",
-            "en_us": "Please enter a message!"
+            "en_US": "Please enter a message!",
+            "de_DE": "Bitte gib eine Nachricht ein!"
         },
         "MSG.playermissing":
         {
-            "de_de": "Bitte gib einen Spielernamen ein!",
-            "en_us": "Please enter a playername!"
+            "en_US": "Please enter a playername!",
+            "de_DE": "Bitte gib einen Spielernamen ein!"
         },
         "MSG.toggle_disabled":
         {
-            "de_de": "&7Du hast deine privaten Nachrichten erfolgreich &cdeaktiviert&7!",
-            "en_us": "&7You successfully &cdisabled &7your private messages!"
+            "en_US": "&7You successfully &cdisabled &7your private messages!",
+            "de_DE": "&7Du hast deine privaten Nachrichten erfolgreich &cdeaktiviert&7!"
         },
         "MSG.toggle_enabled":
         {
-            "de_de": "&7Du hast deine privaten Nachrichten erfolgreich &aaktiviert&7!",
-            "en_us": "&7You successfully &aenabled &7your private messages!"
+            "en_US": "&7You successfully &aenabled &7your private messages!",
+            "de_DE": "&7Du hast deine privaten Nachrichten erfolgreich &aaktiviert&7!"
         },
         "MSG.cant_answer":
         {
-            "de_de": "Es gibt aktuell keine Nachricht, auf die du antworten könntest!",
-            "en_us": "There is not message you could give an answer to!"
+            "en_US": "There is not message you could give an answer to!",
+            "de_DE": "Es gibt aktuell keine Nachricht, auf die du antworten könntest!"
         },
         "MSG.enable_button":
         {
-            "de_de": "&a[MSGs aktivieren]",
-            "en_us": "&a[enable MSGs]"
+            "en_US": "&a[enable MSGs]",
+            "de_DE": "&a[MSGs aktivieren]"
         },
         "MSG.msgself.1":
         {
-            "de_de": "Du kannst dir selbst keine Nachricht senden!",
-            "en_us": "You cannot send a message to yourself you idiot!"
+            "en_US": "You cannot send a message to yourself you idiot!",
+            "de_DE": "Du kannst dir selbst keine Nachricht senden!"
         },
         "MSG.msgself.2":
         {
-            "de_de": "Du musst sehr einsam sein wenn du dir selbst schreibst...",
-            "en_us": "You must be very lonely texting yourself..."
+            "en_US": "You must be very lonely texting yourself...",
+            "de_DE": "Du musst sehr einsam sein wenn du dir selbst schreibst..."
         },
         "MSG.msgself.3":
         {
-            "de_de": "Das bist du.",
-            "en_us": "This is you."
+            "en_US": "This is you.",
+            "de_DE": "Das bist du."
         },
         "MSG.msgself.4":
         {
-            "de_de": "Du kannst dir selber keine Nachrichten schreiben, du Idiot!",
-            "en_us": "You cant't message yourself!"
+            "en_US": "You cant't message yourself!",
+            "de_DE": "Du kannst dir selber keine Nachrichten schreiben, du Idiot!"
         },
         "MSG.msgself.5":
         {
-            "de_de": "Wieso versuchst du, dir selbst zu schreiben?",
-            "en_us": "Why are you trying to text yourself?"
+            "en_US": "Why are you trying to text yourself?",
+            "de_DE": "Wieso versuchst du, dir selbst zu schreiben?"
         },
         "MSG.msgself.6":
         {
-            "de_de": "Du kannst dir selbst keine Nachricht senden!",
-            "en_us": "You cannot send a message to yourself you idiot!"
+            "en_US": "You cannot send a message to yourself you idiot!",
+            "de_DE": "Du kannst dir selbst keine Nachricht senden!"
         },
         "MSG.msgself.7":
         {
-            "de_de": "Du kannst dir selber keine Nachrichten schreiben, du Idiot!",
-            "en_us": "You cant't message yourself!"
+            "en_US": "You cant't message yourself!",
+            "de_DE": "Du kannst dir selber keine Nachrichten schreiben, du Idiot!"
         },
         "MAIN.disconnect_kick":
         {
-            "de_de": "&cDer Server, auf dem du gerade warst (&6VAR1&c), hatte einige Verbindungsprobleme! Du wirst mit einem Lobby-Server verbunden...",
-            "en_us": "&cThe server you were previously on (&6VAR1&c) had some connection issues! Connecting you to a lobbyserver..."
+            "en_US": "&cThe server you were previously on (&6VAR1&c) had some connection issues! Connecting you to a lobbyserver...",
+            "de_DE": "&cDer Server, auf dem du gerade warst (&6VAR1&c), hatte einige Verbindungsprobleme! Du wirst mit einem Lobby-Server verbunden..."
         },
         "MAIN.restartbackend_start":
         {
-            "de_de": "&cUnser Backend startet gerade neu! &7Es kann kurzzeitig zu Problemen kommen.",
-            "en_us": "&cOur backend is restarting! &7Problems may occur for a short time."
+            "en_US": "&cOur backend is restarting! &7Problems may occur for a short time.",
+            "de_DE": "&cUnser Backend startet gerade neu! &7Es kann kurzzeitig zu Problemen kommen."
         },
         "MAIN.restartbackend_end":
         {
-            "de_de": "&aUnser Backend wurde erfolgreich neu gestartet! &7Es sollte nun alles wieder wie gewohnt funktionieren.",
-            "en_us": "&aOur backend was successfully restarted! &7Everything should now work as usual again."
+            "en_US": "&aOur backend was successfully restarted! &7Everything should now work as usual again.",
+            "de_DE": "&aUnser Backend wurde erfolgreich neu gestartet! &7Es sollte nun alles wieder wie gewohnt funktionieren."
         },
         "SERVERCONNECT.server_full":
         {
-            "de_de": "&cDer Zielserver ist voll!",
-            "en_us": "&cThe target server is full!",
-            "es_es": "&c¡El servidor de destino está lleno!",
-            "fr_fr": "&cLe serveur cible est plein !",
-            "pt_pt": "&cO servidor de destino está cheio!",
-            "tr_tr": "&cHedef sunucu dolu!"
+            "en_US": "&cThe target server is full!",
+            "de_DE": "&cDer Zielserver ist voll!",
+            "pt_PT": "&cO servidor de destino está cheio!",
+            "es_ES": "&c¡El servidor de destino está lleno!",
+            "fr_FR": "&cLe serveur cible est plein !",
+            "tr_TR": "&cHedef sunucu dolu!"
         },
         "SERVERCONNECT.group_full":
         {
-            "de_de": "&cDiese Servergruppe ist voll!",
-            "en_us": "&cThis server group is full!",
-            "es_es": "&c¡Este grupo de servidores está lleno!",
-            "fr_fr": "&cCe groupe de serveurs est complet !",
-            "pt_pt": "&cEste grupo de servidores está cheio!",
-            "tr_tr": "&cBu sunucu grubu dolu!"
+            "en_US": "&cThis server group is full!",
+            "de_DE": "&cDiese Servergruppe ist voll!",
+            "pt_PT": "&cEste grupo de servidores está cheio!",
+            "es_ES": "&c¡Este grupo de servidores está lleno!",
+            "fr_FR": "&cCe groupe de serveurs est complet !",
+            "tr_TR": "&cBu sunucu grubu dolu!"
         },
         "SERVERCONNECT.group_maintenance":
         {
-            "de_de": "&cDiese Servergruppe befindet sich im Wartungsmodus!",
-            "en_us": "&cThis server group is in maintenance mode!",
-            "es_es": "&c¡Este grupo de servidores está en modo de mantenimiento!",
-            "fr_fr": "&cCe groupe de serveurs est en mode maintenance !",
-            "pt_pt": "&cEste grupo de servidores está em modo de manutenção!",
-            "tr_tr": "&cBu sunucu grubu bakım modunda!"
+            "en_US": "&cThis server group is in maintenance mode!",
+            "de_DE": "&cDiese Servergruppe befindet sich im Wartungsmodus!",
+            "pt_PT": "&cEste grupo de servidores está em modo de manutenção!",
+            "es_ES": "&c¡Este grupo de servidores está en modo de mantenimiento!",
+            "fr_FR": "&cCe groupe de serveurs est en mode maintenance !",
+            "tr_TR": "&cBu sunucu grubu bakım modunda!"
         },
         "SERVERCONNECT.too_many_connections_at_once":
         {
-            "de_de": "&cEs verbinden sich derzeit zu viele auf einmal auf &6VAR1&c!",
-            "en_us": "&cThere are currently too many connecting at once on &6VAR1&c!",
-            "es_es": "&c¡Actualmente hay demasiados conectándose a la vez en &6VAR1&c!",
-            "fr_fr": "&cIl y a actuellement trop de personnes qui se connectent en même temps sur &6VAR1&c!",
-            "pt_pt": "&cAtualmente, há demasiadas ligações em simultâneo na &6VAR1&c!",
-            "tr_tr": "&cŞu anda &6VAR1&c'de aynı anda çok fazla bağlantı var!"
+            "en_US": "&cThere are currently too many connecting at once on &6VAR1&c!",
+            "de_DE": "&cEs verbinden sich derzeit zu viele auf einmal auf &6VAR1&c!",
+            "pt_PT": "&cAtualmente, há demasiadas ligações em simultâneo na &6VAR1&c!",
+            "es_ES": "&c¡Actualmente hay demasiados conectándose a la vez en &6VAR1&c!",
+            "fr_FR": "&cIl y a actuellement trop de personnes qui se connectent en même temps sur &6VAR1&c!",
+            "tr_TR": "&cŞu anda &6VAR1&c'de aynı anda çok fazla bağlantı var!"
         },
         "SERVERCONNECT.error":
         {
-            "de_de": "&cEs ist ein Fehler aufgetreten! Bitte versuche es erneut oder kontaktiere unser Serverteam!",
-            "en_us": "&cAn error occured! Please try again or contact our server team!",
-            "es_es": "&c¡Algo salió mal! Inténtalo de nuevo o ponte en contacto con nuestro equipo de servidores.",
-            "fr_fr": "&cQuelque chose s'est mal passé ! Veuillez réessayer ou contacter notre équipe serveur !",
-            "pt_pt": "&cAlgo deu errado! Por favor, tente novamente ou entre em contato com nossa equipe de servidores!",
-            "tr_tr": "&cBir şeyler yanlış gitti! Lütfen tekrar deneyin veya sunucu ekibimizle iletişime geçin!"
+            "en_US": "&cAn error occured! Please try again or contact our server team!",
+            "de_DE": "&cEs ist ein Fehler aufgetreten! Bitte versuche es erneut oder kontaktiere unser Serverteam!",
+            "pt_PT": "&cAlgo deu errado! Por favor, tente novamente ou entre em contato com nossa equipe de servidores!",
+            "es_ES": "&c¡Algo salió mal! Inténtalo de nuevo o ponte en contacto con nuestro equipo de servidores.",
+            "fr_FR": "&cQuelque chose s'est mal passé ! Veuillez réessayer ou contacter notre équipe serveur !",
+            "tr_TR": "&cBir şeyler yanlış gitti! Lütfen tekrar deneyin veya sunucu ekibimizle iletişime geçin!"
         },
         "QUEUE.no_server":
         {
-            "de_de": "&cEs ist kein Server online, um dich auf &6VAR1 &czu verbinden!",
-            "de_xx": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!",
-            "en_us": "&cThere is no server online to connect you to &6VAR1&c!",
-            "es_es": "&cNo hay ningún servidor en línea para conectarte a &6VAR1&c.",
-            "fr_fr": "&cIl n'y a pas de serveur en ligne pour te connecter à &6VAR1 &c!",
-            "pt_pt": "&cNão existe um servidor online para o ligar ao &6VAR1&c!",
-            "tr_tr": "&cSizi &6VAR1&c'e bağlayacak çevrimiçi bir sunucu yok!"
+            "en_US": "&cThere is no server online to connect you to &6VAR1&c!",
+            "de_DE": "&cEs ist kein Server online, um dich auf &6VAR1 &czu verbinden!",
+            "de_XX": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!",
+            "pt_PT": "&cNão existe um servidor online para o ligar ao &6VAR1&c!",
+            "es_ES": "&cNo hay ningún servidor en línea para conectarte a &6VAR1&c.",
+            "fr_FR": "&cIl n'y a pas de serveur en ligne pour te connecter à &6VAR1 &c!",
+            "tr_TR": "&cSizi &6VAR1&c'e bağlayacak çevrimiçi bir sunucu yok!"
         },
         "QUEUE.no_game":
         {
-            "de_de": "&cKonnte kein freies Spiel in &6VAR1 &cfinden!",
-            "de_xx": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!",
-            "en_us": "&cCouldn't find a free game in &6VAR1&c!",
-            "es_es": "&c¡No pude encontrar un juego libre en &6VAR1&c!",
-            "fr_fr": "&cN'a pas trouvé de jeu libre dans &6VAR1 &c!",
-            "pt_pt": "&cNão foi possível encontrar um jogo livre no &6VAR1&c!",
-            "tr_tr": "&6VAR1&c'de boş bir oyun bulamadım!"
+            "en_US": "&cCouldn't find a free game in &6VAR1&c!",
+            "de_DE": "&cKonnte kein freies Spiel in &6VAR1 &cfinden!",
+            "de_XX": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!",
+            "pt_PT": "&cNão foi possível encontrar um jogo livre no &6VAR1&c!",
+            "es_ES": "&c¡No pude encontrar un juego libre en &6VAR1&c!",
+            "fr_FR": "&cN'a pas trouvé de jeu libre dans &6VAR1 &c!",
+            "tr_TR": "&6VAR1&c'de boş bir oyun bulamadım!"
         },
         "QUEUE.connecting":
         {
-            "de_de": "&7Verbinde dich zu &eVAR1&7...",
-            "de_xx": "&7Verfrachte dich zu &eVAR1&7...",
-            "en_us": "&7Connecting you to &eVAR1&7...",
-            "es_es": "&7Conectar a &eVAR1&7...",
-            "fr_fr": "&7Connecte-toi à &eVAR1&7...",
-            "pt_pt": "&7Ligar a &eVAR1&7...",
-            "tr_tr": "&eVAR1&7'e bağlanın..."
+            "en_US": "&7Connecting you to &eVAR1&7...",
+            "de_DE": "&7Verbinde dich zu &eVAR1&7...",
+            "de_XX": "&7Verfrachte dich zu &eVAR1&7...",
+            "pt_PT": "&7Ligar a &eVAR1&7...",
+            "es_ES": "&7Conectar a &eVAR1&7...",
+            "fr_FR": "&7Connecte-toi à &eVAR1&7...",
+            "tr_TR": "&eVAR1&7'e bağlanın..."
         },
         "CONNECTION.title_default":
         {
-            "de_de": "&6VAR1&7's Verbindungsinformationen:",
-            "en_us": "&6VAR1&7's connection information:"
+            "en_US": "&6VAR1&7's connection information:",
+            "de_DE": "&6VAR1&7's Verbindungsinformationen:"
         },
         "CONNECTION.title_detailed":
         {
-            "de_de": "&6VAR1&7's &edetaillierte &7Verbindungsinformationen:",
-            "en_us": "&6VAR1&7's &edetailed &7connection information:"
+            "en_US": "&6VAR1&7's &edetailed &7connection information:",
+            "de_DE": "&6VAR1&7's &edetaillierte &7Verbindungsinformationen:"
         },
         "CONNECTION.default.online_since":
         {
-            "de_de": "Online seit:",
-            "en_us": "Online since:"
+            "en_US": "Online since:",
+            "de_DE": "Online seit:"
         },
         "CONNECTION.default.current_proxy":
         {
-            "de_de": "Aktueller Proxy:",
-            "en_us": "Current proxy:"
+            "en_US": "Current proxy:",
+            "de_DE": "Aktueller Proxy:"
         },
         "CONNECTION.default.current_server":
         {
-            "de_de": "Aktueller Server:",
-            "en_us": "Current server:"
+            "en_US": "Current server:",
+            "de_DE": "Aktueller Server:"
         },
         "CONNECTION.default.minecraft_version":
         {
-            "de_de": "Minecraft-Version:",
-            "en_us": "Minecraft version:"
+            "en_US": "Minecraft version:",
+            "de_DE": "Minecraft-Version:"
         },
         "CONNECTION.default.client_name":
         {
-            "de_de": "Client-Name:",
-            "en_us": "Client name:"
+            "en_US": "Client name:",
+            "de_DE": "Client-Name:"
         },
         "CONNECTION.detailed.uuid_java":
         {
-            "de_de": "Minecraft-Java-UUID:",
-            "en_us": "Minecraft Java UUID:"
+            "en_US": "Minecraft Java UUID:",
+            "de_DE": "Minecraft-Java-UUID:"
         },
         "CONNECTION.detailed.uuid_bedrock":
         {
-            "de_de": "Minecraft-Java-UUID (zur Kompatibilität):",
-            "en_us": "Minecraft Java UUID (for compability):"
+            "en_US": "Minecraft Java UUID (for compability):",
+            "de_DE": "Minecraft-Java-UUID (zur Kompatibilität):"
         },
         "CONNECTION.detailed.xuid":
         {
-            "de_de": "Xbox User ID (HEX):",
-            "en_us": "Xbox User ID (HEX):"
+            "en_US": "Xbox User ID (HEX):",
+            "de_DE": "Xbox User ID (HEX):"
         },
         "CONNECTION.detailed.minecraft_edition":
         {
-            "de_de": "Minecraft-Edition:",
-            "en_us": "Minecraft edition:"
+            "en_US": "Minecraft edition:",
+            "de_DE": "Minecraft-Edition:"
         },
         "CONNECTION.detailed.next_round":
         {
-            "de_de": "Nächste VAR1-Runde:",
-            "en_us": "Next VAR1 round:"
+            "en_US": "Next VAR1 round:",
+            "de_DE": "Nächste VAR1-Runde:"
         },
         "CONNECTION.detailed.current_ping":
         {
-            "de_de": "Aktueller Ping:",
-            "en_us": "Current ping:"
+            "en_US": "Current ping:",
+            "de_DE": "Aktueller Ping:"
         },
         "CONNECTION.detailed.language_setting":
         {
-            "de_de": "Spracheinstellung:",
-            "en_us": "Language setting:"
+            "en_US": "Language setting:",
+            "de_DE": "Spracheinstellung:"
         },
         "CONNECTION.detailed.language_client":
         {
-            "de_de": "Client-Sprache:",
-            "en_us": "Client language:"
+            "en_US": "Client language:",
+            "de_DE": "Client-Sprache:"
         },
         "CONNECTION.detailed.resoucepack_hash":
         {
-            "de_de": "Ressourcenpaket-Hash:",
-            "en_us": "Resoucepack hash:"
+            "en_US": "Resoucepack hash:",
+            "de_DE": "Ressourcenpaket-Hash:"
         },
         "CONNECTION.default.current_proxy.tooltip":
         {
-            "de_de": "Klicke, um den aktellen Proxy zu kopieren!",
-            "en_us": "Click to copy the current proxy!"
+            "en_US": "Click to copy the current proxy!",
+            "de_DE": "Klicke, um den aktellen Proxy zu kopieren!"
         },
         "CONNECTION.default.current_server.tooltip":
         {
-            "de_de": "Klicke, um den aktuellen Server zu kopieren!",
-            "en_us": "Click to copy the current server!"
+            "en_US": "Click to copy the current server!",
+            "de_DE": "Klicke, um den aktuellen Server zu kopieren!"
         },
         "CONNECTION.default.minecraft_version.tooltip":
         {
-            "de_de": "Klicke, um die Minecraft-Version zu kopieren!",
-            "en_us": "Click to copy the minecraft version!"
+            "en_US": "Click to copy the minecraft version!",
+            "de_DE": "Klicke, um die Minecraft-Version zu kopieren!"
         },
         "CONNECTION.default.client_name.tooltip":
         {
-            "de_de": "Klicke, um den Client-Namen zu kopieren!",
-            "en_us": "Click to copy the client name!"
+            "en_US": "Click to copy the client name!",
+            "de_DE": "Klicke, um den Client-Namen zu kopieren!"
         },
         "CONNECTION.detailed.uuid.tooltip":
         {
-            "de_de": "Klicke, um die UUID zu kopieren!",
-            "en_us": "Click to copy the UUID!"
+            "en_US": "Click to copy the UUID!",
+            "de_DE": "Klicke, um die UUID zu kopieren!"
         },
         "CONNECTION.detailed.xuid.tooltip":
         {
-            "de_de": "Klicke, um die XUID zu kopieren!",
-            "en_us": "Click to copy the XUID!"
+            "en_US": "Click to copy the XUID!",
+            "de_DE": "Klicke, um die XUID zu kopieren!"
         },
         "CONNECTION.detailed.minecraft_edition.tooltip":
         {
-            "de_de": "Klicke, um die Minecraft-Edition zu kopieren!",
-            "en_us": "Click to copy the minecraft edition!"
+            "en_US": "Click to copy the minecraft edition!",
+            "de_DE": "Klicke, um die Minecraft-Edition zu kopieren!"
         },
         "CONNECTION.detailed.next_round.tooltip":
         {
-            "de_de": "Klicke, um die nächste VAR1-Runde zu kopieren!",
-            "en_us": "Click to copy the next VAR1 round!"
+            "en_US": "Click to copy the next VAR1 round!",
+            "de_DE": "Klicke, um die nächste VAR1-Runde zu kopieren!"
         },
         "CONNECTION.detailed.current_ping.tooltip":
         {
-            "de_de": "Klicke, um den aktuellen Ping zu kopieren!",
-            "en_us": "Click to copy the current ping!"
+            "en_US": "Click to copy the current ping!",
+            "de_DE": "Klicke, um den aktuellen Ping zu kopieren!"
         },
         "CONNECTION.detailed.language_setting.tooltip":
         {
-            "de_de": "Klicke, um die Spacheinstellung zu kopieren!",
-            "en_us": "Click to copy the language setting!"
+            "en_US": "Click to copy the language setting!",
+            "de_DE": "Klicke, um die Spacheinstellung zu kopieren!"
         },
         "CONNECTION.detailed.language_client.tooltip":
         {
-            "de_de": "Klicke, um die Client-Sprache zu kopieren!",
-            "en_us": "Click to copy the client language!"
+            "en_US": "Click to copy the client language!",
+            "de_DE": "Klicke, um die Client-Sprache zu kopieren!"
         },
         "CONNECTION.detailed.resoucepack_hash.tooltip":
         {
-            "de_de": "Klicke, um Ressourcenpaket-Hash-Wert zu kopieren!",
-            "en_us": "Click to copy the resoucepack hash!"
+            "en_US": "Click to copy the resoucepack hash!",
+            "de_DE": "Klicke, um Ressourcenpaket-Hash-Wert zu kopieren!"
         },
         "CONNECTION.text.minigame":
         {
-            "de_de": "Minigame",
-            "en_us": "minigame"
+            "en_US": "minigame",
+            "de_DE": "Minigame"
         }
     }
 }
