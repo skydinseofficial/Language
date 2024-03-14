@@ -1,0 +1,926 @@
+{
+    "system": "profilesystem",
+    "translations":
+    {
+        "GUI.title.own":
+        {
+            "de_de": "&8Dein Profil",
+            "de_xx": "&8Dein Perso",
+            "en_us": "&8Your profile"
+        },
+        "GUI.title.other":
+        {
+            "de_de": "<#EA8701>VAR1&8's Profil",
+            "de_xx": "<#EA8701>VAR1&8's Perso",
+            "en_us": "<#EA8701>VAR1&8's profile"
+        },
+        "GUI.socialmedia.platform.youtube":
+        {
+            "de_de": "&6YouTube",
+            "de_xx": "&6DuRohr &7(&eYouTube&7)",
+            "en_us": "&6YouTube"
+        },
+        "GUI.socialmedia.platform.twitch":
+        {
+            "de_de": "&6Twitch",
+            "de_xx": "&6Zucken &7(&eTwitch&7)",
+            "en_us": "&6Twitch"
+        },
+        "GUI.socialmedia.platform.tiktok":
+        {
+            "de_de": "&6TikTok",
+            "de_xx": "&6Musical.ly &7(TikTok&7)",
+            "en_us": "&6TikTok"
+        },
+        "GUI.socialmedia.platform.instagram":
+        {
+            "de_de": "&6Instagram",
+            "de_xx": "&6Simstagram &7(Instagram&7)",
+            "en_us": "&6Instagram"
+        },
+        "GUI.socialmedia.platform.twitter":
+        {
+            "de_de": "&6X",
+            "de_xx": "&6Zwitschern &7(&eX&7, ehem. &eTwitter&7)",
+            "en_us": "&6X"
+        },
+        "GUI.socialmedia.platform.reddit":
+        {
+            "de_de": "&6Reddit",
+            "de_xx": "&6ReadIt &7(&eReddit&7)",
+            "en_us": "&6Reddit"
+        },
+        "GUI.socialmedia.platform.discord":
+        {
+            "de_de": "&6Discord",
+            "de_xx": "&6Zwietracht &7(&eDiscord&7)",
+            "en_us": "&6Discord"
+        },
+        "GUI.socialmedia.title":
+        {
+            "de_de": "&6Deine Links für Soziale Medien",
+            "de_xx": "&6Deine Links für Gesellschaftliche Medien",
+            "en_us": "&6Your social media links"
+        },
+        "GUI.socialmedia.changeentry":
+        {
+            "de_de": "&aEintrag ändern",
+            "de_xx": "&aEintragung abändern",
+            "en_us": "&aChange entry"
+        },
+        "GUI.socialmedia.removeentry":
+        {
+            "de_de": "&cEintrag entfernen",
+            "de_xx": "&cEintragung zurückziehen",
+            "en_us": "&cRemove entry"
+        },
+        "GUI.socialmedia.current":
+        {
+            "de_de": "&7Aktuell: &6VAR1",
+            "de_xx": "&7Jetzt: &6VAR1",
+            "en_us": "&7Current: &6VAR1"
+        },
+        "GUI.socialmedia.none":
+        {
+            "de_de": "&ckeines",
+            "de_xx": "&cnix",
+            "en_us": "&cnone"
+        },
+        "GUI.socialmedia.edit":
+        {
+            "de_de": "&8» <#F9BD31>Klicke zum bearbeiten!",
+            "de_xx": "&8» <#F9BD31>Klicke um abzuändern!",
+            "en_us": "&8» <#F9BD31>Click to edit!"
+        },
+        "GUI.socialmedia.input.discord":
+        {
+            "de_de": "&7Gib bitte deinen &6DiscordNamen&e##&6Tag &7im Chat ein (Gib \"\"remove\"\" ein, um Eintrag zu entfernen.)",
+            "de_xx": "&7Bitte teile uns deinen &6DiscordNamen&e##&6Tag &7in der Kommandozeile mit! (Gib \"\"remove\"\" ein, um Eintrag zu entfernen.)",
+            "en_us": "&7Please enter your &6DiscordName&e##&6Tag &7in chat! (Type \"\"remove\"\" to remove entry.)"
+        },
+        "GUI.socialmedia.input.other":
+        {
+            "de_de": "&7Gib bitte den Link zu deinem &6VAR1&7-Profil im Chat ein (Gib \"\"remove\"\" ein, um Eintrag zu entfernen.)",
+            "de_xx": "&7Bitte teile uns die Webadresse deines &6VAR1&7-Profiles durch die Kommandozeile mit! (Gib \"\"remove\"\" ein, um Eintrag zu entfernen.)",
+            "en_us": "&7Please enter the link to your &6VAR1&7-profile in chat! (Type \"\"remove\"\" to remove entry.)"
+        },
+        "GUI.socialmedia.input.cancel":
+        {
+            "de_de": "&cEingabe abgebrochen.",
+            "de_xx": "&cBefehl storniert.",
+            "en_us": "&cInput cancelled."
+        },
+        "GUI.socialmedia.input.add.success":
+        {
+            "de_de": "&aDeine Eingabe wurde übernommen.",
+            "de_xx": "&aDer Link wurde wie im Befehl beschrieben übernommen.",
+            "en_us": "&aYour entry has been taken over."
+        },
+        "GUI.socialmedia.input.remove.success":
+        {
+            "de_de": "&cDein Eintrag wurde entfernt.",
+            "de_xx": "&cDer Link wurde wie im Befehl beschrieben aus deinem Profil entfernt.",
+            "en_us": "&cYour entry has been removed."
+        },
+        "GUI.language.lobby":
+        {
+            "de_de": "&cDiese Option ist nur auf Lobbyservern verfügbar!",
+            "en_us": "&cThis option is available on lobby servers only!"
+        },
+        "GUI.language.title":
+        {
+            "de_de": "&6Deine Sprache",
+            "de_xx": "&6Deine Sprache",
+            "en_us": "&6Your language"
+        },
+        "GUI.language.success_message":
+        {
+            "de_de": "&aDeine Sprache wurde erfolgreich zu &eDeutsch &ageändert&a! &7(INFO: Es kann sein, dass du den Server neu betreten musst, damit alles in deiner neuen Sprache angezeigt wird!)",
+            "de_xx": "&aDeine Sprache wurde mit Bravur auf &eGermanisch &aumgeschaltet! &7(LIES: Es könnte vonnöten sein, den Server neuerlich zu betreten, auf dass sämtliche Anzeigen in deiner neugewählten Sprache ersichtlich werden.)",
+            "en_us": "&aYour language has been successfully set to &eEnglish&a! &7(INFO: You may have to enter the server again to get everything displayed in your new language!)",
+            "es_es": "&a¡Su idioma ha sido cambiado con éxito a &eEspañol&a! &7(INFO: ¡Puede que tenga que volver a entrar en el servidor para que todo se muestre en su nuevo idioma!)",
+            "fr_fr": "&aTa langue a été changée avec succès en &eFrançais &a! &7(INFO : Il se peut que tu doives entrer à nouveau sur le serveur pour que tout soit affiché dans ta nouvelle langue !)",
+            "pt_pt": "&aA sua língua foi alterada com sucesso para &ePortuguês&a! &7(INFORMAÇÃO: Poderá ter de voltar a entrar no servidor para que tudo seja apresentado na sua nova língua!)",
+            "tr_tr": "&aDiliniz başarıyla &eTürkçe &aolarak değiştirildi&a! &7(BİLGİ: Her şeyin yeni dilinizde görüntülenmesi için sunucuya yeniden girmeniz gerekebilir!)"
+        },
+        "GUI.stats.title":
+        {
+            "de_de": "&6Deine Statistiken",
+            "de_xx": "&6Statistiken von du",
+            "en_us": "&6Your statistics"
+        },
+        "GUI.blockedplayers.add":
+        {
+            "de_de": "&aEine weitere Person blockieren",
+            "de_xx": "&aEine weitere Person blockieren",
+            "en_us": "&aBlock another person"
+        },
+        "GUI.blockedplayers.title":
+        {
+            "de_de": "&6Blockierte Spieler",
+            "de_xx": "&6Gecancelte leute",
+            "en_us": "&6Blocked players"
+        },
+        "GUI.blockedplayers.lore_1":
+        {
+            "de_de": "&8» &cBlockiere Spieler können dein Profil nicht sehen!",
+            "en_us": "&8» &cBlocked players can't see your profile!"
+        },
+        "GUI.blockedplayers.lore_2":
+        {
+            "de_de": "&8» &7Außerdem werden dir Chatnachrichten und MSGs",
+            "de_xx": "&8» &7Außerdem werden dir Chatnachrichten und MSGs",
+            "en_us": "&8» &7Also, chat messages and MSGs from"
+        },
+        "GUI.blockedplayers.lore_3":
+        {
+            "de_de": "&8» &7von blockierten Spielern nicht angezeigt!",
+            "de_xx": "&8» &7von blockierten Spielern nicht angezeigt!",
+            "en_us": "&8» &7blocked players will not be shown to you!"
+        },
+        "GUI.blockedplayers.remove":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um diese Person zu entblocken!",
+            "de_xx": "&8» <#F9BD31>Klicke, um diese Person nicht weiter zu canceln!",
+            "en_us": "&8» <#F9BD31>Click to unblock this person!"
+        },
+        "GUI.blockedplayers.remove-success":
+        {
+            "de_de": "&7Du hast &eVAR1 &aentblockt&7!",
+            "de_xx": "&7DU hast &eVAR1 &aentblockt&7!",
+            "en_us": "&7You have &aunblocked &eVAR1&7!"
+        },
+        "GUI.blockedplayers.add-success":
+        {
+            "de_de": "&7Du hast &eVAR1 &cblockiert&7!",
+            "de_xx": "&7DU hast &eVAR1 &cblockiert&7!",
+            "en_us": "&7You have &cblocked &eVAR1&7!"
+        },
+        "GUI.blockedplayers.add-notext":
+        {
+            "de_de": "&cBitte gib einen Namen ein!",
+            "de_xx": "&cBitte stelle uns den Namen bereit!",
+            "en_us": "&cPlease enter a name!"
+        },
+        "GUI.blockedplayers.add-request":
+        {
+            "de_de": "&7Bitte schreibe den Namen auf das Schild!",
+            "de_xx": "&7Bitte trage den Namen auf dem Schild ein!",
+            "en_us": "&7Please write the name on the sign!"
+        },
+        "GUI.blockedplayers.add-request-chat":
+        {
+            "de_de": "&7Bitte schreibe den Namen in den chat!",
+            "de_xx": "&7Bitte trage den Namen im Chat ein!",
+            "en_us": "&7Please write the name in chat!"
+        },
+        "GUI.blockedplayers.add-cancel-chat":
+        {
+            "de_de": "&cEingabe abgebrochen.",
+            "de_xx": "&cBefehl storniert.",
+            "en_us": "&cInput cancelled."
+        },
+        "GUI.blockedplayers.add-notfound":
+        {
+            "de_de": "&cKonnte &6VAR1 &cnicht finden!",
+            "de_xx": "&cEs war uns leider nicht möglich, &6VAR1 &causfindig zu machen!",
+            "en_us": "&cCould not find &6VAR1&c!"
+        },
+        "GUI.serversettings.title":
+        {
+            "de_de": "&6Netzwerkeinstellungen",
+            "de_xx": "&6Netzwerkkonfiguration",
+            "en_us": "&6Network settings"
+        },
+        "GUI.profileother.socialmedia.link.java.other":
+        {
+            "de_de": "&7Klicke auf den folgenden Link, um &eVAR1&7's &6VAR2&7-Profil zu öffnen:",
+            "de_xx": "&7Klicke auf den folgenden Link, um &eVAR1&7's &6VAR2&7-Profil zu öffnen:",
+            "en_us": "&7Click on the following link to open &eVAR1&7's &6VAR2&7-profile:"
+        },
+        "GUI.profileother.socialmedia.link.java.discord":
+        {
+            "de_de": "&7Klicke auf den folgenden Text, um &eVAR1&7's &6VAR2&7-Nutzernamen in deinen Chat zu kopieren:",
+            "de_xx": "&7Klicke auf den folgenden Text, um &eVAR1&7's &6VAR2&7-Nutzernamen in deinen Chat zu kopieren:",
+            "en_us": "&7Click on the following Text to copy &eVAR1&7's &6VAR2&7-username to your chat:"
+        },
+        "GUI.profileother.socialmedia.link.bedrock.other":
+        {
+            "de_de": "&7Nutze den folgenden Link, um &eVAR1&7's &6VAR2&7-Profil zu öffnen:",
+            "de_xx": "&7Nutze den folgenden Link, um &eVAR1&7's &6VAR2&7-Profil zu öffnen:",
+            "en_us": "&7Use the following link to open &eVAR1&7's &6VAR2&7-profile:"
+        },
+        "GUI.profileother.socialmedia.link.bedrock.discord":
+        {
+            "de_de": "&eVAR1&7's &6VAR2&7-Nutzername:",
+            "de_xx": "&eVAR1&7's &6VAR2&7-Nutzername:",
+            "en_us": "&eVAR1&7's &6VAR2&7-username:"
+        },
+        "GUI.profileother.socialmedia.link.other":
+        {
+            "de_de": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke, um den Link zu öffnen!\"\"}}]",
+            "de_xx": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Hier drauf hauen, um Link zu öffnisieren!\"\"}}]",
+            "en_us": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to open the link!\"\"}}]"
+        },
+        "GUI.profileother.socialmedia.link.discord":
+        {
+            "de_de": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"suggest_command\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke, um den Nutzernamen in deinen Chat zu kopieren!\"\"}}]",
+            "de_xx": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"suggest_command\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke, um den Nutzernamen in deinen Chat zu kopieren!\"\"}}]",
+            "en_us": "[\"\"\"\",{\"\"text\"\":\"\"» \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##F9BD31\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"suggest_command\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click to copy the username to your chat!\"\"}}]"
+        },
+        "GUI.profileother.socialmedia.lore.other":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um den Link zu öffnen!",
+            "de_xx": "&8» <#F9BD31>Klicke, um den Link zu öffnen!",
+            "en_us": "&8» <#F9BD31>Click to open the link!"
+        },
+        "GUI.profileother.socialmedia.lore.discord":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um den Nutzernamen zu kopieren!",
+            "de_xx": "&8» <#F9BD31>Klicke, um den Nutzernamen zu kopieren!",
+            "en_us": "&8» <#F9BD31>Click to copy the username!"
+        },
+        "GUI.profileother.socialmedia":
+        {
+            "de_de": "&6Soziale Medien",
+            "de_xx": "&6Gesellschaftliche Medien",
+            "en_us": "&6Social Media"
+        },
+        "GUI.profileother.friendlist":
+        {
+            "de_de": "&6Freunde dieses Freundes",
+            "de_xx": "&6Kindeskinder",
+            "en_us": "&6Friends of this friend"
+        },
+        "GUI.profileother.friendlist.lore":
+        {
+            "de_de": "&7Freunde dieser Person",
+            "de_xx": "&7Kumpanen dieser Person",
+            "en_us": "&7Friends of this person"
+        },
+        "GUI.profileother.onlinedisabled":
+        {
+            "de_de": "&eOnline-Status deaktiviert!",
+            "de_xx": "&eOnline-Status deaktiviert!",
+            "en_us": "&eOnline-state disabled!"
+        },
+        "GUI.profileother.online":
+        {
+            "de_de": "<#4CFF00>online &7(seit &6VAR1 &eVAR2&7)",
+            "de_xx": "<#4CFF00>online &7(seit &6VAR1 &eVAR2&7)",
+            "en_us": "<#4CFF00>online &7(for &6VAR1 &eVAR2&7)"
+        },
+        "GUI.profileother.offline":
+        {
+            "de_de": "<#FF0000>offline &7(zuletzt online vor &6VAR1 &eVAR2&7)",
+            "de_xx": "<#FF0000>abwesend &7(zuletzt anwesend vor &6VAR1 &eVAR2&7)",
+            "en_us": "<#FF0000>offline &7(last online &6VAR1 &eVAR2 &7ago)"
+        },
+        "GUI.profileother.errorloading":
+        {
+            "de_de": "&cBeim laden von &6VAR1&c's Profil ist ein Fehler aufgetreten!",
+            "de_xx": "&cBeim laden von &6VAR1&c's Profil ist ein Fehler aufgetreten!",
+            "en_us": "&cAn error occured while loading &6VAR1&c's profile!"
+        },
+        "GUI.profileother.blockplayer":
+        {
+            "de_de": "&cDiese Person blockieren",
+            "de_xx": "&cDieses Menschlein sperren",
+            "en_us": "&cBlock this person"
+        },
+        "GUI.profileother.unblockplayer":
+        {
+            "de_de": "&aDiese Person entblocken",
+            "de_xx": "&aDieses Menschlein entsperren",
+            "en_us": "&aUnblock this person"
+        },
+        "GUI.profileother.notblockself":
+        {
+            "de_de": "&cDu kannst dich nicht selbst blockieren!",
+            "de_xx": "&7Spieler wurde erfolgreich blockiert!",
+            "en_us": "&cYou can't block yourself!"
+        },
+        "GUI.profileother.ownprofile":
+        {
+            "de_de": "&6Dies ist dein eigenes Profil!",
+            "de_xx": "&6Dies ist dein eigenes Profil!",
+            "en_us": "&6This is your own profile!"
+        },
+        "GUI.profileother.reload":
+        {
+            "de_de": "&aLade dieses Profil neu",
+            "de_xx": "&aLade dieses Profil neu",
+            "en_us": "&aReload this profile"
+        },
+        "GUI.profileother.loading":
+        {
+            "de_de": "&claden...",
+            "de_xx": "&claden...",
+            "en_us": "&cloading..."
+        },
+        "GUI.profileother.disabled.title":
+        {
+            "de_de": "&cDISABLED",
+            "de_xx": "&cDISABLED",
+            "en_us": "&cDISABLED"
+        },
+        "GUI.profileother.disabled":
+        {
+            "de_de": "&cProfil deaktiviert!",
+            "de_xx": "&cPerso versteckt!",
+            "en_us": "&cProfile disabled!"
+        },
+        "GUI.profileother.disabled.lore":
+        {
+            "de_de": "&eVAR1 &7hat das eigene Profil deaktiviert!",
+            "de_xx": "&eVAR1 &7hat den eigenen Perso deaktiviert!",
+            "en_us": "&eVAR1 &7has disabled their own profile!"
+        },
+        "GUI.profileother.disabled.lore2":
+        {
+            "de_de": "&7Nur Freunde und Teammitglieder können dieses Profil sehen!",
+            "de_xx": "&7Nur Freunde und Teamler können diesen Perso einsehen!",
+            "en_us": "&7Only friends and team members can view this profile!"
+        },
+        "GUI.profileother.jump":
+        {
+            "de_de": "&6Freund Nachspringen",
+            "de_xx": "&6Freund Hinterherhüpfen",
+            "en_us": "&6Jump after friend"
+        },
+        "GUI.profileother.jump.lore":
+        {
+            "de_de": "&8» &7Klicke, um auf &eVAR1&7's Server zu verbinden!",
+            "de_xx": "&8» &7Klicke, um auf &eVAR1&7's Server zu verbinden!",
+            "en_us": "&8» &7Click to connect to &eVAR1&7's server!"
+        },
+        "GUI.profileother.removefriend":
+        {
+            "de_de": "&cAus deiner Freundesliste entfernen",
+            "de_xx": "&cAus deiner Kumpanenkartei raus werfen",
+            "en_us": "&cRemove from your friend list"
+        },
+        "GUI.profileother.alreadysentrequest":
+        {
+            "de_de": "&cFreundschaftsanfrage zurückziehen",
+            "de_xx": "&cKumpanenbewerbung beenden",
+            "en_us": "&cRevoke friend request"
+        },
+        "GUI.profileother.addfriend":
+        {
+            "de_de": "&aFreundschaftsanfrage senden",
+            "de_xx": "&aKumpanenbewerbung verschicken",
+            "en_us": "&aSend friend request"
+        },
+        "GUI.profileother.acceptfriend":
+        {
+            "de_de": "&aFreundschaftsanfrage annehmen",
+            "de_xx": "&aKumpanenbewerbung akzeptisieren",
+            "en_us": "&aAccept friend request"
+        },
+        "GUI.profileother.remove-confirm-yes":
+        {
+            "de_de": "&aAus deiner Freundesliste ENTFERNEN.",
+            "de_xx": "&aAus deiner Kumpanenkartei RAUS WERFEN.",
+            "en_us": "&aREMOVE from your friend list."
+        },
+        "GUI.profileother.remove-confirm-no":
+        {
+            "de_de": "&cNICHT aus deiner Freundesliste entfernen.",
+            "de_xx": "&cNICHT aus deiner Kumpanenkartei raus werfen.",
+            "en_us": "&cDON'T remove from your friend list."
+        },
+        "GUI.profileother.experimental_1":
+        {
+            "de_de": "&cExperimentell&7: Das Profilsystem ist aktuell in der experimentellen Phase! Falls du irgendwelche Bugs findest melde diese bitte indem zu den Befehl &e&n",
+            "de_xx": "&cExperimentell&7: Das Profilsystem its aktuell in der experimentellen Phase! Falls du irgendwelche Bugs findest melde diese bitte indem zu den Befehl &e&n",
+            "en_us": "&cExperimental&7: The profile-system is currently in its experimental phase! If you find any bugs please report them by using the command &e&n"
+        },
+        "GUI.profileother.experimental_2":
+        {
+            "de_de": "&7 nutzt!",
+            "de_xx": "&7 nutzt!",
+            "en_us": "&7!"
+        },
+        "GUI.profileother.experimental_thanks":
+        {
+            "de_de": "&aVielen Dank, dass du diesen Bug gemeldet hast!",
+            "de_xx": "&aVielen Dank, dass du diesen Bug gemeldet hast!",
+            "en_us": "&aThank you for reporting this bug!"
+        },
+        "GUI.profileother.countrylanguage":
+        {
+            "de_de": "&6Land und Sprache",
+            "de_xx": "&6Herkunft und Dialekt",
+            "en_us": "&6Country and language"
+        },
+        "GUI.profileother.birthday":
+        {
+            "de_de": "&6Geburtstag",
+            "de_xx": "&6Tag der Geburt",
+            "en_us": "&6Birthday"
+        },
+        "GUI.profileother.genderpronouns":
+        {
+            "de_de": "&6Geschlecht und Pronomen",
+            "de_xx": "&6Geschlecht und Pronomen",
+            "en_us": "&6Gender and pronouns"
+        },
+        "GUI.profileother.stats":
+        {
+            "de_de": "&6Statistiken",
+            "de_xx": "&6Statistika",
+            "en_us": "&6Statistics"
+        },
+        "GUI.profile.title":
+        {
+            "de_de": "&6Dein Profil anzeigen",
+            "de_xx": "&6Deinen Perso darstellen",
+            "en_us": "&6View your profile"
+        },
+        "GUI.profile.settings":
+        {
+            "de_de": "&6Profil anpassen",
+            "de_xx": "&6Deinen Perso faken",
+            "en_us": "&6Customize profile"
+        },
+        "GUI.profile.showother":
+        {
+            "de_de": "&8» <#F9BD31>Klicke zum Profil und Freunde-Menü öffnen!",
+            "de_xx": "&8» <#F9BD31>Drücke zum Perso und Kumpanen-Menü öffnen!",
+            "en_us": "&8» <#F9BD31>Click to open profile and friend menu!"
+        },
+        "GUI.profile.disabled":
+        {
+            "de_de": "&7Dein Profil wurde &cdeaktiviert&7!",
+            "de_xx": "&7Dein Profil wurde &cdeaktiviert&7!",
+            "en_us": "&7Your profile has been &cdisabled&7!"
+        },
+        "GUI.profile.enabled":
+        {
+            "de_de": "&7Dein Profil wurde &aaktiviert&7!",
+            "de_xx": "&7Dein Profil wurde &aaktiviert&7!",
+            "en_us": "&7Your profile has been &aenabled&7!"
+        },
+        "GUI.profile.lastonline.disabled":
+        {
+            "de_de": "&7Dein Online-Status wurde &cdeaktiviert&7!",
+            "de_xx": "&7Dein Online-Status wurde &cdeaktiviert&7!",
+            "en_us": "&7Your online-state has been &cdisabled&7!"
+        },
+        "GUI.profile.lastonline.enabled":
+        {
+            "de_de": "&7Dein Online-Status wurde &aaktiviert&7!",
+            "de_xx": "&7Dein Online-Status wurde &aaktiviert&7!",
+            "en_us": "&7Your online-state has been &aenabled&7!"
+        },
+        "GUI.profile.disable.lastonline":
+        {
+            "de_de": "&8» &7Klicke, um Online-Status zu &cdeaktivieren&7!",
+            "de_xx": "&8» &7Klicke, um Online-Status zu &cdeaktivieren&7!",
+            "en_us": "&8» &7Click here to &cdisable &7online-state!"
+        },
+        "GUI.profile.enable.lastonline":
+        {
+            "de_de": "&8» &7Klicke, um Online-Status zu &aaktivieren&7!",
+            "de_xx": "&8» &7Klicke, um Online-Status zu &aaktivieren&7!",
+            "en_us": "&8» &7Click here to &aenable &7online-state!"
+        },
+        "GUI.profile.disable.profile":
+        {
+            "de_de": "&cDein Profil deaktivieren &7(aktuell &aaktiviert&7)",
+            "de_xx": "&cDein Profil deaktivieren &7(aktuell &aaktiviert&7)",
+            "en_us": "&cDisable your profile &7(currently &aenabled&7)"
+        },
+        "GUI.profile.disable.profile.lore_1":
+        {
+            "de_de": "&8» &7Wenn deaktiviert, können nur Freunde",
+            "de_xx": "&8» &7Wenn deaktiviert, können nur Freunde",
+            "en_us": "&8» &7When disabled, only friends and"
+        },
+        "GUI.profile.disable.profile.lore_2":
+        {
+            "de_de": "&8» &7und Teammitglieder dein Profil ansehen!",
+            "de_xx": "&8» &7und Teammitglieder dein Profil ansehen!",
+            "en_us": "&8» &7team members can view your profile!"
+        },
+        "GUI.profile.enable.profile":
+        {
+            "de_de": "&aDein Profil aktivieren &7(aktuell &cdeaktiviert&7)",
+            "de_xx": "&aDein Profil aktivieren &7(aktuell &cdeaktiviert&7)",
+            "en_us": "&aEnable your profile &7(currently &cdisabled&7)"
+        },
+        "GUI.profile.enable.profile.lore":
+        {
+            "de_de": "&8» &7Wenn aktiviert, kann jeder dein Profil sehen!",
+            "de_xx": "&8» &7Wenn aktiviert, kann jeder dein Profil sehen!",
+            "en_us": "&8» &7When enabled, everyone can see your proile!"
+        },
+        "GUI.friends.title":
+        {
+            "de_de": "&6Freunde",
+            "de_xx": "&6Kumpanen",
+            "en_us": "&6Friends"
+        },
+        "GUI.friends.list":
+        {
+            "de_de": "&6Freundeliste",
+            "de_xx": "&6Kumpanenverzeichnis",
+            "en_us": "&6Friend list"
+        },
+        "GUI.friends.view":
+        {
+            "de_de": "&6Freunde anzeigen",
+            "de_xx": "&6Kumpanen auflisten",
+            "en_us": "&6View friends"
+        },
+        "GUI.friends.add":
+        {
+            "de_de": "&6Freund hinzufügen",
+            "de_xx": "&6Kumpane hinzuziehen",
+            "en_us": "&6Add friend"
+        },
+        "GUI.friends.settings":
+        {
+            "de_de": "&6Freunde-Einstellungen",
+            "de_xx": "&6Kumpanen-Möglichkeitenverwaltung",
+            "en_us": "&6Friend settings"
+        },
+        "GUI.friends.newrequest":
+        {
+            "de_de": "&8» &aNeue Freundschaftsanfrage!",
+            "de_xx": "&8» &aNeue Kumpanen-Bewerbung!",
+            "en_us": "&8» &aNew friend request!"
+        },
+        "GUI.friends.list.revoke":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um deine Anfrage &czurückzuziehen<#F9BD31>!",
+            "de_xx": "&8» <#F9BD31>Klicke, falls du's dir &canders überlegt <#F9BD31>hast!",
+            "en_us": "&8» <#F9BD31>Click to &crevoke <#F9BD31>your request!"
+        },
+        "GUI.friends.list.accept":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um die Anfrage zu &aAKZEPTIEREN<#F9BD31>!",
+            "de_xx": "&8» <#F9BD31>Klicke, um die Bewerbung &aANZUNEHMEN<#F9BD31>!",
+            "en_us": "&8» <#F9BD31>Click to &AACCEPT <#F9BD31>the request!"
+        },
+        "GUI.friends.list.rejectcmd":
+        {
+            "de_de": "&8» &7Nutze &c/f deny VAR1 &7zum &cablehnen&7!",
+            "de_xx": "&8» &7Tippe &c/f deny VAR1 &7ein, um &cabzulehnen&7!",
+            "en_us": "&8» &7Use &c/f deny VAR1 &7to &cdeny&7!"
+        },
+        "GUI.friends.sent-requests":
+        {
+            "de_de": "&6Ausstehende gesendete Anfragen",
+            "de_xx": "&6Wartende gesendete Bewerbungen",
+            "en_us": "&6Pending sent requests"
+        },
+        "GUI.friends.sent-requests.lore":
+        {
+            "de_de": "&7Ausstehende anfragen: &eVAR1",
+            "de_xx": "&6Wartende Bewerbungen: &eVAR1",
+            "en_us": "&7Pending requests: &eVAR1"
+        },
+        "GUI.friends.received-requests":
+        {
+            "de_de": "&6Ausstehende empfangene Anfragen",
+            "de_xx": "&6Wartende empfangene Bewerbungen",
+            "en_us": "&6Pending received requests"
+        },
+        "GUI.friends.received-requests.lore":
+        {
+            "de_de": "&7Anfragen: &eVAR1",
+            "de_xx": "&6Bewerbungen: &eVAR1",
+            "en_us": "&7Requests: &eVAR1"
+        },
+        "GUI.friends.lore":
+        {
+            "de_de": "&8» <#F9BD31>klicke, um die Einstellungen anzuzeigen",
+            "de_xx": "&8» <#F9BD31>klicke, um die Verwaltung zu kontaktieren",
+            "en_us": "&8» <#F9BD31>click to view settings"
+        },
+        "GUI.friends.free":
+        {
+            "de_de": "&7freier Slot",
+            "de_xx": "&7Such dir Freunde!",
+            "en_us": "&7free slot"
+        },
+        "GUI.friends.online":
+        {
+            "de_de": "<#4CFF00>ONLINE &7auf &eVAR1",
+            "de_xx": "<#4CFF00>ANWESEND &7bei &eVAR1",
+            "en_us": "<#4CFF00>ONLINE &7on &eVAR1"
+        },
+        "GUI.friends.offline":
+        {
+            "de_de": "<#FF0000>offline &7(zuletzt online vor &6VAR1 &eVAR2&7)",
+            "de_xx": "<#FF0000>abwesend &7(zuletzt anwesend vor &6VAR1 &eVAR2&7)",
+            "en_us": "<#FF0000>offline &7(last online &6VAR1 &eVAR2 &7ago)"
+        },
+        "GUI.friends.add-request-chat":
+        {
+            "de_de": "&7Bitte schreibe den Namen in den chat!",
+            "de_xx": "&7Bitte trage den Namen im Chat ein!",
+            "en_us": "&7Please write the name in chat!"
+        },
+        "GUI.friends.add-cancel-chat":
+        {
+            "de_de": "&cEingabe abgebrochen.",
+            "de_xx": "&cBefehl storniert.",
+            "en_us": "&cInput cancelled."
+        },
+        "GUI.friends.add-notext":
+        {
+            "de_de": "&cBitte gib einen Namen ein!",
+            "de_xx": "&cBitte stelle uns den Namen deines zukünftigen Kumpanen bereit!",
+            "en_us": "&cPlease enter a name!"
+        },
+        "GUI.friends.add-request":
+        {
+            "de_de": "&7Bitte schreibe den Namen auf das Schild!",
+            "de_xx": "&7Bitte trage den Namen deines neuen Kumpanen auf dem Schild ein!",
+            "en_us": "&7Please write the name on the sign!"
+        },
+        "GUI.friends.add-notfound":
+        {
+            "de_de": "&cKonnte &6VAR1 &cnicht finden!",
+            "de_xx": "&cEs war uns leider nicht möglich, &6VAR1 &causfindig zu machen!",
+            "en_us": "&cCould not find &6VAR1&c!"
+        },
+        "GUI.friends.setting.requests":
+        {
+            "de_de": "&6Freundschaftsanfragen",
+            "de_xx": "&6Allianzenbewerbungen",
+            "en_us": "&6Friend requests"
+        },
+        "GUI.friends.setting.jump":
+        {
+            "de_de": "&6Nachspringen",
+            "de_xx": "&6Verfolgungsjagd",
+            "en_us": "&6Jump"
+        },
+        "GUI.friends.setting.notify":
+        {
+            "de_de": "&6Benachrichtigungen",
+            "de_xx": "&6Informationsüberbringung",
+            "en_us": "&6Notifications"
+        },
+        "GUI.friends.setting.joinsound":
+        {
+            "de_de": "&6Join-Sound",
+            "de_xx": "&6Beitrittsgeräusch",
+            "en_us": "&6Join-sound"
+        },
+        "GUI.friends.setting.joinsound.tooltip":
+        {
+            "de_de": "&8» &7Nutze &e/f set joinsound <sound> &7um den Sound zu ändern!",
+            "de_xx": "&8» &7Tippe &e/f set joinsound <sound> &7um den Sound zu ändern!",
+            "en_us": "&8» &7Use &e/f set joinsound <sound> &7to change the sound!"
+        },
+        "GUI.friends.setting.leavesound":
+        {
+            "de_de": "&6Verlassen-Sound",
+            "de_xx": "&6Verlassungsgeräusch",
+            "en_us": "&6Leave-sound"
+        },
+        "GUI.friends.setting.leavesound.tooltip":
+        {
+            "de_de": "&8» &7Nutze &e/f set leavesound <sound> &7um den Sound zu ändern!",
+            "de_xx": "&8» &7Tippe &e/f set leavesound <sound> &7um den Sound zu ändern!",
+            "en_us": "&8» &7Use &e/f set leavesound <sound> &7to change the sound!"
+        },
+        "GUI.friends.setting.changesound.message1":
+        {
+            "de_de": "&7Nutze ",
+            "de_xx": "&7Gib ",
+            "en_us": "&7Use "
+        },
+        "GUI.friends.setting.changesound.message2":
+        {
+            "de_de": " &7um deinen &6VAR1 &7zu ändern!",
+            "de_xx": " &7in die Kommandozeile ein, um deine &6VAR1 &7zu ändern!",
+            "en_us": " &7to change your &6VAR1&7!"
+        },
+        "GUI.party.title":
+        {
+            "de_de": "&6Party",
+            "de_xx": "&6Feier",
+            "en_us": "&6Party"
+        },
+        "GUI.party.lore":
+        {
+            "de_de": "&8» <#F9BD31>klicke, um die Einstellungen anzuzeigen",
+            "de_xx": "&8» <#F9BD31>klicke, um die Verwaltung zu kontaktieren",
+            "en_us": "&8» <#F9BD31>click to view settings"
+        },
+        "GUI.party.settings":
+        {
+            "de_de": "&6Parties verwalten",
+            "de_xx": "&6Feiern betreuen",
+            "en_us": "&6Manage parties"
+        },
+        "GUI.party.free":
+        {
+            "de_de": "&7freier Slot",
+            "de_xx": "&7scheinbar will keiner mit dir spielen...",
+            "en_us": "&7free slot"
+        },
+        "GUI.lists.back":
+        {
+            "de_de": "zurück",
+            "de_xx": "vorheriges",
+            "en_us": "back"
+        },
+        "GUI.lists.page":
+        {
+            "de_de": "Seite",
+            "de_xx": "Blatt",
+            "en_us": "Page"
+        },
+        "GUI.lists.showmore":
+        {
+            "de_de": "mehr anzeigen",
+            "de_xx": "weitere darstellen",
+            "en_us": "show more"
+        },
+        "GUI.lists.showless":
+        {
+            "de_de": "weniger anzeigen",
+            "de_xx": "weniger darstellen",
+            "en_us": "show less"
+        },
+        "ACTIONBAR.open":
+        {
+            "de_de": "&7Nutze &eschleichen &7+ &eRechtsklick &7um &6VAR1&7's Profil zu öffnen!",
+            "de_xx": "&7Mach mal &eschleichen &7+ &eRechtsklick &7um &6VAR1&7's Perso zu kontrollieren!",
+            "en_us": "&7Use &esneak &7+ &eright click &7to open &6VAR1&7's profile!"
+        },
+        "COMMANDS.timeout":
+        {
+            "de_de": "&cBitte spamme diese Aktion nicht!",
+            "de_xx": "&cBitte nicht so viel spammen (Spam = Dosenfleisch)!",
+            "en_us": "&cPlease do not spam this action!"
+        },
+        "COMMANDS.arg2":
+        {
+            "de_de": "&cBitte gib ein zweites Argument an!",
+            "de_xx": "&cBitte gib ein zweites Argument an!",
+            "en_us": "&cPlease enter a second argument!"
+        },
+        "COMMANDS.comingsoon":
+        {
+            "de_de": "&cComing soon!",
+            "de_xx": "&cComing soon!",
+            "en_us": "&cComing soon!"
+        },
+        "GUI.settings.change":
+        {
+            "de_de": "&8» <#F9BD31>Klicke, um die Einstellung zu ändern!",
+            "de_xx": "&8» <#F9BD31>Klicke, um die Option zu einer anderen Möglichkeit zu ändern!",
+            "en_us": "&8» <#F9BD31>Click to change setting!"
+        },
+        "GUI.settings.current":
+        {
+            "de_de": "&7Aktuelle Einstellung:",
+            "de_xx": "&7Aktuell gewählte Möglichkeit:",
+            "en_us": "&7Current setting:"
+        },
+        "GUI.settings.off":
+        {
+            "de_de": "AUS",
+            "de_xx": "AUSGESCHALTET",
+            "en_us": "OFF"
+        },
+        "GUI.settings.on":
+        {
+            "de_de": "an",
+            "de_xx": "eingeschaltet",
+            "en_us": "on"
+        },
+        "GUI.settings.vip":
+        {
+            "de_de": "nur VIPs",
+            "de_xx": "niemand außer VIPs",
+            "en_us": "only VIPs"
+        },
+        "GUI.settings.all":
+        {
+            "de_de": "alle",
+            "de_xx": "alles und jeder",
+            "en_us": "all"
+        },
+        "GUI.settings.chat":
+        {
+            "de_de": "Chat",
+            "de_xx": "Kommandozeile",
+            "en_us": "chat"
+        },
+        "GUI.settings.popup":
+        {
+            "de_de": "Popup (Banner)",
+            "de_xx": "Aufploppendes Banner",
+            "en_us": "popup (banner)"
+        },
+        "GUI.word.online":
+        {
+            "de_de": "online",
+            "de_xx": "anwesend",
+            "en_us": "online"
+        },
+        "GUI.word.offline":
+        {
+            "de_de": "offline",
+            "de_xx": "abwesend",
+            "en_us": "offline"
+        },
+        "GUI.word.days.plural":
+        {
+            "de_de": "Tagen",
+            "de_xx": "Tagen",
+            "en_us": "days"
+        },
+        "GUI.word.hours.plural":
+        {
+            "de_de": "Stunden",
+            "de_xx": "Stunden",
+            "en_us": "hours"
+        },
+        "GUI.word.minutes.plural":
+        {
+            "de_de": "Minuten",
+            "de_xx": "Minuten",
+            "en_us": "minutes"
+        },
+        "GUI.word.seconds.plural":
+        {
+            "de_de": "Sekunden",
+            "de_xx": "Sekunden",
+            "en_us": "seconds"
+        },
+        "GUI.word.days.singular":
+        {
+            "de_de": "Tage",
+            "de_xx": "Tage",
+            "en_us": "day"
+        },
+        "GUI.word.hours.singular":
+        {
+            "de_de": "Stunde",
+            "de_xx": "Stunde",
+            "en_us": "hour"
+        },
+        "GUI.word.minutes.singular":
+        {
+            "de_de": "Minute",
+            "de_xx": "Minute",
+            "en_us": "minute"
+        },
+        "GUI.word.seconds.singular":
+        {
+            "de_de": "Sekunde",
+            "de_xx": "Sekunde",
+            "en_us": "second"
+        }
+    }
+}
