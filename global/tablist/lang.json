@@ -4,33 +4,33 @@
     {
         "rank":
         {
-            "de_de": "<#FCBD06>Rang",
-            "de_xx": "<#FCBD06>Position",
-            "en_us": "<#FCBD06>Rank"
+            "en_US": "<#FCBD06>Rank",
+            "de_DE": "<#FCBD06>Rang",
+            "de_XX": "<#FCBD06>Position"
         },
         "ping":
         {
-            "de_de": "<#FCBD06>Ping",
-            "de_xx": "<#FCBD06>Ping",
-            "en_us": "<#FCBD06>Ping"
+            "en_US": "<#FCBD06>Ping",
+            "de_DE": "<#FCBD06>Ping",
+            "de_XX": "<#FCBD06>Ping"
         },
         "coins":
         {
-            "de_de": "<#FCBD06>Coins",
-            "de_xx": "<#FCBD06>Coins",
-            "en_us": "<#FCBD06>Coins"
+            "en_US": "<#FCBD06>Coins",
+            "de_DE": "<#FCBD06>Coins",
+            "de_XX": "<#FCBD06>Coins"
         },
         "currentserver":
         {
-            "de_de": "&7Du bist auf",
-            "de_xx": "&7Du bist auf",
-            "en_us": "&7You are on"
+            "en_US": "&7You are on",
+            "de_DE": "&7Du bist auf",
+            "de_XX": "&7Du bist auf"
         },
         "currentworld":
         {
-            "de_de": "&7Aktuelle Welt",
-            "de_xx": "&7Aktuelle Welt",
-            "en_us": "&7Current World"
+            "en_US": "&7Current World",
+            "de_DE": "&7Aktuelle Welt",
+            "de_XX": "&7Aktuelle Welt"
         }
     }
 }
