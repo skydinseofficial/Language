@@ -4,560 +4,560 @@
     {
         "SDFRIENDS.msg.help":
         {
-            "de_de": "Hilfe",
-            "en_us": "Help"
+            "en_US": "Help",
+            "de_DE": "Hilfe"
         },
         "SDFRIENDS.msg.settings":
         {
-            "de_de": "Einstellungen",
-            "en_us": "Settings"
+            "en_US": "Settings",
+            "de_DE": "Einstellungen"
         },
         "SDFRIENDS.msg.set.set1":
         {
-            "de_de": "Die Einstellung",
-            "en_us": "The setting"
+            "en_US": "The setting",
+            "de_DE": "Die Einstellung"
         },
         "SDFRIENDS.msg.set.set2":
         {
-            "de_de": "wurde auf",
-            "en_us": "has been updated to"
+            "en_US": "has been updated to",
+            "de_DE": "wurde auf"
         },
         "SDFRIENDS.msg.set.set3":
         {
-            "de_de": " aktualisiert.",
-            "en_us": "."
+            "en_US": ".",
+            "de_DE": " aktualisiert."
         },
         "SDFRIENDS.msg.newrequest":
         {
-            "de_de": "&eVAR1 &7hat dir eine Freundschaftsanfrage geschickt!",
-            "en_us": "&eVAR1 &7has sent you a friend request!"
+            "en_US": "&eVAR1 &7has sent you a friend request!",
+            "de_DE": "&eVAR1 &7hat dir eine Freundschaftsanfrage geschickt!"
         },
         "SDFRIENDS.msg.set.requests":
         {
-            "de_de": "Stelle ein, welche Spieler dir Freundschaftsanfragen zukommen lassen dürfen.",
-            "en_us": "Set which players can send you friend requests."
+            "en_US": "Set which players can send you friend requests.",
+            "de_DE": "Stelle ein, welche Spieler dir Freundschaftsanfragen zukommen lassen dürfen."
         },
         "SDFRIENDS.msg.enteraname":
         {
-            "de_de": "Bitte gebe einen Spielernamen an!",
-            "en_us": "Please enter a Playername!"
+            "en_US": "Please enter a Playername!",
+            "de_DE": "Bitte gebe einen Spielernamen an!"
         },
         "SDFRIENDS.msg.set.norequestsent":
         {
-            "de_de": "Du hast diesem Spieler keine Freundschaftsanfrage gesendet!",
-            "en_us": "You have not sent this player a friend request!"
+            "en_US": "You have not sent this player a friend request!",
+            "de_DE": "Du hast diesem Spieler keine Freundschaftsanfrage gesendet!"
         },
         "SDFRIENDS.msg.set.norequestsentfrom":
         {
-            "de_de": "Dieser Spieler hat dir keine Freundschaftsanfrage gesendet!",
-            "en_us": "This player did not send you a friend request!"
+            "en_US": "This player did not send you a friend request!",
+            "de_DE": "Dieser Spieler hat dir keine Freundschaftsanfrage gesendet!"
         },
         "SDFRIENDS.msg.set.jump":
         {
-            "de_de": "Stelle ein, ob Freunde auf deinen aktuellen Server nachspringen dürfen.",
-            "en_us": "Set whether friends can jump to your current server."
+            "en_US": "Set whether friends can jump to your current server.",
+            "de_DE": "Stelle ein, ob Freunde auf deinen aktuellen Server nachspringen dürfen."
         },
         "SDFRIENDS.msg.set.notify":
         {
-            "de_de": "Stelle ein, wie du benachrichtigt werden möchtest, wenn ein Freund das Netzwerk betritt oder verlässt.",
-            "en_us": "Set how you want to be notified when a friend joins or leaves the network."
+            "en_US": "Set how you want to be notified when a friend joins or leaves the network.",
+            "de_DE": "Stelle ein, wie du benachrichtigt werden möchtest, wenn ein Freund das Netzwerk betritt oder verlässt."
         },
         "SDFRIENDS.msg.set.joins":
         {
-            "de_de": "Stelle ein, welcher Ton abgespielt werden soll, wenn ein Freund das Netzwerk betritt.",
-            "en_us": "Set what sound to play when a friend joins the network."
+            "en_US": "Set what sound to play when a friend joins the network.",
+            "de_DE": "Stelle ein, welcher Ton abgespielt werden soll, wenn ein Freund das Netzwerk betritt."
         },
         "SDFRIENDS.msg.set.leaves":
         {
-            "de_de": "Stelle ein, welcher Ton abgespielt werden soll, wenn ein Freund das Netzwerk verlässt.",
-            "en_us": "Set what sound to play when a friend leaves the network."
+            "en_US": "Set what sound to play when a friend leaves the network.",
+            "de_DE": "Stelle ein, welcher Ton abgespielt werden soll, wenn ein Freund das Netzwerk verlässt."
         },
         "SDFRIENDS.msg.pleasewait":
         {
-            "de_de": "Bitte warte einen Moment!",
-            "en_us": "Please wait a moment!"
+            "en_US": "Please wait a moment!",
+            "de_DE": "Bitte warte einen Moment!"
         },
         "SDFRIENDS.msg.playerisnotacceptingall":
         {
-            "de_de": "Dieser Spieler möchte derzeit keine Freundschaftsanfragen erhalten.",
-            "en_us": "This player does not want to receive friend requests at this time."
+            "en_US": "This player does not want to receive friend requests at this time.",
+            "de_DE": "Dieser Spieler möchte derzeit keine Freundschaftsanfragen erhalten."
         },
         "SDFRIENDS.msg.playerisnotacceptingvip":
         {
-            "de_de": "Dieser Spieler möchte nur Freundschaftsanfragen von Spielern mit dem VIP-Rang oder höher erhalten.",
-            "en_us": "This player only wants to receive friend requests from players with the VIP rank or higher."
+            "en_US": "This player only wants to receive friend requests from players with the VIP rank or higher.",
+            "de_DE": "Dieser Spieler möchte nur Freundschaftsanfragen von Spielern mit dem VIP-Rang oder höher erhalten."
         },
         "SDFRIENDS.msg.friendnotonline":
         {
-            "de_de": "Dieser Spieler ist nicht online!",
-            "en_us": "This player is not online!"
+            "en_US": "This player is not online!",
+            "de_DE": "Dieser Spieler ist nicht online!"
         },
         "SDFRIENDS.msg.playernotfound":
         {
-            "de_de": "Dieser Spieler konnte nicht gefunden werden!",
-            "en_us": "This player could not be found!"
+            "en_US": "This player could not be found!",
+            "de_DE": "Dieser Spieler konnte nicht gefunden werden!"
         },
         "SDFRIENDS.msg.notfriend":
         {
-            "de_de": "Du bist nicht mit diesem Spieler befreundet!",
-            "en_us": "You are not friends with this player!"
+            "en_US": "You are not friends with this player!",
+            "de_DE": "Du bist nicht mit diesem Spieler befreundet!"
         },
         "SDFRIENDS.msg.nojump":
         {
-            "de_de": "Dieser Spieler hat das Nachspringen deaktiviert!",
-            "en_us": "This player does not allow you to jump to them!"
+            "en_US": "This player does not allow you to jump to them!",
+            "de_DE": "Dieser Spieler hat das Nachspringen deaktiviert!"
         },
         "SDFRIENDS.msg.nojumptoyourself":
         {
-            "de_de": "Du kannst dir nicht selber nachspringen!",
-            "en_us": "You can't teleport you to yourself!"
+            "en_US": "You can't teleport you to yourself!",
+            "de_DE": "Du kannst dir nicht selber nachspringen!"
         },
         "SDFRIENDS.msg.revoked1":
         {
-            "de_de": "Du hast die Freundschaftsanfrage an",
-            "en_us": "Yor revoked your friendrequest to"
+            "en_US": "Yor revoked your friendrequest to",
+            "de_DE": "Du hast die Freundschaftsanfrage an"
         },
         "SDFRIENDS.msg.revoked2":
         {
-            "de_de": " zurückgezogen.",
-            "en_us": "."
+            "en_US": ".",
+            "de_DE": " zurückgezogen."
         },
         "SDFRIENDS.msg.removed1":
         {
-            "de_de": "Du hast",
-            "en_us": "You removed"
+            "en_US": "You removed",
+            "de_DE": "Du hast"
         },
         "SDFRIENDS.msg.removed2":
         {
-            "de_de": " aus deiner Freundesliste entfernt.",
-            "en_us": " from your friendlist."
+            "en_US": " from your friendlist.",
+            "de_DE": " aus deiner Freundesliste entfernt."
         },
         "SDFRIENDS.msg.cantfayourself":
         {
-            "de_de": "Du kannst dich nicht selber zu deiner Freundesliste hinzufügen!",
-            "en_us": "You can't add yourself to your friendlist!"
+            "en_US": "You can't add yourself to your friendlist!",
+            "de_DE": "Du kannst dich nicht selber zu deiner Freundesliste hinzufügen!"
         },
         "SDFRIENDS.msg.alreadysentfa":
         {
-            "de_de": "Du hast &6VAR1 &cbereits eine Freundschaftsanfrage geschickt!",
-            "en_us": "You have already sent a friend request &6VAR1&c!"
+            "en_US": "You have already sent a friend request &6VAR1&c!",
+            "de_DE": "Du hast &6VAR1 &cbereits eine Freundschaftsanfrage geschickt!"
         },
         "SDFRIENDS.msg.networkleave":
         {
-            "de_de": "&7hat den Server <#FF3838>verlassen&7!",
-            "en_us": "&7has <#FF3838>left &7the server!"
+            "en_US": "&7has <#FF3838>left &7the server!",
+            "de_DE": "&7hat den Server <#FF3838>verlassen&7!"
         },
         "SDFRIENDS.msg.networkjoin":
         {
-            "de_de": "&7hat den Server <#6CFF2D>betreten&7!",
-            "en_us": "&7has <#6CFF2D>joined &7the server!"
+            "en_US": "&7has <#6CFF2D>joined &7the server!",
+            "de_DE": "&7hat den Server <#6CFF2D>betreten&7!"
         },
         "SDFRIENDS.msg.sent1":
         {
-            "de_de": "Du hast",
-            "en_us": "You have sent a friend request to"
+            "en_US": "You have sent a friend request to",
+            "de_DE": "Du hast"
         },
         "SDFRIENDS.msg.sent2":
         {
-            "de_de": " eine Freundschaftsanfrage geschickt!",
-            "en_us": "!"
+            "en_US": "!",
+            "de_DE": " eine Freundschaftsanfrage geschickt!"
         },
         "SDFRIENDS.msg.alreadyfriend1":
         {
-            "de_de": "Du bist bereits mit",
-            "en_us": "You are already friends with"
+            "en_US": "You are already friends with",
+            "de_DE": "Du bist bereits mit"
         },
         "SDFRIENDS.msg.alreadyfriend2":
         {
-            "de_de": " befreundet!",
-            "en_us": "!"
+            "en_US": "!",
+            "de_DE": " befreundet!"
         },
         "SDFRIENDS.msg.nowfriend1":
         {
-            "de_de": "Du bist nun mit",
-            "en_us": "You are now friends with"
+            "en_US": "You are now friends with",
+            "de_DE": "Du bist nun mit"
         },
         "SDFRIENDS.msg.nowfriend2":
         {
-            "de_de": " befreundet!",
-            "en_us": "!"
+            "en_US": "!",
+            "de_DE": " befreundet!"
         },
         "SDFRIENDS.msg.denied":
         {
-            "de_de": "&7Du hast die Freundschaftsanfrage von &eVAR1 &7abgelehnt!",
-            "en_us": "&7You denied the friend request of &eVAR1&7!"
+            "en_US": "&7You denied the friend request of &eVAR1&7!",
+            "de_DE": "&7Du hast die Freundschaftsanfrage von &eVAR1 &7abgelehnt!"
         },
         "SDFRIENDS.msg.incomingreq":
         {
-            "de_de": "Eingehende Anfragen",
-            "en_us": "Incoming requests"
+            "en_US": "Incoming requests",
+            "de_DE": "Eingehende Anfragen"
         },
         "SDFRIENDS.msg.soundnotset":
         {
-            "de_de": "Gib bitte den Namen eines Sounds ein!",
-            "en_us": "Please enter the name of a sound!"
+            "en_US": "Please enter the name of a sound!",
+            "de_DE": "Gib bitte den Namen eines Sounds ein!"
         },
         "SDFRIENDS.msg.outgoingreq":
         {
-            "de_de": "Ausgehende Anfragen",
-            "en_us": "Outgoing requests"
+            "en_US": "Outgoing requests",
+            "de_DE": "Ausgehende Anfragen"
         },
         "SDFRIENDS.msg.norequests":
         {
-            "de_de": "&cDu hast keine eingehenden oder ausgehenden Anfragen!",
-            "en_us": "&cYou don't have any incoming or outgoing requests!"
+            "en_US": "&cYou don't have any incoming or outgoing requests!",
+            "de_DE": "&cDu hast keine eingehenden oder ausgehenden Anfragen!"
         },
         "SDFRIENDS.msg.friendships":
         {
-            "de_de": "Deine Freundschaften",
-            "en_us": "Your friendships"
+            "en_US": "Your friendships",
+            "de_DE": "Deine Freundschaften"
         },
         "SDFRIENDS.clickable.revoke.text":
         {
-            "de_de": "zurückziehen",
-            "en_us": "revoke"
+            "en_US": "revoke",
+            "de_DE": "zurückziehen"
         },
         "SDFRIENDS.clickable.revoke.tooltip":
         {
-            "de_de": "Klicke zum zurückziehen!",
-            "en_us": "Click to revoke!"
+            "en_US": "Click to revoke!",
+            "de_DE": "Klicke zum zurückziehen!"
         },
         "SDFRIENDS.clickable.accept.text":
         {
-            "de_de": "AKZEPTIEREN",
-            "en_us": "ACCEPT"
+            "en_US": "ACCEPT",
+            "de_DE": "AKZEPTIEREN"
         },
         "SDFRIENDS.clickable.accept.tooltip":
         {
-            "de_de": "Klicke zum akzeptieren!",
-            "en_us": "Click to accept!"
+            "en_US": "Click to accept!",
+            "de_DE": "Klicke zum akzeptieren!"
         },
         "SDFRIENDS.clickable.reject.text":
         {
-            "de_de": "ABLEHNEN",
-            "en_us": "REJECT"
+            "en_US": "REJECT",
+            "de_DE": "ABLEHNEN"
         },
         "SDFRIENDS.clickable.reject.tooltip":
         {
-            "de_de": "Klicke zum ablehnen!",
-            "en_us": "Click to reject!"
+            "en_US": "Click to reject!",
+            "de_DE": "Klicke zum ablehnen!"
         },
         "SDFRIENDS.msg.friendship.terminate":
         {
-            "de_de": "&eVAR1 &7hat die Freundschaft gekündigt.",
-            "en_us": "&eVAR1 &7has terminated the friendship."
+            "en_US": "&eVAR1 &7has terminated the friendship.",
+            "de_DE": "&eVAR1 &7hat die Freundschaft gekündigt."
         },
         "SDFRIENDS.msg.friendship.reject":
         {
-            "de_de": "&eVAR1 &7hat deine Freundschaftsanfrage &cabgelehnt&7!",
-            "en_us": "&eVAR1 &7has &crejected &7your friend request!"
+            "en_US": "&eVAR1 &7has &crejected &7your friend request!",
+            "de_DE": "&eVAR1 &7hat deine Freundschaftsanfrage &cabgelehnt&7!"
         },
         "SDFRIENDS.msg.friendship.revoke":
         {
-            "de_de": "&eVAR1 &7hat die Freundschaftsanfrage zurückgezogen.",
-            "en_us": "&eVAR1 &7has cancelled the friend request"
+            "en_US": "&eVAR1 &7has cancelled the friend request",
+            "de_DE": "&eVAR1 &7hat die Freundschaftsanfrage zurückgezogen."
         },
         "SDFRIENDS.msg.friendship.accept":
         {
-            "de_de": "&eVAR1 &7hat deine Freundschaftsanfrage &aangenommen&7!",
-            "en_us": "&eVAR1 &7has &aacceped &7your friend request!"
+            "en_US": "&eVAR1 &7has &aacceped &7your friend request!",
+            "de_DE": "&eVAR1 &7hat deine Freundschaftsanfrage &aangenommen&7!"
         },
         "TOAST.join":
         {
-            "de_de": "&e&lVAR1 &7ist &aonline&7!",
-            "de_xx": "&e&lVAR1 &7ist &aerschienen&7!",
-            "en_us": "&e&lVAR1 &7is &aonline&7!"
+            "en_US": "&e&lVAR1 &7is &aonline&7!",
+            "de_DE": "&e&lVAR1 &7ist &aonline&7!",
+            "de_XX": "&e&lVAR1 &7ist &aerschienen&7!"
         },
         "TOAST.leave":
         {
-            "de_de": "&e&lVAR1 &7ist &coffline&7!",
-            "de_xx": "&e&lVAR1 &7ist &cverschwunden&7!",
-            "en_us": "&e&lVAR1 &7is &coffline&7!"
+            "en_US": "&e&lVAR1 &7is &coffline&7!",
+            "de_DE": "&e&lVAR1 &7ist &coffline&7!",
+            "de_XX": "&e&lVAR1 &7ist &cverschwunden&7!"
         },
         "PARTIES.msg.help":
         {
-            "de_de": "Hilfe",
-            "en_us": "Help"
+            "en_US": "Help",
+            "de_DE": "Hilfe"
         },
         "PARTIES.msg.help.invite":
         {
-            "de_de": "Lade einen Spieler ein",
-            "en_us": "Invite a player"
+            "en_US": "Invite a player",
+            "de_DE": "Lade einen Spieler ein"
         },
         "PARTIES.msg.help.accept":
         {
-            "de_de": "Akzeptiere eine Anfrage",
-            "en_us": "Accept a request"
+            "en_US": "Accept a request",
+            "de_DE": "Akzeptiere eine Anfrage"
         },
         "PARTIES.msg.help.kick":
         {
-            "de_de": "Kicke einen Spieler",
-            "en_us": "Kick a player"
+            "en_US": "Kick a player",
+            "de_DE": "Kicke einen Spieler"
         },
         "PARTIES.msg.help.leave":
         {
-            "de_de": "Verlasse die aktuelle Party",
-            "en_us": "Leave current party"
+            "en_US": "Leave current party",
+            "de_DE": "Verlasse die aktuelle Party"
         },
         "PARTIES.msg.help.list":
         {
-            "de_de": "Zeige Partymitglieder",
-            "en_us": "Show partymember"
+            "en_US": "Show partymember",
+            "de_DE": "Zeige Partymitglieder"
         },
         "PARTIES.msg.help.jump":
         {
-            "de_de": "Springe der Party nach",
-            "en_us": "Jump to the party"
+            "en_US": "Jump to the party",
+            "de_DE": "Springe der Party nach"
         },
         "PARTIES.msg.help.pull":
         {
-            "de_de": "Sende alle Partymitglieder in die Runde",
-            "en_us": "Send all party members around"
+            "en_US": "Send all party members around",
+            "de_DE": "Sende alle Partymitglieder in die Runde"
         },
         "PARTIES.msg.help.msg.cmd":
         {
-            "de_de": "nachricht",
-            "en_us": "message"
+            "en_US": "message",
+            "de_DE": "nachricht"
         },
         "PARTIES.msg.help.msg":
         {
-            "de_de": "Schreibe im Partychat",
-            "en_us": "Write into partychat"
+            "en_US": "Write into partychat",
+            "de_DE": "Schreibe im Partychat"
         },
         "PARTIES.msg.help.setleader":
         {
-            "de_de": "Ändere den Partyleiter",
-            "en_us": "Change the party leader"
+            "en_US": "Change the party leader",
+            "de_DE": "Ändere den Partyleiter"
         },
         "PARTIES.msg.help.setpublic":
         {
-            "de_de": "Jeder kann die Party betreten",
-            "en_us": "Everyone can join the party"
+            "en_US": "Everyone can join the party",
+            "de_DE": "Jeder kann die Party betreten"
         },
         "PARTIES.msg.help.setprivate":
         {
-            "de_de": "Spieler benötigen eine Einladung",
-            "en_us": "Players need partyinvite"
+            "en_US": "Players need partyinvite",
+            "de_DE": "Spieler benötigen eine Einladung"
         },
         "PARTIES.msg.help.join":
         {
-            "de_de": "Betrete eine öffentliche Party",
-            "en_us": "Join a public party"
+            "en_US": "Join a public party",
+            "de_DE": "Betrete eine öffentliche Party"
         },
         "PARTIES.msg.help.create":
         {
-            "de_de": "Erstelle eine leere Party",
-            "en_us": "Create a empty party"
+            "en_US": "Create a empty party",
+            "de_DE": "Erstelle eine leere Party"
         },
         "PARTIES.msg.help.toggle":
         {
-            "de_de": "Ändere deine Anfragen",
-            "en_us": "Toggle your partyrequests"
+            "en_US": "Toggle your partyrequests",
+            "de_DE": "Ändere deine Anfragen"
         },
         "PARTIES.msg.invite.in":
         {
-            "de_de": "VAR1 &7hat dir eine Partyeinladung geschickt.",
-            "en_us": "VAR1 &7sent you a party invitation."
+            "en_US": "VAR1 &7sent you a party invitation.",
+            "de_DE": "VAR1 &7hat dir eine Partyeinladung geschickt."
         },
         "PARTIES.msg.invite.out":
         {
-            "de_de": "&7Du hast &eVAR1 &7in deine Party eingeladen.",
-            "en_us": "&7You invited &eVAR1 &7to your party."
+            "en_US": "&7You invited &eVAR1 &7to your party.",
+            "de_DE": "&7Du hast &eVAR1 &7in deine Party eingeladen."
         },
         "PARTIES.msg.playernotonline":
         {
-            "de_de": "Dieser Spieler ist nicht online!",
-            "en_us": "This player is not online!"
+            "en_US": "This player is not online!",
+            "de_DE": "Dieser Spieler ist nicht online!"
         },
         "PARTIES.msg.nonameentered":
         {
-            "de_de": "Bitte gebe einen Namen an!",
-            "en_us": "Please enter a Playername!"
+            "en_US": "Please enter a Playername!",
+            "de_DE": "Bitte gebe einen Namen an!"
         },
         "PARTIES.msg.creatingparty":
         {
-            "de_de": "Eine Party wird erstellt...",
-            "en_us": "Creating a party..."
+            "en_US": "Creating a party...",
+            "de_DE": "Eine Party wird erstellt..."
         },
         "PARTIES.msg.partyleaderinviting":
         {
-            "de_de": "Nur der Partyleader kann Spieler einladen!",
-            "en_us": "Only the party leader can invite players!"
+            "en_US": "Only the party leader can invite players!",
+            "de_DE": "Nur der Partyleader kann Spieler einladen!"
         },
         "PARTIES.msg.playerjoinedparty":
         {
-            "de_de": "VAR1 &7hat die Party &abetreten&7!",
-            "en_us": "VAR1 &7has &ajoined &7the party!"
+            "en_US": "VAR1 &7has &ajoined &7the party!",
+            "de_DE": "VAR1 &7hat die Party &abetreten&7!"
         },
         "PARTIES.msg.playerleftparty":
         {
-            "de_de": "VAR1 &7hat die Party &cverlassen&7!",
-            "en_us": "VAR1 &7has &cleft &7the party!"
+            "en_US": "VAR1 &7has &cleft &7the party!",
+            "de_DE": "VAR1 &7hat die Party &cverlassen&7!"
         },
         "PARTIES.msg.cantinviteyourself":
         {
-            "de_de": "Du kannst dich nicht selber einladen!",
-            "en_us": "You can't invite yourself!"
+            "en_US": "You can't invite yourself!",
+            "de_DE": "Du kannst dich nicht selber einladen!"
         },
         "PARTIES.msg.youjoined":
         {
-            "de_de": "Du hast die Party betreten!",
-            "en_us": "You joined the party!"
+            "en_US": "You joined the party!",
+            "de_DE": "Du hast die Party betreten!"
         },
         "PARTIES.msg.alreadyinvited":
         {
-            "de_de": "Du hast diesen Spieler bereits eingeladen!",
-            "en_us": "You already invited this player!"
+            "en_US": "You already invited this player!",
+            "de_DE": "Du hast diesen Spieler bereits eingeladen!"
         },
         "PARTIES.msg.alreadyinparty":
         {
-            "de_de": "Dieser Spieler ist bereits in deiner Party!",
-            "en_us": "This player is already in your party!"
+            "en_US": "This player is already in your party!",
+            "de_DE": "Dieser Spieler ist bereits in deiner Party!"
         },
         "PARTIES.msg.partygotdeleted":
         {
-            "de_de": "Die Party wurde aufgelöst!",
-            "en_us": "The Party got deleted!"
+            "en_US": "The Party got deleted!",
+            "de_DE": "Die Party wurde aufgelöst!"
         },
         "PARTIES.msg.youleftparty":
         {
-            "de_de": "Du hast die aktuelle Party verlassen.",
-            "en_us": "You left your current party."
+            "en_US": "You left your current party.",
+            "de_DE": "Du hast die aktuelle Party verlassen."
         },
         "PARTIES.msg.notinaparty":
         {
-            "de_de": "Du bist in keiner Party!",
-            "en_us": "You are not in a party!"
+            "en_US": "You are not in a party!",
+            "de_DE": "Du bist in keiner Party!"
         },
         "PARTIES.msg.party":
         {
-            "de_de": "Party",
-            "en_us": "Party"
+            "en_US": "Party",
+            "de_DE": "Party"
         },
         "PARTIES.msg.member":
         {
-            "de_de": "Mitglieder",
-            "en_us": "Member"
+            "en_US": "Member",
+            "de_DE": "Mitglieder"
         },
         "PARTIES.msg.notinvitedbythisplayer":
         {
-            "de_de": "Dieser Spieler hat dich nicht eingeladen.",
-            "en_us": "This player did not invite you."
+            "en_US": "This player did not invite you.",
+            "de_DE": "Dieser Spieler hat dich nicht eingeladen."
         },
         "PARTIES.msg.invitenotvalid":
         {
-            "de_de": "Diese Einladung ist nicht mehr gültig!",
-            "en_us": "This invite is not valid anymore!"
+            "en_US": "This invite is not valid anymore!",
+            "de_DE": "Diese Einladung ist nicht mehr gültig!"
         },
         "PARTIES.msg.partyleaderkicking":
         {
-            "de_de": "Nur der Partyleader kann Spieler kicken!",
-            "en_us": "Only the party leader can kick players!"
+            "en_US": "Only the party leader can kick players!",
+            "de_DE": "Nur der Partyleader kann Spieler kicken!"
         },
         "PARTIES.msg.youkickedplayer":
         {
-            "de_de": "&7Du hast &eVAR1 &7aus der Party gekickt!",
-            "en_us": "&7You kicked &eVAR1 &7out of the party!"
+            "en_US": "&7You kicked &eVAR1 &7out of the party!",
+            "de_DE": "&7Du hast &eVAR1 &7aus der Party gekickt!"
         },
         "PARTIES.msg.yougotkicked":
         {
-            "de_de": "&7Du wurdest aus der Party gekickt!",
-            "en_us": "&7You got kicket out of the party!"
+            "en_US": "&7You got kicket out of the party!",
+            "de_DE": "&7Du wurdest aus der Party gekickt!"
         },
         "PARTIES.msg.playernotinparty":
         {
-            "de_de": "Dieser Spieler ist nicht in deiner Party!",
-            "en_us": "This player is not in your party!"
+            "en_US": "This player is not in your party!",
+            "de_DE": "Dieser Spieler ist nicht in deiner Party!"
         },
         "PARTIES.msg.alreadyinaparty":
         {
-            "de_de": "Dieser Spieler ist bereits in einer Party!",
-            "en_us": "This player is already in a party!"
+            "en_US": "This player is already in a party!",
+            "de_DE": "Dieser Spieler ist bereits in einer Party!"
         },
         "PARTIES.msg.youalreadyinaparty":
         {
-            "de_de": "Du bist bereits in einer Party!",
-            "en_us": "You are already in a party!"
+            "en_US": "You are already in a party!",
+            "de_DE": "Du bist bereits in einer Party!"
         },
         "PARTIES.msg.leadercanpromote":
         {
-            "de_de": "Nur der Partyleader kann Partymitglieder befördern!",
-            "en_us": "Only the party leader can promote partymembers!"
+            "en_US": "Only the party leader can promote partymembers!",
+            "de_DE": "Nur der Partyleader kann Partymitglieder befördern!"
         },
         "PARTIES.msg.newleader":
         {
-            "de_de": "VAR1 &7hat VAR2 &7zum neuen Partyleader ernannt!",
-            "en_us": "VAR1 &7has appointed VAR2 &7as the new party leader!"
+            "en_US": "VAR1 &7has appointed VAR2 &7as the new party leader!",
+            "de_DE": "VAR1 &7hat VAR2 &7zum neuen Partyleader ernannt!"
         },
         "PARTIES.msg.yougotleader":
         {
-            "de_de": "Du wurdest zum Partyleader ernannt!",
-            "en_us": "You've been named party leader!"
+            "en_US": "You've been named party leader!",
+            "de_DE": "Du wurdest zum Partyleader ernannt!"
         },
         "PARTIES.msg.partyleadercanpublic":
         {
-            "de_de": "Nur der Partyleader kann die Party auf öffentlich stellen!",
-            "en_us": "Only the party leader can set the party public!"
+            "en_US": "Only the party leader can set the party public!",
+            "de_DE": "Nur der Partyleader kann die Party auf öffentlich stellen!"
         },
         "PARTIES.msg.partyleadercanprivate":
         {
-            "de_de": "Nur der Partyleader kann die Party auf privat stellen!",
-            "en_us": "Only the party leader can set the party private!"
+            "en_US": "Only the party leader can set the party private!",
+            "de_DE": "Nur der Partyleader kann die Party auf privat stellen!"
         },
         "PARTIES.msg.partyisnowpublic":
         {
-            "de_de": "&7Die Party ist nun <#FFD800>öffentlich&7!",
-            "en_us": "&7The party is now <#FFD800>public&7!"
+            "en_US": "&7The party is now <#FFD800>public&7!",
+            "de_DE": "&7Die Party ist nun <#FFD800>öffentlich&7!"
         },
         "PARTIES.msg.partyisnowprivate":
         {
-            "de_de": "&7Die Party ist nun <#FFD800>privat&7!",
-            "en_us": "&7The party is now <#FFD800>private&7!"
+            "en_US": "&7The party is now <#FFD800>private&7!",
+            "de_DE": "&7Die Party ist nun <#FFD800>privat&7!"
         },
         "PARTIES.msg.alreadypublic":
         {
-            "de_de": "Die Party ist bereits öffentlich!",
-            "en_us": "The party is already public!"
+            "en_US": "The party is already public!",
+            "de_DE": "Die Party ist bereits öffentlich!"
         },
         "PARTIES.msg.alreadyprivate":
         {
-            "de_de": "Die Party ist bereits privat!",
-            "en_us": "The party is already private!"
+            "en_US": "The party is already private!",
+            "de_DE": "Die Party ist bereits privat!"
         },
         "PARTIES.msg.partyisnotpublic":
         {
-            "de_de": "Diese Party ist nicht öffentlich!",
-            "en_us": "This party is not public!"
+            "en_US": "This party is not public!",
+            "de_DE": "Diese Party ist nicht öffentlich!"
         },
         "PARTIES.msg.playerdoesnothaveparty":
         {
-            "de_de": "Dieser Spieler schmeißt keine Party!",
-            "en_us": "This player does not have a party!"
+            "en_US": "This player does not have a party!",
+            "de_DE": "Dieser Spieler schmeißt keine Party!"
         },
         "PARTIES.msg.playeralreadypartyleader":
         {
-            "de_de": "Dieser Spieler ist bereits der Partyleader!",
-            "en_us": "This player is already party leader!"
+            "en_US": "This player is already party leader!",
+            "de_DE": "Dieser Spieler ist bereits der Partyleader!"
         },
         "PARTIES.msg.higherrankneeded":
         {
-            "de_de": "Du benötigst einen höheren Rang, um diese Aktion auszuführen!",
-            "en_us": "You need a higher rank to perform this action!"
+            "en_US": "You need a higher rank to perform this action!",
+            "de_DE": "Du benötigst einen höheren Rang, um diese Aktion auszuführen!"
         },
         "PARTIES.msg.thispartyisfull":
         {
-            "de_de": "Die Party hat das Mitgliederlimit erreicht!",
-            "en_us": "This party has reached the limit of members!"
+            "en_US": "This party has reached the limit of members!",
+            "de_DE": "Die Party hat das Mitgliederlimit erreicht!"
         },
         "PARTIES.msg.onlyleadercanpull":
         {
-            "de_de": "Nur der Partyleader kann alle Mitglieder hinterherziehen!",
-            "en_us": "Only the party leader can pull all members around!"
+            "en_US": "Only the party leader can pull all members around!",
+            "de_DE": "Nur der Partyleader kann alle Mitglieder hinterherziehen!"
         },
         "PARTIES.msg.cantpulltothisserver":
         {
-            "de_de": "Du kannst die Partymitglieder nicht auf diesen Server senden!",
-            "en_us": "You can't pull around the party members to this server!"
+            "en_US": "You can't pull around the party members to this server!",
+            "de_DE": "Du kannst die Partymitglieder nicht auf diesen Server senden!"
         }
     }
 }
