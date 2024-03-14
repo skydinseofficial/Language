@@ -4,28 +4,28 @@
     {
         "KICK_message":
         {
-            "de_de": "Du wurdest von unserem Netzwerk gekickt!",
-            "en_us": "You were kicked from our network!"
+            "en_US": "You were kicked from our network!",
+            "de_DE": "Du wurdest von unserem Netzwerk gekickt!"
         },
         "BAN_message":
         {
-            "de_de": "Du wurdest von unserem Netzwerk gebannt!",
-            "en_us": "You were banned from our network!"
-        },
-        "BAN_check":
-        {
-            "de_de": "Dein Bann wird in Kürze erneut überprüft!",
-            "en_us": "Your ban will be reviewed again shortly!"
+            "en_US": "You were banned from our network!",
+            "de_DE": "Du wurdest von unserem Netzwerk gebannt!"
         },
         "reason":
         {
-            "de_de": "Grund:",
-            "en_us": "Reason:"
+            "en_US": "Reason:",
+            "de_DE": "Grund:"
         },
         "TIME_left":
         {
-            "de_de": "Zeit verbleibend:",
-            "en_us": "Time left:"
+            "en_US": "Time left:",
+            "de_DE": "Zeit verbleibend:"
+        },
+        "BAN_check":
+        {
+            "en_US": "Your ban will be reviewed again shortly!",
+            "de_DE": "Dein Bann wird in Kürze erneut überprüft!"
         }
     }
 }
