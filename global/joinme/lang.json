@@ -4,63 +4,63 @@
     {
         "wait1":
         {
-            "de_de": "&cDu musst noch",
-            "en_us": "&cYou have to wait"
+            "en_US": "&cYou have to wait",
+            "de_DE": "&cDu musst noch"
         },
         "wait2":
         {
-            "de_de": "&cwarten, bevor du die nächste JoinMe erstellen kannst!",
-            "en_us": "&cto create the next JoinMe!"
+            "en_US": "&cto create the next JoinMe!",
+            "de_DE": "&cwarten, bevor du die nächste JoinMe erstellen kannst!"
         },
         "seconds":
         {
-            "de_de": "Sekunden",
-            "en_us": "seconds"
+            "en_US": "seconds",
+            "de_DE": "Sekunden"
         },
         "minutes":
         {
-            "de_de": "Minuten",
-            "en_us": "minutes"
+            "en_US": "minutes",
+            "de_DE": "Minuten"
         },
         "hours":
         {
-            "de_de": "Stunden",
-            "en_us": "hours"
+            "en_US": "hours",
+            "de_DE": "Stunden"
         },
         "plays":
         {
-            "de_de": "spielt",
-            "en_us": "plays"
+            "en_US": "plays",
+            "de_DE": "spielt"
         },
         "round":
         {
-            "de_de": "Runde",
-            "en_us": "Round"
+            "en_US": "Round",
+            "de_DE": "Runde"
         },
         "players":
         {
-            "de_de": "Spieler",
-            "en_us": "Players"
+            "en_US": "Players",
+            "de_DE": "Spieler"
         },
         "mode":
         {
-            "de_de": "Modus",
-            "en_us": "Mode"
+            "en_US": "Mode",
+            "de_DE": "Modus"
         },
         "click2join":
         {
-            "de_de": "KLICKE ZUM BEITRETEN",
-            "en_us": "CLICK TO JOIN"
+            "en_US": "CLICK TO JOIN",
+            "de_DE": "KLICKE ZUM BEITRETEN"
         },
         "error":
         {
-            "de_de": "&cBeim erstellen der JoinMe ist ein Fehler aufgetreten! &7Versuche es erneut oder rejoine die Runde.",
-            "en_us": "&cAn error occurred while creating the JoinMe! &7Try again or rejoin this round."
+            "en_US": "&cAn error occurred while creating the JoinMe! &7Try again or rejoin this round.",
+            "de_DE": "&cBeim erstellen der JoinMe ist ein Fehler aufgetreten! &7Versuche es erneut oder rejoine die Runde."
         },
         "noperm":
         {
-            "de_de": "&cDu benötigst einen höheren Rang, um eine JoinMe zu erstellen!",
-            "en_us": "&cYou need a higher rank to create a JoinMe!"
+            "en_US": "&cYou need a higher rank to create a JoinMe!",
+            "de_DE": "&cDu benötigst einen höheren Rang, um eine JoinMe zu erstellen!"
         }
     }
 }
