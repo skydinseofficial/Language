@@ -140,30 +140,6 @@
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_PT": "Para abrir, clique com o botão direito!"
         },
-        "INVHOTBAR.playerhider.name.all":
-        {
-            "en_US": "Visibility: &aeveryone",
-            "de_DE": "Sichtbarkeit: &aalle",
-            "pt_PT": "Visibilidade: &atodos"
-        },
-        "INVHOTBAR.playerhider.name.vip":
-        {
-            "en_US": "Visibility: &5VIP",
-            "de_DE": "Sichtbarkeit: &5VIP",
-            "pt_PT": "Visibilidade: &5VIP"
-        },
-        "INVHOTBAR.playerhider.name.nobody":
-        {
-            "en_US": "Visibility: &cnobody",
-            "de_DE": "Sichtbarkeit: &cniemand",
-            "de_DE": "Visibilidade: &cninguém"
-        },
-        "INVHOTBAR.playerhider.desc":
-        {
-            "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
-            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
-            "pt_PT": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente."
-        },
         "INVHOTBAR.profile.name":
         {
             "en_US": "&6Your Profile",
@@ -196,7 +172,7 @@
         },
         "INVHOTBAR.inventory.desc":
         {
-            "en_US": "&7Overall in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
+            "en_US": "&7Everywhere in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
             "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt.",
             "pt_PT": "&7Em toda a área do lobby, encontrará pequenas\nlojas onde pode comprar animais de estimação, músicas\nde vencedor, asas e muito mais com moedas.\nAqui pode ver todos os itens que possui."
         },
@@ -242,11 +218,47 @@
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_PT": "Para abrir, clique com o botão direito!"
         },
+        "INVHOTBAR.profile.click":
+        {
+            "en_US": "Rightclick to open!",
+            "de_DE": "Rechtsklicke um zu öffnen!",
+            "pt_PT": "Para abrir, clique com o botão direito!"
+        },
+        "INVHOTBAR.profile.desc":
+        {
+            "en_US": "&7Here you can manage\nall your profile settings!",
+            "de_DE": "&7Hier kannst du all deine\nProfileinstellungen verwalten!",
+            "pt_PT": "&7Aqui você pode gerenciar todas\nas suas configurações de perfil!"
+        },
         "SETTINGS.elytranoperm":
         {
             "en_US": "&7To use this feature you need at least the  rank.",
             "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang.",
             "pt_PT": "&7Para usar este recurso, você precisa ter pelo menos a patente ."
+        },
+        "SETTINGS.playerhider.desc":
+        {
+            "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
+            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
+            "pt_PT": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente."
+        },
+        "SETTINGS.playerhider.name.all":
+        {
+            "en_US": "Visibility: &aeveryone",
+            "de_DE": "Sichtbarkeit: &aalle",
+            "pt_PT": "Visibilidade: &atodos"
+        },
+        "SETTINGS.playerhider.name.vip":
+        {
+            "en_US": "Visibility: &5VIP",
+            "de_DE": "Sichtbarkeit: &5VIP",
+            "pt_PT": "Visibilidade: &5VIP"
+        },
+        "SETTINGS.playerhider.name.nobody":
+        {
+            "en_US": "Visibility: &cnobody",
+            "de_DE": "Sichtbarkeit: &cniemand",
+            "de_DE": "Visibilidade: &cninguém"
         },
         "HOLO.discord.line1":
         {
