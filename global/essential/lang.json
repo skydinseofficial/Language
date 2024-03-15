@@ -2,25 +2,6 @@
     "system": "essential",
     "translations":
     {
-        "BASICS.decimal_seperator":
-        {
-            "en_US": ".",
-            "en_GB": ".",
-            "en_XX": ".",
-            "de_DE": ",",
-            "de_AT": ",",
-            "de_XX": ",",
-            "nl_NL": ",",
-            "pt_PT": ",",
-            "pt_BR": ",",
-            "es_ES": ",",
-            "es_MX": ".",
-            "fr_FR": ",",
-            "tr_TR": ",",
-            "pl_PL": ",",
-            "ru_RU": ",",
-            "ko_KR": "."
-        },
         "CONVERTMSG.tip.command":
         {
             "en_US": "<#face05>Click to insert this command into your chat!",
