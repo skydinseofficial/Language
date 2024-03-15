@@ -110,11 +110,17 @@
             "de_DE": "Rang",
             "pt_PT": "Posição"
         },
-        "SCOREBOARD.playtime":
+        "SCOREBOARD.playtime.java":
         {
             "en_US": "Playtime: <#ffef66>[time]h",
             "de_DE": "Spielzeit: <#ffef66>[time] Std.",
             "pt_PT": "Tempo de jogo: <#ffef66>[time]h"
+        },
+        "SCOREBOARD.playtime.bedrock":
+        {
+            "en_US": "[time]h",
+            "de_DE": "[time] Std.",
+            "pt_PT": "[time]h"
         },
         "INVHOTBAR.navigator.name":
         {
