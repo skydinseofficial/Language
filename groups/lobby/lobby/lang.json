@@ -228,7 +228,7 @@
         {
             "en_US": "&7Here you can manage\nall your profile settings!",
             "de_DE": "&7Hier kannst du all deine\nProfileinstellungen verwalten!",
-            "pt_PT": "&7Aqui você pode gerenciar todas\nas suas configurações de perfil!"
+            "pt_PT": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!"
         },
         "SETTINGS.elytranoperm":
         {
