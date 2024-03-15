@@ -1,63 +1,57 @@
 {
-    "system": "blossomeco",
+    "system": "blooms",
     "translations":
     {
         "PREFIX.java.info":
         {
-            "en_US": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ",
-            "de_DE": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ"
+            "en_US": "&8[<#99aab5>ℹ&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ"
         },
         "PREFIX.bedrock.info":
         {
-            "en_US": "&8[&7i&8] &6Blossoms &8&l»",
-            "de_DE": "&8[&7i&8] &6Blüten &8&l»"
+            "en_US": "&8[&7i&8] &6[name] &8&l»"
         },
         "PREFIX.java.success":
         {
-            "en_US": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&a",
-            "de_DE": "&8[<#4CFF00>✔&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&a"
+            "en_US": "&8[<#4CFF00>✔&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ&a"
         },
         "PREFIX.bedrock.success":
         {
-            "en_US": "&8[&a+&8] &6Blossoms &8&l»&a",
-            "de_DE": "&8[&a+&8] &6Blüten &8&l»&a"
+            "en_US": "&8[&a+&8] &6[name] &8&l»&a"
         },
         "PREFIX.java.error":
         {
-            "en_US": "&8[<#FF1000>✘&8] <#FFC300>⌞Blossoms⌝ <#5a5757>&lᐅ&c",
-            "de_DE": "&8[<#FF1000>✘&8] <#FFC300>⌞Blüten⌝ <#5a5757>&lᐅ&c"
+            "en_US": "&8[<#FF1000>✘&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ&c"
         },
         "PREFIX.bedrock.error":
         {
-            "en_US": "&8[&cX&8] &6Blossoms &8&l»&c",
-            "de_DE": "&8[&cX&8] &6Blüten &8&l»&c"
+            "en_US": "&8[&cX&8] &6[name] &8&l»&c"
         },
-        "blossom":
+        "bloom":
         {
             "en_US": "<#fb0026>B<#fb0042>l<#fc005e>o<#fc007a>s<#fc0095>s<#fd00b1>o<#fd00cd>m",
             "de_DE": "<#fb0026>B<#fc0050>l<#fc007a>ü<#fd00a3>t<#fd00cd>e"
         },
-        "blossoms":
+        "blooms":
         {
             "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s",
             "de_DE": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n"
         },
-        "CMD.blossoms":
+        "CMD.blooms":
         {
             "en_US": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s&7.",
             "de_DE": "&7Du hast &eVAR1 <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n&7."
         },
-        "MSG.gotblossoms.1":
+        "MSG.gotblooms.1":
         {
             "en_US": "&7You got <#4CFF00>VAR1 VAR2&7!",
             "de_DE": "&7Du hast <#4CFF00>VAR1 VAR2 &7erhalten!"
         },
-        "MSG.gotblossoms.2":
+        "MSG.gotblooms.2":
         {
             "en_US": "&8[&7Today: &aVAR3&7/&eVAR4 &8| &7Total: <#FFD800>VAR5&8]",
             "de_DE": "&8[&7Heute: &aVAR3&7/&eVAR4 &8| &7Gesamt: <#FFD800>VAR5&8]"
         },
-        "MSG.spentblossoms":
+        "MSG.spentblooms":
         {
             "en_US": "&7You spent <#FF0000>VAR1 VAR2&7! &8[&7Total: <#FFD800>VAR3&8]",
             "de_DE": "&7Du hast <#FF0000>VAR1 VAR2 &7ausgegeben! &8[&7Gesamt: <#FFD800>VAR3&8]"
