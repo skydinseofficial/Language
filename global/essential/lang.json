@@ -169,35 +169,35 @@
             "en_US": "&aYour custom suffix has been changed (\"\"<#cacaca>VAR1&a\"\")! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
             "de_DE": "&aDein individueller Suffix wurde geändert (\"\"<#cacaca>VAR1&a\"\")! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, damit dein Suffix überall auf dem neuesten Stand ist!"
         },
-        "SUFFIX.command.number_decimal_indicator":
+        "SOCIALMEDIA.web":
         {
-            "en_US": ".",
-            "de_DE": ","
+            "en_US": "&7Visit our &6Website&7: &s&n<@https://www.skydinse.net/>",
+            "de_DE": "&7Besuche unsere &6Webseite&7: &s&n<@https://www.skydinse.net/>"
         },
         "SOCIALMEDIA.discord":
         {
-            "en_US": "&7Join our <#5865F2>Discord server&7:",
-            "de_DE": "&7Trete unserem <#5865F2>Discord-Server &7bei:"
+            "en_US": "&7Join our <#5865F2>Discord server&7: &s&n<@https://www.skydinse.net/discord>",
+            "de_DE": "&7Trete unserem <#5865F2>Discord-Server &7bei: &s&n<@https://www.skydinse.net/discord>"
         },
         "SOCIALMEDIA.tiktok":
         {
-            "en_US": "&7Follow us on <#00f2ea>Tik<#ff0050>Tok&7:",
-            "de_DE": "&7Folge uns auf <#00f2ea>Tik<#ff0050>Tok&7:"
+            "en_US": "&7Follow us on <#00f2ea>Tik<#ff0050>Tok&7: &s&n<@https://tiktok.com/@skydinse_net>",
+            "de_DE": "&7Folge uns auf <#00f2ea>Tik<#ff0050>Tok&7: &s&n<@https://tiktok.com/@skydinse_net>"
         },
         "SOCIALMEDIA.youtube":
         {
-            "en_US": "&7Follow us on <#FF0000>YouTube&7:",
-            "de_DE": "&7Folge uns auf <#FF0000>YouTube&7:"
+            "en_US": "&7Subscribe to our channel on <#FF0000>YouTube&7: &s&n<@https://youtube.com/@skydinse>",
+            "de_DE": "&7Abonniere unseren Kanal auf <#FF0000>YouTube&7: &s&n<@https://youtube.com/@skydinse>"
         },
         "SOCIALMEDIA.instagram":
         {
-            "en_US": "&7Follow us on <#E1306C>Instagram&7:",
-            "de_DE": "&7Folge uns auf <#E1306C>Instagram&7:"
+            "en_US": "&7Follow us on <#E1306C>Instagram&7: &s&n<@https://instagram.com/skydinse>",
+            "de_DE": "&7Folge uns auf <#E1306C>Instagram&7: &s&n<@https://instagram.com/skydinse>"
         },
-        "SOCIALMEDIA.x":
+        "SOCIALMEDIA.threads":
         {
-            "en_US": "&7Follow us on &fX&7:",
-            "de_DE": "&7Folge uns auf &fX&7:"
+            "en_US": "&7Follow us on &fThreads&7: &s&n<@https://www.threads.net/@skydinse>",
+            "de_DE": "&7Folge uns auf &fThreads&7: &s&n<@https://www.threads.net/@skydinse>"
         },
         "GIVEHEAD.noarg_1":
         {
