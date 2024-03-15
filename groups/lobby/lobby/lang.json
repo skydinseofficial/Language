@@ -122,6 +122,18 @@
             "de_DE": "[time] Std.",
             "pt_PT": "[time]h"
         },
+        "SCOREBOARD.linked":
+        {
+            "en_US": "Linked",
+            "de_DE": "Verlinkt",
+            "pt_PT": "Ligado"
+        },
+        "SCOREBOARD.event":
+        {
+            "en_US": "Event",
+            "de_DE": "Event",
+            "pt_PT": "Evento"
+        },
         "INVHOTBAR.navigator.name":
         {
             "en_US": "&6Navigator",
