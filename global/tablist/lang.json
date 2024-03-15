@@ -2,11 +2,11 @@
     "system": "tablist",
     "translations":
     {
-        "rank":
+        "network":
         {
-            "en_US": "<#FCBD06>Rank",
-            "de_DE": "<#FCBD06>Rang",
-            "de_XX": "<#FCBD06>Position"
+            "en_US": "Network-Wide",
+            "de_DE": "Netzwerk",
+            "pt_PT": "Em Toda a Rede"
         },
         "ping":
         {
