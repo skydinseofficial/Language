@@ -156,7 +156,7 @@
         {
             "en_US": "&7When activated, you can use\n&7funny gadgets in the lobby.",
             "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast.",
-            "pt_PT": "&7Desfrute de gadgets divertidos na\nlobby, se você tiver escolhido algum."
+            "pt_PT": "&7Desfrute de gadgets divertidos na\n&7lobby, se você tiver escolhido algum."
         },
         "INVHOTBAR.gadget.click":
         {
