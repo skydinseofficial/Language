@@ -73,7 +73,7 @@ The language files are located in the individual system folders and __must__ hav
   - **SGA**: The use of the [SGA format](#text-formats) (`<?text>`) only works for all languages that use a Latin alphabet (e.g. English or German). Some letter variations of other languages (e.g. "ç" in Turkish) will be added in the future. Languages that do not use the Latin alphabet at all (e.g. Russian - ru_RU) cannot be transferred to the SGA and will remain in their original form.
   - **en_XX and de_XX**: en_XX and de_XX should be meme languages, which consist of old/medieval language and funny phrases - there are no strict rules to follow as with the other languages. Text for en_XX and de_XX is easiest to generate with ChatGPT based on en_US/en_GB and de_DE respectively.
     - In English, the best results can be achieved with the following prompts: `"TEXT" in pilgrim english` or `"TEXT" in shakespearan english`. Examples: `"Your language is now set to [language]!" in pilgrim english` - Result: "Verily, thy tongue is now set to [language]!", `"Your language is now set to [language]!" in shakespearean english`- Result: "Thine language is present set to [language]!".
-    - The best German results are with the prompt `"TEXT" in old medieval German`. Example: `"Your language is now set to [language]!" in Old Medieval German` - Result: "Truly, din sprahe is nu gestelt auf [language]!".
+    - The best German results can be achieved with the prompt `"TEXT" in old medieval German`. Example: `"Your language is now set to [language]!" in Old Medieval German` - Result: "Truly, din sprahe is nu gestelt auf [language]!".
 ##
 ### __Text formats__
 
@@ -164,7 +164,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
   - **SGA**: Die Verwendung des [SGA-Formats](#textformate) (`<?text>`) funktioniert nur für alle Sprachen, welche ein lateinisches Alphabet nutzen (z.B. Englisch oder Deutsch). Manche Buchstaben-Variationen anderer Sprachen (z.B. "ç" im türkischen) werden in Zukunft noch hinzugefügt. Sprachen, welche überhaupt nicht auf das lateinische Alphabet zurück greifen, (z.B. Russisch - ru_RU) können nicht ins SGA übertragen werden und verweilen dann in ihrer ursprünglichen Form.
   - **en_XX und de_XX**: en_XX und de_XX sollen Meme-Sprachen sein, welche aus alter/mittelalterlicher Sprache und lustigen Phrasen bestehen - hierbei sind keine so strikten Regeln zu befolgen wie bei den anderen Sprachen. Text für en_XX und de_XX lässt sich am einfachsten mit ChatGPT auf der Grundlage von en_US/en_GB bzw. de_DE generieren.
     - Auf Englisch lassen sich die besten Ergebnisse mit den folgenden Prompts erreichen: `"TEXT" in pilgrim english` oder `"TEXT" in shakespearan english`. Beispiele: `"Your language is now set to [language]!" in pilgrim english` - Ergebnis: "Verily, thy tongue is now set to [language]!", `"Your language is now set to [language]!" in shakespearean english`- Ergebnis: "Thine language is present set to [language]!".
-    - Die besten Deutschen Ergebnisse sind mit dem Prompt `"TEXT" in  altmittelalterlichem Deutsch`. Beispiel: `"Deine Sprache ist jetzt auf [language] eingestellt!" in  altmittelalterlichem Deutsch` - Ergebnis: "Wahrlich, din sprahe ist nu gestelt auf [language]!".
+    - Die besten Deutschen Ergebnisse sind mit dem Prompt `"TEXT" in  altmittelalterlichem Deutsch` zu erreichen. Beispiel: `"Deine Sprache ist jetzt auf [language] eingestellt!" in  altmittelalterlichem Deutsch` - Ergebnis: "Wahrlich, din sprahe ist nu gestelt auf [language]!".
 ##
 ### __Textformate__
 
@@ -172,7 +172,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 
 - **Links**:
   - **automatische Formatierung**: Links können automatisch klickbar gemacht und mit tooltip versorgt werden (ähnlich wie im Chat), wenn diese im Format `<@LINK>` (z.B. `<@https://www.skydinse.net/>`) angegeben werden.
-  - **individuelle Formatierung (SOON)**: Links können mit eigenen Tooltips und eigenem Text (der im Chat zu sehen ist) eingebaut werden. Die Formatierung: `<@tip:'TOOLTIP',value:'LINK',text:'TEXT'>`. Der Wert "value" (Link) ist hier notwendig, Tip und Text nicht (es gibt Standardwerte).
+  - **individuelle Formatierung**: Links können mit eigenen Tooltips und eigenem Text (der im Chat zu sehen ist) eingebaut werden. Die Formatierung: `<@tip:'TOOLTIP',value:'LINK',text:'TEXT'>`. Der Wert "value" (Link) ist hier notwendig, Tip und Text nicht (es gibt Standardwerte).
   - Mögliche Beispiele:
     - `&7Unsere Webseite kannst du unter &e<@https://www.skydinse.net/> &7erreichen!`
     - `&7Unsere Webseite kannst du unter &e<@tip:'&7Klicke hier!',value:'https://www.skydinse.net/'> &7erreichen!`
