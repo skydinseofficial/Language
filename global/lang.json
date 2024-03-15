@@ -8,6 +8,12 @@
             "de_DE": "Blüten",
             "pt_PT": "Flores"
         },
+        "BASICS.rank":
+        {
+            "en_US": "Rank",
+            "de_DE": "Rang",
+            "pt_PT": "Posição"
+        },
         "BASICS.decimal_seperator":
         {
             "en_US": ".",
