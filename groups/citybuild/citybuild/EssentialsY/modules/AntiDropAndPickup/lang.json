@@ -14,13 +14,13 @@
         },
         "antidrop/pickup_enabled":
         {
-            "en_US": "&7You have &aactivated &7your &6VAL1",
-            "de_DE": "&7Du hast deinen &6VAL1 &aaktiviert"
+            "en_US": "&7You have &aactivated &7your &6[mode]",
+            "de_DE": "&7Du hast deinen &6[mode] &aaktiviert"
         },
         "antidrop/pickup_disabled":
         {
-            "en_US": "&7You have &cdisabled &7your &6VAL1",
-            "de_DE": "&7Du hast deinen &6VAL1 &cdeaktiviert"
+            "en_US": "&7You have &cdisabled &7your &6[mode]",
+            "de_DE": "&7Du hast deinen &6[mode] &cdeaktiviert"
         },
         "antidrop":
         {
