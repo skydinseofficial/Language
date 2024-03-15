@@ -112,9 +112,9 @@
         },
         "SCOREBOARD.playtime.java":
         {
-            "en_US": "Playtime: <#ffef66>[time]h",
-            "de_DE": "Spielzeit: <#ffef66>[time] Std.",
-            "pt_PT": "Tempo de jogo: <#ffef66>[time]h"
+            "en_US": "Playtime: <#ffef66>[time]<#ffd366>h",
+            "de_DE": "Spielzeit: <#ffef66>[time] <#ffd366>Std.",
+            "pt_PT": "Tempo de jogo: <#ffef66>[time]<#ffd366>h"
         },
         "SCOREBOARD.playtime.bedrock":
         {
