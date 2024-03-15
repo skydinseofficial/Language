@@ -2,12 +2,6 @@
     "system": "tablist",
     "translations":
     {
-        "network":
-        {
-            "en_US": "People online",
-            "de_DE": "Personen online",
-            "pt_PT": "Pessoas online"
-        },
         "ping":
         {
             "en_US": "<#FCBD06>Ping",
