@@ -1,57 +1,33 @@
 {
-    "system": "blooms",
+    "system": "blossomeco",
     "translations":
     {
-        "PREFIX.java.info":
+        "blossom":
         {
-            "en_US": "&8[<#99aab5>ℹ&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ"
-        },
-        "PREFIX.bedrock.info":
-        {
-            "en_US": "&8[&7i&8] &6[name] &8&l»"
-        },
-        "PREFIX.java.success":
-        {
-            "en_US": "&8[<#4CFF00>✔&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ&a"
-        },
-        "PREFIX.bedrock.success":
-        {
-            "en_US": "&8[&a+&8] &6[name] &8&l»&a"
-        },
-        "PREFIX.java.error":
-        {
-            "en_US": "&8[<#FF1000>✘&8] <#FFC300>⌞[name]⌝ <#5a5757>&lᐅ&c"
-        },
-        "PREFIX.bedrock.error":
-        {
-            "en_US": "&8[&cX&8] &6[name] &8&l»&c"
-        },
-        "bloom":
-        {
-            "en_US": "<#fb0026>B<#fb0042>l<#fc005e>o<#fc007a>s<#fc0095>s<#fd00b1>o<#fd00cd>m",
+            "en_US": "<#fb0026>B<#fb0042>l<#fc005e>o<#fc007a>o<#fd00cd>m",
             "de_DE": "<#fb0026>B<#fc0050>l<#fc007a>ü<#fd00a3>t<#fd00cd>e"
         },
-        "blooms":
+        "blossoms":
         {
-            "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s",
+            "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s",
             "de_DE": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n"
         },
-        "CMD.blooms":
+        "CMD.blossoms":
         {
-            "en_US": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s&7.",
+            "en_US": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s&7.",
             "de_DE": "&7Du hast &eVAR1 <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n&7."
         },
-        "MSG.gotblooms.1":
+        "MSG.gotblossoms.1":
         {
             "en_US": "&7You got <#4CFF00>VAR1 VAR2&7!",
             "de_DE": "&7Du hast <#4CFF00>VAR1 VAR2 &7erhalten!"
         },
-        "MSG.gotblooms.2":
+        "MSG.gotblossoms.2":
         {
             "en_US": "&8[&7Today: &aVAR3&7/&eVAR4 &8| &7Total: <#FFD800>VAR5&8]",
             "de_DE": "&8[&7Heute: &aVAR3&7/&eVAR4 &8| &7Gesamt: <#FFD800>VAR5&8]"
         },
-        "MSG.spentblooms":
+        "MSG.spentblossoms":
         {
             "en_US": "&7You spent <#FF0000>VAR1 VAR2&7! &8[&7Total: <#FFD800>VAR3&8]",
             "de_DE": "&7Du hast <#FF0000>VAR1 VAR2 &7ausgegeben! &8[&7Gesamt: <#FFD800>VAR3&8]"
@@ -68,7 +44,7 @@
         },
         "MSG.hasbeensetto":
         {
-            "en_US": "&7Your <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7have been set to &eVAR1&7!",
+            "en_US": "&7Your <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s &7have been set to &eVAR1&7!",
             "de_DE": "&7Deine <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7wurden auf &eVAR1 &7gesetzt!"
         },
         "ECOADMIN.error.general":
@@ -123,7 +99,7 @@
         },
         "ECOADMIN.set.success":
         {
-            "en_US": "&7You &asuccessfully &7set VAR1&7's <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>s<#fc0085>s<#fc009d>o<#fd00b5>m<#fd00cd>s &7to &eVAR2&7! &8(This action was recorded)",
+            "en_US": "&7You &asuccessfully &7set VAR1&7's <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s &7to &eVAR2&7! &8(This action was recorded)",
             "de_DE": "&7Du hast &aerfolgreich &eVAR1&7's <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n &7auf &eVAR2 &7gesetzt! &8(Diese Aktion wurde aufgezeichnet)"
         },
         "ECOADMIN.get.success":
