@@ -4,9 +4,9 @@
     {
         "network":
         {
-            "en_US": "Network-Wide",
-            "de_DE": "Netzwerk",
-            "pt_PT": "Em Toda a Rede"
+            "en_US": "People online",
+            "de_DE": "Personen online",
+            "pt_PT": "Pessoas online"
         },
         "ping":
         {
