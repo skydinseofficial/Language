@@ -2,6 +2,12 @@
     "system": "global",
     "translations":
     {
+        "BASICS.blooms":
+        {
+            "en_US": "Blooms",
+            "de_DE": "Blüten",
+            "pt_PT": "Florirem"
+        },
         "BASICS.decimal_seperator":
         {
             "en_US": ".",
