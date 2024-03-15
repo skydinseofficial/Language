@@ -9,7 +9,7 @@
         },
         "ASHLYN.gui.privategame":
         {
-            "en_US": "Create custom Game",
+            "en_US": "Create custom game",
             "de_DE": "Custom Runde erstellen"
         },
         "ASHLYN.gui.settings":
@@ -44,18 +44,18 @@
         },
         "ASHLYN.click2create":
         {
-            "en_US": "Click to create.",
-            "de_DE": "Klicke zum erstellen."
+            "en_US": "Click to create",
+            "de_DE": "Klicke zum erstellen"
         },
         "ASHLYN.startinground":
         {
-            "en_US": "Round is starting...",
-            "de_DE": "Runde wird gestartet..."
+            "en_US": "Game is starting...",
+            "de_DE": "Spiel wird gestartet..."
         },
         "ASHLYN.erroronstartup":
         {
-            "en_US": "An error occurred when starting the round! Please try again or report the issue to the team.",
-            "de_DE": "Beim starten der Runde ist ein Fehler aufgetreten! Bitte versuche es erneut oder melde das Problem dem Team."
+            "en_US": "An error occurred whilst starting your game! Please try again or report this issue to our staff.",
+            "de_DE": "Beim Starten deines Spiels ist ein Fehler aufgetreten! Bitte versuche es erneut oder melde das Problem unserem Team."
         }
     }
 }
