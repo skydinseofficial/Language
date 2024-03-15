@@ -174,7 +174,7 @@
         {
             "en_US": "&7Everywhere in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
             "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt.",
-            "pt_PT": "&7Em toda a área do lobby, encontrará pequenas\nlojas onde pode comprar animais de estimação, músicas\nde vencedor, asas e muito mais com moedas.\nAqui pode ver todos os itens que possui."
+            "pt_PT": "&7Em toda a área do lobby, encontrará pequenas\n&7lojas onde pode comprar animais de estimação, músicas\n&7de vencedor, asas e muito mais com moedas.\n&7Aqui pode ver todos os itens que possui."
         },
         "INVHOTBAR.inventory.click":
         {
