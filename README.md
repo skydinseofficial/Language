@@ -52,6 +52,7 @@ The language files are located in the individual system folders and __must__ hav
 - **Turkish**: Variations: `tr_TR` (Turkey)
 - **Polish**: Variations: `pl_PL` (Poland)
 - **Russian**: Variations: `ru_RU` (Russia)
+- **Korean**: Variations: `ko_KR` (South Korea)
 ##
 ### __Translation and language rules__
 - **AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
@@ -143,6 +144,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 - **Türkisch**: Variationen: `tr_TR` (Türkei)
 - **Polnisch**: Variationen: `pl_PL` (Polen)
 - **Russisch**: Variationen: `ru_RU` (Russland)
+- **Koreanisch**: Variations: `ko_KR` (Südkorea)
 ##
 ### __Übersetzungs- und Sprachregeln__
 - **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
