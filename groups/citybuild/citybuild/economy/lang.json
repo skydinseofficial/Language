@@ -1,1 +1,11 @@
-a
+{
+    "system": "economy",
+    "translations":
+    {
+        "transactioncooldown":
+        {
+            "en_US": "&cTransaction cooldown: Please wait a moment!",
+            "de_DE": "&cTransaktions-Cooldown: Bitte warte einen Moment!"
+        }
+    }
+}
