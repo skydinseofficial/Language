@@ -12,6 +12,42 @@
             "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s",
             "de_DE": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n"
         },
+        "PREFIX.java.info":
+        {
+            "en_US": "&8[<#99aab5>ℹ&8] <#ffc300>⌞Blooms⌝ <#5a5757>&lᐅ&7",
+            "de_DE": "&8[<#99aab5>ℹ&8] <#ffc300>⌞Blüten⌝ <#5a5757>&lᐅ&7",
+            "pt_PT": "&8[<#99aab5>ℹ&8] <#ffc300>⌞Flores⌝ <#5a5757>&lᐅ&7"
+        },
+        "PREFIX.bedrock.info":
+        {
+            "en_US": "&8[&7i&8] &6Blooms &8&l»&7",
+            "de_DE": "&8[&7i&8] &6Blüten &8&l»&7",
+            "pt_PT": "&8[&7i&8] &6Flores &8&l»&7"
+        },
+        "PREFIX.java.success":
+        {
+            "en_US": "&8[<#4cff00>✔&8] <#ffc300>⌞Blooms⌝ <#5a5757>&lᐅ&a",
+            "de_DE": "&8[<#4cff00>✔&8] <#ffc300>⌞Blüten⌝ <#5a5757>&lᐅ&a",
+            "pt_PT": "&8[<#4cff00>✔&8] <#ffc300>⌞Flores⌝ <#5a5757>&lᐅ&a"
+        },
+        "PREFIX.bedrock.success":
+        {
+            "en_US": "&8[&a+&8] &6Blooms &8&l»&a",
+            "de_DE": "&8[&a+&8] &6Blüten &8&l»&a",
+            "pt_PT": "&8[&a+&8] &6Flores &8&l»&a"
+        },
+        "PREFIX.java.error":
+        {
+            "en_US": "&8[<#ff1000>✘&8] <#ffc300>⌞Blooms⌝ <#5a5757>&lᐅ&c",
+            "de_DE": "&8[<#ff1000>✘&8] <#ffc300>⌞Blüten⌝ <#5a5757>&lᐅ&c",
+            "pt_PT": "&8[<#ff1000>✘&8] <#ffc300>⌞Flores⌝ <#5a5757>&lᐅ&c"
+        },
+        "PREFIX.bedrock.error":
+        {
+            "en_US": "&8[&cX&8] &6Blooms &8&l»&c",
+            "de_DE": "&8[&cX&8] &6Blüten &8&l»&c",
+            "pt_PT": "&8[&cX&8] &6Flores &8&l»&c"
+        },
         "CMD.blossoms":
         {
             "en_US": "&7You have &eVAR1 <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s&7.",
