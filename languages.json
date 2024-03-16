@@ -165,20 +165,6 @@
                 "country": "France"
             }
         },
-        "tr_TR":
-        {
-            "fallback": "en_US",
-            "details.tr_TR":
-            {
-                "name": "Türkçe",
-                "country": "Türkiye"
-            },
-            "details.en_US":
-            {
-                "name": "Turkish",
-                "country": "Türkiye"
-            }
-        },
         "pl_PL":
         {
             "fallback": "en_US",
@@ -205,6 +191,20 @@
             {
                 "name": "Russian",
                 "country": "Russia"
+            }
+        },
+        "tr_TR":
+        {
+            "fallback": "en_US",
+            "details.tr_TR":
+            {
+                "name": "Türkçe",
+                "country": "Türkiye"
+            },
+            "details.en_US":
+            {
+                "name": "Turkish",
+                "country": "Türkiye"
             }
         },
         "ko_KR":
