@@ -6,19 +6,19 @@
         {
             "en_US": "Blooms",
             "de_DE": "Blüten",
-            "pt_PT": "Flores"
+            "pt_BR": "Flores"
         },
         "BASICS.blooms.colored":
         {
             "en_US": "<#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s",
             "de_DE": "<#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n",
-            "pt_PT": "<#fb0026>F<#fb0047>l<#fc0069>o<#fc008a>r<#fd00ac>e<#fd00cd>s"
+            "pt_BR": "<#fb0026>F<#fb0047>l<#fc0069>o<#fc008a>r<#fd00ac>e<#fd00cd>s"
         },
         "BASICS.rank":
         {
             "en_US": "Rank",
             "de_DE": "Rang",
-            "pt_PT": "Posição"
+            "pt_BR": "Posição"
         },
         "BASICS.decimal_seperator":
         {
@@ -29,8 +29,8 @@
             "de_AT": ",",
             "de_XX": ",",
             "nl_NL": ",",
-            "pt_PT": ",",
             "pt_BR": ",",
+            "pt_PT": ",",
             "es_ES": ",",
             "es_MX": ".",
             "fr_FR": ",",
