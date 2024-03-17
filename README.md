@@ -85,8 +85,8 @@ The language files are located in the individual system folders and __must__ hav
 - **Color gradients**: A tool for creating color gradients can be found at https://www.birdflop.com/resources/rgb/. It is important to select a supported color code format (`#&000000` or `<#000000>`).
 
 - **Links**:
- - **automatic formatting**: Links can be made automatically clickable and provided with a tooltip (similar to chat) if they are specified in the format `<@LINK>` (e.g. `<@https://www.skydinse.net/>`).
- - **individual formatting**: Links can be integrated with your own tooltips and text (which can be seen in the chat). The formatting: `<@tip:'TOOLTIP',value:'LINK',text:'TEXT'>`. The value (link) is necessary, tip and text are not (there are default values).
+  - **automatic formatting**: Links can be made automatically clickable and provided with a tooltip (similar to chat) if they are specified in the format `<@LINK>` (e.g. `<@https://www.skydinse.net/>`).
+  - **individual formatting**: Links can be integrated with your own tooltips and text (which can be seen in the chat). The formatting: `<@tip:'TOOLTIP',value:'LINK',text:'TEXT'>`. The value (link) is necessary, tip and text are not (there are default values).
   - Possible examples:
     - `&7You can reach our website at &e<@https://www.skydinse.net/>&7!`
     - `&7You can reach our website at &e<@tip:'&7Click here!',value:'https://www.skydinse.net/'>&7!`
