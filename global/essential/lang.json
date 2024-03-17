@@ -9,7 +9,7 @@
             "de_DE": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
             "de_XX": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
             "nl_NL": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
-            "pt_PT": "<#face05>Clique para adicionar este comando ao seu chat!",
+            "pt_BR": "<#face05>Clique para adicionar este comando ao seu chat!",
             "es_ES": "<#face05>Haz clic para añadir este comando a tu chat.",
             "fr_FR": "<#face05>Clique pour insérer cette commande dans ton chat !",
             "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
@@ -23,7 +23,7 @@
             "de_DE": "<#face05>Klicke, um diesen Befehl auszuführen!",
             "de_XX": "<#face05>Klicket, um diese Anweisung zu erlassen!",
             "nl_NL": "<#face05>Klik om deze opdracht uit te voeren!",
-            "pt_PT": "<#face05>Clique para executar este comando!",
+            "pt_BR": "<#face05>Clique para executar este comando!",
             "es_ES": "<#face05>Haz clic para ejecutar este comando.",
             "fr_FR": "<#face05>Clique pour exécuter cette commande !",
             "tr_TR": "<#face05>Bu komutu çalıştırmak için tıklayın!",
@@ -37,7 +37,7 @@
             "de_DE": "<#face05>Normaler Text:",
             "de_XX": "<#face05>Urschrift:",
             "nl_NL": "<#face05>Normale tekst:",
-            "pt_PT": "<#face05>Texto normal:",
+            "pt_BR": "<#face05>Texto normal:",
             "es_ES": "<#face05>Texto normal:",
             "fr_FR": "<#face05>Texte normal :",
             "tr_TR": "<#face05>Normal metin:",
@@ -51,7 +51,7 @@
             "de_DE": "<#face05>Klicke, um diesen Link zu öffnen!",
             "de_XX": "<#face05>Klicke, auf dass dieser Link sich öffne!",
             "nl_NL": "<#face05>Klik om deze link te openen!",
-            "pt_PT": "<#face05>Clique para abrir esta ligação!",
+            "pt_BR": "<#face05>Clique para abrir esta ligação!",
             "es_ES": "<#face05>Haga clic para abrir este enlace.",
             "fr_FR": "<#face05>Cliquez pour ouvrir ce lien !",
             "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!",
@@ -65,7 +65,7 @@
             "de_DE": "<#face05>Klicke, um diesen Text zu kopieren!",
             "de_XX": "<#face05>Klicket, auf dass dieser Text kopiert werde!",
             "nl_NL": "<#face05>Klik om deze tekst te kopiëren!",
-            "pt_PT": "<#face05>Clique para copiar este texto!",
+            "pt_BR": "<#face05>Clique para copiar este texto!",
             "es_ES": "<#face05>Haz clic para copiar este texto.",
             "fr_FR": "<#face05>Clique pour copier ce texte !",
             "tr_TR": "<#face05>Bu metni kopyalamak için tıklayın!",
@@ -76,13 +76,13 @@
         {
             "en_US": "&7You've recieved a <#face05>custom suffix &7for the duration of &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
             "de_DE": "&7Du hast einen <#face05>individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!",
-            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!","pt_PT": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
+            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!","pt_BR": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
         },
         "SUFFIX.success":
         {
             "en_US": "&aYour custom suffix (\"&x&c&a&c&a&c&aVAR1&a\") has been set! &7Your suffix remains for &eVAR2 &7days! Please re-enter the network so that your suffix is up to date everywhere!",
             "de_DE": "&aDein individueller Suffix (\"&x&c&a&c&a&c&aVAR1&a\") wurde übernommen! &7Dein Suffix bleibt für &eVAR2 &7Tage! Bitte betrete Netzwerk neu, um deinen Suffix überall auf den neuesten Stand zu bringen!",
-            "pt_PT": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
+            "pt_BR": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&aVAR1&a\") foi adotado! &7O seu sufixo mantém-se durante &eVAR2 &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!"
         },
         "SUFFIX.error.empty":
         {
@@ -399,7 +399,7 @@
         {
             "en_US": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Our resource pack has been updated! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"The update will be applied automatically with your next server switch. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLY UPDATE NOW] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Click here to apply the update!\"\"}}]",
             "de_DE": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Unser Ressoucenpaket wurde aktualisiert! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Das Update wird bei deinem nächsten Serverwechsel automatisch geladen. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[UPDATE JETZT LADEN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Klicke hier, um das Update zu laden!\"\"}}]",
-            "pt_PT": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Nosso pacote de recursos foi atualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"A atualização será aplicada automaticamente com sua próxima troca de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ATUALIZAÇÃO] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}}]",
+            "pt_BR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Nosso pacote de recursos foi atualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"A atualização será aplicada automaticamente com sua próxima troca de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ATUALIZAÇÃO] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Clique aqui para aplicar a atualização!\"\"}}]",
             "es_ES": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"¡Nuestro paquete de recursos ha sido actualizado! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La actualización se aplicará automáticamente con su próximo cambio de servidor. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APLICAR ACTUALIZACIÓN] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"¡Haga clic aquí para aplicar la actualización!\"\"}}]",
             "fr_FR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Notre pack de ressources a été mis à jour ! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"La mise à jour sera appliquée automatiquement lors de votre prochain changement de serveur. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[APPLIQUER LA MISE À JOUR] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"CliCliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Cliquez ici pour appliquer la mise à jour !\"\"}}]",
             "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"] \"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Kaynak paketimiz güncellendi! \"\",\"\"color\"\":\"\"green\"\"},{\"\"text\"\":\"\"Güncelleme, bir sonraki sunucu geçişinizde otomatik olarak uygulanacaktır. \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"[ŞİMDİ GÜNCELLEMEYİ UYGULA] \"\",\"\"color\"\":\"\"dark_green\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"(\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\"/loadpack\"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}},{\"\"text\"\":\"\")\"\",\"\"color\"\":\"\"gray\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"run_command\"\",\"\"value\"\":\"\"/loadpack\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"Güncellemeyi uygulamak için buraya tıklayın!\"\"}}]"
@@ -408,7 +408,7 @@
         {
             "en_US": "&aUpdating the resource pack...",
             "de_DE": "&aAkualisiere das Ressourcenpaket...",
-            "pt_PT": "&aAtualizando o pacote de recursos...",
+            "pt_BR": "&aAtualizando o pacote de recursos...",
             "es_ES": "&aActualizando el paquete de recursos...",
             "fr_FR": "&aMise à jour du pack de ressources...",
             "tr_TR": "&aKaynak paketi güncelleniyor..."
@@ -417,7 +417,7 @@
         {
             "en_US": "&aLoading the resource pack...",
             "de_DE": "&aLade das Ressourcenpaket...",
-            "pt_PT": "&aCarregando o pacote de recursos...",
+            "pt_BR": "&aCarregando o pacote de recursos...",
             "es_ES": "&aCargando el paquete de recursos...",
             "fr_FR": "&aChargement du pack de ressources...",
             "tr_TR": "&aKaynak paketi yükleniyor..."
@@ -426,7 +426,7 @@
         {
             "en_US": "&cPlease do not spam this command!",
             "de_DE": "&cBitte spamme diesen Befehl nicht!",
-            "pt_PT": "&cPor favor, não faça spam com este comando!",
+            "pt_BR": "&cPor favor, não faça spam com este comando!",
             "es_ES": "&c¡Por favor, no envíe spam con este comando!",
             "fr_FR": "&cMerci de ne pas spammer cette commande !",
             "tr_TR": "&cLütfen bu komutu spam yapmayın!"
@@ -610,7 +610,7 @@
         {
             "en_US": "&cPlease do not spam this command!",
             "de_DE": "&cBitte spamme diesen Befehl nicht!",
-            "pt_PT": "&cPor favor, não faça spam com este comando!",
+            "pt_BR": "&cPor favor, não faça spam com este comando!",
             "es_ES": "&c¡Por favor, no envíe spam con este comando!",
             "fr_FR": "&cMerci de ne pas spammer cette commande !",
             "tr_TR": "&cLütfen bu komutu spam yapmayın!"
