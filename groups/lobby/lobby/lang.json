@@ -40,6 +40,25 @@
             "tr_TR": "[SEÇMEK İÇİN TIKLA]",
             "ko_KO": "[선택하려면 클릭하세요]"
         },
+        "LANGUAGE.fallback":
+        {
+            "en_US": "&7Untranslated text is\ndisplayed in &eGerman&7.",
+            "en_GB": "&7Untranslated text is\ndisplayed in &eEnglish (USA)&7.",
+            "en_XX": "&7Text unconverted doth\npresent in &eEnglish (US of A)&7.",
+            "de_DE": "&7Nicht übersetzter Text\nwird in &eEnglisch &7angezeigt.",
+            "de_AT": "&7Ned übersetzta Text werd auf\n&eDeitsch (Deitschland) &7oda &eEnglisch &7ogzeigt.",
+            "de_XX": "&7Ine untranslatet Text sal er\nerschinen in &eDeutsch &7oder &eEnglisch&7.",
+            "nl_NL": "&7Onvertaalde tekst wordt in\nhet &eEngels &7weergegeven.",
+            "pt_BR": "&7O texto não traduzido né\nexibido em &einglês&7.",
+            "pt_PT": "&7O texto não traduzido é\nexibido em &eportuguês (Brasil) &7ou &einglês&7.",
+            "es_ES": "&7El texto no traducido se\nmuestra en &einglés&7.",
+            "es_MX": "&7El texto no traducido se\nmuestra en &eespañol (España) &7o &einglés&7.",
+            "fr_FR": "&7Le texte non traduit est\naffiché en &eanglais&7.",
+            "pl_PL": "&7Nieprzetłumaczony tekst jest\nwyświetlany w języku &eangielskim&7.",
+            "ru_RU": "&7Непереведенный текст отображается\nна &eанглийском языке&7.",
+            "tr_TR": "&7Çevrilmemiş metin &eİngilizce\n&7olarak görüntülenir.",
+            "ko_KO": "&7번역되지 않은 텍스트는 &e영어&7로 표시됩니다."
+        },
         "STATS.yourstatstitle":
         {
             "en_US": "YOUR STATS",
