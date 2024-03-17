@@ -116,7 +116,7 @@
         {
             "en_US": "&7You &aentered &6Cookie Clicker&7!",
             "de_DE": "&7Du hast &6Cookie Clicker &abetreten&7!",
-            "pt_PT": "&7Você &aentrou &6Cookie Clicker&7!",
+            "pt_BR": "&7Você &aentrou &6Cookie Clicker&7!",
             "es_ES": "&7Usted &aentró &6Cookie Clicker&7!",
             "fr_FR": "&7Vous &aêtes entré &6Cookie Clicker&7!",
             "tr_TR": "&7Sen &a&6Cookie Clicker&7 girdiniz!"
@@ -125,7 +125,7 @@
         {
             "en_US": "&7You &cleft &6Cookie Clicker&7!",
             "de_DE": "&7Du hast &6Cookie Clicker &cverlassen&7!",
-            "pt_PT": "&7Você &csaiu &6Cookie Clicker&7!",
+            "pt_BR": "&7Você &csaiu &6Cookie Clicker&7!",
             "es_ES": "&7Usted &csalió &6Cookie Clicker&7!",
             "fr_FR": "&7Vous &cêtes parti &6Cookie Clicker&7!",
             "tr_TR": "&7Sen &c&6Cookie Clicker&7 terk etti!"
@@ -134,7 +134,7 @@
         {
             "en_US": "Cookies",
             "de_DE": "Cookies",
-            "pt_PT": "Biscoitos",
+            "pt_BR": "Biscoitos",
             "es_ES": "Galletas",
             "fr_FR": "Cookies",
             "tr_TR": "Kurabiye"
@@ -143,7 +143,7 @@
         {
             "en_US": "Clicks",
             "de_DE": "Klicks",
-            "pt_PT": "Cliques",
+            "pt_BR": "Cliques",
             "es_ES": "Clics",
             "fr_FR": "Clics",
             "tr_TR": "Tıklamalar"
@@ -152,7 +152,7 @@
         {
             "en_US": "Per Click",
             "de_DE": "Pro Klick",
-            "pt_PT": "Por Clique",
+            "pt_BR": "Por Clique",
             "es_ES": "Por Clic",
             "fr_FR": "Par Clic",
             "tr_TR": "Tıklama Başına"
@@ -161,7 +161,7 @@
         {
             "en_US": "Your Cookies",
             "de_DE": "Deine Cookies",
-            "pt_PT": "Seus Biscoitos",
+            "pt_BR": "Seus Biscoitos",
             "es_ES": "Tus Galletas",
             "fr_FR": "Vos Cookies",
             "tr_TR": "Senin Kurabiyelerin"
@@ -170,7 +170,7 @@
         {
             "en_US": "&7Do you really want to reset your Cookie Clicker stats?",
             "de_DE": "&7Möchtest du wirklich deine Cookie Clicker Stats zurücksetzen?",
-            "pt_PT": "&7Você realmente deseja redefinir suas estatísticas do Cookie Clicker?",
+            "pt_BR": "&7Você realmente deseja redefinir suas estatísticas do Cookie Clicker?",
             "es_ES": "&7¿Realmente quieres restablecer tus estadísticas de Cookie Clicker?",
             "fr_FR": "&7Voulez-vous vraiment réinitialiser vos statistiques Cookie Clicker?",
             "tr_TR": "&7Cookie Clicker istatistiklerinizi gerçekten sıfırlamak istiyor musunuz?"
@@ -179,7 +179,7 @@
         {
             "en_US": "&7Type &e/cookieclicker reset-confirm &7to confirm!",
             "de_DE": "&7Schreibe &e/cookieclicker reset-confirm &7um zu bestätigen!",
-            "pt_PT": "&7Digite &e/cookieclicker reset-confirm &7para confirmar!",
+            "pt_BR": "&7Digite &e/cookieclicker reset-confirm &7para confirmar!",
             "es_ES": "&7¡Escribe &e/cookieclicker reset-confirm &7para confirmar!",
             "fr_FR": "&7Tapez &e/cookieclicker reset-confirm &7pour confirmer!",
             "tr_TR": "&7Onaylamak için &e/cookieclicker reset-confirm &7yazın!"
@@ -188,7 +188,7 @@
         {
             "en_US": "&7Your Cookie Clicker stats have been reset!",
             "de_DE": "&7Deine Cookie Clicker Stats wurden zurückgesetzt!",
-            "pt_PT": "&7Suas estatísticas do Cookie Clicker foram redefinidas!",
+            "pt_BR": "&7Suas estatísticas do Cookie Clicker foram redefinidas!",
             "es_ES": "&7¡Tus estadísticas de Cookie Clicker se han restablecido!",
             "fr_FR": "&7Vos statistiques Cookie Clicker ont été réinitialisées!",
             "tr_TR": "&7Cookie Clicker istatistikleriniz sıfırlandı!"
@@ -197,7 +197,7 @@
         {
             "en_US": "Time",
             "de_DE": "Zeit",
-            "pt_PT": "Tempo",
+            "pt_BR": "Tempo",
             "es_ES": "Tiempo",
             "fr_FR": "Temps",
             "tr_TR": "Zaman"
@@ -206,7 +206,7 @@
         {
             "en_US": "&eBe careful not to explode!",
             "de_DE": "&ePass auf, dass du nicht explodierst!",
-            "pt_PT": "&eTenha cuidado para não explodir!",
+            "pt_BR": "&eTenha cuidado para não explodir!",
             "es_ES": "&e¡Ten cuidado de no explotar!",
             "fr_FR": "&eFaites attention à ne pas exploser!",
             "tr_TR": "&ePatlamamaya dikkat edin!"
@@ -215,7 +215,7 @@
         {
             "en_US": "&eOne million so rich?",
             "de_DE": "&eEine Million so reich?",
-            "pt_PT": "&eUm milhão tão rico?",
+            "pt_BR": "&eUm milhão tão rico?",
             "es_ES": "&e¿Un millón tan rico?",
             "fr_FR": "&eUn million si riche?",
             "tr_TR": "&eBir milyon bu kadar zengin?"
@@ -224,7 +224,7 @@
         {
             "en_US": "&eSugar rush",
             "de_DE": "&eZuckerrausch",
-            "pt_PT": "&eRush de açúcar",
+            "pt_BR": "&eRush de açúcar",
             "es_ES": "&eSubidón de azúcar",
             "fr_FR": "&eRush de sucre",
             "tr_TR": "&eŞeker rahatlığı"
@@ -233,7 +233,7 @@
         {
             "en_US": "&eCookie manufacturer",
             "de_DE": "&eKeksfabrikant",
-            "pt_PT": "&eFabricante de biscoitos",
+            "pt_BR": "&eFabricante de biscoitos",
             "es_ES": "&eFabricante de galletas",
             "fr_FR": "&eFabricant de biscuits",
             "tr_TR": "&eKurabiye üreticisi"
@@ -242,7 +242,7 @@
         {
             "en_US": "&eClick wonder",
             "de_DE": "&eKlickwunder",
-            "pt_PT": "&eClique na maravilha",
+            "pt_BR": "&eClique na maravilha",
             "es_ES": "&eHaga clic en la maravilla",
             "fr_FR": "&eCliquez sur la merveille",
             "tr_TR": "&eHarika tıklama"
@@ -251,7 +251,7 @@
         {
             "en_US": "&eMaster baker",
             "de_DE": "&eMeisterbäcker",
-            "pt_PT": "&eMestre padeiro",
+            "pt_BR": "&eMestre padeiro",
             "es_ES": "&eMaestro panadero",
             "fr_FR": "&eMaître boulanger",
             "tr_TR": "&eUsta fırıncı"
@@ -260,7 +260,7 @@
         {
             "en_US": "&eOne hundred per click?",
             "de_DE": "&eEinhundert pro Klick?",
-            "pt_PT": "&eCem por clique?",
+            "pt_BR": "&eCem por clique?",
             "es_ES": "&e¿Cien por clic?",
             "fr_FR": "&eCent par clic?",
             "tr_TR": "&eTıklama başına yüz?"
@@ -269,7 +269,7 @@
         {
             "en_US": "&7Own 10.000 Cookies",
             "de_DE": "&7Besitze 10.000 Cookies",
-            "pt_PT": "&7Possui 10.000 Cookies",
+            "pt_BR": "&7Possui 10.000 Cookies",
             "es_ES": "&7Poseer 10.000 Cookies",
             "fr_FR": "&7Posséder 10.000 Cookies",
             "tr_TR": "&7Kendi 10.000 Cookies"
@@ -278,7 +278,7 @@
         {
             "en_US": "&7Own 1 Million Cookies",
             "de_DE": "&7Besitze 1 Million Cookies",
-            "pt_PT": "&7Possui 1 milhão de Cookies",
+            "pt_BR": "&7Possui 1 milhão de Cookies",
             "es_ES": "&7Poseer 1 millón de Cookies",
             "fr_FR": "&7Posséder 1 million de Cookies",
             "tr_TR": "&7Kendi 1 Milyon Cookies"
@@ -287,7 +287,7 @@
         {
             "en_US": "&7Own 20 Million Cookies",
             "de_DE": "&7Besitze 20 Millionen Cookies",
-            "pt_PT": "&7Possui 20 milhões de Cookies",
+            "pt_BR": "&7Possui 20 milhões de Cookies",
             "es_ES": "&7Poseer 20 millones de Cookies",
             "fr_FR": "&7Posséder 20 millions de Cookies",
             "tr_TR": "&7Kendi 20 Milyon Cookies"
@@ -296,7 +296,7 @@
         {
             "en_US": "&7Own 500.000 Cookies",
             "de_DE": "&7Besitze 500.000 Cookies",
-            "pt_PT": "&7Possui 500.000 Cookies",
+            "pt_BR": "&7Possui 500.000 Cookies",
             "es_ES": "&7Poseer 500.000 Cookies",
             "fr_FR": "&7Posséder 500.000 Cookies",
             "tr_TR": "&7Kendi 500.000 Cookies"
@@ -305,7 +305,7 @@
         {
             "en_US": "&7Earn 50 Cookies per click",
             "de_DE": "&7Verdiene 50 Cookies pro Klick",
-            "pt_PT": "&7Ganhe 50 Cookies por clique",
+            "pt_BR": "&7Ganhe 50 Cookies por clique",
             "es_ES": "&7Ganar 50 Cookies por clic",
             "fr_FR": "&7Gagner 50 Cookies par clic",
             "tr_TR": "&7Tıklama başına 50 Kurabiye kazan"
@@ -314,7 +314,7 @@
         {
             "en_US": "&7Click 25.000 times",
             "de_DE": "&7Klicke 25.000 mal",
-            "pt_PT": "&7Clique 25.000 vezes",
+            "pt_BR": "&7Clique 25.000 vezes",
             "es_ES": "&7Haga clic 25.000 veces",
             "fr_FR": "&7Cliquez 25.000 fois",
             "tr_TR": "&725.000 kez tıklayın"
@@ -323,7 +323,7 @@
         {
             "en_US": "&7Earn 100 Cookies per click",
             "de_DE": "&7Verdiene 100 Cookies pro Klick",
-            "pt_PT": "&7Ganhe 100 Cookies por clique",
+            "pt_BR": "&7Ganhe 100 Cookies por clique",
             "es_ES": "&7Ganar 100 Cookies por clic",
             "fr_FR": "&7Gagner 100 Cookies par clic",
             "tr_TR": "&7Tıklama başına 100 Kurabiye kazan"
@@ -332,7 +332,7 @@
         {
             "en_US": "&eAchievement unlocked: Be careful not to explode!",
             "de_DE": "&eErfolg freigeschaltet: Pass auf, dass du nicht explodierst!",
-            "pt_PT": "&eConquista desbloqueada: Tenha cuidado para não explodir!",
+            "pt_BR": "&eConquista desbloqueada: Tenha cuidado para não explodir!",
             "es_ES": "&eLogro desbloqueado: ¡Ten cuidado de no explotar!",
             "fr_FR": "&eSuccès débloqué: Faites attention à ne pas exploser!",
             "tr_TR": "&eBaşarı kilidi açıldı: Patlamamaya dikkat edin!"
@@ -341,7 +341,7 @@
         {
             "en_US": "&eAchievement unlocked: One million so rich?",
             "de_DE": "&eErfolg freigeschaltet: Eine Million so reich?",
-            "pt_PT": "&eConquista desbloqueada: Um milhão tão rico?",
+            "pt_BR": "&eConquista desbloqueada: Um milhão tão rico?",
             "es_ES": "&eLogro desbloqueado: ¿Un millón tan rico?",
             "fr_FR": "&eSuccès débloqué: Un million si riche?",
             "tr_TR": "&eBaşarı kilidi açıldı: Bir milyon bu kadar zengin?"
@@ -350,7 +350,7 @@
         {
             "en_US": "&eAchievement unlocked: Sugar rush",
             "de_DE": "&eErfolg freigeschaltet: Zuckerrausch",
-            "pt_PT": "&eConquista desbloqueada: Açúcar",
+            "pt_BR": "&eConquista desbloqueada: Açúcar",
             "es_ES": "&eLogro desbloqueado: Subidón de azúcar",
             "fr_FR": "&eSuccès débloqué: Ruée vers le sucre",
             "tr_TR": "&eBaşarı kilidi açıldı: Şeker rahatsızlığı"
@@ -359,7 +359,7 @@
         {
             "en_US": "&eAchievement unlocked: Cookie manufacturer",
             "de_DE": "&eErfolg freigeschaltet: Kekshersteller",
-            "pt_PT": "&eConquista desbloqueada: Fabricante de biscoitos",
+            "pt_BR": "&eConquista desbloqueada: Fabricante de biscoitos",
             "es_ES": "&eLogro desbloqueado: Fabricante de galletas",
             "fr_FR": "&eSuccès débloqué: Fabricant de cookies",
             "tr_TR": "&eBaşarı kilidi açıldı: Kurabiye üreticisi"
@@ -368,7 +368,7 @@
         {
             "en_US": "&eAchievement unlocked: Click wonder",
             "de_DE": "&eErfolg freigeschaltet: Klickwunder",
-            "pt_PT": "&eConquista desbloqueada: Clique maravilha",
+            "pt_BR": "&eConquista desbloqueada: Clique maravilha",
             "es_ES": "&eLogro desbloqueado: Haga clic en maravilla",
             "fr_FR": "&eSuccès débloqué: Cliquez sur merveille",
             "tr_TR": "&eBaşarı kilidi açıldı: Tıklama harikası"
@@ -377,7 +377,7 @@
         {
             "en_US": "&eAchievement unlocked: Master baker",
             "de_DE": "&eErfolg freigeschaltet: Meisterbäcker",
-            "pt_PT": "&eConquista desbloqueada: Mestre padeiro",
+            "pt_BR": "&eConquista desbloqueada: Mestre padeiro",
             "es_ES": "&eLogro desbloqueado: Maestro panadero",
             "fr_FR": "&eSuccès débloqué: Maître boulanger",
             "tr_TR": "&eBaşarı kilidi açıldı: Usta fırıncı"
@@ -386,7 +386,7 @@
         {
             "en_US": "&eAchievement unlocked: One hundred per click?",
             "de_DE": "&eErfolg freigeschaltet: Hundert pro Klick?",
-            "pt_PT": "&eConquista desbloqueada: Cem por clique?",
+            "pt_BR": "&eConquista desbloqueada: Cem por clique?",
             "es_ES": "&eLogro desbloqueado: ¿Cien por clic?",
             "fr_FR": "&eSuccès débloqué: Cent par clic?",
             "tr_TR": "&eBaşarı kilidi açıldı: Tıklama başına yüz?"
@@ -395,7 +395,7 @@
         {
             "en_US": "&6Small Upgrade",
             "de_DE": "&6Kleines Upgrade",
-            "pt_PT": "&6Pequena atualização",
+            "pt_BR": "&6Pequena atualização",
             "es_ES": "&6Pequeña mejora",
             "fr_FR": "&6Petite mise à niveau",
             "tr_TR": "&6Küçük Yükseltme"
@@ -404,7 +404,7 @@
         {
             "en_US": "&6&nAdvanced&6 Upgrade",
             "de_DE": "&6&nFortgeschrittenes&6 Upgrade",
-            "pt_PT": "&6&nAvançado&6 Upgrade",
+            "pt_BR": "&6&nAvançado&6 Upgrade",
             "es_ES": "&6&nAvanzado&6 Upgrade",
             "fr_FR": "&6&nAvancé&6 Upgrade",
             "tr_TR": "&6&nGelişmiş&6 Yükseltme"
@@ -413,7 +413,7 @@
         {
             "en_US": "&6&lMEGA &6Upgrade",
             "de_DE": "&6&lMEGA &6Upgrade",
-            "pt_PT": "&6&lMEGA &6Upgrade",
+            "pt_BR": "&6&lMEGA &6Upgrade",
             "es_ES": "&6&lMEGA &6Upgrade",
             "fr_FR": "&6&lMEGA &6Upgrade",
             "tr_TR": "&6&lMEGA &6Yükseltme"
@@ -422,7 +422,7 @@
         {
             "en_US": "&eAchievements",
             "de_DE": "&eErfolge",
-            "pt_PT": "&eConquistas",
+            "pt_BR": "&eConquistas",
             "es_ES": "&eLogros",
             "fr_FR": "&eSuccès",
             "tr_TR": "&eBaşarılar"
@@ -431,7 +431,7 @@
         {
             "en_US": "&eBooster",
             "de_DE": "&eBooster",
-            "pt_PT": "&eBooster",
+            "pt_BR": "&eBooster",
             "es_ES": "&eBooster",
             "fr_FR": "&eBooster",
             "tr_TR": "&eBooster"
@@ -440,7 +440,7 @@
         {
             "en_US": "&7Adds &e1 &7cookies to your cookies per click!",
             "de_DE": "&7Fügt &e1 &7Cookies zu deinen Cookies pro Klick hinzu!",
-            "pt_PT": "&7Adiciona &e1 &7cookies aos seus cookies por clique!",
+            "pt_BR": "&7Adiciona &e1 &7cookies aos seus cookies por clique!",
             "es_ES": "&7¡Agrega &e1 &7cookies a tus cookies por clic!",
             "fr_FR": "&7Ajoute &e1 &7cookies à vos cookies par clic!",
             "tr_TR": "&7Tıklama başına &e1 &7çerez ekler!"
@@ -449,7 +449,7 @@
         {
             "en_US": "&7Adds &e5 &7cookies to your cookies per click!",
             "de_DE": "&7Fügt &e5 &7Cookies zu deinen Cookies pro Klick hinzu!",
-            "pt_PT": "&7Adiciona &e5 &7cookies aos seus cookies por clique!",
+            "pt_BR": "&7Adiciona &e5 &7cookies aos seus cookies por clique!",
             "es_ES": "&7¡Agrega &e5 &7cookies a tus cookies por clic!",
             "fr_FR": "&7Ajoute &e5 &7cookies à vos cookies par clic!",
             "tr_TR": "&7Tıklama başına &e5 &7çerez ekler!"
@@ -458,7 +458,7 @@
         {
             "en_US": "&7Adds &e15 &7cookies to your cookies per click!",
             "de_DE": "&7Fügt &e15 &7Cookies zu deinen Cookies pro Klick hinzu!",
-            "pt_PT": "&7Adiciona &e15 &7cookies aos seus cookies por clique!",
+            "pt_BR": "&7Adiciona &e15 &7cookies aos seus cookies por clique!",
             "es_ES": "&7¡Agrega &e15 &7cookies a tus cookies por clic!",
             "fr_FR": "&7Ajoute &e15 &7cookies à vos cookies par clic!",
             "tr_TR": "&7Tıklama başına &e15 &7çerez ekler!"
@@ -467,7 +467,7 @@
         {
             "en_US": "&7Get coins by achievements!",
             "de_DE": "&7Erhalte Münzen durch Erfolge!",
-            "pt_PT": "&7Obtenha moedas por conquistas!",
+            "pt_BR": "&7Obtenha moedas por conquistas!",
             "es_ES": "&7¡Obtén monedas por logros!",
             "fr_FR": "&7Obtenez des pièces par succès!",
             "tr_TR": "&7Başarılarla paraları al!"
@@ -476,7 +476,7 @@
         {
             "en_US": "&7Get more cookies by a booster!",
             "de_DE": "&7Erhalte mehr Cookies durch einen Booster!",
-            "pt_PT": "&7Obtenha mais cookies por um reforço!",
+            "pt_BR": "&7Obtenha mais cookies por um reforço!",
             "es_ES": "&7¡Obtén más cookies por un refuerzo!",
             "fr_FR": "&7Obtenez plus de cookies par un booster!",
             "tr_TR": "&7Booster ile daha fazla çerez alın!"
@@ -485,7 +485,7 @@
         {
             "en_US": "&e1.5x Cookie Boost &7(2m)",
             "de_DE": "&e1.5x Cookie Boost &7(2m)",
-            "pt_PT": "&e1.5x Cookie Boost &7(2m)",
+            "pt_BR": "&e1.5x Cookie Boost &7(2m)",
             "es_ES": "&e1.5x Cookie Boost &7(2m)",
             "fr_FR": "&e1.5x Cookie Boost &7(2m)",
             "tr_TR": "&e1.5x Cookie Boost &7(2m)"
@@ -494,7 +494,7 @@
         {
             "en_US": "&e1.5x Cookie Boost &7(5m)",
             "de_DE": "&e1.5x Cookie Boost &7(5m)",
-            "pt_PT": "&e1.5x Cookie Boost &7(5m)",
+            "pt_BR": "&e1.5x Cookie Boost &7(5m)",
             "es_ES": "&e1.5x Cookie Boost &7(5m)",
             "fr_FR": "&e1.5x Cookie Boost &7(5m)",
             "tr_TR": "&e1.5x Cookie Boost &7(5m)"
@@ -503,7 +503,7 @@
         {
             "en_US": "&e2.5x Cookie Boost &7(2m)",
             "de_DE": "&e2.5x Cookie Boost &7(2m)",
-            "pt_PT": "&e2.5x Cookie Boost &7(2m)",
+            "pt_BR": "&e2.5x Cookie Boost &7(2m)",
             "es_ES": "&e2.5x Cookie Boost &7(2m)",
             "fr_FR": "&e2.5x Cookie Boost &7(2m)",
             "tr_TR": "&e2.5x Cookie Boost &7(2m)"
@@ -512,7 +512,7 @@
         {
             "en_US": "&e2.5x Cookie Boost &7(5m)",
             "de_DE": "&e2.5x Cookie Boost &7(5m)",
-            "pt_PT": "&e2.5x Cookie Boost &7(5m)",
+            "pt_BR": "&e2.5x Cookie Boost &7(5m)",
             "es_ES": "&e2.5x Cookie Boost &7(5m)",
             "fr_FR": "&e2.5x Cookie Boost &7(5m)",
             "tr_TR": "&e2.5x Cookie Boost &7(5m)"
@@ -521,7 +521,7 @@
         {
             "en_US": "&7Everyone will get &e1.5x &7more cookies for &e2 minutes&7!",
             "de_DE": "&7Jeder wird &e1.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
-            "pt_PT": "&7Todos receberão &e1.5x &7mais cookies por &e2 minutos&7!",
+            "pt_BR": "&7Todos receberão &e1.5x &7mais cookies por &e2 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e1.5x &7más cookies por &e2 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e1.5x &7plus de cookies pour &e2 minutes&7!",
             "tr_TR": "&7Herkes &e2 dakika &7boyunca &e1.5x &7daha fazla çerez alacak!"
@@ -530,7 +530,7 @@
         {
             "en_US": "&7Everyone will get &e1.5x &7more cookies for &e5 minutes&7!",
             "de_DE": "&7Jeder wird &e1.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
-            "pt_PT": "&7Todos receberão &e1.5x &7mais cookies por &e5 minutos&7!",
+            "pt_BR": "&7Todos receberão &e1.5x &7mais cookies por &e5 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e1.5x &7más cookies por &e5 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e1.5x &7plus de cookies pour &e5 minutes&7!",
             "tr_TR": "&7Herkes &e5 dakika &7boyunca &e1.5x &7daha fazla çerez alacak!"
@@ -539,7 +539,7 @@
         {
             "en_US": "&7Everyone will get &e2.5x &7more cookies for &e2 minutes&7!",
             "de_DE": "&7Jeder wird &e2.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
-            "pt_PT": "&7Todos receberão &e2.5x &7mais cookies por &e2 minutos&7!",
+            "pt_BR": "&7Todos receberão &e2.5x &7mais cookies por &e2 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e2.5x &7más cookies por &e2 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e2.5x &7plus de cookies pour &e2 minutes&7!",
             "tr_TR": "&7Herkes &e2 dakika &7boyunca &e2.5x &7daha fazla çerez alacak!"
@@ -548,7 +548,7 @@
         {
             "en_US": "&7Everyone will get &e2.5x &7more cookies for &e5 minutes&7!",
             "de_DE": "&7Jeder wird &e2.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
-            "pt_PT": "&7Todos receberão &e2.5x &7mais cookies por &e5 minutos&7!",
+            "pt_BR": "&7Todos receberão &e2.5x &7mais cookies por &e5 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e2.5x &7más cookies por &e5 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e2.5x &7plus de cookies pour &e5 minutes&7!",
             "tr_TR": "&7Herkes &e5 dakika &7boyunca &e2.5x &7daha fazla çerez alacak!"
@@ -557,7 +557,7 @@
         {
             "en_US": "&7bought &e1.5x Cookie Boost &7for &e2 minutes&7!",
             "de_DE": "&7kaufte &e1.5x Cookie Boost &7für &e2 Minuten&7!",
-            "pt_PT": "&7comprou &e1.5x Cookie Boost &7por &e2 minutos&7!",
+            "pt_BR": "&7comprou &e1.5x Cookie Boost &7por &e2 minutos&7!",
             "es_ES": "&7compró &e1.5x Cookie Boost &7por &e2 minutos&7!",
             "fr_FR": "&7a acheté &e1.5x Cookie Boost &7pour &e2 minutes&7!",
             "tr_TR": "&7&b2 dakika &7boyunca &e1.5x Cookie Boost &7satın aldı!"
@@ -566,7 +566,7 @@
         {
             "en_US": "&7bought &e1.5x Cookie Boost &7for &e5 minutes&7!",
             "de_DE": "&7kaufte &e1.5x Cookie Boost &7für &e5 Minuten&7!",
-            "pt_PT": "&7comprou &e1.5x Cookie Boost &7por &e5 minutos&7!",
+            "pt_BR": "&7comprou &e1.5x Cookie Boost &7por &e5 minutos&7!",
             "es_ES": "&7compró &e1.5x Cookie Boost &7por &e5 minutos&7!",
             "fr_FR": "&7a acheté &e1.5x Cookie Boost &7pour &e5 minutes&7!",
             "tr_TR": "&7&b5 dakika &7boyunca &e1.5x Cookie Boost &7satın aldı!"
@@ -575,7 +575,7 @@
         {
             "en_US": "&7bought &e2.5x Cookie Boost &7for &e2 minutes&7!",
             "de_DE": "&7kaufte &e2.5x Cookie Boost &7für &e2 Minuten&7!",
-            "pt_PT": "&7comprou &e2.5x Cookie Boost &7por &e2 minutos&7!",
+            "pt_BR": "&7comprou &e2.5x Cookie Boost &7por &e2 minutos&7!",
             "es_ES": "&7compró &e2.5x Cookie Boost &7por &e2 minutos&7!",
             "fr_FR": "&7a acheté &e2.5x Cookie Boost &7pour &e2 minutes&7!",
             "tr_TR": "&7&b2 dakika &7boyunca &e2.5x Cookie Boost &7satın aldı!"
@@ -584,7 +584,7 @@
         {
             "en_US": "&7bought &e2.5x Cookie Boost &7for &e5 minutes&7!",
             "de_DE": "&7kaufte &e2.5x Cookie Boost &7für &e5 Minuten&7!",
-            "pt_PT": "&7comprou &e2.5x Cookie Boost &7por &e5 minutos&7!",
+            "pt_BR": "&7comprou &e2.5x Cookie Boost &7por &e5 minutos&7!",
             "es_ES": "&7compró &e2.5x Cookie Boost &7por &e5 minutos&7!",
             "fr_FR": "&7a acheté &e2.5x Cookie Boost &7pour &e5 minutes&7!",
             "tr_TR": "&7&b5 dakika &7boyunca &e2.5x Cookie Boost &7satın aldı!"
@@ -593,7 +593,7 @@
         {
             "en_US": "&7You won &e1 &7coin!",
             "de_DE": "&7Du hast &e1 &7Münze gewonnen!",
-            "pt_PT": "&7Você ganhou &e1 &7moeda!",
+            "pt_BR": "&7Você ganhou &e1 &7moeda!",
             "es_ES": "&7¡Ganaste &e1 &7moneda!",
             "fr_FR": "&7Vous avez gagné &e1 &7pièce!",
             "tr_TR": "&7&e1 &7coin kazandın!"
@@ -602,7 +602,7 @@
         {
             "en_US": "&7You won &e2 &7coins!",
             "de_DE": "&7Du hast &e2 &7Münzen gewonnen!",
-            "pt_PT": "&7Você ganhou &e2 &7moedas!",
+            "pt_BR": "&7Você ganhou &e2 &7moedas!",
             "es_ES": "&7¡Ganaste &e2 &7monedas!",
             "fr_FR": "&7Vous avez gagné &e2 &7pièces!",
             "tr_TR": "&7&e2 &7coin kazandın!"
@@ -611,7 +611,7 @@
         {
             "en_US": "&7You won &e3 &7coins!",
             "de_DE": "&7Du hast &e3 &7Münzen gewonnen!",
-            "pt_PT": "&7Você ganhou &e3 &7moedas!",
+            "pt_BR": "&7Você ganhou &e3 &7moedas!",
             "es_ES": "&7¡Ganaste &e3 &7monedas!",
             "fr_FR": "&7Vous avez gagné &e3 &7pièces!",
             "tr_TR": "&7&e3 &7coin kazandın!"
@@ -620,7 +620,7 @@
         {
             "en_US": "Another Boost is already running!",
             "de_DE": "Ein anderer Boost läuft bereits!",
-            "pt_PT": "Outro Boost já está ativo!",
+            "pt_BR": "Outro Boost já está ativo!",
             "es_ES": "¡Otro Boost ya está activo!",
             "fr_FR": "Un autre Boost est déjà actif!",
             "tr_TR": "Başka bir Boost zaten çalışıyor!"
@@ -629,7 +629,7 @@
         {
             "en_US": "&cPlease move, are you AFK?",
             "de_DE": "&cBitte bewege dich bist du etwa AFK?",
-            "pt_PT": "&cPor favor, mova-se, você está AFK?",
+            "pt_BR": "&cPor favor, mova-se, você está AFK?",
             "es_ES": "&cPor favor, muévete, ¿estás AFK?",
             "fr_FR": "&cS'il vous plaît bouger, êtes-vous AFK?",
             "tr_TR": "&cLütfen hareket et, AFK mısın?"
@@ -643,7 +643,7 @@
         {
             "en_US": "&8Cookie Clicker",
             "de_DE": "&8Cookie Clicker",
-            "pt_PT": "&8Cookie Clicker",
+            "pt_BR": "&8Cookie Clicker",
             "es_ES": "&8Cookie Clicker",
             "fr_FR": "&8Cookie Clicker",
             "tr_TR": "&8Cookie Clicker"
@@ -652,7 +652,7 @@
         {
             "en_US": "&8Achievements",
             "de_DE": "&8Erfolge",
-            "pt_PT": "&8Conquistas",
+            "pt_BR": "&8Conquistas",
             "es_ES": "&8Logros",
             "fr_FR": "&8Succès",
             "tr_TR": "&8Başarılar"
@@ -661,7 +661,7 @@
         {
             "en_US": "&8Booster",
             "de_DE": "&8Booster",
-            "pt_PT": "&8Booster",
+            "pt_BR": "&8Booster",
             "es_ES": "&8Booster",
             "fr_FR": "&8Booster",
             "tr_TR": "&8Booster"
@@ -670,7 +670,7 @@
         {
             "en_US": "&cBack",
             "de_DE": "&cZurück",
-            "pt_PT": "&cVoltar",
+            "pt_BR": "&cVoltar",
             "es_ES": "&cVolver",
             "fr_FR": "&cRetour",
             "tr_TR": "&cGeri"
