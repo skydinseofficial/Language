@@ -78,7 +78,11 @@ The language files are located in the individual system folders and __must__ hav
 ##
 ### __Text formats__
 
+- **Basic color codes**: Basic Minecraft color codes (e.g. `&6`, `&a`, ...) can be found at https://htmlcolorcodes.com/minecraft-color-codes/. Please note that the `&` symbol must be used instead of the `§` symbol.
+
 - **Hex-Colors**: Hex colors can be specified in two different formats: `#&000000` or `<#000000>`. Examples: `&#abc123`, `<#abc123>,`, `#&face05`, `<#face05>`. IMPORTANT: the color code __must__ always be __6 characters long__ (instead of "000" for black, for example, "000000" would have to be specified for black)!
+
+- **Color gradients**: A tool for creating color gradients can be found at https://www.birdflop.com/resources/rgb/. It is important to select a supported color code format (`#&000000` or `<#000000>`).
 
 - **Links**:
  - **automatic formatting**: Links can be made automatically clickable and provided with a tooltip (similar to chat) if they are specified in the format `<@LINK>` (e.g. `<@https://www.skydinse.net/>`).
@@ -170,7 +174,11 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 ##
 ### __Textformate__
 
-- **Hex-Colors**: Hex-Colors können in zwei verschiedenen Formaten angegeben werden: `#&000000` oder `<#000000>`. Beispiele: `&#abc123`, `<#abc123>,`, `&#face05`, `<#face05>`. WICHTIG: der Colorcode __muss__ immer __6 Zeichen lang__ sein (statt "000" für schwarz müsste dann beispielsweise "000000" für schwarz angegeben werden)!
+- **Grundlegende Farbcodes**: Grundlegende Minecraft-Farbcodes (z.B. `&6`, `&a`, ...) sind unter https://htmlcolorcodes.com/minecraft-color-codes/ zu finden. Hierbei ist bitte zu beachten, dass das `&`-Symbol anstelle des `§`-Symbols verwendet werden muss.
+
+- **Hex-Farbcodes**: Hex-Farbcodes können in zwei verschiedenen Formaten angegeben werden: `#&000000` oder `<#000000>`. Beispiele: `&#abc123`, `<#abc123>,`, `&#face05`, `<#face05>`. WICHTIG: der Colorcode __muss__ immer __6 Zeichen lang__ sein (statt "000" für schwarz müsste dann beispielsweise "000000" für schwarz angegeben werden)!
+
+- **Farbverläufe**: Ein Tool zur Erstellung von Farbverläufen ist unter https://www.birdflop.com/resources/rgb/ zu finden. Es ist zu beachten, ein unterstütztes Farbcode-Format (`#&000000` oder `<#000000>`) auszuwählen.
 
 - **Links**:
   - **automatische Formatierung**: Links können automatisch klickbar gemacht und mit tooltip versorgt werden (ähnlich wie im Chat), wenn diese im Format `<@LINK>` (z.B. `<@https://www.skydinse.net/>`) angegeben werden.
