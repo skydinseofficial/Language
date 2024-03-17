@@ -40,6 +40,25 @@
             "tr_TR": "[SEÇMEK İÇİN TIKLA]",
             "ko_KO": "[선택하려면 클릭하세요]"
         },
+        "LANGUAGE.selected":
+        {
+            "en_US": "<#07B307>[&a✅ <#07B307>SELECTED]",
+            "en_GB": "<#07B307>[&a✅ <#07B307>SELECTED]",
+            "en_XX": "<#07B307>[&a✅ <#07B307>CHOSEN]",
+            "de_DE": "<#07B307>[&a✅ <#07B307>AUSGEWÄHLT]",
+            "de_AT": "<#07B307>[&a✅ <#07B307>AUSGEWÄHLT]",
+            "de_XX": "<#07B307>[&a✅ <#07B307>ERKOREN]",
+            "nl_NL": "<#07B307>[&a✅ <#07B307>GESELECTEERD]",
+            "pt_BR": "<#07B307>[&a✅ <#07B307>SELECIONADO/A]",
+            "pt_PT": "<#07B307>[&a✅ <#07B307>SELECIONADO/A]",
+            "es_ES": "<#07B307>[&a✅ <#07B307>SELECCIONADO/A]",
+            "es_MX": "<#07B307>[&a✅ <#07B307>SELECCIONADO/A]",
+            "fr_FR": "<#07B307>[&a✅ <#07B307>CHOISI(E)]",
+            "pl_PL": "<#07B307>[&a✅ <#07B307>WYBRANY]",
+            "ru_RU": "<#07B307>[&a✅ <#07B307>ВЫБРАННЫЕ]",
+            "tr_TR": "<#07B307>[&a✅ <#07B307>SEÇİLDİ]",
+            "ko_KO": "<#07B307>[&a✅ <#07B307>선택된]"
+        },
         "LANGUAGE.fallback":
         {
             "en_US": "&7Untranslated text is\ndisplayed in &eGerman&7.",
