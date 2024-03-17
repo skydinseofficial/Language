@@ -2,6 +2,25 @@
     "system": "lobby",
     "translations":
     {
+        "LANGUAGE.done":
+        {
+            "en_US": "&aApply",
+            "en_GB": "&aApply",
+            "en_XX": "&aBestow",
+            "de_DE": "&aFertig",
+            "de_AT": "&aBasst",
+            "de_XX": "&aGefertiget",
+            "nl_NL": "&aGedaan",
+            "pt_BR": "&aFeito",
+            "pt_PT": "&aFeito",
+            "es_ES": "&aHecho",
+            "es_MX": "&aHecho",
+            "fr_FR": "&aBien",
+            "pl_PL": "&aDobra",
+            "ru_RU": "&aготов",
+            "tr_TR": "&aBİTTİ",
+            "ko_KR": "&a완료"
+        },
         "LANGUAGE.translation_share":
         {
             "en_US": "&eTranslated: &a[value]%",
@@ -19,7 +38,7 @@
             "pl_PL": "&ePrzetłumaczone: &a[value]%",
             "ru_RU": "&eПереведено: &a[value]%",
             "tr_TR": "&eTercüme edildi: &a[value]%",
-            "ko_KO": "&e번역됨: &a[value]%"
+            "ko_KR": "&e번역됨: &a[value]%"
         },
         "LANGUAGE.click_to_select":
         {
@@ -38,7 +57,7 @@
             "pl_PL": "[KLIKNIJ ABY WYBRAĆ]",
             "ru_RU": "[НАЖМИТЕ, ЧТОБЫ ВЫБРАТЬ]",
             "tr_TR": "[SEÇMEK İÇİN TIKLA]",
-            "ko_KO": "[선택하려면 클릭하세요]"
+            "ko_KR": "[선택하려면 클릭하세요]"
         },
         "LANGUAGE.selected":
         {
@@ -57,7 +76,7 @@
             "pl_PL": "<#07B307>[&a✅ <#07B307>WYBRANY]",
             "ru_RU": "<#07B307>[&a✅ <#07B307>ВЫБРАННЫЕ]",
             "tr_TR": "<#07B307>[&a✅ <#07B307>SEÇİLDİ]",
-            "ko_KO": "<#07B307>[&a✅ <#07B307>선택된]"
+            "ko_KR": "<#07B307>[&a✅ <#07B307>선택된]"
         },
         "LANGUAGE.fallback":
         {
@@ -76,13 +95,13 @@
             "pl_PL": "&7Nieprzetłumaczony tekst jest\n&7  wyświetlany w języku &eangielskim&7.",
             "ru_RU": "&7Непереведенный текст отображается\n&7  на &eанглийском языке&7.",
             "tr_TR": "&7Çevrilmemiş metin &eİngilizce\n&7  olarak görüntülenir.",
-            "ko_KO": "&7번역되지 않은 텍스트는 &e영어&7로 표시됩니다."
+            "ko_KR": "&7번역되지 않은 텍스트는 &e영어&7로 표시됩니다."
         },
         "STATS.yourstatstitle":
         {
             "en_US": "YOUR STATS",
             "de_DE": "DEINE STATISTIKEN",
-            "pt": "TUAS ESTATÍSTICAS"
+            "pt_BR": "TUAS ESTATÍSTICAS"
         },
         "STATS.nostats":
         {
