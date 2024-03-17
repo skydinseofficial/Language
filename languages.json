@@ -31,12 +31,12 @@
             "details.en_XX":
             {
                 "name": "Befuddled Speech",
-                "country": "Skydinse"
+                "country": "US of A (Skydinse)"
             },
             "details.en_US":
             {
                 "name": "Funny English Language",
-                "country": "Skydinse"
+                "country": "US of A (Skydinse)"
             }
         },
         "de_DE":
@@ -73,12 +73,12 @@
             "details.de_XX":
             {
                 "name": "Wirrwarrspruch",
-                "country": "Skydinse"
+                "country": "Alamannenland (Skydinse)"
             },
             "details.en_US":
             {
                 "name": "Funny German Language",
-                "country": "Skydinse"
+                "country": "Alamannenland (Skydinse)"
             }
         },
         "nl_NL":
