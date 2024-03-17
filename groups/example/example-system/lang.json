@@ -9,12 +9,12 @@
             "de_DE": "<#face05>Klicke, um diesen Befehl in deinen Chat einzufügen!",
             "de_XX": "<#face05>Klicket, auf dass diese Anweisung in deinen Chat eingefüget werde!",
             "nl_NL": "<#face05>Klik om deze opdracht aan je chat toe te voegen!",
-            "pt_PT": "<#face05>Clique para adicionar este comando ao seu chat!",
+            "pt_BR": "<#face05>Clique para adicionar este comando ao seu chat!",
             "es_ES": "<#face05>Haz clic para añadir este comando a tu chat.",
             "fr_FR": "<#face05>Clique pour insérer cette commande dans ton chat !",
-            "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
             "pl_PL": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
-            "ru_RU": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!"
+            "ru_RU": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!",
+            "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!"
         },
         "EXAMPLE_TEXT_FUNCTION.link":
         {
@@ -23,12 +23,12 @@
             "de_DE": "<#face05>Klicke, um diesen Link zu öffnen!",
             "de_XX": "<#face05>Klicke, auf dass dieser Link sich öffne!",
             "nl_NL": "<#face05>Klik om deze link te openen!",
-            "pt_PT": "<#face05>Clique para abrir esta ligação!",
+            "pt_BR": "<#face05>Clique para abrir esta ligação!",
             "es_ES": "<#face05>Haga clic para abrir este enlace.",
             "fr_FR": "<#face05>Cliquez pour ouvrir ce lien !",
-            "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!",
             "pl_PL": "<#face05>Kliknij, aby otworzyć ten link!",
-            "ru_RU": "<#face05>Нажмите, чтобы открыть эту ссылку!"
+            "ru_RU": "<#face05>Нажмите, чтобы открыть эту ссылку!",
+            "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!"
         },
         "EXAMPLE_SUFFIX_FUNCTOIN.reward":
         {
@@ -38,7 +38,7 @@
             "de_AT": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &e[time.1] &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"cancel\" im Chat)! Du host [time.2] Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!",
             "de_XX": "&7Wahrlich, du hast einen <#face05>individuellen Suffix &7für die Spanne von &e[time.1] &7Tagen empfangen! Bitte gib deinen gewählten Suffix im Chat ein (gib \"cancel\" ein, um abzubrechen)! Du hast [time.2] Minuten Zeit, bevor deine Worte automatisch abschneiden. Eine Anleitung zu den Farben und Formatierungscodes vermagst du zu finden unter &e<@https://www.skydinse.net/colorcodes>&7!",
             "nl_NL": "&7Je hebt een <#face05>individuele achtervoegsel &7voor de duur van &e[time.1] &7dagen ontvangen! Gelieve je gewenste achtervoegsel in de chat in te voeren (typ \"cancel\" om te annuleren)! Je hebt [time.2] minuten voordat je invoer automatisch wordt afgebroken. Een handleiding voor kleur- en opmaakcodes vind je op &e<@https://www.skydinse.net/colorcodes>&7!",
-            "pt_PT": "&7Recebeu um sufixo <#face05>individual &7para o período de &e[time.1] &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancel\" para cancelar)! Dispõe de [time.2] minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!",
+            "pt_BR": "&7Recebeu um sufixo <#face05>individual &7para o período de &e[time.1] &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancel\" para cancelar)! Dispõe de [time.2] minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!",
             "es_ES": "&7Has recibido un <#face05>sufijo personalizado &7por un período de &e[time.1] &7días! Por favor, introduce tu sufijo deseado en el chat (escribe \"cancelar\" para cancelar). Tienes [time.2] minutos antes de que tu entrada sea cancelada automáticamente. Una guía sobre códigos de color y formato se puede encontrar en &e<@https://www.skydinse.net/colorcodes>&7!",
             "fr_FR": "&7Tu as reçu un <#face05>suffixe personnalisé &7pour la durée de &e[time.1] &7jours! Veuillez entrer votre suffixe désiré dans le chat (écris \"annuler\" pour annuler)! Tu as [time.2] minutes avant que ton entrée soit automatiquement annulée. Un guide des codes de couleur et de formatage est disponible sur &e<@https://www.skydinse.net/colorcodes>&7!",
             "pl_PL": "&7Otrzymałeś <#face05>indywidualny sufiks &7na okres &e[time.1] &7dni! Proszę wpisz swój wybrany sufiks w czacie (napisz \"anuluj\" aby anulować)! Masz [time.2] minut, zanim twoje wprowadzenie zostanie automatycznie anulowane. Przewodnik po kodach kolorów i formatowania znajdziesz na &e<@https://www.skydinse.net/colorcodes>&7!",
@@ -52,7 +52,7 @@
             "de_AT": "&aDei spezielles Suffix (\"&x&c&a&c&a&c&a[value]&a\") isch jetz' g'speichert! Dei Suffix bleibt für &e[time] &7Tage gültig! Geh bitte wieder ins Netzwerk, damit dei Suffix überall frisch wird!",
             "de_XX": "&aGewisset, dein eigen Suffix (\"&x&c&a&c&a&c&a[value]&a\") ist verliehen worden! Dein Suffix verweilet für &e[time] &7Tage! Begib dich aufs Neue in das Netzwerk, auf dass dein Suffix überall sein Frische erhalte!",
             "nl_NL": "&aJe individuele achtervoegsel (\"&x&c&a&c&a&c&a[value]&a\") is overgenomen! &7Je achtervoegsel blijft voor &e[time] &7dagen geldig! Betreed alsjeblieft opnieuw het netwerk om je achtervoegsel overal bij te werken!",
-            "pt_PT": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&a[value]&a\") foi adotado! &7O seu sufixo mantém-se durante &e[time] &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!",
+            "pt_BR": "&aO seu sufixo individual (\"&x&c&a&c&a&c&a&c&a[value]&a\") foi adotado! &7O seu sufixo mantém-se durante &e[time] &7dias! Por favor, volte a introduzir a rede para que o seu sufixo esteja atualizado em todo o lado!",
             "es_ES": "&aTu sufijo personalizado (\"&x&c&a&c&a&c&a[value]&a\") ha sido establecido! &7Tu sufijo permanecerá por &e[time] &7días! Por favor, vuelve a ingresar a la red para actualizar tu sufijo en todas partes.",
             "fr_FR": "&aTon suffixe personnalisé (\"&x&c&a&c&a&c&a[value]&a\") a été défini! &7Ton suffixe restera pour &e[time] &7jours! Veuillez entrer de nouveau dans le réseau pour mettre à jour ton suffixe partout.",
             "pl_PL": "&aTwój indywidualny sufiks (\"&x&c&a&c&a&c&a[value]&a\") został ustawiony! &7Twój sufiks pozostanie na &e[time] &7dni! Proszę ponownie wejdź do sieci, aby zaktualizować swój sufiks wszędzie.",
