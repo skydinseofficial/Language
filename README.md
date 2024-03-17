@@ -46,12 +46,12 @@ The language files are located in the individual system folders and __must__ hav
 - **English**: Variations: `en_US` (USA), `en_GB` (Great Britain), `en_XX` (meme language)
 - **German**: Variations: `de_DE` (Germany), `de_AT` (Austria), `de_XX` (meme language)
 - **Dutch**: Variations: `nl_NL` (Netherlands)
-- **Portuguese**: Variations: `pt_PT` (Portugal), `pt_BR` (Brazil)
+- **Portuguese**: Variations: `pt_BR` (Brazil), `pt_PT` (Portugal)
 - **Spanish**: Variations: `es_ES` (Spain), `es_MX` (Mexico)
 - **French**: Variations: `fr_FR` (France)
-- **Turkish**: Variations: `tr_TR` (Turkey)
 - **Polish**: Variations: `pl_PL` (Poland)
 - **Russian**: Variations: `ru_RU` (Russia)
+- **Turkish**: Variations: `tr_TR` (Türkiye)
 - **Korean**: Variations: `ko_KR` (South Korea)
 ##
 ### __Translation and language rules__
@@ -138,12 +138,12 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 - **Englisch**: Variationen: `en_US` (USA), `en_GB` (Großbritannien), `en_XX` (Meme-Sprache)
 - **Deutsch**: Variationen: `de_DE` (Deutschland), `de_AT` (Österreich), `de_XX` (Meme-Sprache)
 - **Niederländisch**: Variationen: `nl_NL` (Niederlande)
-- **Portugiesisch**: Variationen: `pt_PT` (Portugal), `pt_BR` (Brasilien)
+- **Portugiesisch**: Variationen: `pt_BR` (Brasilien), `pt_PT` (Portugal)
 - **Spanisch**: Variationen: `es_ES` (Spanien), `es_MX` (Mexiko)
 - **Französisch**: Variationen: `fr_FR` (Frankreich)
-- **Türkisch**: Variationen: `tr_TR` (Türkei)
 - **Polnisch**: Variationen: `pl_PL` (Polen)
 - **Russisch**: Variationen: `ru_RU` (Russland)
+- **Türkisch**: Variationen: `tr_TR` (Türkei)
 - **Koreanisch**: Variations: `ko_KR` (Südkorea)
 ##
 ### __Übersetzungs- und Sprachregeln__
