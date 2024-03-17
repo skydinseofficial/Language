@@ -95,23 +95,9 @@
                 "country": "Netherlands"
             }
         },
-        "pt_PT":
-        {
-            "fallback": "en_US",
-            "details.pt_PT":
-            {
-                "name": "Português",
-                "country": "Portugal"
-            },
-            "details.en_US":
-            {
-                "name": "Portuguese",
-                "country": "Portugal"
-            }
-        },
         "pt_BR":
         {
-            "fallback": "pt_PT",
+            "fallback": "en_US",
             "details.pt_BR":
             {
                 "name": "Português",
@@ -121,6 +107,20 @@
             {
                 "name": "Portuguese",
                 "country": "Brazil"
+            }
+        },
+        "pt_PT":
+        {
+            "fallback": "pt_BR",
+            "details.pt_PT":
+            {
+                "name": "Português",
+                "country": "Portugal"
+            },
+            "details.en_US":
+            {
+                "name": "Portuguese",
+                "country": "Portugal"
             }
         },
         "es_ES":
