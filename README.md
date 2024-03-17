@@ -1,4 +1,4 @@
-# Language-Docs
+# Language Documentation
 - [**English**](#english):
   - [Become a translator](#become-a-translator)
   - [languages.json file](#languagesjson-file)
