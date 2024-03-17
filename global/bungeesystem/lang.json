@@ -121,7 +121,7 @@
         {
             "en_US": "&cThe target server is full!",
             "de_DE": "&cDer Zielserver ist voll!",
-            "pt_PT": "&cO servidor de destino está cheio!",
+            "pt_BR": "&cO servidor de destino está cheio!",
             "es_ES": "&c¡El servidor de destino está lleno!",
             "fr_FR": "&cLe serveur cible est plein !",
             "tr_TR": "&cHedef sunucu dolu!"
@@ -130,7 +130,7 @@
         {
             "en_US": "&cThis server group is full!",
             "de_DE": "&cDiese Servergruppe ist voll!",
-            "pt_PT": "&cEste grupo de servidores está cheio!",
+            "pt_BR": "&cEste grupo de servidores está cheio!",
             "es_ES": "&c¡Este grupo de servidores está lleno!",
             "fr_FR": "&cCe groupe de serveurs est complet !",
             "tr_TR": "&cBu sunucu grubu dolu!"
@@ -139,7 +139,7 @@
         {
             "en_US": "&cThis server group is in maintenance mode!",
             "de_DE": "&cDiese Servergruppe befindet sich im Wartungsmodus!",
-            "pt_PT": "&cEste grupo de servidores está em modo de manutenção!",
+            "pt_BR": "&cEste grupo de servidores está em modo de manutenção!",
             "es_ES": "&c¡Este grupo de servidores está en modo de mantenimiento!",
             "fr_FR": "&cCe groupe de serveurs est en mode maintenance !",
             "tr_TR": "&cBu sunucu grubu bakım modunda!"
@@ -148,7 +148,7 @@
         {
             "en_US": "&cThere are currently too many connecting at once on &6VAR1&c!",
             "de_DE": "&cEs verbinden sich derzeit zu viele auf einmal auf &6VAR1&c!",
-            "pt_PT": "&cAtualmente, há demasiadas ligações em simultâneo na &6VAR1&c!",
+            "pt_BR": "&cAtualmente, há demasiadas ligações em simultâneo na &6VAR1&c!",
             "es_ES": "&c¡Actualmente hay demasiados conectándose a la vez en &6VAR1&c!",
             "fr_FR": "&cIl y a actuellement trop de personnes qui se connectent en même temps sur &6VAR1&c!",
             "tr_TR": "&cŞu anda &6VAR1&c'de aynı anda çok fazla bağlantı var!"
@@ -157,7 +157,7 @@
         {
             "en_US": "&cAn error occured! Please try again or contact our server team!",
             "de_DE": "&cEs ist ein Fehler aufgetreten! Bitte versuche es erneut oder kontaktiere unser Serverteam!",
-            "pt_PT": "&cAlgo deu errado! Por favor, tente novamente ou entre em contato com nossa equipe de servidores!",
+            "pt_BR": "&cAlgo deu errado! Por favor, tente novamente ou entre em contato com nossa equipe de servidores!",
             "es_ES": "&c¡Algo salió mal! Inténtalo de nuevo o ponte en contacto con nuestro equipo de servidores.",
             "fr_FR": "&cQuelque chose s'est mal passé ! Veuillez réessayer ou contacter notre équipe serveur !",
             "tr_TR": "&cBir şeyler yanlış gitti! Lütfen tekrar deneyin veya sunucu ekibimizle iletişime geçin!"
@@ -167,7 +167,7 @@
             "en_US": "&cThere is no server online to connect you to &6VAR1&c!",
             "de_DE": "&cEs ist kein Server online, um dich auf &6VAR1 &czu verbinden!",
             "de_XX": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!",
-            "pt_PT": "&cNão existe um servidor online para o ligar ao &6VAR1&c!",
+            "pt_BR": "&cNão existe um servidor online para o ligar ao &6VAR1&c!",
             "es_ES": "&cNo hay ningún servidor en línea para conectarte a &6VAR1&c.",
             "fr_FR": "&cIl n'y a pas de serveur en ligne pour te connecter à &6VAR1 &c!",
             "tr_TR": "&cSizi &6VAR1&c'e bağlayacak çevrimiçi bir sunucu yok!"
@@ -177,7 +177,7 @@
             "en_US": "&cCouldn't find a free game in &6VAR1&c!",
             "de_DE": "&cKonnte kein freies Spiel in &6VAR1 &cfinden!",
             "de_XX": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!",
-            "pt_PT": "&cNão foi possível encontrar um jogo livre no &6VAR1&c!",
+            "pt_BR": "&cNão foi possível encontrar um jogo livre no &6VAR1&c!",
             "es_ES": "&c¡No pude encontrar un juego libre en &6VAR1&c!",
             "fr_FR": "&cN'a pas trouvé de jeu libre dans &6VAR1 &c!",
             "tr_TR": "&6VAR1&c'de boş bir oyun bulamadım!"
@@ -187,7 +187,7 @@
             "en_US": "&7Connecting you to &eVAR1&7...",
             "de_DE": "&7Verbinde dich zu &eVAR1&7...",
             "de_XX": "&7Verfrachte dich zu &eVAR1&7...",
-            "pt_PT": "&7Ligar a &eVAR1&7...",
+            "pt_BR": "&7Ligar a &eVAR1&7...",
             "es_ES": "&7Conectar a &eVAR1&7...",
             "fr_FR": "&7Connecte-toi à &eVAR1&7...",
             "tr_TR": "&eVAR1&7'e bağlanın..."
