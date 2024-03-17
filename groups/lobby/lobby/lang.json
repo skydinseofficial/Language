@@ -21,6 +21,25 @@
             "tr_TR": "&eTercüme edildi: &a[value]%",
             "ko_KO": "&e번역됨: &a[value]%"
         },
+        "LANGUAGE.click_to_select":
+        {
+            "en_US": "[CLICK TO SELECT]",
+            "en_GB": "[CLICK TO SELECT]",
+            "en_XX": "[CLICKETH TO CHOOSE]",
+            "de_DE": "[KLICKE ZUM AUSWÄHLEN]",
+            "de_AT": "[KLICK ZUM WÖHLEN]",
+            "de_XX": "[KLICKE, AUF DASS DU ERWÄHLST]",
+            "nl_NL": "[KLIK OM TE SELECTEREN]",
+            "pt_BR": "[CLIQUE PARA SELECIONAR]",
+            "pt_PT": "[CLIQUE PARA SELECIONAR]",
+            "es_ES": "[CLIC PARA SELECCIONAR]",
+            "es_MX": "[CLIC PARA SELECCIONAR]",
+            "fr_FR": "[CLIQUEZ POUR SÉLECTIONNER]",
+            "pl_PL": "[KLIKNIJ ABY WYBRAĆ]",
+            "ru_RU": "[НАЖМИТЕ, ЧТОБЫ ВЫБРАТЬ]",
+            "tr_TR": "[SEÇMEK İÇİN TIKLA]",
+            "ko_KO": "[선택하려면 클릭하세요]"
+        },
         "STATS.yourstatstitle":
         {
             "en_US": "YOUR STATS",
