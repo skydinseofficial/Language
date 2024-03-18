@@ -397,16 +397,16 @@
         },
         "RESOURCEPACK_UPDATE.notification":
         {
-            "en_US": "&aOur resource pack has been updated! &7The update will be applied automatically with your next server switch. </text:'&2[APPLY UPDATE NOW]',tip:'&aClick here to apply the update now!',value:'/loadpack'>",
-            "de_DE": "&aUnser Ressoucenpaket wurde aktualisiert! &7Das Update wird bei deinem nächsten Serverwechsel automatisch geladen. </text:'&2[UPDATE JETZT LADEN]',tip:'&aKlicke hier, um das Update jetzt zu laden!',value:'/loadpack'>",
-            "nl_NL": "&aOns resource pack is bijgewerkt! &7De update wordt automatisch toegepast wanneer je de volgende keer van server wisselt. </text:'&2[NU UPDATE TOEPASSEN]',tip:'&aKlik hier om de update nu toe te passen!',value:'/loadpack'>",
-            "pt_BR": "&aO nosso pacote de recursos foi atualizado! &7A atualização será aplicada automaticamente na próxima vez que você trocar de servidor. </text:'&2[APLICAR ATUALIZAÇÃO AGORA]',tip:'&aClique aqui para aplicar a atualização agora!',value:'/loadpack'>",
-            "es_ES": "&a¡Nuestro paquete de recursos ha sido actualizado! &7La actualización se aplicará automáticamente la próxima vez que cambies de servidor. </text:'&2[APLICAR ACTUALIZACIÓN AHORA]',tip:'&a¡Haz clic aquí para aplicar la actualización ahora!',value:'/loadpack'>.",
-            "fr_FR": "&aNotre pack de ressources a été mis à jour ! &7La mise à jour sera automatiquement appliquée lors de ton prochain changement de serveur. </text:'&2[APPLIQUER LA MISE À JOUR MAINTENANT]',tip:'&aClique ici pour appliquer la mise à jour maintenant!',value:'/loadpack'>",
-            "pl_PL": "&aNasz pakiet zasobów został zaktualizowany! &7Uaktualnienie zostanie zastosowane automatycznie przy następnej zmianie serwera. </text:'&2[ZASTOSUJ AKTUALIZACJĘ TERAZ]',tip:'&aKliknij tutaj, aby zastosować aktualizację teraz!',value:'/loadpack'>.",
-            "ru_RU": "&aНаш пакет ресурсов был обновлен! &7Обновление будет применено автоматически при следующем переключении серверов. </text:'&2[ПРИМЕНИТЬ ОБНОВЛЕНИЕ СЕЙЧАС]',tip:'&aНажмите здесь, чтобы применить обновление сейчас!',value:'/loadpack'>",
-            "tr_TR": "&aKaynak paketimiz güncellendi! &7Bir sonraki sunucu değiştirmenizde güncelleme otomatik olarak uygulanacaktır. </text:'&2[GÜNCELLEMEYİ ŞİMDİ UYGULA]',tip:'&aGüncellemeyi şimdi uygulamak için buraya tıklayın!',value:'/loadpack'>",
-            "ko_KR": "&a리소스 팩이 업데이트되었습니다! &7다음번에 서버를 전환할 때 업데이트가 자동으로 적용됩니다. </text:'&2[지금 업데이트 적용]',tip:'&a업데이트를 지금 적용하려면 여기를 클릭하세요!',value:'/loadpack'>"
+            "en_US": "&aOur resource pack has been updated! &7The update will be applied automatically with your next server switch. <\text:'&2[APPLY UPDATE NOW]',tip:'&aClick here to apply the update now!',value:'/loadpack'>",
+            "de_DE": "&aUnser Ressoucenpaket wurde aktualisiert! &7Das Update wird bei deinem nächsten Serverwechsel automatisch geladen. <\text:'&2[UPDATE JETZT LADEN]',tip:'&aKlicke hier, um das Update jetzt zu laden!',value:'/loadpack'>",
+            "nl_NL": "&aOns resource pack is bijgewerkt! &7De update wordt automatisch toegepast wanneer je de volgende keer van server wisselt. <\text:'&2[NU UPDATE TOEPASSEN]',tip:'&aKlik hier om de update nu toe te passen!',value:'/loadpack'>",
+            "pt_BR": "&aO nosso pacote de recursos foi atualizado! &7A atualização será aplicada automaticamente na próxima vez que você trocar de servidor. <\text:'&2[APLICAR ATUALIZAÇÃO AGORA]',tip:'&aClique aqui para aplicar a atualização agora!',value:'/loadpack'>",
+            "es_ES": "&a¡Nuestro paquete de recursos ha sido actualizado! &7La actualización se aplicará automáticamente la próxima vez que cambies de servidor. <\text:'&2[APLICAR ACTUALIZACIÓN AHORA]',tip:'&a¡Haz clic aquí para aplicar la actualización ahora!',value:'/loadpack'>.",
+            "fr_FR": "&aNotre pack de ressources a été mis à jour ! &7La mise à jour sera automatiquement appliquée lors de ton prochain changement de serveur. <\text:'&2[APPLIQUER LA MISE À JOUR MAINTENANT]',tip:'&aClique ici pour appliquer la mise à jour maintenant!',value:'/loadpack'>",
+            "pl_PL": "&aNasz pakiet zasobów został zaktualizowany! &7Uaktualnienie zostanie zastosowane automatycznie przy następnej zmianie serwera. <\text:'&2[ZASTOSUJ AKTUALIZACJĘ TERAZ]',tip:'&aKliknij tutaj, aby zastosować aktualizację teraz!',value:'/loadpack'>.",
+            "ru_RU": "&aНаш пакет ресурсов был обновлен! &7Обновление будет применено автоматически при следующем переключении серверов. <\text:'&2[ПРИМЕНИТЬ ОБНОВЛЕНИЕ СЕЙЧАС]',tip:'&aНажмите здесь, чтобы применить обновление сейчас!',value:'/loadpack'>",
+            "tr_TR": "&aKaynak paketimiz güncellendi! &7Bir sonraki sunucu değiştirmenizde güncelleme otomatik olarak uygulanacaktır. <\text:'&2[GÜNCELLEMEYİ ŞİMDİ UYGULA]',tip:'&aGüncellemeyi şimdi uygulamak için buraya tıklayın!',value:'/loadpack'>",
+            "ko_KR": "&a리소스 팩이 업데이트되었습니다! &7다음번에 서버를 전환할 때 업데이트가 자동으로 적용됩니다. <\text:'&2[지금 업데이트 적용]',tip:'&a업데이트를 지금 적용하려면 여기를 클릭하세요!',value:'/loadpack'>"
         },
         "RESOURCEPACK_LOADUPDATE.message":
         {
