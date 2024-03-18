@@ -2,6 +2,25 @@
     "system": "global",
     "translations":
     {
+        "BASICS.server":
+        {
+            "en_US": "Server",
+            "en_GB": "Server",
+            "en_XX": "Serving Tech",
+            "de_DE": "Server",
+            "de_AT": "Server",
+            "de_XX": "Dienstbote",
+            "nl_NL": "Server",
+            "pt_BR": "Servidor",
+            "pt_PT": "Servidor",
+            "es_ES": "Servidor",
+            "es_MX": "Servidor",
+            "fr_FR": "Serveur",
+            "pl_PL": "Serwer",
+            "ru_RU": "Сервер",
+            "tr_TR": "Sunucu",
+            "ko_KR": "서버"
+        },
         "BASICS.blooms":
         {
             "en_US": "Blooms",
