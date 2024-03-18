@@ -42,13 +42,16 @@
         },
         "LANGUAGE.success_message":
         {
-            "en_US": "&aYour language has been successfully set to &eEnglish&a! &7(INFO: You may have to enter the server again to get everything displayed in your new language!)",
-            "de_DE": "&aDeine Sprache wurde erfolgreich zu &eDeutsch &ageändert&a! &7(INFO: Es kann sein, dass du den Server neu betreten musst, damit alles in deiner neuen Sprache angezeigt wird!)",
-            "de_XX": "&aDeine Sprache wurde mit Bravur auf &eGermanisch &aumgeschaltet! &7(LIES: Es könnte vonnöten sein, den Server neuerlich zu betreten, auf dass sämtliche Anzeigen in deiner neugewählten Sprache ersichtlich werden.)",
-            "pt_BR": "&aA sua língua foi alterada com sucesso para &ePortuguês&a! &7(INFORMAÇÃO: Poderá ter de voltar a entrar no servidor para que tudo seja apresentado na sua nova língua!)",
-            "es_ES": "&a¡Su idioma ha sido cambiado con éxito a &eEspañol&a! &7(INFO: ¡Puede que tenga que volver a entrar en el servidor para que todo se muestre en su nuevo idioma!)",
-            "fr_FR": "&aTa langue a été changée avec succès en &eFrançais &a! &7(INFO : Il se peut que tu doives entrer à nouveau sur le serveur pour que tout soit affiché dans ta nouvelle langue !)",
-            "tr_TR": "&aDiliniz başarıyla &eTürkçe &aolarak değiştirildi&a! &7(BİLGİ: Her şeyin yeni dilinizde görüntülenmesi için sunucuya yeniden girmeniz gerekebilir!)"
+            "en_US": "&aYour language has been successfully set to &6[name] &a(<#face05>[country]&a)! &7(Note: You may have to enter the server again to get everything displayed in your new language!)",
+            "en_GB": "&aYour language has been successfully set to &6[name] &a(<#face05>[country]&a)! &7(Note: You may have to enter the server again to get everything displayed in your new language!)",
+            "en_XX": "&aThine tongue hath been set to &6[name] &a(<#face05>[country]&a)! &7(Note: Thou may'st have to enter the server again to get everything displayed in thy new tongue!)",
+            "de_DE": "&aDeine Sprache wurde erfolgreich auf &6[name] &a(<#face05>[country]&a) gesetzt! &7(Hinweis: Möglicherweise musst du den Server erneut betreten, damit alles in deiner neuen Sprache angezeigt wird!)",
+            "de_XX": "&aDei Sproch is glückli auf &6[name] &a(<#face05>[country]&a) gsetzt wor'n! &7(Hinweiß: Vielleicht muaßt no amol in Server ei'nei, damit ois in dei neie Sproch aufscheint!)",
+            "pt_BR": "&aaSeu idioma foi definido com sucesso como &6[name] &a(<#face05>[country]&a)! &7(Observação: talvez seja necessário entrar no servidor novamente para que tudo seja exibido em seu novo idioma!)",
+            "es_ES": "",
+            "fr_FR": "",
+            "tr_TR": "",
+            "ko_KR": "&a귀하의 언어가 &6[name] &a(<#face05>[country]&a)로 성공적으로 설정되었습니다! &7(참고: 새 언어로 모든 것을 표시하려면 서버에 다시 들어가야 할 수 있습니다!)."
         },
         "LANGUAGE.translation_share":
         {
