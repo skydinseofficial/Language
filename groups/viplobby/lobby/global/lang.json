@@ -1,0 +1,61 @@
+{
+    "system": "global",
+    "translations":
+    {
+        "ASHLYN.gui.randomgame":
+        {
+            "en_US": "Random Game",
+            "de_DE": "Zufälliges Spiel"
+        },
+        "ASHLYN.gui.privategame":
+        {
+            "en_US": "Create custom game",
+            "de_DE": "Custom Runde erstellen"
+        },
+        "ASHLYN.gui.settings":
+        {
+            "en_US": "Settings",
+            "de_DE": "Einstellungen"
+        },
+        "ASHLYN.gui.nextpage":
+        {
+            "en_US": "Next Page",
+            "de_DE": "Nächste Seite"
+        },
+        "ASHLYN.gui.previouspage":
+        {
+            "en_US": "Previous Page",
+            "de_DE": "Vorherige Seite"
+        },
+        "ASHLYN.gui.page":
+        {
+            "en_US": "Page",
+            "de_DE": "Seite"
+        },
+        "ASHLYN.gui.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "ASHLYN.pleasewait":
+        {
+            "en_US": "Please wait a moment!",
+            "de_DE": "Bitte warte einen Moment!"
+        },
+        "ASHLYN.click2create":
+        {
+            "en_US": "Click to create",
+            "de_DE": "Klicke zum erstellen"
+        },
+        "ASHLYN.startinground":
+        {
+            "en_US": "Game is starting...",
+            "de_DE": "Spiel wird gestartet..."
+        },
+        "ASHLYN.erroronstartup":
+        {
+            "en_US": "An error occurred whilst starting your game! Please try again or report this issue to our staff.",
+            "de_DE": "Beim Starten deines Spiels ist ein Fehler aufgetreten! Bitte versuche es erneut oder melde das Problem unserem Team."
+        }
+    }
+}
