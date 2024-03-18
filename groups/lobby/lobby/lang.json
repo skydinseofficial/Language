@@ -740,8 +740,8 @@
         },
         "NAVIGATOR.button.game_murdermystery":
         {
-            "en_US": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r\" # <#fb491a>M<#f33f18>y<#eb3516>s<#e32b14>t<#db2111>e<#d3170f>r<#cb0d0d>y",
-            "de_DE": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r\" # <#fb491a>M<#f33f18>y<#eb3516>s<#e32b14>t<#db2111>e<#d3170f>r<#cb0d0d>y"
+            "en_US": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r",
+            "de_DE": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r"
         },
         "NAVIGATOR.button.game_lavarises":
         {
