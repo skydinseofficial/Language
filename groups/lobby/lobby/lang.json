@@ -46,11 +46,12 @@
             "en_GB": "&aYour language has been successfully set to &6[name] &a(<#face05>[country]&a)! &7(Note: You may have to enter the server again to get everything displayed in your new language!)",
             "en_XX": "&aThine tongue hath been set to &6[name] &a(<#face05>[country]&a)! &7(Note: Thou may'st have to enter the server again to get everything displayed in thy new tongue!)",
             "de_DE": "&aDeine Sprache wurde erfolgreich auf &6[name] &a(<#face05>[country]&a) gesetzt! &7(Hinweis: Möglicherweise musst du den Server erneut betreten, damit alles in deiner neuen Sprache angezeigt wird!)",
-            "de_XX": "&aDei Sproch is glückli auf &6[name] &a(<#face05>[country]&a) gsetzt wor'n! &7(Hinweiß: Vielleicht muaßt no amol in Server ei'nei, damit ois in dei neie Sproch aufscheint!)",
-            "pt_BR": "&aaSeu idioma foi definido com sucesso como &6[name] &a(<#face05>[country]&a)! &7(Observação: talvez seja necessário entrar no servidor novamente para que tudo seja exibido em seu novo idioma!)",
-            "es_ES": "",
-            "fr_FR": "",
-            "tr_TR": "",
+            "de_AT": "&aDei Sproch is glückli auf &6[name] &a(<#face05>[country]&a) gsetzt wor'n! &7(Hinweiß: Vielleicht muaßt no amol in Server ei'nei, damit ois in dei neie Sproch aufscheint!)",
+            "de_XX": "&aDin Sprache ist glücklichlîch gesetzet zu &6[name] &a(<#face05>[country]&a)! &7(Hinweiß: Wolaß du den Server erneuliche betrittist, auf daz alles in diner niuwen Sprache gezeiget wirt!)",
+            "pt_BR": "&aSeu idioma foi definido com sucesso como &6[name] &a(<#face05>[country]&a)! &7(Observação: talvez seja necessário entrar no servidor novamente para que tudo seja exibido em seu novo idioma!)",
+            "es_ES": "&aSu idioma ha sido configurado correctamente a &6[name] &a(<#face05>[country]&a)! &7(Nota: ¡Puede que tenga que volver a entrar en el servidor para que todo se muestre en su nuevo idioma!)",
+            "fr_FR": "&aVotre langue a été réglée avec succès sur &6[name] &a(<#face05>[country]&a) ! &7(Note : Il se peut que vous deviez entrer à nouveau dans le serveur pour que tout s'affiche dans votre nouvelle langue !)",
+            "tr_TR": "&aDiliniz başarıyla &6[name] &a(<#face05>[country]&a) olarak ayarlandı! &7(Not: Her şeyin yeni dilinizde görüntülenmesi için sunucuya tekrar girmeniz gerekebilir!)",
             "ko_KR": "&a귀하의 언어가 &6[name] &a(<#face05>[country]&a)로 성공적으로 설정되었습니다! &7(참고: 새 언어로 모든 것을 표시하려면 서버에 다시 들어가야 할 수 있습니다!)."
         },
         "LANGUAGE.translation_share":
