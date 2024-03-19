@@ -4,8 +4,8 @@
     {
         "BOSSBAR.bar.1":
         {
-            "en_US": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET5</gradient> <gray>✖",
-            "de_DE": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET5</gradient> <red>✖ <reset><#FFD500>Servernetzwerk"
+            "en_US": "<#FF8F00>S<#FF9A05>K<#FFA60A>Y<#FFB10F>D<#FFBC14>I<#FFC719>N<#FFC719>S<#FFBC14>E<#FFB10F>.<#FFA60A>N<#FF9A05>E<#FF8F00>T &7&l✖ <#FFD500>Server Network",
+            "de_DE": "<#FF8F00>S<#FF9A05>K<#FFA60A>Y<#FFB10F>D<#FFBC14>I<#FFC719>N<#FFC719>S<#FFBC14>E<#FFB10F>.<#FFA60A>N<#FF9A05>E<#FF8F00>T &7&l✖ <#FFD500>Servernetzwerk"
         }
     }
 }
