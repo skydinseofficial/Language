@@ -6,6 +6,11 @@
         {
             "en_US": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServer Network",
             "de_DE": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServernetzwerk"
+        },
+        "BOSSBAR.bar.2":
+        {
+            "en_US": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ᴠɪsɪᴛ ᴏᴜʀ ɴᴇᴡ sᴘᴀᴡɴ!",
+            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ʙᴇsᴜᴄʜᴇ ᴜɴsᴇʀᴇɴ ɴᴇᴜᴇɴ sᴘᴀᴡɴ!"
         }
     }
 }
