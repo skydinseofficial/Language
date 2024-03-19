@@ -2,15 +2,15 @@
     "system": "lobby-visual",
     "translations":
     {
-        "bossbar.bar.1":
+        "BOSSBAR.bar.1":
         {
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
-        "bossbar.bar.1":
+        "BOSSBAR.bar.1":
         {
-            "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nshop.skydinse.net",
-            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nshop.skydinse.net"
+            "en_US": "&7You need a higher rank für this feature. Visit <#FFD800>&n<@shop.skydinse.net>",
+            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche <#FFD800>&n<@shop.skydinse.net>"
         }
     }
 }
