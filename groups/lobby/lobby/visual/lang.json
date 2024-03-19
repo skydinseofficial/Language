@@ -4,8 +4,8 @@
     {
         "BOSSBAR.bar.1":
         {
-            "en_US": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET</gradient> <gray>✖ <reset><#FFD500>Server Network",
-            "de_DE": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET</gradient> <red>✖ <reset><#FFD500>Servernetzwerk"
+            "en_US": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET4</gradient> <gray>✖ <reset><#FFD500>Server Network",
+            "de_DE": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET4</gradient> <red>✖ <reset><#FFD500>Servernetzwerk"
         }
     }
 }
