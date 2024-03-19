@@ -4,7 +4,7 @@
     {
         "BOSSBAR.bar.1":
         {
-            "en_US": "<gradient:#FF8F00:#FFCD1C:#FF8F00>&lSKYDINSE.NET TEST_EN</gradient> &7&l✖ <#FFD500>Server Network",
+            "en_US": "&l<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET TEST_EN</gradient> &7&l✖ <#FFD500>Server Network",
             "de_DE": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET TEST_DE</gradient> &7&l✖ <#FFD500>Servernetzwerk"
         }
     }
