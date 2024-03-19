@@ -4,13 +4,8 @@
     {
         "BOSSBAR.bar.1":
         {
-            "en_US": "&cYou don't have permission for this!",
-            "de_DE": "&cDazu hast du keine Berechtigung!"
-        },
-        "BOSSBAR.bar.1":
-        {
-            "en_US": "&7You need a higher rank für this feature. Visit <#FFD800>&n<@shop.skydinse.net>",
-            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche <#FFD800>&n<@shop.skydinse.net>"
+            "en_US": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET &7&l✖ <#FFD500>Server Network",
+            "de_DE": "<gradient:#FF8F00:#FFCD1C:#FF8F00>SKYDINSE.NET &7&l✖ <#FFD500>Servernetzwerk"
         }
     }
 }
