@@ -9,13 +9,13 @@
         },
         "BOSSBAR.bar.2":
         {
-            "en_US": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF><!visit our new spawn!>",
-            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF><!besuche unseren neuen spawn!>"
+            "en_US": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦<#A0E0FF> <!visit our new spawn!>",
+            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦<#A0E0FF> <!besuche unseren neuen spawn!>"
         },
         "BOSSBAR.bar.3":
         {
-            "en_US": "<#7289da>&l/DISCORD &8♦ <#99aab5><!join our discord server to be up to date!>",
-            "de_DE": "<#7289da>&l/DISCORD &8♦ <#99aab5><!tritt unserem discord server bei, um auf dem neusten stand zu sein>"
+            "en_US": "<#7289da>&l/DISCORD &8♦<#99aab5> <!join our discord server to be up to date!>",
+            "de_DE": "<#7289da>&l/DISCORD &8♦<#99aab5> <!tritt unserem discord server bei, um auf dem neusten stand zu sein>"
         }
     }
 }
