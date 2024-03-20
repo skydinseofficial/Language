@@ -38,7 +38,7 @@
             "pl_PL": "&7Użyj &s[name] &7(&e[country]&7)\n&7jako swojego języka.",
             "ru_RU": "&7В качестве языка\n&7используйте &s[name] &7(&e[country]&7).",
             "tr_TR": "&7Diliniz olarak\n&7&s[name] &7(&e[country]&7) kullanın.",
-            "ko_KR": "&7사용 언어로 &s[name] &7(&e[country]&7)을 사용하세요."
+            "ko_KR": "&7사용 언어로 &s[name] &7(&e[country]&7)를 사용하세요."
         },
         "LANGUAGE.success_message":
         {
@@ -57,7 +57,7 @@
             "pl_PL": "&aTwój język został pomyślnie ustawiony na &6[name]&a(<#face05>[country]&a)! &7(Uwaga: Może być konieczne ponowne wejście na serwer, aby wszystko było wyświetlane w nowym języku)!",
             "ru_RU": "&aВаш язык был успешно установлен на &6[name] &a(<#face05>[country]&a)! &7(Примечание: Возможно, вам придется снова войти на сервер, чтобы все отображалось на вашем новом языке!)",
             "tr_TR": "&aDiliniz başarıyla &6[name] &a(<#face05>[country]&a) olarak ayarlandı! &7(Not: Her şeyin yeni dilinizde görüntülenmesi için sunucuya tekrar girmeniz gerekebilir!)",
-            "ko_KR": "&a귀하의 언어가 &6[name] &a(<#face05>[country]&a)로 성공적으로 설정되었습니다! &7(참고: 새 언어로 모든 것을 표시하려면 서버에 다시 들어가야 할 수 있습니다!)."
+            "ko_KR": "&a성공적으로 귀하의 언어가 &6[name] &a(<#face05>[country]&a)로 설정되었습니다! &7(참고: 모든 것을 새 언어로 표시하려면 서버에 다시 들어가야 할 수 있습니다!)."
         },
         "LANGUAGE.translation_share":
         {
@@ -114,7 +114,7 @@
             "pl_PL": "<#07B307>[&a✅ <#07B307>WYBRANY]",
             "ru_RU": "<#07B307>[&a✅ <#07B307>ВЫБРАННЫЕ]",
             "tr_TR": "<#07B307>[&a✅ <#07B307>SEÇİLDİ]",
-            "ko_KR": "<#07B307>[&a✅ <#07B307>선택된]"
+            "ko_KR": "<#07B307>[&a✅ <#07B307>선택됨]"
         },
         "LANGUAGE.fallback":
         {
@@ -139,431 +139,508 @@
         {
             "en_US": "YOUR STATS",
             "de_DE": "DEINE STATISTIKEN",
-            "pt_BR": "TUAS ESTATÍSTICAS"
+            "pt_BR": "TUAS ESTATÍSTICAS",
+            "ko_KR": "통계"
         },
         "STATS.nostats":
         {
             "en_US": "No stats collected!",
             "de_DE": "Keine Stats gesammelt!",
-            "pt_BR": "Nenhuma estatística coletada!"
+            "pt_BR": "Nenhuma estatística coletada!",
+            "ko_KR": "통계가 없습니다!"
         },
         "STATS.gamesplayed":
         {
             "en_US": "Games played:",
             "de_DE": "Gespielte Spiele:",
-            "pt_BR": "Jogos jogados:"
+            "pt_BR": "Jogos jogados:",
+            "ko_KR": "플레이 한 게임:"
         },
         "STATS.wins":
         {
             "en_US": "Wins:",
             "de_DE": "Gewonnene Spiele:",
-            "pt_BR": "Jogos ganhos:"
+            "pt_BR": "Jogos ganhos:",
+            "ko_KR": "승리 횟수:"
         },
         "STATS.lost":
         {
             "en_US": "Lost games:",
             "de_DE": "Verlorene Spiele:",
-            "pt_BR": "Jogos perdidos:"
+            "pt_BR": "Jogos perdidos:",
+            "ko_KR": "패배 횟수:"
         },
         "STATS.points":
         {
             "en_US": "Points:",
             "de_DE": "Punkte:",
-            "pt_BR": "Pontos:"
+            "pt_BR": "Pontos:",
+            "ko_KR": "포인트:"
         },
         "STATS.rank":
         {
             "en_US": "Rank (Points):",
             "de_DE": "Rang (Punkte):",
-            "pt_BR": "Posição (Pontos):"
+            "pt_BR": "Posição (Pontos):",
+            "ko_KR": "순위 (포인트):"
         },
         "STATS.bpbeds":
         {
             "en_US": "Beds destroyed:",
             "de_DE": "Betten abgebaut:",
-            "pt_BR": "Camas destruídas:"
+            "pt_BR": "Camas destruídas:",
+            "ko_KR": "파괴한 침대 갯수:"
         },
         "STATS.deaths":
         {
             "en_US": "Deaths:",
             "de_DE": "Tode:",
-            "pt_BR": "Mortes:"
+            "pt_BR": "Mortes:",
+            "ko_KR": "죽은 횟수:"
         },
         "STATS.kills":
         {
             "en_US": "Kills:",
             "de_DE": "Kills:",
-            "pt_BR": "Kills:"
+            "pt_BR": "Kills:",
+            "ko_KR": "킬:"
         },
         "STATS.level":
         {
             "en_US": "Levels played:",
             "de_DE": "Levels gespielt:",
-            "de_DE": "Níveis jogados:"
+            "de_DE": "Níveis jogados:",
+            "ko_KR": "플레이 한 레벨:"
         },
         "STATS.powerups":
         {
             "en_US": "Power-ups:",
             "de_DE": "Power-ups:",
-            "pt_BR": "Power-ups:"
+            "pt_BR": "Power-ups:",
+            "ko_KR": "파워업:"
         },
         "STATS.explosions":
         {
             "en_US": "Opponent explosios:",
             "de_DE": "Gegner-Explosionen:",
-            "pt_BR": "Explosões de inimigos:"
+            "pt_BR": "Explosões de inimigos:",
+            "ko_KR": "상대를 폭발시킨 횟수:"
         },
         "STATS.joinedtimes":
         {
             "en_US": "Number of accessions:",
             "de_DE": "Anzahl der Beitritte:",
-            "pt_BR": "Número de adesões:"
+            "pt_BR": "Número de adesões:",
+            "ko_KR": "접속 횟수:"
         },
         "STATS.ghostkills":
         {
             "en_US": "Ghosts killed:",
             "de_DE": "Geister getötet:",
-            "pt_BR": "Fantasmas mortos:"
+            "pt_BR": "Fantasmas mortos:",
+            "ko_KR": "유령을 죽인 횟수:"
         },
         "STATS.detonations":
         {
             "en_US": "Detonations:",
             "de_DE": "Detonationen:",
-            "pt_BR": "Detonações:"
+            "pt_BR": "Detonações:",
+            "ko_KR": "폭발 횟수:"
         },
         "STATS.humans":
         {
             "en_US": "Humans infected:",
             "de_DE": "Menschen infiziert:",
-            "pt_BR": "Pessoas infectadas:"
+            "pt_BR": "Pessoas infectadas:",
+            "ko_KR": "감염된 사람:"
         },
         "SCOREBOARD.rank":
         {
             "en_US": "Rank",
             "de_DE": "Rang",
-            "pt_BR": "Posição"
+            "pt_BR": "Posição",
+            "ko_KR": "랭크"
         },
         "SCOREBOARD.playtime.java":
         {
             "en_US": "Playtime: <#ffef66>[time]<#ffe732>h",
             "de_DE": "Spielzeit: <#ffef66>[time] <#ffe732>Std.",
-            "pt_BR": "Tempo de jogo: <#ffef66>[time]<#ffe732>h"
+            "pt_BR": "Tempo de jogo: <#ffef66>[time]<#ffe732>h",
+            "ko_KR": "플레이 시간: <#ffef66>[time]<#ffe732>시간"
         },
         "SCOREBOARD.playtime.bedrock":
         {
             "en_US": "[time]h",
             "de_DE": "[time] Std.",
-            "pt_BR": "[time]h"
+            "pt_BR": "[time]h",
+            "ko_KR": "[time]시간"
         },
         "SCOREBOARD.linked":
         {
             "en_US": "Linked",
             "de_DE": "Verlinkt",
-            "pt_BR": "Ligado"
+            "pt_BR": "Ligado",
+            "ko_KR": "연결됨"
         },
         "SCOREBOARD.event":
         {
             "en_US": "Event",
             "de_DE": "Event",
-            "pt_BR": "Evento"
+            "pt_BR": "Evento",
+            "ko_KR": "이벤트"
         },
         "INVHOTBAR.navigator.name":
         {
             "en_US": "&6Navigator",
             "de_DE": "&6Navigator",
-            "pt_BR": "&6Navegador"
+            "pt_BR": "&6Navegador",
+            "ko_KR": "&6내비게이터"
         },
         "INVHOTBAR.navigator.desc":
         {
             "en_US": "&7The navigator can show you all warps \n&7of our minigames, mainmodes and lobbygames!",
             "de_DE": "&7Im Navigator findest du alle Warps \n&7zu Minispielen, Hauptspielmodi und Lobbygames!",
-            "pt_BR": "&7No Navegador encontrarás todos os warps \n&7para mini-jogos, modos de jogo principais e jogos de lobby!"
+            "pt_BR": "&7No Navegador encontrarás todos os warps \n&7para mini-jogos, modos de jogo principais e jogos de lobby!",
+            "ko_KR": "&7네비게이터는 우리의 미니게임, 메인모드 및 로비게임의\n&7모든 워프들을 보여줄 수 있습니다!"
         },
         "INVHOTBAR.navigator.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
-            "pt_BR": "Para abrir, clique com o botão direito!"
+            "pt_BR": "Para abrir, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.name":
         {
             "en_US": "&6Your Profile",
             "de_DE": "&6Dein Profil",
-            "pt_BR": "&6Teu perfil"
+            "pt_BR": "&6Teu perfil",
+            "ko_KR": "&6당신의 프로필"
         },
         "INVHOTBAR.gadget.name":
         {
             "en_US": "&6Gadget",
             "de_DE": "&6Gadget",
-            "pt_BR": "&6Gadget"
+            "pt_BR": "&6Gadget",
+            "ko_KR": "&6가젯"
         },
         "INVHOTBAR.gadget.desc":
         {
             "en_US": "&7When activated, you can use\n&7funny gadgets in the lobby.",
             "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast.",
-            "pt_BR": "&7Desfrute de gadgets divertidos na\n&7lobby, se você tiver escolhido algum."
+            "pt_BR": "&7Desfrute de gadgets divertidos na\n&7lobby, se você tiver escolhido algum.",
+            "ko_KR": "%7활성화하면, 로비에서\n&7재미있는 가젯을 사용할 수 있습니다."
         },
         "INVHOTBAR.gadget.click":
         {
             "en_US": "Rightclick to use!",
             "de_DE": "Rechtsklicke zum benutzen!",
-            "pt_BR": "Para usar, clique com o botão direito!"
+            "pt_BR": "Para usar, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 사용!"
         },
         "INVHOTBAR.inventory.name":
         {
             "en_US": "&6Inventory",
             "de_DE": "&6Inventar",
-            "pt_BR": "&6Inventário"
+            "pt_BR": "&6Inventário",
+            "ko_KR": "&6인벤토리"
         },
         "INVHOTBAR.inventory.desc":
         {
             "en_US": "&7Everywhere in the lobby you can buy pets,\n&7music discs, wings and much more usig Coins\n&7earned by playing games. Here you can list\n&7your owned Items.",
             "de_DE": "&7Überall in der Lobby findet man kleine Shops,\n&7bei denen man sich Haustiere, Gewinnermusik, Flügel\n&7und viel mehr duch Coins kaufen kann.\n&7Hier siehst du all deine Items, welche du besitzt.",
-            "pt_BR": "&7Em toda a área do lobby, encontrará pequenas\n&7lojas onde pode comprar animais de estimação, músicas\n&7de vencedor, asas e muito mais com moedas.\n&7Aqui pode ver todos os itens que possui."
+            "pt_BR": "&7Em toda a área do lobby, encontrará pequenas\n&7lojas onde pode comprar animais de estimação, músicas\n&7de vencedor, asas e muito mais com moedas.\n&7Aqui pode ver todos os itens que possui.",
+            "ko_KR": "&7로비 어디에서나 애완동물,\n&7음악 디스크, 날개 등을 \n&7게임을 플레이하여 얻은 코인으로 구매할 수 있습니다.\n&7여기에서 \n&7소유한 아이템을 볼 수 있습니다."
         },
         "INVHOTBAR.inventory.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
-            "pt_BR": "Para abrir, clique com o botão direito!"
+            "pt_BR": "Para abrir, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.settings.name":
         {
             "en_US": "Settings",
             "de_DE": "Einstellungen",
-            "pt_BR": "Opções"
+            "pt_BR": "Opções",
+            "ko_KR": "설정"
         },
         "INVHOTBAR.settings.desc":
         {
             "en_US": "&7View some of your network-wide settings.",
             "de_DE": "&7Siehe deine netzwerkweiten Einstellungen ein.",
-            "pt_BR": "&7Veja as suas opções de configuração em toda a rede."
+            "pt_BR": "&7Veja as suas opções de configuração em toda a rede.",
+            "ko_KR": "&7네트워크의 일부 설정을 확인하세요."
         },
         "INVHOTBAR.settings.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
-            "pt_BR": "Para abrir, clique com o botão direito!"
+            "pt_BR": "Para abrir, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.lobbyswitcher.name":
         {
             "en_US": "&6Lobbyswitcher",
             "de_DE": "&6Lobbywechsler",
-            "pt_BR": "&6Mudança de lobby"
+            "pt_BR": "&6Mudança de lobby",
+            "ko_KR": "&6로비 전환기"
         },
         "INVHOTBAR.lobbyswitcher.desc":
         {
             "en_US": "&7Switch between lobbies.",
             "de_DE": "&7Wechsle zwischen Lobbys.",
-            "pt_BR": "&7Alternar entre lobbies."
+            "pt_BR": "&7Alternar entre lobbies.",
+            "ko_KR": "&7로비 간 전환."
         },
         "INVHOTBAR.lobbyswitcher.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
-            "pt_BR": "Para abrir, clique com o botão direito!"
+            "pt_BR": "Para abrir, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
-            "pt_BR": "Para abrir, clique com o botão direito!"
+            "pt_BR": "Para abrir, clique com o botão direito!",
+            "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.desc":
         {
             "en_US": "&7Here you can manage\nall your profile settings!",
             "de_DE": "&7Hier kannst du all deine\nProfileinstellungen verwalten!",
-            "pt_BR": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!"
+            "pt_BR": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!",
+            "ko_KR": "&7여기에서 모든 프로필 설정을\n관리할 수 있습니다!"
         },
         "SETTINGS.elytranoperm":
         {
             "en_US": "&7To use this feature you need at least the  rank.",
             "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang.",
-            "pt_BR": "&7Para usar este recurso, você precisa ter pelo menos a patente ."
+            "pt_BR": "&7Para usar este recurso, você precisa ter pelo menos a patente .",
+            "ko_KR": "&7이 기능을 사용하려면 최소  랭크 이상이 필요합니다."
         },
         "SETTINGS.playerhider.desc":
         {
             "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
             "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
-            "pt_BR": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente."
+            "pt_BR": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente.",
+            "ko_KR": "&7이 도구를 사용하면 모든 플레이어나\n&7특정 플레이어를 숨길 수 있습니다."
         },
         "SETTINGS.playerhider.name.all":
         {
             "en_US": "Visibility: &aeveryone",
             "de_DE": "Sichtbarkeit: &aalle",
-            "pt_BR": "Visibilidade: &atodos"
+            "pt_BR": "Visibilidade: &atodos",
+            "ko_KR": "표시: &a모두"
         },
         "SETTINGS.playerhider.name.vip":
         {
             "en_US": "Visibility: &5VIP",
             "de_DE": "Sichtbarkeit: &5VIP",
-            "pt_BR": "Visibilidade: &5VIP"
+            "pt_BR": "Visibilidade: &5VIP",
+            "ko_KR": "표시: &5VIP"
         },
         "SETTINGS.playerhider.name.nobody":
         {
             "en_US": "Visibility: &cnobody",
             "de_DE": "Sichtbarkeit: &cniemand",
-            "de_DE": "Visibilidade: &cninguém"
+            "de_DE": "Visibilidade: &cninguém",
+            "ko_KR": "표시: &c없음"
         },
         "HOLO.discord.line1":
         {
             "en_US": "&7Join our Discord Server to",
-            "de_DE": "&7Tritt unserem Discord Server bei und"
+            "de_DE": "&7Tritt unserem Discord Server bei und",
+            "ko_KR": "&7저희의 디스코드 서버에 참여하여"
         },
         "HOLO.discord.line2":
         {
             "en_US": "&7get the newest &finformations &7about",
-            "de_DE": "&7erhalte die neusten &fInformationen &7über das"
+            "de_DE": "&7erhalte die neusten &fInformationen &7über das",
+            "ko_KR": "&7다음에 대한 최신 &f정보를 &7얻으세요:"
         },
         "HOLO.discord.line3":
         {
             "en_US": "&7the &fnetwork&7, &fgiveaways&7, &fevents &7and &fmore&7!",
-            "de_DE": "&fNetzwerk&7, &fGewinnspiele&7, &fEvents &7und &fmehr&7!"
+            "de_DE": "&fNetzwerk&7, &fGewinnspiele&7, &fEvents &7und &fmehr&7!",
+            "ko_KR": "&7네크워크&7, &f무료 나눔&7, &f이벤트 &7및 &f더 많은 것&7!"
         },
         "HOLO.discord.line4":
         {
             "en_US": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
-            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
+            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "ko_KR": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
         },
         "INVHOTBAR.lobbytype.title":
         {
             "en_US": "&eUse the lobbyswitcher to change lobby!",
-            "de_DE": "&eNutze den Lobbyswitcher um Lobby zu wechseln!"
+            "de_DE": "&eNutze den Lobbyswitcher um Lobby zu wechseln!",
+            "ko_KR": "&e로비 전환기를 사용하여 로비를 변경하세요!"
         },
         "HOLO.apply.vip.line1":
         {
             "en_US": "&7Do you <#EE82EE>enjoy &7playing here and",
-            "de_DE": "&7Dir macht es Spaß hier zu spielen und"
+            "de_DE": "&7Dir macht es Spaß hier zu spielen und",
+            "ko_KR": "&7여기서 플레이하는 것을 <#EE82EE>즐기시나요?"
         },
         "HOLO.apply.vip.line2":
         {
             "en_US": "&7want to <#EE82EE>support us &7with your <#EE82EE>reach&7?",
-            "de_DE": "&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?"
+            "de_DE": "&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?",
+            "ko_KR": "&7당신의 <#EE82EE>영향력&7으로 저희를 <#EE82EE>지원하고 싶으신가요?"
         },
         "HOLO.apply.vip.line3":
         {
             "en_US": "&7Then <#EE82EE>apply &7on Discord to become a <#EE82EE>VIP",
-            "de_DE": "&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um"
+            "de_DE": "&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um",
+            "ko_KR": "&7그렇다면 <#EE82EE>저희 디스코드에서 <#EE82EE>VIP&7가 되기 위해 <#EE82EE>신청하세요"
         },
         "HOLO.apply.vip.line4":
         {
             "en_US": "&7and get access to <#EE82EE>exclusive features&7.",
-            "de_DE": "&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten."
+            "de_DE": "&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten.",
+            "ko_KR": "&7및 <#EE82EE>독점적인 기능&7에 접근하세요."
         },
         "HOLO.apply.vip.line5":
         {
             "en_US": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
-            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
+            "de_DE": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "ko_KR": "<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
         },
         "SETTINGS.item.jump.name":
         {
             "en_US": "Doublejump",
-            "de_DE": "Doppelsprung"
+            "de_DE": "Doppelsprung",
+            "ko_KR": "더블 점프"
         },
         "SETTINGS.item.jump.mode":
         {
             "en_US": "Mode:",
-            "de_DE": "Modus:"
+            "de_DE": "Modus:",
+            "ko_KR": "모드:"
         },
         "SETTINGS.item.jump.mode.elytra":
         {
             "en_US": "Elytra",
-            "de_DE": "Elytra"
+            "de_DE": "Elytra",
+            "ko_KR": "겉날개"
         },
         "SETTINGS.item.jump.mode.default":
         {
             "en_US": "Default",
-            "de_DE": "Standard"
+            "de_DE": "Standard",
+            "ko_KR": "기본값"
         },
         "SETTINGS.item.jump.desc":
         {
             "en_US": "&7Change your type of doublejumping in any\n&7Lobby. A modern Elytra-Doublejump\n&7or a default doublejump.",
-            "de_DE": "&7Ändere den Doppelsprung, welcher in einer Lobby\n&7genutzt werden kann. Zur Verfügung stehen ein moderner\n&7Elytra-Doppelsprung oder ein standard Doppelsprung."
+            "de_DE": "&7Ändere den Doppelsprung, welcher in einer Lobby\n&7genutzt werden kann. Zur Verfügung stehen ein moderner\n&7Elytra-Doppelsprung oder ein standard Doppelsprung.",
+            "ko_KR": "&7어떤 로비에서든 더블 점프의 모드를 변경하세요.\n&7현대적인 겉날개 더블 점프 또는 기본 더블 점프."
         },
         "SETTINGS.item.jump.click2change":
         {
             "en_US": "Click to change.",
-            "de_DE": "Klicke zum ändern."
+            "de_DE": "Klicke zum ändern.",
+            "ko_KR": "클릭하여 변경"
         },
         "SETTINGS.item.visibility.name":
         {
             "en_US": "Playervisibility",
-            "de_DE": "Spielersichtbarkeit"
+            "de_DE": "Spielersichtbarkeit",
+            "ko_KR": "플레이어 표시"
         },
         "TIKTOK.sky.already_owned":
         {
             "en_US": "You already own the Sky-rank (or a higher one)!",
-            "de_DE": "Du besitzt bereits den Sky-Rang (oder einen höheren)!"
+            "de_DE": "Du besitzt bereits den Sky-Rang (oder einen höheren)!",
+            "ko_KR": "이미 Sky 랭크 (또는 그 이상)을 소유하고 있습니다!"
         },
         "TIKTOK.sky.success":
         {
             "en_US": "You recieved the Sky-rank for 7 days!",
-            "de_DE": "Du hast den Sky-Rang für 7 Tage erhalten!"
+            "de_DE": "Du hast den Sky-Rang für 7 Tage erhalten!",
+            "ko_KR": "당신은 7일 동안 Sky 랭크를 받았습니다!"
         },
         "JOINTITLE.welcome.title":
         {
             "en_US": "Welcome",
-            "de_DE": "Willkommen"
+            "de_DE": "Willkommen",
+            "ko_KR": "스카이딘스에 오신 것을"
         },
         "JOINTITLE.welcome.subtitle":
         {
             "en_US": "to Skydinse!",
-            "de_DE": "auf Skydinse!"
+            "de_DE": "auf Skydinse!",
+            "ko_KR": "환영합니다!"
         },
         "LS.title":
         {
             "en_US": "Lobbyswitcher",
-            "de_DE": "Lobbywechsler"
+            "de_DE": "Lobbywechsler",
+            "ko_KR": "로비 전환기"
         },
         "LS.nextpage":
         {
             "en_US": "Next Page",
-            "de_DE": "Nächste Seite"
+            "de_DE": "Nächste Seite",
+            "ko_KR": "다음 페이지"
         },
         "LS.previouspage":
         {
             "en_US": "Previous Page",
-            "de_DE": "Vorherige Seite"
+            "de_DE": "Vorherige Seite",
+            "ko_KR": "이전 페이지"
         },
         "LS.players":
         {
             "en_US": "Players:",
-            "de_DE": "Spieler:"
+            "de_DE": "Spieler:",
+            "ko_KR": "플레이어 수:"
         },
         "LS.connected":
         {
             "en_US": "Connected",
-            "de_DE": "Verbunden"
+            "de_DE": "Verbunden",
+            "ko_KR": "연결됨"
         },
         "LS.click2connect":
         {
             "en_US": "Click to connect.",
-            "de_DE": "Klicke zum verbinden."
+            "de_DE": "Klicke zum verbinden.",
+            "ko_KR": "클릭해서 연결하세요."
         },
         "LS.alreadyconnected":
         {
             "en_US": "You are already connected to this lobby!",
-            "de_DE": "Du bist bereits mit dieser Lobby verbunden!"
+            "de_DE": "Du bist bereits mit dieser Lobby verbunden!",
+            "ko_KR": "이미 이 로비에 연결되어 있습니다!"
         },
         "LS.pleasewait":
         {
             "en_US": "Please wait a moment!",
-            "de_DE": "Bitte warte einen Moment!"
+            "de_DE": "Bitte warte einen Moment!",
+            "ko_KR": "잠시만 기다려주세요!"
         },
         "INVENTORY.gui.title":
         {
             "en_US": "Your Inventory",
-            "de_DE": "Dein Inventar"
+            "de_DE": "Dein Inventar",
+            "ko_KR": "당신의 인벤토리"
         },
         "INVENTORY.gui.soon":
         {
             "en_US": "A new category is created here!",
-            "de_DE": "Hier entsteht eine neue Kategorie!"
+            "de_DE": "Hier entsteht eine neue Kategorie!",
+            "ko_KR": "여기에 새로운 카테고리가 생성됩니다!"
         },
         "INVENTORY.gui.skylore":
         {
             "en_US": "&7Network-wide rank\n&7obtainable through coins.\n&7\n<#FFD400>Features:\n&e● &7Lobby-doublejump\n&e● &7Sit down: /sit\n&e● &7private custom minigames\n&e● &7party memberlimit of 8",
-            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Lobby-Doppelsprung\n&e● &7Hinsetzen: /sit\n&e● &7Private Custom Minigames\n&e● &7maximal 8 Partymitglieder"
+            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Lobby-Doppelsprung\n&e● &7Hinsetzen: /sit\n&e● &7Private Custom Minigames\n&e● &7maximal 8 Partymitglieder",
+            "ko_KR": "&7코인으로 휙득할 수 있는\n&7네트워크 랭크. \n&7\n<#FFD400>기능:\n&e● &7로비 더블 점프\n&e● &7앉기: /sit\n&e● &7비공개 커스텀 미니게임\n&e● &7파티 멤버 제한 8명"
         },
         "INVENTORY.gui.galaxylore":
         {
