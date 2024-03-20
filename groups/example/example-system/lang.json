@@ -14,7 +14,8 @@
             "fr_FR": "<#face05>Clique pour insérer cette commande dans ton chat !",
             "pl_PL": "<#face05>Kliknij, aby dodać to polecenie do swojego czatu!",
             "ru_RU": "<#face05>Нажмите, чтобы добавить эту команду в свой чат!",
-            "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!"
+            "tr_TR": "<#face05>Bu komutu sohbetinize eklemek için tıklayın!",
+            "ko_KR": "<#face05>이 커맨드를 채팅에 삽입하려면 여기를 클릭하세요!"
         },
         "EXAMPLE_TEXT_FUNCTION.link":
         {
@@ -28,7 +29,8 @@
             "fr_FR": "<#face05>Cliquez pour ouvrir ce lien !",
             "pl_PL": "<#face05>Kliknij, aby otworzyć ten link!",
             "ru_RU": "<#face05>Нажмите, чтобы открыть эту ссылку!",
-            "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!"
+            "tr_TR": "<#face05>Bu bağlantıyı açmak için tıklayın!",
+            "ko_KR": "<#face05>이 링크를 열려면 여기를 클릭하세요!"
         },
         "EXAMPLE_SUFFIX_FUNCTOIN.reward":
         {
@@ -42,7 +44,8 @@
             "es_ES": "&7Has recibido un <#face05>sufijo personalizado &7por un período de &e[time.1] &7días! Por favor, introduce tu sufijo deseado en el chat (escribe \"cancelar\" para cancelar). Tienes [time.2] minutos antes de que tu entrada sea cancelada automáticamente. Una guía sobre códigos de color y formato se puede encontrar en &e<@https://www.skydinse.net/colorcodes>&7!",
             "fr_FR": "&7Tu as reçu un <#face05>suffixe personnalisé &7pour la durée de &e[time.1] &7jours! Veuillez entrer votre suffixe désiré dans le chat (écris \"annuler\" pour annuler)! Tu as [time.2] minutes avant que ton entrée soit automatiquement annulée. Un guide des codes de couleur et de formatage est disponible sur &e<@https://www.skydinse.net/colorcodes>&7!",
             "pl_PL": "&7Otrzymałeś <#face05>indywidualny sufiks &7na okres &e[time.1] &7dni! Proszę wpisz swój wybrany sufiks w czacie (napisz \"anuluj\" aby anulować)! Masz [time.2] minut, zanim twoje wprowadzenie zostanie automatycznie anulowane. Przewodnik po kodach kolorów i formatowania znajdziesz na &e<@https://www.skydinse.net/colorcodes>&7!",
-            "ru_RU": "&7Ты получил <#face05>индивидуальный суффикс &7на период в &e[time.1] &7дней! Пожалуйста, введите желаемый суффикс в чат (напиши \"отмена\" для отмены)! У тебя есть [time.2] минут, пока твой ввод не будет автоматически отменен. Руководство по цветовым и форматным кодам доступно по ссылке &e<@https://www.skydinse.net/colorcodes>&7!"
+            "ru_RU": "&7Ты получил <#face05>индивидуальный суффикс &7на период в &e[time.1] &7дней! Пожалуйста, введите желаемый суффикс в чат (напиши \"отмена\" для отмены)! У тебя есть [time.2] минут, пока твой ввод не будет автоматически отменен. Руководство по цветовым и форматным кодам доступно по ссылке &e<@https://www.skydinse.net/colorcodes>&7!",
+            "ko_KR": "&7당신은 <#face05>커스텀 접미사&7를 &e[time.1] &7일 동안 수령하셨습니다! 채팅창에 원하는 접미사를 입력하세요 (취소하려면 \"cancel\"을(를) 입력하세요)! 입력이 자동으로 취소될 때까지 [time.2] 분이 남았습니다. 색상 및 형식 코드에 대한 가이드는 &e<@https://www.skydinse.net/colorcodes>&7에서 찾으실 수 있습니다!"
         },
         "EXAMPLE_SUFFIX_FUNCTOIN.success":
         {
@@ -56,7 +59,8 @@
             "es_ES": "&aTu sufijo personalizado (\"&x&c&a&c&a&c&a[value]&a\") ha sido establecido! &7Tu sufijo permanecerá por &e[time] &7días! Por favor, vuelve a ingresar a la red para actualizar tu sufijo en todas partes.",
             "fr_FR": "&aTon suffixe personnalisé (\"&x&c&a&c&a&c&a[value]&a\") a été défini! &7Ton suffixe restera pour &e[time] &7jours! Veuillez entrer de nouveau dans le réseau pour mettre à jour ton suffixe partout.",
             "pl_PL": "&aTwój indywidualny sufiks (\"&x&c&a&c&a&c&a[value]&a\") został ustawiony! &7Twój sufiks pozostanie na &e[time] &7dni! Proszę ponownie wejdź do sieci, aby zaktualizować swój sufiks wszędzie.",
-            "ru_RU": "&aТвой индивидуальный суффикс (\"&x&c&a&c&a&c&a[value]&a\") установлен! &7Твой суффикс останется на &e[time] &7дней! Пожалуйста, зайди в сеть снова, чтобы обновить свой суффикс повсюду."
+            "ru_RU": "&aТвой индивидуальный суффикс (\"&x&c&a&c&a&c&a[value]&a\") установлен! &7Твой суффикс останется на &e[time] &7дней! Пожалуйста, зайди в сеть снова, чтобы обновить свой суффикс повсюду.",
+            "ko_KR": "&a당신의 커스텀 접미사 (\"&x&c&a&c&a&c&a[value]&a\")가 설정되었습니다! &7이 접미사는 &e[time] &7일동안 사용 가능합니다! 네트워크를 재접속하여 당신의 접미사를 항상 최신 상태로 유지하세요!"
         }
     }
 }
