@@ -284,7 +284,7 @@
             "en_US": "Playtime: <#ffef66>[time]<#ffe732>h",
             "de_DE": "Spielzeit: <#ffef66>[time] <#ffe732>Std.",
             "pt_BR": "Tempo de jogo: <#ffef66>[time]<#ffe732>h",
-            "tr_TR": "Oynama süresi: <#ffef66>[time]<#ffe732> saat",
+            "tr_TR": "Playtime: <#ffef66>[time]<#ffe732> saat",
             "ko_KR": "플레이 시간: <#ffef66>[time]<#ffe732>시간"
         },
         "SCOREBOARD.playtime.bedrock":
@@ -356,6 +356,7 @@
             "en_US": "&7When activated, you can use\n&7funny gadgets in the lobby.",
             "de_DE": "&7Nutze in den Lobbys lustige Gadgets,\n&7falls du welche ausgewählt hast.",
             "pt_BR": "&7Desfrute de gadgets divertidos na\n&7lobby, se você tiver escolhido algum.",
+            "tr_TR": "&7Eğer varsa, lobilerde \n&7eğlenceli araçlar kullan.",
             "ko_KR": "%7활성화하면, 로비에서\n&7재미있는 가젯을 사용할 수 있습니다."
         },
         "INVHOTBAR.gadget.click":
@@ -363,6 +364,7 @@
             "en_US": "Rightclick to use!",
             "de_DE": "Rechtsklicke zum benutzen!",
             "pt_BR": "Para usar, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 사용!"
         },
         "INVHOTBAR.inventory.name":
@@ -370,6 +372,7 @@
             "en_US": "&6Inventory",
             "de_DE": "&6Inventar",
             "pt_BR": "&6Inventário",
+            "tr_TR": "&6Envanter",
             "ko_KR": "&6인벤토리"
         },
         "INVHOTBAR.inventory.desc":
@@ -384,6 +387,7 @@
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_BR": "Para abrir, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.settings.name":
@@ -391,6 +395,7 @@
             "en_US": "Settings",
             "de_DE": "Einstellungen",
             "pt_BR": "Opções",
+            "tr_TR": "Ayarlar",
             "ko_KR": "설정"
         },
         "INVHOTBAR.settings.desc":
@@ -398,6 +403,7 @@
             "en_US": "&7View some of your network-wide settings.",
             "de_DE": "&7Siehe deine netzwerkweiten Einstellungen ein.",
             "pt_BR": "&7Veja as suas opções de configuração em toda a rede.",
+            "tr_TR": "&7Sunucu genelindeki ayarlarınızı yönet.",
             "ko_KR": "&7네트워크의 일부 설정을 확인하세요."
         },
         "INVHOTBAR.settings.click":
@@ -405,6 +411,7 @@
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_BR": "Para abrir, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.lobbyswitcher.name":
@@ -412,6 +419,7 @@
             "en_US": "&6Lobbyswitcher",
             "de_DE": "&6Lobbywechsler",
             "pt_BR": "&6Mudança de lobby",
+            "tr_TR": "&6Lobiler",
             "ko_KR": "&6로비 전환기"
         },
         "INVHOTBAR.lobbyswitcher.desc":
@@ -419,6 +427,7 @@
             "en_US": "&7Switch between lobbies.",
             "de_DE": "&7Wechsle zwischen Lobbys.",
             "pt_BR": "&7Alternar entre lobbies.",
+            "tr_TR": "&7Lobiler arasında geçiş yap.",
             "ko_KR": "&7로비 간 전환."
         },
         "INVHOTBAR.lobbyswitcher.click":
@@ -426,6 +435,7 @@
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_BR": "Para abrir, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.click":
@@ -433,6 +443,7 @@
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_BR": "Para abrir, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.desc":
@@ -440,6 +451,7 @@
             "en_US": "&7Here you can manage\nall your profile settings!",
             "de_DE": "&7Hier kannst du all deine\nProfileinstellungen verwalten!",
             "pt_BR": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!",
+            "tr_TR": "&7Burada tüm profil \n&7ayarlarınızı yönetebilirsin!",
             "ko_KR": "&7여기에서 모든 프로필 설정을\n관리할 수 있습니다!"
         },
         "SETTINGS.elytranoperm":
@@ -447,6 +459,7 @@
             "en_US": "&7To use this feature you need at least the  rank.",
             "de_DE": "&7Um dieses Feature zu verwenden benötigst du mindestens den  Rang.",
             "pt_BR": "&7Para usar este recurso, você precisa ter pelo menos a patente .",
+            "tr_TR": "&7Bu özelliği kullanmak için en az  rütbesine sahip olman gerekir.",
             "ko_KR": "&7이 기능을 사용하려면 최소  랭크 이상이 필요합니다."
         },
         "SETTINGS.playerhider.desc":
@@ -454,6 +467,7 @@
             "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
             "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
             "pt_BR": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente.",
+            "tr_TR": "&7Bu araç ile tüm veya belirli\n&7oyuncuları sizden gizleyebilirsin.",
             "ko_KR": "&7이 도구를 사용하면 모든 플레이어나\n&7특정 플레이어를 숨길 수 있습니다."
         },
         "SETTINGS.playerhider.name.all":
@@ -461,6 +475,7 @@
             "en_US": "Visibility: &aeveryone",
             "de_DE": "Sichtbarkeit: &aalle",
             "pt_BR": "Visibilidade: &atodos",
+            "tr_TR": "Görünürlük: &aherkes",
             "ko_KR": "표시: &a모두"
         },
         "SETTINGS.playerhider.name.vip":
@@ -468,6 +483,7 @@
             "en_US": "Visibility: &5VIP",
             "de_DE": "Sichtbarkeit: &5VIP",
             "pt_BR": "Visibilidade: &5VIP",
+            "tr_TR": "Görünürlük: &5VIP",
             "ko_KR": "표시: &5VIP"
         },
         "SETTINGS.playerhider.name.nobody":
@@ -475,6 +491,7 @@
             "en_US": "Visibility: &cnobody",
             "de_DE": "Sichtbarkeit: &cniemand",
             "de_DE": "Visibilidade: &cninguém",
+            "tr_TR": "Görünürlük: &ckimse",
             "ko_KR": "표시: &c없음"
         },
         "HOLO.discord.line1":
@@ -541,24 +558,28 @@
         {
             "en_US": "Doublejump",
             "de_DE": "Doppelsprung",
+            "tr_TR": "Çift atlama",
             "ko_KR": "더블 점프"
         },
         "SETTINGS.item.jump.mode":
         {
             "en_US": "Mode:",
             "de_DE": "Modus:",
+            "tr_TR": "Modu:",
             "ko_KR": "모드:"
         },
         "SETTINGS.item.jump.mode.elytra":
         {
             "en_US": "Elytra",
             "de_DE": "Elytra",
+            "tr_TR": "Elytra",
             "ko_KR": "겉날개"
         },
         "SETTINGS.item.jump.mode.default":
         {
             "en_US": "Default",
             "de_DE": "Standard",
+            "tr_TR": "Standart",
             "ko_KR": "기본값"
         },
         "SETTINGS.item.jump.desc":
@@ -571,96 +592,112 @@
         {
             "en_US": "Click to change.",
             "de_DE": "Klicke zum ändern.",
+            "tr_TR": "Değiştirmek için tıkla.",
             "ko_KR": "클릭하여 변경"
         },
         "SETTINGS.item.visibility.name":
         {
             "en_US": "Playervisibility",
             "de_DE": "Spielersichtbarkeit",
+            "tr_TR": "Oyuncu görünürlüğü",
             "ko_KR": "플레이어 표시"
         },
         "TIKTOK.sky.already_owned":
         {
             "en_US": "You already own the Sky-rank (or a higher one)!",
             "de_DE": "Du besitzt bereits den Sky-Rang (oder einen höheren)!",
+            "tr_TR": "Zaten Sky Rütbesine (veya daha yüksek) sahipsin!",
             "ko_KR": "이미 Sky 랭크 (또는 그 이상)을 소유하고 있습니다!"
         },
         "TIKTOK.sky.success":
         {
             "en_US": "You recieved the Sky-rank for 7 days!",
             "de_DE": "Du hast den Sky-Rang für 7 Tage erhalten!",
+            "tr_TR": "Sky rütbesini 7 gün boyunca aldın!",
             "ko_KR": "당신은 7일 동안 Sky 랭크를 받았습니다!"
         },
         "JOINTITLE.welcome.title":
         {
             "en_US": "Welcome",
             "de_DE": "Willkommen",
+            "tr_TR": "Skydinse'e",
             "ko_KR": "스카이딘스에 오신 것을"
         },
         "JOINTITLE.welcome.subtitle":
         {
             "en_US": "to Skydinse!",
             "de_DE": "auf Skydinse!",
+            "tr_TR": "hoş geldin!",
             "ko_KR": "환영합니다!"
         },
         "LS.title":
         {
             "en_US": "Lobbyswitcher",
             "de_DE": "Lobbywechsler",
+            "tr_TR": "Lobiler",
             "ko_KR": "로비 전환기"
         },
         "LS.nextpage":
         {
             "en_US": "Next Page",
             "de_DE": "Nächste Seite",
+            "tr_TR": "Sonraki sayfa",
             "ko_KR": "다음 페이지"
         },
         "LS.previouspage":
         {
             "en_US": "Previous Page",
             "de_DE": "Vorherige Seite",
+            "tr_TR": "Önceki sayfa",
             "ko_KR": "이전 페이지"
         },
         "LS.players":
         {
             "en_US": "Players:",
             "de_DE": "Spieler:",
+            "tr_TR": "Oyuncular:",
             "ko_KR": "플레이어 수:"
         },
         "LS.connected":
         {
             "en_US": "Connected",
             "de_DE": "Verbunden",
+            "tr_TR": "Bağlı",
             "ko_KR": "연결됨"
         },
         "LS.click2connect":
         {
             "en_US": "Click to connect.",
             "de_DE": "Klicke zum verbinden.",
+            "tr_TR": "Bağlanmak için tıkla.",
             "ko_KR": "클릭해서 연결하세요."
         },
         "LS.alreadyconnected":
         {
             "en_US": "You are already connected to this lobby!",
             "de_DE": "Du bist bereits mit dieser Lobby verbunden!",
+            "tr_TR": "Zaten bu lobidesin!",
             "ko_KR": "이미 이 로비에 연결되어 있습니다!"
         },
         "LS.pleasewait":
         {
             "en_US": "Please wait a moment!",
             "de_DE": "Bitte warte einen Moment!",
+            "tr_TR": "Lütfen bir dakika bekle!",
             "ko_KR": "잠시만 기다려주세요!"
         },
         "INVENTORY.gui.title":
         {
             "en_US": "Your Inventory",
             "de_DE": "Dein Inventar",
+            "tr_TR": "Envanterin",
             "ko_KR": "당신의 인벤토리"
         },
         "INVENTORY.gui.soon":
         {
             "en_US": "A new category is created here!",
             "de_DE": "Hier entsteht eine neue Kategorie!",
+            "tr_TR": "Burada yeni bir kategori oluşturulur!",
             "ko_KR": "여기에 새로운 카테고리가 생성됩니다!"
         },
         "INVENTORY.gui.skylore":
@@ -677,57 +714,68 @@
         "INVENTORY.gui.costs":
         {
             "en_US": "Costs:",
-            "de_DE": "Kosten:"
+            "de_DE": "Kosten:",
+            "tr_TR": "Fiyat:"
         },
         "INVENTORY.gui.sure":
         {
             "en_US": "Sure?",
-            "de_DE": "Sicher?"
+            "de_DE": "Sicher?",
+            "tr_TR": "Emin misin?"
         },
         "INVENTORY.gui.cancel":
         {
             "en_US": "Cancel",
-            "de_DE": "Abbrechen"
+            "de_DE": "Abbrechen",
+            "tr_TR": "İptal"
         },
         "INVENTORY.gui.confirmpurchase":
         {
             "en_US": "Confirm purchase",
-            "de_DE": "Kauf bestätigen"
+            "de_DE": "Kauf bestätigen",
+            "tr_TR": "Confirm purchase"
         },
         "INVENTORY.gui.duration":
         {
             "en_US": "&7Duration: &a30 Days",
-            "de_DE": "&7Dauer: &a30 Tage"
+            "de_DE": "&7Dauer: &a30 Tage",
+            "tr_TR": "&7Süre: &a30 Gün"
         },
         "INVENTORY.gui.time_left":
         {
             "en_US": "&8» &7Time left: ",
-            "de_DE": "&8» &7Zeit verbleibend: "
+            "de_DE": "&8» &7Zeit verbleibend: ",
+            "tr_TR": "&8» &7Kalan süre:"
         },
         "INVENTORY.gui.extend":
         {
             "en_US": "&8» <#D5F836>Click to extend for 30 days!",
-            "de_DE": "&8» <#D5F836>Klicke, um 30 Tage zu verlängern!"
+            "de_DE": "&8» <#D5F836>Klicke, um 30 Tage zu verlängern!",
+            "tr_TR": "&8» <#D5F836>30 gün uzatmak için tıkla!"
         },
         "INVENTORY.gui.alreadypurchased":
         {
             "en_US": "&8» &cAlready purchased!",
-            "de_DE": "&8» &cBereits gekauft!"
+            "de_DE": "&8» &cBereits gekauft!",
+            "tr_TR": "&8» &cZaten satın alındı!"
         },
         "INVENTORY.gui.higherrank":
         {
             "en_US": "&cYou own a higher rank!",
-            "de_DE": "&cDu besitzt einen höheren Rang!"
+            "de_DE": "&cDu besitzt einen höheren Rang!",
+            "tr_TR": "&cDaha yüksek bir rütbenin var!"
         },
         "INVENTORY.gui.click2purchase":
         {
             "en_US": "&8» <#F9BD31>Click to purchase!",
-            "de_DE": "&8» <#F9BD31>Klicke zum kaufen!"
+            "de_DE": "&8» <#F9BD31>Klicke zum kaufen!",
+            "tr_TR": "&8» <#F9BD31>Satın almak için tıkla!"
         },
         "INVENTORY.gui.click2cancel":
         {
             "en_US": "Click to cancel.",
-            "de_DE": "Klicke zum abbrechen."
+            "de_DE": "Klicke zum abbrechen.",
+            "tr_TR": "İptal etmek için tıkla."
         },
         "INVENTORY.gui.successfullybought":
         {
@@ -810,32 +858,38 @@
         "NAVIGATOR.button.random_game":
         {
             "en_US": "&6Play a random game!",
-            "de_DE": "&6Spiele ein zufälliges Spiel!"
+            "de_DE": "&6Spiele ein zufälliges Spiel!",
+            "tr_TR": "&6Rastgele bir oyun oyna!"
         },
         "NAVIGATOR.button.random_fast_game":
         {
             "en_US": "&6Play a random &lfast &6game!",
-            "de_DE": "&6Spiele ein zufälliges &lschnelles &6Spiel!"
+            "de_DE": "&6Spiele ein zufälliges &lschnelles &6Spiel!",
+            "tr_TR": "&6Rastgele &lhızlı &6bir oyun oyna!"
         },
         "NAVIGATOR.button.random_creative_game":
         {
             "en_US": "&6Play a random &lcreative &6game!",
-            "de_DE": "&6Spiele ein zufälliges &lkreatives &6Spiel!"
+            "de_DE": "&6Spiele ein zufälliges &lkreatives &6Spiel!",
+            "tr_TR": "&6Rastgele &lyaratıcı &6bir oyun oyna!"
         },
         "NAVIGATOR.button.spawn":
         {
             "en_US": "<#face05>Spawn",
-            "de_DE": "<#face05>Spawn"
+            "de_DE": "<#face05>Spawn",
+            "tr_TR": "<#face05>Spawn"
         },
         "NAVIGATOR.button.events":
         {
             "en_US": "&aEvents",
-            "de_DE": "&aEvents"
+            "de_DE": "&aEvents",
+            "tr_TR": "&aOlaylar"
         },
         "NAVIGATOR.button.projects":
         {
             "en_US": "&cMineAttack IV\" # \"&cProjects",
-            "de_DE": "&cMineAttack IV\" # \"&cProjects"
+            "de_DE": "&cMineAttack IV\" # \"&cProjekte",
+            "tr_TR": "&cMineAttack IV\" # \"&cProjeler"
         },
         "NAVIGATOR.button.game_blockparty":
         {
@@ -865,7 +919,8 @@
         "NAVIGATOR.button.game_buildffa":
         {
             "en_US": "&e???",
-            "de_DE": "&e???"
+            "de_DE": "&e???",
+            "tr_TR": "&e???"
         },
         "NAVIGATOR.button.game_creative":
         {
@@ -875,42 +930,50 @@
         "NAVIGATOR.button.game_newgame":
         {
             "en_US": "&e???",
-            "de_DE": "&e???"
+            "de_DE": "&e???",
+            "tr_TR": "&e???"
         },
         "NAVIGATOR.button.game_citybuild":
         {
             "en_US": "&e???",
-            "de_DE": "&e???"
+            "de_DE": "&e???",
+            "tr_TR": "&e???"
         },
         "NAVIGATOR.button.lobbygame_sdplace":
         {
             "en_US": "<#face05>SD/place",
-            "de_DE": "<#face05>SD/place"
+            "de_DE": "<#face05>SD/place",
+            "tr_TR": "<#face05>SD/place"
         },
         "NAVIGATOR.button.lobbygame_minenbreak":
         {
             "en_US": "<#face05>Mine 'n' Break",
-            "de_DE": "<#face05>Mine 'n' Break"
+            "de_DE": "<#face05>Mine 'n' Break",
+            "tr_TR": "<#face05>Mine 'n' Break"
         },
         "NAVIGATOR.button.lobbygame_cookieclicker":
         {
             "en_US": "<#face05>Cookie clicker",
-            "de_DE": "<#face05>Cookieclicker"
+            "de_DE": "<#face05>Cookieclicker",
+            "tr_TR": "<#face05>Cookie clicker"
         },
         "NAVIGATOR.button.online":
         {
             "en_US": "&f\n&7» Currently online: &aVAR1",
-            "de_DE": "&f\n&7» Aktuell online: &eVAR1"
+            "de_DE": "&f\n&7» Aktuell online: &eVAR1",
+            "tr_TR": "&f\n&7» Şu an bağlı: &eVAR1"
         },
         "NAVIGATOR.button.left_click":
         {
             "en_US": "&f\n&6LEFT CLICK &8» &7Teleport",
-            "de_DE": "&f\n&6LINKSKLICK &8» &7Teleportieren"
+            "de_DE": "&f\n&6LINKSKLICK &8» &7Teleportieren",
+            "tr_TR": "&f\n&6SOL TIK &8» &7Teleport"
         },
         "NAVIGATOR.button.right_click":
         {
             "en_US": "&6RIGHT CLICK &8» &7Direct connect",
-            "de_DE": "&6RECHTSKLICK &8» &7Direkt verbinden"
+            "de_DE": "&6RECHTSKLICK &8» &7Direkt verbinden",
+            "tr_TR": "&6SAĞ TIK &8» &7Hemen bağlan"
         },
         "NAVIGATOR.details.game_blockparty":
         {
@@ -940,7 +1003,8 @@
         "NAVIGATOR.details.game_buildffa":
         {
             "en_US": "&f\n&7=> Release in the future!",
-            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!"
+            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
+            "tr_TR": ""
         },
         "NAVIGATOR.details.game_creative":
         {
@@ -950,12 +1014,14 @@
         "NAVIGATOR.details.game_newgame":
         {
             "en_US": "&f\n&7=> Release in the future!",
-            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!"
+            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
+            "tr_TR": ""
         },
         "NAVIGATOR.details.game_citybuild":
         {
-            "en_US": "&f\n&7=> Release in January 2024!",
-            "de_DE": "&f\n&7=> Veröffentlichung im Januar 2024!"
+            "en_US": "&f\n&7=> Release in spring 2024!",
+            "de_DE": "&f\n&7=> Veröffentlichung im Frühling 2024!",
+            "tr_TR": ""
         },
         "NAVIGATOR.details.events":
         {
@@ -970,17 +1036,20 @@
         "NAVIGATOR.randomjoin.connect":
         {
             "en_US": "&aFound a free game! &7Connecting you to &eVAR1&7...",
-            "de_DE": "&aFreies Spiel gefunden! &7Verbinde dich zu &eVAR1&7..."
+            "de_DE": "&aFreies Spiel gefunden! &7Verbinde dich zu &eVAR1&7...",
+            "tr_TR": "&aMevcut oyun bulundu! &eVAR1'a &7bağlanıyoruz..."
         },
         "NAVIGATOR.randomjoin.error":
         {
             "en_US": "&cCouldn't find a free game!",
-            "de_DE": "&cKonnte kein freies Spiel finden!"
+            "de_DE": "&cKonnte kein freies Spiel finden!",
+            "tr_TR": "&cUygun bir oyun bulunamadı!"
         },
         "NAVIGATOR.nospam":
         {
             "en_US": "&cPlease don't spam this action!",
-            "de_DE": "&cBitte spamme diese Aktion nicht!"
+            "de_DE": "&cBitte spamme diese Aktion nicht!",
+            "tr_TR": "&cLütfen bu kampanyayı spam yapma!"
         },
         "HOTBAR.advent_calendar.title":
         {
@@ -995,47 +1064,56 @@
         "NETWORKSTATS.title":
         {
             "en_US": "Network-Statistics",
-            "de_DE": "Netzwerk-Statistiken"
+            "de_DE": "Netzwerk-Statistiken",
+            "tr_TR": "Sunucu istatistikleri"
         },
         "NETWORKSTATS.registeredplayers":
         {
             "en_US": "Registered Players",
-            "de_DE": "Registrierte Spieler"
+            "de_DE": "Registrierte Spieler",
+            "tr_TR": "Kayıtlı oyuncular"
         },
         "NETWORKSTATS.playeramountrecord":
         {
             "en_US": "Player record",
-            "de_DE": "Spielerrekord"
+            "de_DE": "Spielerrekord",
+            "tr_TR": "Oyuncu rekoru"
         },
         "NETWORKSTATS.totalplaytime":
         {
             "en_US": "Total Playtime",
-            "de_DE": "Insgesamte Spielzeit"
+            "de_DE": "Insgesamte Spielzeit",
+            "tr_TR": "Toplam oynama süresi"
         },
         "NETWORKSTATS.existence":
         {
             "en_US": "Released since",
-            "de_DE": "Öffentlich seit"
+            "de_DE": "Öffentlich seit",
+            "tr_TR": "O zamandan beri kamu"
         },
         "NETWORKSTATS.friendships":
         {
             "en_US": "Friendships",
-            "de_DE": "Freundschaften"
+            "de_DE": "Freundschaften",
+            "tr_TR": "Arkadaşlıklar"
         },
         "NETWORKSTATS.months":
         {
             "en_US": "months",
-            "de_DE": "Monate"
+            "de_DE": "Monate",
+            "tr_TR": "aylar"
         },
         "NETWORKSTATS.discord_members":
         {
             "en_US": "members",
-            "de_DE": "Mitglieder"
+            "de_DE": "Mitglieder",
+            "tr_TR": "üyeler"
         },
         "NETWORKSTATS.discord_online":
         {
             "en_US": "online",
-            "de_DE": "online"
+            "de_DE": "online",
+            "tr_TR": "online"
         }
     }
 }
