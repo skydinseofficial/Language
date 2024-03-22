@@ -140,6 +140,7 @@
             "en_US": "YOUR STATS",
             "de_DE": "DEINE STATISTIKEN",
             "pt_BR": "TUAS ESTATÍSTICAS",
+            "tr_TR": "İstatistiklerin",
             "ko_KR": "통계"
         },
         "STATS.nostats":
@@ -147,6 +148,7 @@
             "en_US": "No stats collected!",
             "de_DE": "Keine Stats gesammelt!",
             "pt_BR": "Nenhuma estatística coletada!",
+            "tr_TR": "Toplanan istatistik yok!",
             "ko_KR": "통계가 없습니다!"
         },
         "STATS.gamesplayed":
@@ -154,6 +156,7 @@
             "en_US": "Games played:",
             "de_DE": "Gespielte Spiele:",
             "pt_BR": "Jogos jogados:",
+            "tr_TR": "Oynanan Oyunlar:",
             "ko_KR": "플레이 한 게임:"
         },
         "STATS.wins":
@@ -161,12 +164,14 @@
             "en_US": "Wins:",
             "de_DE": "Gewonnene Spiele:",
             "pt_BR": "Jogos ganhos:",
+            "tr_TR": "Kazanılan Oyunlar:",
             "ko_KR": "승리 횟수:"
         },
         "STATS.lost":
         {
             "en_US": "Lost games:",
             "de_DE": "Verlorene Spiele:",
+            "tr_TR": "Kayıp oyunlar:",
             "pt_BR": "Jogos perdidos:",
             "ko_KR": "패배 횟수:"
         },
@@ -175,6 +180,7 @@
             "en_US": "Points:",
             "de_DE": "Punkte:",
             "pt_BR": "Pontos:",
+            "tr_TR": "Puanlar:",
             "ko_KR": "포인트:"
         },
         "STATS.rank":
@@ -182,6 +188,7 @@
             "en_US": "Rank (Points):",
             "de_DE": "Rang (Punkte):",
             "pt_BR": "Posição (Pontos):",
+            "tr_TR": "Rütbe (Puanlar):",
             "ko_KR": "순위 (포인트):"
         },
         "STATS.bpbeds":
@@ -189,6 +196,7 @@
             "en_US": "Beds destroyed:",
             "de_DE": "Betten abgebaut:",
             "pt_BR": "Camas destruídas:",
+            "tr_TR": "Yataklar söküldü:",
             "ko_KR": "파괴한 침대 갯수:"
         },
         "STATS.deaths":
@@ -196,6 +204,7 @@
             "en_US": "Deaths:",
             "de_DE": "Tode:",
             "pt_BR": "Mortes:",
+            "tr_TR": "Ölüm:",
             "ko_KR": "죽은 횟수:"
         },
         "STATS.kills":
@@ -203,6 +212,7 @@
             "en_US": "Kills:",
             "de_DE": "Kills:",
             "pt_BR": "Kills:",
+            "tr_TR": "Kills:",
             "ko_KR": "킬:"
         },
         "STATS.level":
@@ -210,6 +220,7 @@
             "en_US": "Levels played:",
             "de_DE": "Levels gespielt:",
             "de_DE": "Níveis jogados:",
+            "tr_TR": "Oynanan seviye:",
             "ko_KR": "플레이 한 레벨:"
         },
         "STATS.powerups":
@@ -217,6 +228,7 @@
             "en_US": "Power-ups:",
             "de_DE": "Power-ups:",
             "pt_BR": "Power-ups:",
+            "tr_TR": "Power-ups:",
             "ko_KR": "파워업:"
         },
         "STATS.explosions":
@@ -224,13 +236,15 @@
             "en_US": "Opponent explosios:",
             "de_DE": "Gegner-Explosionen:",
             "pt_BR": "Explosões de inimigos:",
+            "tr_TR": "Düşman patlamaları:",
             "ko_KR": "상대를 폭발시킨 횟수:"
         },
         "STATS.joinedtimes":
         {
-            "en_US": "Number of accessions:",
+            "en_US": "Number of joins:",
             "de_DE": "Anzahl der Beitritte:",
             "pt_BR": "Número de adesões:",
+            "tr_TR": "Katılım sayısı:",
             "ko_KR": "접속 횟수:"
         },
         "STATS.ghostkills":
@@ -238,6 +252,7 @@
             "en_US": "Ghosts killed:",
             "de_DE": "Geister getötet:",
             "pt_BR": "Fantasmas mortos:",
+            "tr_TR": "Ruhlar öldürüldü:",
             "ko_KR": "유령을 죽인 횟수:"
         },
         "STATS.detonations":
@@ -245,6 +260,7 @@
             "en_US": "Detonations:",
             "de_DE": "Detonationen:",
             "pt_BR": "Detonações:",
+            "tr_TR": "Patlamalar:",
             "ko_KR": "폭발 횟수:"
         },
         "STATS.humans":
@@ -252,6 +268,7 @@
             "en_US": "Humans infected:",
             "de_DE": "Menschen infiziert:",
             "pt_BR": "Pessoas infectadas:",
+            "tr_TR": "Enfekte olan kişiler:",
             "ko_KR": "감염된 사람:"
         },
         "SCOREBOARD.rank":
@@ -259,6 +276,7 @@
             "en_US": "Rank",
             "de_DE": "Rang",
             "pt_BR": "Posição",
+            "tr_TR": "Rütbe",
             "ko_KR": "랭크"
         },
         "SCOREBOARD.playtime.java":
@@ -266,6 +284,7 @@
             "en_US": "Playtime: <#ffef66>[time]<#ffe732>h",
             "de_DE": "Spielzeit: <#ffef66>[time] <#ffe732>Std.",
             "pt_BR": "Tempo de jogo: <#ffef66>[time]<#ffe732>h",
+            "tr_TR": "Oynama süresi: <#ffef66>[time]<#ffe732> saat",
             "ko_KR": "플레이 시간: <#ffef66>[time]<#ffe732>시간"
         },
         "SCOREBOARD.playtime.bedrock":
@@ -273,6 +292,7 @@
             "en_US": "[time]h",
             "de_DE": "[time] Std.",
             "pt_BR": "[time]h",
+            "tr_TR": "[time] saat",
             "ko_KR": "[time]시간"
         },
         "SCOREBOARD.linked":
@@ -280,6 +300,7 @@
             "en_US": "Linked",
             "de_DE": "Verlinkt",
             "pt_BR": "Ligado",
+            "tr_TR": "Bağlı",
             "ko_KR": "연결됨"
         },
         "SCOREBOARD.event":
@@ -287,6 +308,7 @@
             "en_US": "Event",
             "de_DE": "Event",
             "pt_BR": "Evento",
+            "tr_TR": "Event",
             "ko_KR": "이벤트"
         },
         "INVHOTBAR.navigator.name":
@@ -294,6 +316,7 @@
             "en_US": "&6Navigator",
             "de_DE": "&6Navigator",
             "pt_BR": "&6Navegador",
+            "tr_TR": "&6Navigatör",
             "ko_KR": "&6내비게이터"
         },
         "INVHOTBAR.navigator.desc":
@@ -301,6 +324,7 @@
             "en_US": "&7The navigator can show you all warps \n&7of our minigames, mainmodes and lobbygames!",
             "de_DE": "&7Im Navigator findest du alle Warps \n&7zu Minispielen, Hauptspielmodi und Lobbygames!",
             "pt_BR": "&7No Navegador encontrarás todos os warps \n&7para mini-jogos, modos de jogo principais e jogos de lobby!",
+            "tr_TR": "&7Mini oyunlar, ana oyun modları ve lobi oyunları için \n&7tüm warp'ları Navigatör'da bulabilirsiniz!",
             "ko_KR": "&7네비게이터는 우리의 미니게임, 메인모드 및 로비게임의\n&7모든 워프들을 보여줄 수 있습니다!"
         },
         "INVHOTBAR.navigator.click":
@@ -308,6 +332,7 @@
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
             "pt_BR": "Para abrir, clique com o botão direito!",
+            "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
         "INVHOTBAR.profile.name":
@@ -315,6 +340,7 @@
             "en_US": "&6Your Profile",
             "de_DE": "&6Dein Profil",
             "pt_BR": "&6Teu perfil",
+            "tr_TR": "&6Profilin",
             "ko_KR": "&6당신의 프로필"
         },
         "INVHOTBAR.gadget.name":
@@ -322,6 +348,7 @@
             "en_US": "&6Gadget",
             "de_DE": "&6Gadget",
             "pt_BR": "&6Gadget",
+            "tr_TR": "&6adget",
             "ko_KR": "&6가젯"
         },
         "INVHOTBAR.gadget.desc":
