@@ -5,7 +5,8 @@
         "GENERAL.nopermission":
         {
             "en_US": "&cYou don't have permission for this!",
-            "de_DE": "&cDazu hast du keine Berechtigung!"
+            "de_DE": "&cDazu hast du keine Berechtigung!",
+            "de_XX": "&cDas darfsch'de ned machne alda!"
         },
         "SYSTEM.booting.error":
         {
@@ -60,7 +61,8 @@
         "MODULES.this.disabled":
         {
             "en_US": "&cThis feature is currently disabled!",
-            "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
+            "de_DE": "&cDiese Funktion ist derzeit deaktiviert!",
+            "de_XX": "&cDiese Funktion geht ned mehr wegen den kagg Haidern!"
         },
         "MODULES.enabling":
         {
