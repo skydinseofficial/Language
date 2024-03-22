@@ -72,13 +72,13 @@
             "fallback": "de_DE",
             "details.de_XX":
             {
-                "name": "Wirrwarrspruch",
-                "country": "Alamannenland"
+                "name": "Drachensprech",
+                "country": "Altschauerberg 8"
             },
             "details.en_US":
             {
                 "name": "Funny German Language",
-                "country": "Skydinse"
+                "country": "Altschauerberg 8"
             }
         },
         "nl_NL":
