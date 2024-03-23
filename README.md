@@ -56,6 +56,7 @@ The language files are located in the individual system folders and __must__ hav
 ##
 ### __Translation and language rules__
 - **AI**: AI tools (e.g. ChatGPT) for translating texts are __allowed__, but the responsibility for a correct translation always lies with the person.
+- **Text formats**: [Text formats](#text-formats) should **always** be used if there is a reason to do so! For example, if a link appears in a translation, it should also be specified as a link (`<@https://www.example.net/>`). The same applies to all other text formats.
 - **Placeholders**: Placeholders must be specified in the form `[name]`. If there are several values with the same name, these must be distinguished by `.NUMBER` (e.g. `[name.1]`, `[name.2]`, ...). Placeholder names are always in English and must not be translated. The respective placeholders specified by the developer must be adhered to. **Standard placeholders** are:
   - `[player]`: Name of a player
   - `[link]`: Link to a website
@@ -152,6 +153,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 ##
 ### __Übersetzungs- und Sprachregeln__
 - **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
+- **Textformate**: [Textformate](#textformate) sollen **immer** verwendet werden, wenn der Anlass dazu gegeben ist! Wenn also beispielsweise ein Link in einer Übersetzung vorkommt, ist dieser auch als Link (`<@https://www.example.net/>`) anzugeben. Selbiges gilt für alle weiteren Textformate.
 - **Platzhalter**: Platzhalter sind in der Form `[name]` anzugeben. Falls es mehrere Werte mit demselben Namen gibt, sind diese durch `.ZAHL` zu unterscheiden (z.B. `[name.1]`, `[name.2]`, ...). Platzhalter-Namen sind immer Englisch und dürfen nicht übersetzt werden. Es muss sich an die jeweiligen Platzhalter gehalten werden, welche von dem:r Developer:in vorgegeben sind. **Standard-Platzhalter** sind:
   - `[player]`: Name eines:r Spieler:in
   - `[link]`: Link zu einer Webseite
