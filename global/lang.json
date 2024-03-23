@@ -25,7 +25,8 @@
         {
             "en_US": "Blooms",
             "de_DE": "Blüten",
-            "pt_BR": "Flores"
+            "pt_BR": "Flores",
+            "tr_TR": "Çiçekler"
         },
         "BLOOMS.title.colored":
         {
@@ -37,7 +38,8 @@
         {
             "en_US": "Rank",
             "de_DE": "Rang",
-            "pt_BR": "Posição"
+            "pt_BR": "Posição",
+            "tr_TR": "Rütbe"
         },
         "FORMAT.decimal_seperator":
         {
