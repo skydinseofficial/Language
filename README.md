@@ -153,7 +153,7 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 ##
 ### __Übersetzungs- und Sprachregeln__
 - **KI**: KI-Tools (z.B. ChatGPT) zum Übersetzen von Texten sind __erlaubt__, die Verantwortung einer korrekten Übersetzung liegt aber dennoch immer bei der Person.
-- **Textformate**: [Textformate](#textformate) sollen **immer** verwendet werden, wenn der Anlass dazu gegeben ist! Wenn also beispielsweise ein Link in einer Übersetzung vorkommt, ist dieser auch als Link (`<@https://www.example.net/>`) anzugeben. Selbiges gilt für alle weiteren Textformate.
+- **Textformate**: [Textformate](#textformate) sollten **immer** verwendet werden, wenn der Anlass dazu gegeben ist! Wenn also beispielsweise ein Link in einer Übersetzung vorkommt, ist dieser auch als Link (`<@https://www.example.net/>`) anzugeben. Selbiges gilt für alle weiteren Textformate.
 - **Platzhalter**: Platzhalter sind in der Form `[name]` anzugeben. Falls es mehrere Werte mit demselben Namen gibt, sind diese durch `.ZAHL` zu unterscheiden (z.B. `[name.1]`, `[name.2]`, ...). Platzhalter-Namen sind immer Englisch und dürfen nicht übersetzt werden. Es muss sich an die jeweiligen Platzhalter gehalten werden, welche von dem:r Developer:in vorgegeben sind. **Standard-Platzhalter** sind:
   - `[player]`: Name eines:r Spieler:in
   - `[link]`: Link zu einer Webseite
