@@ -5,67 +5,80 @@
         "ANTICHEAT.infobcash":
         {
             "en_US": "&4WARN: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
-            "de_DE": "&4WARN: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)"
+            "de_DE": "&4WARN: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
+            "tr_TR": "&4WARN: &7Oyuncu: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)"
         },
         "ANTICHEAT.infobcnor":
         {
             "en_US": "&4WARN: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)",
-            "de_DE": "&4WARN: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)"
+            "de_DE": "&4WARN: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)",
+            "tr_TR": "&4WARN: &7Oyuncu: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)"
         },
         "ANTICHEAT.kickbcash":
         {
             "en_US": "<#FF0000>KICK: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
-            "de_DE": "<#FF0000>KICK: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)"
+            "de_DE": "<#FF0000>KICK: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
+            "tr_TR": "<#FF0000>KICK: &7Oyuncu: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)"
         },
         "ANTICHEAT.kickbcnor":
         {
             "en_US": "<#FF0000>KICK: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)",
-            "de_DE": "<#FF0000>KICK: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)"
+            "de_DE": "<#FF0000>KICK: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)",
+            "tr_TR": "<#FF0000>KICK: &7Oyuncu: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&8|&7VAR-7&8)"
         },
         "ANTICHEAT.playerkick1":
         {
             "en_US": "<#FF0000>You got kicked by our anticheat-system!",
-            "de_DE": "<#FF0000>Du wurdest von unserem Anticheat-System gekickt!"
+            "de_DE": "<#FF0000>Du wurdest von unserem Anticheat-System gekickt!",
+            "tr_TR": "<#FF0000>Antikacılık sistemimizden atıldın!"
         },
         "ANTICHEAT.playerkick2":
         {
             "en_US": "&cPlease refrain from using unauthorized client modifications!",
-            "de_DE": "&cBitte unterlasse das nutzen unerlaubter Client-Modifikationen!"
+            "de_DE": "&cBitte unterlasse das nutzen unerlaubter Client-Modifikationen!",
+            "tr_TR": "&cLütfen yetkisiz müşteri değişikliklerini kullanmaktan kaç!"
         },
         "ANTICHEAT.playerkick3":
         {
             "en_US": "&7Is this an error? Please report it to us in a Discord ticket and we will check it.",
-            "de_DE": "&7Dies ist ein Fehler? Dann melde uns diesen gerne in einem Discord-Ticket und wir überprüfen dies."
+            "de_DE": "&7Dies ist ein Fehler? Dann melde uns diesen gerne in einem Discord-Ticket und wir überprüfen dies.",
+            "tr_TR": "&7Is this an error? Please report it to us in a Discord ticket and we will check it."
         },
         "ANTICHEAT.connectlobby":
         {
             "en_US": "&7&oConnecting to lobby...",
-            "de_DE": "&7&oVerbinde auf eine Lobby..."
+            "de_DE": "&7&oVerbinde auf eine Lobby...",
+            "tr_TR": "&7&oBir lobiye bağlıyoruz..."
         },
         "ANTICHEAT.flykick":
         {
             "en_US": "&cOur system has detected that you are using a bug to float in the air! &7If this is a mistake, please contact our team! &9https://skydinse.de/discord",
-            "de_DE": "&cUnser System hat erkannt, dass du einen Bug nutzt, um in der Luft zu schweben! &7Falls dies ein Fehler sein sollte, kontaktiere bitte unser Team! &9https://skydinse.de/discord"
+            "de_DE": "&cUnser System hat erkannt, dass du einen Bug nutzt, um in der Luft zu schweben! &7Falls dies ein Fehler sein sollte, kontaktiere bitte unser Team! &9https://skydinse.de/discord",
+            "tr_TR": "&cOur system has detected that you are using a bug to float in the air! &7If this is a mistake, please contact our team! &9https://skydinse.de/discord"
         },
         "SUPPORT.noanswer":
         {
             "en_US": "&e&lINFO: &7Sorry, your support request could not be processed... It is possible that there is currently no suitable person online for this area. However, your request has been sent again.",
-            "de_DE": "&e&lINFO: &7Sorry, dein Support-Anliegen konnte nicht bearbeitet werden... Möglicherweise ist aktuell keine passende Person für diesen Bereich online. Dein Anligen wurde jedoch erneut verschickt."
+            "de_DE": "&e&lINFO: &7Sorry, dein Support-Anliegen konnte nicht bearbeitet werden... Möglicherweise ist aktuell keine passende Person für diesen Bereich online. Dein Anligen wurde jedoch erneut verschickt.",
+            "tr_TR": "&e&lINFO: &7Sorry, your support request could not be processed... It is possible that there is currently no suitable person online for this area. However, your request has been sent again."
         },
         "SUPPORT.nouse":
         {
             "en_US": "Your current rank does not support in-game support.",
-            "de_DE": "Dein aktueller Rang unterstützt den Ingame-Support nicht."
+            "de_DE": "Dein aktueller Rang unterstützt den Ingame-Support nicht.",
+            "tr_TR": "Mevcut rütben oyun içi desteği desteklemiyor."
         },
         "SUPPORT.usage":
         {
             "en_US": "In the command, state your concern using: &e/support ...",
-            "de_DE": "Gebe in dem Befehl dein Anliegen an, indem du folgendes nutzt: &e/support ..."
+            "de_DE": "Gebe in dem Befehl dein Anliegen an, indem du folgendes nutzt: &e/support ...",
+            "tr_TR": "Komutta aşağıdakileri kullanarak isteğini belirt: &e/support ..."
         },
         "SUPPORT.noansperm":
         {
             "en_US": "You are not permitted to reply to support requests!",
-            "de_DE": "Du hast keine Berechtigung auf Support-Anliegen zu antworten!"
+            "de_DE": "Du hast keine Berechtigung auf Support-Anliegen zu antworten!",
+            "tr_TR": "Destek taleplerine yanıt verme yetkin yok!"
         }
     }
 }
