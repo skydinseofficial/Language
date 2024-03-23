@@ -6,25 +6,29 @@
         {
             "en_US": "<#FCBD06>Ping",
             "de_DE": "<#FCBD06>Ping",
-            "de_XX": "<#FCBD06>Ping"
+            "de_XX": "<#FCBD06>Ping",
+            "tr_TR": "<#FCBD06>Ping"
         },
         "coins":
         {
             "en_US": "<#FCBD06>Coins",
             "de_DE": "<#FCBD06>Coins",
-            "de_XX": "<#FCBD06>Coins"
+            "de_XX": "<#FCBD06>Dublonen",
+            "tr_TR": "<#FCBD06>Çiçekler"
         },
         "currentserver":
         {
             "en_US": "&7You are on",
             "de_DE": "&7Du bist auf",
-            "de_XX": "&7Du bist auf"
+            "de_XX": "&7Du bist auf",
+            "tr_TR": "&7Sunucu:"
         },
         "currentworld":
         {
             "en_US": "&7Current World",
             "de_DE": "&7Aktuelle Welt",
-            "de_XX": "&7Aktuelle Welt"
+            "de_XX": "&7Aktuelle Welt",
+            "tr_TR": "&7Dünya"
         }
     }
 }
