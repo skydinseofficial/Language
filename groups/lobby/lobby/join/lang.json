@@ -6,19 +6,22 @@
         {
             "en_US": "&cThere is no server online to connect you to &6VAR1&c!",
             "de_DE": "&cEs ist kein Server online, um dich auf &6VAR1 &czu verbinden!",
-            "de_XX": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!"
+            "de_XX": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!",
+            "tr_TR": "&cSeni &6VAR1'e &cbağlayacak çevrimiçi bir sunucu yok"
         },
         "QUICKJOIN.no_game":
         {
             "en_US": "&cCouldn't find a free game in &6VAR1&c!",
             "de_DE": "&cKonnte kein freies Spiel in &6VAR1 &cfinden!",
-            "de_XX": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!"
+            "de_XX": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!",
+            "tr_TR": "&6VAR1'de &cboş oyun bulunamadı!"
         },
         "QUICKJOIN.connecting":
         {
             "en_US": "&7Connecting you to &eVAR1&7...",
             "de_DE": "&7Verbinde dich zu &eVAR1&7...",
-            "de_XX": "&7Schicke dich zu &eVAR1&7..."
+            "de_XX": "&7Schicke dich zu &eVAR1&7...",
+            "tr_TR": "&eVAR1'e &7gönderiyoruz..."
         },
         "KICKOLDVERSIONS.kick":
         {
@@ -223,19 +226,23 @@
         },
         "LINK.privacy":
         {
-            "en_US": "https://www.skydinse.net/privacy"
+            "en_US": "https://www.skydinse.net/privacy",
+            "tr_TR": "https://www.skydinse.net/privacy"
         },
         "LINK.legal":
         {
-            "en_US": "https://www.skydinse.net/legal"
+            "en_US": "https://www.skydinse.net/legal",
+            "tr_TR": "https://www.skydinse.net/legal"
         },
         "LINK.discord":
         {
-            "en_US": "https://discord.skydinse.net/"
+            "en_US": "https://discord.skydinse.net/",
+            "tr_TR": "https://discord.skydinse.net/"
         },
         "LINK.website":
         {
-            "en_US": "https://www.skydinse.net/"
+            "en_US": "https://www.skydinse.net/",
+            "tr_TR": "https://www.skydinse.net/"
         },
         "LINK.tooltip":
         {
