@@ -2,6 +2,11 @@
     "system": "lobby",
     "translations":
     {
+        "LOBBYGAMES.mnb.sb.picke":
+        {
+            "en_US": "Pickaxe",
+            "de_DE": "Picke"
+        },
         "LANGUAGE.done":
         {
             "en_US": "&aApply",
