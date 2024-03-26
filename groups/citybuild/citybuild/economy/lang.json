@@ -22,6 +22,16 @@
             "en_US": "&cThis function is currently disabled!",
             "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
         },
+        "cmd.pay.playernotonline":
+        {
+            "en_US": "&cThis player is not online!",
+            "de_DE": "&cDieser Spieler ist nicht online!"
+        },
+        "cmd.pay.invalidnumber":
+        {
+            "en_US": "&cThe number you entered is invalid!",
+            "de_DE": "&cDie angegebene Zahl ist ungültig!"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
