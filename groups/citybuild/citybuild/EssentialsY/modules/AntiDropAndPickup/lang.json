@@ -1,36 +1,31 @@
 {
-    "system": "esy-antidropandpickup",
+    "system": "esy-basics",
     "translations":
     {
-        "antidrop_on":
+        "trashgui_title":
         {
-            "en_US": "&cYou are in the Antidrop mode.",
-            "de_DE": "&cDein Antidrop-Modus ist an."
+            "en_US": "Trash can",
+            "de_DE": "Mülleimer"
         },
-        "antipickup_on":
+        "trashgui_exit":
         {
-            "en_US": "&cYou are in the Antipickup mode.",
-            "de_DE": "&cDein Antipickup-Modus ist an."
+            "en_US": "&aYour rubbish has been returned.",
+            "de_DE": "&aDein Müll wurde abgegeben."
         },
-        "antidrop/pickup_enabled":
+        "tpohere_success":
         {
-            "en_US": "&7You have &aactivated &7your &6[mode]",
-            "de_DE": "&7Du hast deinen &6[mode] &aaktiviert"
+            "en_US": "&aThe player &e[player] &ahas been teleported to you!",
+            "de_DE": "&aDer Spieler &e[player] &awurde zu dir teleportiert!"
         },
-        "antidrop/pickup_disabled":
+        "tpohere_cb":
         {
-            "en_US": "&7You have &cdisabled &7your &6[mode]",
-            "de_DE": "&7Du hast deinen &6[mode] &cdeaktiviert"
+            "en_US": "&cThis player is not on CityBuild!",
+            "de_DE": "&cDieser Spieler ist nicht auf CityBuild!"
         },
-        "antidrop":
+        "tpohere_offline":
         {
-            "en_US": "Antidrop mode",
-            "de_DE": "Antidrop-Modus"
-        },
-        "antipickup":
-        {
-            "en_US": "Antipickup mode",
-            "de_DE": "Antipickup-Modus"
+            "en_US": "&cThis player is currently not online!",
+            "de_DE": "&cDieser Spieler ist offline!"
         }
     }
 }
