@@ -17,6 +17,11 @@
             "en_US": "Bank",
             "de_DE": "Bank"
         },
+        "function.disabled":
+        {
+            "en_US": "&cThis function is currently disabled!",
+            "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
