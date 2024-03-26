@@ -2,6 +2,21 @@
     "system": "economy",
     "translations":
     {
+        "currency.name":
+        {
+            "en_US": "Dollar",
+            "de_DE": "Dollar"
+        },
+        "currency.display":
+        {
+            "en_US": "&x&f&f&d&8&0&0D&x&f&f&d&c&0&1o&x&f&f&e&0&0&2l&x&f&f&e&5&0&3l&x&f&f&e&9&0&4a&x&f&f&e&d&0&5r",
+            "de_DE": "&x&f&f&d&8&0&0D&x&f&f&d&c&0&1o&x&f&f&e&0&0&2l&x&f&f&e&5&0&3l&x&f&f&e&9&0&4a&x&f&f&e&d&0&5r"
+        },
+        "prefix.bank":
+        {
+            "en_US": "Bank",
+            "de_DE": "Bank"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
