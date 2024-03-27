@@ -252,13 +252,13 @@
         },
         "LINK.privacy":
         {
-            "en_US": "https://www.skydinse.net/privacy",
-            "tr_TR": "https://www.skydinse.net/privacy"
+            "en_US": "https://www.skydinse.net/go/privacy",
+            "tr_TR": "https://www.skydinse.net/go/privacy"
         },
         "LINK.legal":
         {
-            "en_US": "https://www.skydinse.net/legal",
-            "tr_TR": "https://www.skydinse.net/legal"
+            "en_US": "https://www.skydinse.net/go/legal",
+            "tr_TR": "https://www.skydinse.net/go/legal"
         },
         "LINK.discord":
         {
