@@ -84,7 +84,7 @@
             "en_US": "&aAccept data privacy policy",
             "en_GB": "&aAccept data privacy policy",
             "de_DE": "&aDatenschutzbestimmungen akzeptieren",
-            "de_AT": "&aDotnschutzbstimmungn zustimmn",
+            "de_AT": "&aDotnschutzbstimmungn aanehm'n",
             "nl_NL": "&aPrivacyvoorwaarden accepteren",
             "pt_BR": "&aAceitar os termos de privacidade",
             "pt_PT": "&aAceitar os termos de privacidade",
@@ -101,7 +101,7 @@
             "en_US": "&eView data privacy policy",
             "en_GB": "&eView data privacy policy",
             "de_DE": "&eDatenschutzbestimmungen ansehen",
-            "de_AT": "&eDotnschutzbstimmungn onsehn",
+            "de_AT": "&eDotnschutzbstimmungn onseh'n",
             "nl_NL": "&eBekijk privacyvoorwaarden",
             "pt_BR": "&eVer os termos de privacidade",
             "pt_PT": "&eVer os termos de privacidade",
@@ -147,7 +147,7 @@
             "tr_TR": "&0Skydinse'ye hoş geldiniz!\n\nLütfen hizmetlerimizi sunmak için kişisel veri topladığımızı unutmayın.\nDaha fazla bilgi için <+tip:'&7Gizlilik Politikamıza &ewww.skydinse.net/go/privacy &7adresinden erişebilirsiniz.',text:'&6Gizlilik Politikası'>&0.",
             "ko_KR": "&0Skydinse에 오신 것을 환영합니다!\n\n저희가 서비스를 제공하기 위해 개인 데이터를 수집한다는 점을 유의해주세요.\n더 자세한 내용은 <+tip:'&7개인 정보 보호 정책은 &ewww.skydinse.net/go/privacy&7에서 확인하실 수 있습니다.',text:'&6개인 정보 보호 정책'>&0에서 확인하세요."
         },
-        "GDPR.text.prompt":
+        "GDPR.text.prompt.java":
         {
             "en_US": "&0Agree?\n<|value:'privacy 1',text:'&2&l[ YES ] ',tip:'&7By clicking here, you &aconsent &7to the collection and processing of your data by Skydinse in accordance with our Privacy Policy at &ewww.skydinse.net/go/privacy&7, as well as under applicable laws of the Federal Republic of Germany and the European Union.\n\n&7You can &astart your gaming experience immediately&7!'>&8|<|value:'privacy 0',text:' &c&l[ NO ]',tip:'&7By clicking here, you &cdecline &7the collection and processing of your data by Skydinse in accordance with our Privacy Policy at &ewww.skydinse.net/go/privacy&7, as well as under applicable laws of the Federal Republic of Germany and the European Union.\n\n&7The collection and processing of data are essential for providing our services. Without consent to process your data, we regret that we cannot provide our services. &cYour &cconnection to the network will be terminated.'>",
             "en_GB": "&0Agree?\n<|value:'privacy 1',text:'&2&l[ YES ] ',tip:'&7By clicking here, you &aconsent &7to the collection and processing of your data by Skydinse in accordance with our Privacy Policy at &ewww.skydinse.net/go/privacy&7, as well as under applicable laws of the Federal Republic of Germany and the European Union.\n\n&7You can &astart your gaming experience immediately&7!'>&8|<|value:'privacy 0',text:' &c&l[ NO ]',tip:'&7By clicking here, you &cdecline &7the collection and processing of your data by Skydinse in accordance with our Privacy Policy at &ewww.skydinse.net/go/privacy&7, as well as under applicable laws of the Federal Republic of Germany and the European Union.\n\n&7The collection and processing of data are essential for providing our services. Without consent to process your data, we regret that we cannot provide our services. &cYour connection to the network will be terminated.'>",
@@ -163,6 +163,23 @@
             "ru_RU": "&0Согласны?\n<|value:'privacy 1',text:'&2&l[ ДА ] ',tip:'&7Нажимая здесь, вы &aасоглашаетесь &7на сбор и обработку ваших данных Skydinse в соответствии с нашей Политикой конфиденциальности по адресу &ewww.skydinse.net/go/privacy&7, а также в соответствии с применимым законодательством Федеративной Республики Германия и Европейского союза.\n\n&7Вы можете &aначать игровой опыт немедленно&7!'>&8|<|value:'privacy 0',text:' &c&l[ НЕТ ]',tip:'&7Нажимая здесь, вы &cотклоняете &7сбор и обработку ваших данных Skydinse в соответствии с нашей Политикой конфиденциальности по адресу &ewww.skydinse.net/go/privacy&7, а также в соответствии с применимым законодательством Федеративной Республики Германия и Европейского союза.\n\n&7Сбор и обработка данных необходимы для предоставления наших услуг. Без вашего согласия на обработку данных мы с сожалением не можем предоставить вам наши услуги. &cВаше &cподключение к сети будет прервано.'>",
             "tr_TR": "&0Kabul ediyor musunuz?\n<|value:'privacy 1',text:'&2&l[ EVET ] ',tip:'&7Buraya tıklayarak, Almanya Federal Cumhuriyeti ve Avrupa Birliği`nin ilgili yasaları uyarınca Skydinse tarafından verilerinizin toplanması ve işlenmesine ein bir rızada bulunmuş olursunuz. Ayrıca &ewww.skydinse.net/go/privacy &7adresindeki Gizlilik Politikamıza da uygunsunuz.&a Hizmetinize hemen başlayabilirsiniz!'>&8|<|value:'privacy 0',text:' &c&l[ HAYIR ]',tip:'&7Buraya tıklayarak, Almanya Federal Cumhuriyeti ve Avrupa Birliği`nin ilgili yasaları uyarınca Skydinse tarafından verilerinizin toplanması ve işlenmesini red etmiş olursunuz. Verilerinizin işlenmesi ve toplanması hizmetlerimizi sunmak için &zorunludur. Verilerinizin işlenmesine rıza göstermezseniz, maalesef hizmetlerimizi sunamayız. &cBağlantınız kesilecektir.'>",
             "ko_KR": "&0동의하시나요?\n<|value:'privacy 1',text:'&2&l[ 예 ] ',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리에 동의합니다. 또한 &ewww.skydinse.net/go/privacy&7의 개인 정보 보호 정책에도 동의합니다.&7 게임 체험을 즉시 시작할 수 있습니다!'>&8|<|value:'privacy 0',text:' &c&l[ 아니요 ]',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리를 거부합니다. 데이터 수집 및 처리는 저희 서비스 제공에 필수적입니다. 데이터 처리에 동의하지 않으면, 서비스를 제공할 수 없음을 유감스럽게 생각합니다. &c네트워크 연결이 종료됩니다.'>"
+        },
+        "GDPR.text.prompt.bedrock":
+        {
+            "en_US": "&0Use the items in your inventory to reject or accept!",
+            "en_GB": "&0Use the items in your inventory to reject or accept!",
+            "de_DE": "&0Nutze die Items in deinem Inventar zum ablehnen oder akzeptieren!",
+            "de_AT": "&0Nutze die Sachen in deine Gwandkistn zum obleh'n oder aanehm'n!",
+            "nl_NL": "&0Gebruik de items in je inventaris om te weigeren of te accepteren!",
+            "pt_BR": "&0Use os itens no seu inventário para recusar ou aceitar!",
+            "pt_PT": "&0Utilize os itens no seu inventário para recusar ou aceitar!",
+            "es_ES": "&0¡Usa los elementos en tu inventario para rechazar o aceptar!",
+            "es_MX": "&0¡Utiliza los elementos en tu inventario para rechazar o aceptar!",
+            "fr_FR": "&0Utilisez les objets de votre inventaire pour refuser ou accepter !",
+            "pl_PL": "&0Użyj przedmiotów w swoim inwentarzu, aby zaakceptować lub odrzucić!",
+            "ru_RU": "&0Используйте предметы в своем инвентаре, чтобы отклонить или принять!",
+            "tr_TR": "&0Envanterindeki öğeleri reddetmek veya kabul etmek için kullan!",
+            "ko_KR": "&0인벤토리에 있는 아이템을 사용하여 거부하거나 수락하세요!"
         },
         "GDPR.reject":
         {
