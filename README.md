@@ -102,7 +102,7 @@ The language files are located in the individual system folders and __must__ hav
 
 - **Clickable commands**:
   - __Clickable commands (chat-paste)__ are commands (possibly with arguments) which are copied into a player's chat line when clicked. These can be specified with the format `</COMMAND>` (a tooltip is generated automatically, the text is the command). An individual tooltip and/or text can be used with the format `</tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>`.
-  - __Clickable commands (auto-run)__ are commands (possibly with arguments) which are executed directly by the client in their transmitted form when clicked. These can be specified with the format `<\COMMAND>` (a tooltip is generated automatically, the text is the command). An individual tooltip and/or text can be used with the format `<\tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>`.
+  - __Clickable commands (auto-run)__ are commands (possibly with arguments) which are executed directly by the client in their transmitted form when clicked. These can be specified with the format `<|COMMAND>` (or `<\COMMAND>`, outdated) (a tooltip is generated automatically, the text is the command). An individual tooltip and/or text can be used with the format `<|tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>`.
 
 - **Text with tooltip**: This formatting is useful to generally display a tooltip when hovering over text. IMPORTANT: the tooltip is not used within the formatting for links, SGA, commands and copyable text. A tooltip can be used as follows: `<+tip:'TOOLTIP',text:'TEXT'>`
 
@@ -199,6 +199,6 @@ Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Na
 
 - **Klickbare Commands**:
   - __Klickbare Commands (chat-paste)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken in die Chat-Zeile kopiert werden. Diese können mit dem Format `</COMMAND>` angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `</tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
-  - __Klickbare Commands (auto-run)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken direkt in ihrer übermittelten Form vom Client ausgeführt werden. Diese können mit dem Format `<\COMMAND>` angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `<\tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
+  - __Klickbare Commands (auto-run)__ sind Commands (ggf. mit Argumenten), welche beim Anklicken direkt in ihrer übermittelten Form vom Client ausgeführt werden. Diese können mit dem Format `<|COMMAND>` (oder `<\COMMAND>`, veraltet) angegeben werden (ein Tooltip wird automatisch erzeugt, der Text ist der Command). Ein indivitueller Tooltip und/oder Text kann mit dem Format `<|tip:'TOOLTIP',value:'COMMAND',text:'TEXT'>` verwendet werden.
 
 - **Text mit Tooltip**: Diese Formatierung ist nützlich, um allgemein einen Tooltip beim Hovern über Text anzuzeigen. WICHTIG: der Tooltip wird nicht innerhalb der Formatierungen für Links, SGA, Commands und kopierbaren Text übernommen. Ein Tooltip kann wie folgt verwendet werden: `<+tip:'TOOLTIP',text:'TEXT'>`.
