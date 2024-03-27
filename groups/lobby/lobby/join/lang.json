@@ -94,7 +94,41 @@
             "pl_PL": "&aAkceptuj politykę prywatności",
             "ru_RU": "&aПринять политику конфиденциальности",
             "tr_TR": "&aGizlilik politikasını kabul et",
-            "ko_KR": "&a개인정보 보호정책에 동의합니다",
+            "ko_KR": "&a개인정보 보호정책에 동의합니다"
+        },
+        "GDPR.bedrock_item.view":
+        {
+            "en_US": "&eView data privacy policy",
+            "en_GB": "&eView data privacy policy",
+            "de_DE": "&eDatenschutzbestimmungen ansehen",
+            "de_AT": "&eDotnschutzbstimmungn onsehn",
+            "nl_NL": "&eBekijk privacyvoorwaarden",
+            "pt_BR": "&eVer os termos de privacidade",
+            "pt_PT": "&eVer os termos de privacidade",
+            "es_ES": "&eVer las políticas de privacidad",
+            "es_MX": "&eVer las políticas de privacidad",
+            "fr_FR": "&eVoir les politiques de confidentialité",
+            "pl_PL": "&eZobacz politykę prywatności",
+            "ru_RU": "&eПосмотреть политику конфиденциальности",
+            "tr_TR": "&eGizlilik politikasını görüntüle",
+            "ko_KR": "&e개인정보 보호정책 보기"
+        },
+        "GDPR.bedrock_item.reject":
+        {
+            "en_US": "&cReject data privacy policy",
+            "en_GB": "&cReject data privacy policy",
+            "de_DE": "&cDatenschutzbestimmungen ablehnen",
+            "de_AT": "&cDotnschutzbstimmungn obleh'n",
+            "nl_NL": "&cPrivacyvoorwaarden weigeren",
+            "pt_BR": "&cRecusar os termos de privacidade",
+            "pt_PT": "&cRecusar os termos de privacidade",
+            "es_ES": "&cRechazar las políticas de privacidad",
+            "es_MX": "&cRechazar las políticas de privacidad",
+            "fr_FR": "&cRefuser les politiques de confidentialité",
+            "pl_PL": "&cOdmówienie akceptacji polityki prywatności",
+            "ru_RU": "&cОтказаться от политики конфиденциальности",
+            "tr_TR": "&cGizlilik politikasını reddet",
+            "ko_KR": "&c개인정보 보호정책 거부"
         },
         "GDPR.text.base":
         {
