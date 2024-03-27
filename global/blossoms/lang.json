@@ -55,7 +55,7 @@
         },
         "MSG.gotblossoms.1":
         {
-            "en_US": "&7You got <#4CFF00>VAR1 VAR2&7!",
+            "en_US": "&7You have recieved <#4CFF00>VAR1 VAR2&7!",
             "de_DE": "&7Du hast <#4CFF00>VAR1 VAR2 &7erhalten!"
         },
         "MSG.gotblossoms.2":
