@@ -79,6 +79,20 @@
             "fr_FR": "&cVeuillez accepter le paquet de ressources!",
             "tr_TR": "&cKaynak paketini kabul edin."
         },
+        "GDPR.text":
+        {
+            "en_US": "",
+            "de_DE": "&0Wir freuen uns, dich bei Skydinse begrüßen zu dürfen!\n\nBitte beachte, dass wir personenbezogene Daten erheben, um unsere Dienste anbieten zu können.\nMehr dazu in unserer <+tip:'&7Unsere Datenschutzerklärung kannst du unter &ewww.skydinse.net/go/privacy &7aufrufen.',text:'&6Datenschutzerklärung'>&0.\n\nZustimmen?\n<\text:'&2&l[ JA ] ',value:'tb 1',tip:'&7Hiermit &aakzeptierst &7du die Erfassung und Verarbeitung deiner Daten durch Skydinse gemäß unserer Datenschutzerklärung unter &ewww.skydinse.net/go/privacy &7sowie nach geltendem Recht der Bundesrepublik Deutschland und der Europäischen Union.\n\n&7Du kannst im Anschluss &asofort mit deinem Spielerlebnis starten&7!'>&8|<\text:' &c&l[NEIN]',value:'tb 0',tip:'&7Hiermit &clehnst &7du die Erfassung und Verarbeitung deiner Daten durch Skydinse gemäß unserer Datenschutzerklärung unter &ewww.skydinse.net/go/privacy &7sowie nach geltendem Recht der Bundesrepublik Deutschland und der Europäischen Union &cab&7.\n\nDas Erfassen und Verarbeiten von Daten ist zum Bereitstellen unserer Dienste essenziell. Ohne Zustimmung, deine Daten verarbeiten zu dürfen, können wir dir unsere Dienste leider nicht bereit stellen. Deine &cVerbindung zum Netzwerk wird getrennt&7.'>"
+        },
+        "GDPR.reject":
+        {
+            "en_US": "&cYou must accept to play on Skydinse!",
+            "de_DE": "&cDu musst annehmen, um auf Skydinse spielen zu können!",
+            "pt_BR": "&cTens de aceitar para jogar na Skydinse!",
+            "es_ES": "&c¡Debes aceptar jugar en Skydinse!",
+            "fr_FR": "&cTu dois accepter pour pouvoir jouer sur Skydinse!",
+            "tr_TR": "&cSkydinse'de oynamayı kabul etmelisiniz!"
+        },
         "DSGVO.reject":
         {
             "en_US": "&cYou must accept to play on Skydinse!",
@@ -106,7 +120,7 @@
             "fr_FR": "Protection des données",
             "tr_TR": "Veri koruma"
         },
-        "DSGVO.gui_bedrock.text":
+        "DSGVO.text":
         {
             "en_US": "&f&lWelcome to Skydinse!\n\n&r&fTo play you must accept the privacy policy!\n\nThis contains information about how we use, process and store your data based on European Union laws.\n\nYou can read it at &eskyd.link/privacy&f.\n&f",
             "de_DE": "&f&lWillkommen auf Skydinse!\n\n&r&fUm zu spielen, musst du die Datenschutzerklärung akzeptieren!\n\nDiese enthält Informationen darüber, wie wir deine Daten nutzen, verarbeiten und speichern basierend auf Gesetzen der Europäischen Union.\n\nDu kannst sie unter &eskyd.link/privacy&f lesen.\n&f",
