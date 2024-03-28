@@ -60,7 +60,7 @@
             "ru_RU": ",",
             "ko_KR": "."
         },
-        "FORMAT.date_formatter.full":
+        "FORMAT.time_formatter.date_full":
         {
             "en_US": "MONTH DD, YYYY",
             "en_GB": "DD MONTH YYYY",
@@ -79,7 +79,7 @@
             "ru_RU": "DD MONTH YYYY",
             "ko_KR": "YYYY년 MM월 DD일"
         },
-        "FORMAT.date_formatter.small":
+        "FORMAT.time_formatter.date_small":
         {
             "en_US": "MM/DD",
             "en_GB": "DD/MM",
@@ -98,9 +98,9 @@
             "ru_RU": "DD.MM.",
             "ko_KR": "MM/DD"
         },
-        "FORMAT.time_formatter.full":
+        "FORMAT.time_formatter.time_full":
         {
-            "en_US": "HH:mm:ss",
+            "en_US": "hh:mm:ss a",
             "en_GB": "HH:mm:ss",
             "en_XX": "HH:mm:ss",
             "de_DE": "HH:mm:ss",
@@ -110,12 +110,50 @@
             "pt_BR": "HH:mm:ss",
             "pt_PT": "HH:mm:ss",
             "es_ES": "HH:mm:ss",
-            "es_MX": "HH:mm:ss",
+            "es_MX": "hh:mm:ss a",
             "fr_FR": "HH:mm:ss",
             "tr_TR": "HH:mm:ss",
             "pl_PL": "HH:mm:ss",
             "ru_RU": "HH:mm:ss",
             "ko_KR": "HH:mm:ss"
+        },
+        "FORMAT.time_formatter.time_small":
+        {
+            "en_US": "hh:mm a",
+            "en_GB": "HH:mm",
+            "en_XX": "HH:mm",
+            "de_DE": "HH:mm",
+            "de_AT": "HH:mm",
+            "de_XX": "HH:mm",
+            "nl_NL": "HH:mm",
+            "pt_BR": "HH:mm",
+            "pt_PT": "HH:mm",
+            "es_ES": "HH:mm",
+            "es_MX": "hh:mm a",
+            "fr_FR": "HH:mm",
+            "tr_TR": "HH:mm",
+            "pl_PL": "HH:mm",
+            "ru_RU": "HH:mm",
+            "ko_KR": "HH:mm"
+        },
+        "FORMAT.time_formatter.order":
+        {
+            "en_US": "DATE TIME",
+            "en_GB": "DATE TIME",
+            "en_XX": "DATE TIME",
+            "de_DE": "DATE TIME",
+            "de_AT": "DATE TIME",
+            "de_XX": "DATE TIME",
+            "nl_NL": "DATE TIME",
+            "pt_BR": "DATE TIME",
+            "pt_PT": "DATE TIME",
+            "es_ES": "DATE TIME",
+            "es_MX": "DATE TIME",
+            "fr_FR": "DATE TIME",
+            "tr_TR": "DATE TIME",
+            "pl_PL": "DATE TIME",
+            "ru_RU": "DATE TIME",
+            "ko_KR": "DATE TIME"
         }
     }
 }
