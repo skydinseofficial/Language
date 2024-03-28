@@ -1,0 +1,56 @@
+{
+    "system": "rewards",
+    "translations":
+    {
+        "PREFIX.java.info":
+        {
+            "en_US": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Rewards⌝ <#5a5757>&lᐅ",
+            "de_DE": "&8[<#99aab5>ℹ&8] <#FFC300>⌞Belohnungen⌝ <#5a5757>&lᐅ"
+        },
+        "PREFIX.bedrock.info":
+        {
+            "en_US": "&8[&7i&8] &6Rewards &8&l»",
+            "de_DE": "&8[&7i&8] &6Belohnungen &8&l»"
+        },
+        "PREFIX.java.success":
+        {
+            "en_US": "&8[<#4CFF00>✔&8] <#FFC300>⌞Rewards⌝ <#5a5757>&lᐅ&a",
+            "de_DE": "&8[<#4CFF00>✔&8] <#FFC300>⌞Belohnungen⌝ <#5a5757>&lᐅ&a"
+        },
+        "PREFIX.bedrock.success":
+        {
+            "en_US": "&8[&a+&8] &6Rewards &8&l»&a",
+            "de_DE": "&8[&a+&8] &6Belohnungen &8&l»&a"
+        },
+        "PREFIX.java.error":
+        {
+            "en_US": "&8[<#FF1000>✘&8] <#FFC300>⌞Rewards⌝ <#5a5757>&lᐅ&c",
+            "de_DE": "&8[<#FF1000>✘&8] <#FFC300>⌞Belohnungen⌝ <#5a5757>&lᐅ&c"
+        },
+        "PREFIX.bedrock.error":
+        {
+            "en_US": "&8[&cX&8] &6Rewards &8&l»&c",
+            "de_DE": "&8[&cX&8] &6Belohnungen &8&l»&c"
+        },
+        "MSG.gotbundle":
+        {
+            "en_US": "&7You received &eVAR1&7x VAR2 &6reward bundle&7!",
+            "de_DE": "&7Du hast &eVAR1&7x VAR2 &6Belohnung-Paket &7erhalten!"
+        },
+        "BUNDLENAME.common":
+        {
+            "en_US": "common",
+            "de_DE": "gewöhnliches"
+        },
+        "BUNDLENAME.epic":
+        {
+            "en_US": "epic",
+            "de_DE": "episches"
+        },
+        "BUNDLENAME.legendary":
+        {
+            "en_US": "legendary",
+            "de_DE": "legendäres"
+        }
+    }
+}
