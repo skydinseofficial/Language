@@ -1,0 +1,21 @@
+{
+    "system": "duels-lobby",
+    "translations":
+    {
+        "ITEM.leave":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "ITEM.settings":
+        {
+            "en_US": "&6EssentialsY &7could not be loaded!",
+            "de_DE": "&6EssentialsY &7konnte nicht geladen werden!"
+        },
+        "ITEM.challenge":
+        {
+            "en_US": "&6EssentialsY &7has started sucessfully!",
+            "de_DE": "&6EssentialsY &7wurde erfolgreich gestartet!"
+        }
+    }
+}
