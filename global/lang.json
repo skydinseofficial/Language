@@ -59,6 +59,63 @@
             "pl_PL": ",",
             "ru_RU": ",",
             "ko_KR": "."
+        },
+        "FORMAT.date_formatter.full":
+        {
+            "en_US": "MONTH DD, YYYY",
+            "en_GB": "DD MONTH YYYY",
+            "en_XX": "MONTH DD, YYYY",
+            "de_DE": "DD.MM.YYYY",
+            "de_AT": "DD.MM.YYYY",
+            "de_XX": "DD.MM.YYYY",
+            "nl_NL": "DD-MM-YYYY",
+            "pt_BR": "DD/MM/YYYY",
+            "pt_PT": "DD/MM/YYYY",
+            "es_ES": "DD de MONTH de YYYY",
+            "es_MX": "DD de MONTH de YYYY",
+            "fr_FR": "DD MONTH YYYY",
+            "tr_TR": "DD MONTH YYYY",
+            "pl_PL": "DD.MM.YYYY",
+            "ru_RU": "DD MONTH YYYY",
+            "ko_KR": "YYYY년 MM월 DD일"
+        },
+        "FORMAT.date_formatter.small":
+        {
+            "en_US": "MM/DD",
+            "en_GB": "DD/MM",
+            "en_XX": "DD/MM",
+            "de_DE": "DD.MM.",
+            "de_AT": "DD.MM.",
+            "de_XX": "DD.MM.",
+            "nl_NL": "DD-MM",
+            "pt_BR": "DD/MM",
+            "pt_PT": "DD/MM",
+            "es_ES": "DD/MM",
+            "es_MX": "DD/MM",
+            "fr_FR": "DD/MM",
+            "tr_TR": "DD/MM",
+            "pl_PL": "DD.MM.",
+            "ru_RU": "DD.MM.",
+            "ko_KR": "MM/DD"
+        },
+        "FORMAT.time_formatter.full":
+        {
+            "en_US": "HH:mm:ss",
+            "en_GB": "HH:mm:ss",
+            "en_XX": "HH:mm:ss",
+            "de_DE": "HH:mm:ss",
+            "de_AT": "HH:mm:ss",
+            "de_XX": "HH:mm:ss",
+            "nl_NL": "HH:mm:ss",
+            "pt_BR": "HH:mm:ss",
+            "pt_PT": "HH:mm:ss",
+            "es_ES": "HH:mm:ss",
+            "es_MX": "HH:mm:ss",
+            "fr_FR": "HH:mm:ss",
+            "tr_TR": "HH:mm:ss",
+            "pl_PL": "HH:mm:ss",
+            "ru_RU": "HH:mm:ss",
+            "ko_KR": "HH:mm:ss"
         }
     }
 }
