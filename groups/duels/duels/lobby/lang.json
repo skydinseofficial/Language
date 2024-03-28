@@ -4,18 +4,18 @@
     {
         "ITEM.leave":
         {
-            "en_US": "&cYou don't have permission for this!",
-            "de_DE": "&cDazu hast du keine Berechtigung!"
+            "en_US": "&cBack to Main Hub",
+            "de_DE": "&cZüruck zur Lobby"
         },
         "ITEM.settings":
         {
-            "en_US": "&6EssentialsY &7could not be loaded!",
-            "de_DE": "&6EssentialsY &7konnte nicht geladen werden!"
+            "en_US": "&6Settings",
+            "de_DE": "&6Einstellungen"
         },
         "ITEM.challenge":
         {
-            "en_US": "&6EssentialsY &7has started sucessfully!",
-            "de_DE": "&6EssentialsY &7wurde erfolgreich gestartet!"
+            "en_US": "&6Challenge player",
+            "de_DE": "&6Spieler herausfordern"
         }
     }
 }
