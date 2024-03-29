@@ -174,25 +174,6 @@
             "ru_RU": "hh:mm",
             "ko_KR": "hh:mm"
         },
-        "FORMAT.time_formatter.order":
-        {
-            "en_US": "DATE TIME",
-            "en_GB": "DATE TIME",
-            "en_XX": "DATE TIME",
-            "de_DE": "DATE TIME",
-            "de_AT": "DATE TIME",
-            "de_XX": "DATE TIME",
-            "nl_NL": "DATE TIME",
-            "pt_BR": "DATE TIME",
-            "pt_PT": "DATE TIME",
-            "es_ES": "DATE TIME",
-            "es_MX": "DATE TIME",
-            "fr_FR": "DATE TIME",
-            "tr_TR": "DATE TIME",
-            "pl_PL": "DATE TIME",
-            "ru_RU": "DATE TIME",
-            "ko_KR": "DATE TIME"
-        },
         "ERROR.tooltip": {
             "en_US": "&cPlease report this error to a team member immediately!",
             "en_GB": "&cPlease report this error to a team member immediately!",
