@@ -175,7 +175,7 @@
             "en_US": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to possibly related language \"&s[fallback] ([fallback_country])&c\".",
             "en_GB": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to possibly related language \"&s[fallback] ([fallback_country])&c\".",
             "en_XX": "&cTongue not accessible (\"&6[language]&c\")! Thy tongue hath been set to mayhap related tongue \"&s[fallback] ([fallback_country])&c\".",
-            "de_DE": "&cKonnte Sprache (\"&6[value]&c\") nicht laden! Deine Sprache wurde die möglicherweise verwandte Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
+            "de_DE": "&cKonnte Sprache (\"&6[value]&c\") nicht laden! Deine Sprache wurde auf die möglicherweise verwandte Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
             "de_AT": "&cKonnt' die Sproch (\"&6[value]&c\") ned lod'n! Dei Sproch is af de vielleicht verwandte Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
             "de_XX": "&cKonnt' die Sprach (\"&6[value]&c\") ned lada! Dei Sprach is auf de vielleicht verwandte Sprach \"&s[fallback] ([fallback_country])&c\" gstellt worn."
         },
