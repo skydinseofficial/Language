@@ -75,9 +75,9 @@
             "es_MX": "enero",
             "fr_FR": "janvier",
             "tr_TR": "ocak",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "styczeń",
+            "ru_RU": "январь",
+            "ko_KR": "1월"
         },
         "FORMAT.time_formatter.month.02":
         {
@@ -94,9 +94,9 @@
             "es_MX": "febrero",
             "fr_FR": "février",
             "tr_TR": "şubat",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "luty",
+            "ru_RU": "февраль",
+            "ko_KR": "2월"
         },
         "FORMAT.time_formatter.month.03":
         {
@@ -113,9 +113,9 @@
             "es_MX": "marzo",
             "fr_FR": "mars",
             "tr_TR": "mart",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "marzec",
+            "ru_RU": "март",
+            "ko_KR": "3월"
         },
         "FORMAT.time_formatter.month.04":
         {
@@ -132,9 +132,9 @@
             "es_MX": "abril",
             "fr_FR": "avril",
             "tr_TR": "nisan",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "kwiecień",
+            "ru_RU": "апрель",
+            "ko_KR": "4월"
         },
         "FORMAT.time_formatter.month.05":
         {
@@ -151,9 +151,9 @@
             "es_MX": "mayo",
             "fr_FR": "mai",
             "tr_TR": "mayıs",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "maj",
+            "ru_RU": "май",
+            "ko_KR": "5월"
         },
         "FORMAT.time_formatter.month.06":
         {
@@ -170,9 +170,9 @@
             "es_MX": "junio",
             "fr_FR": "juin",
             "tr_TR": "haziran",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "czerwiec",
+            "ru_RU": "июнь",
+            "ko_KR": "6월"
         },
         "FORMAT.time_formatter.month.07":
         {
@@ -189,9 +189,9 @@
             "es_MX": "julio",
             "fr_FR": "juillet",
             "tr_TR": "temmuz",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "lipiec",
+            "ru_RU": "июль",
+            "ko_KR": "7월"
         },
         "FORMAT.time_formatter.month.08":
         {
@@ -208,9 +208,9 @@
             "es_MX": "agosto",
             "fr_FR": "août",
             "tr_TR": "ağustos",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "sierpień",
+            "ru_RU": "август",
+            "ko_KR": "8월"
         },
         "FORMAT.time_formatter.month.09":
         {
@@ -227,9 +227,9 @@
             "es_MX": "septiembre",
             "fr_FR": "septembre",
             "tr_TR": "eylül",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "wrzesień",
+            "ru_RU": "сентябрь",
+            "ko_KR": "9월"
         },
         "FORMAT.time_formatter.month.10":
         {
@@ -246,9 +246,9 @@
             "es_MX": "octubre",
             "fr_FR": "octobre",
             "tr_TR": "ekim",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "październik",
+            "ru_RU": "октябрь",
+            "ko_KR": "10월"
         },
         "FORMAT.time_formatter.month.11":
         {
@@ -265,9 +265,9 @@
             "es_MX": "noviembre",
             "fr_FR": "novebre",
             "tr_TR": "kasım",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "listopad",
+            "ru_RU": "ноябрь",
+            "ko_KR": "11월"
         },
         "FORMAT.time_formatter.month.12":
         {
@@ -284,9 +284,142 @@
             "es_MX": "diciembre",
             "fr_FR": "décembre",
             "tr_TR": "aralık",
-            "pl_PL": "",
-            "ru_RU": "",
-            "ko_KR": ""
+            "pl_PL": "grudzień",
+            "ru_RU": "декабрь",
+            "ko_KR": "12월"
+        },
+        "FORMAT.time_formatter.day.01":
+        {
+            "en_US": "Monday",
+            "en_GB": "Monday",
+            "en_XX": "Monday",
+            "de_DE": "Montag",
+            "de_AT": "Montag",
+            "de_XX": "Montag",
+            "nl_NL": "maandag",
+            "pt_BR": "segunda-feira",
+            "pt_PT": "segunda-feira",
+            "es_ES": "lunes",
+            "es_MX": "lunes",
+            "fr_FR": "lundi",
+            "tr_TR": "Pazartesi",
+            "pl_PL": "poniedziałek",
+            "ru_RU": "понедельник",
+            "ko_KR": "월요일"
+        },
+        "FORMAT.time_formatter.day.02":
+        {
+            "en_US": "Tuesday",
+            "en_GB": "Tuesday",
+            "en_XX": "Tuesday",
+            "de_DE": "Dienstag",
+            "de_AT": "Dienstag",
+            "de_XX": "Dienstach",
+            "nl_NL": "dinsdag",
+            "pt_BR": "terça-feira",
+            "pt_PT": "terça-feira",
+            "es_ES": "martes",
+            "es_MX": "martes",
+            "fr_FR": "mardi",
+            "tr_TR": "Salı",
+            "pl_PL": "wtorek",
+            "ru_RU": "вторник",
+            "ko_KR": "화요일"
+        },
+        "FORMAT.time_formatter.day.03":
+        {
+            "en_US": "Wednesday",
+            "en_GB": "Wednesday",
+            "en_XX": "Wednesday",
+            "de_DE": "Mittwoch",
+            "de_AT": "Mittwoch",
+            "de_XX": "Middwoch",
+            "nl_NL": "woensdag",
+            "pt_BR": "quarta-feira",
+            "pt_PT": "quarta-feira",
+            "es_ES": "miércoles",
+            "es_MX": "miércoles",
+            "fr_FR": "mercredi",
+            "tr_TR": "Çarşamba",
+            "pl_PL": "środa",
+            "ru_RU": "среда",
+            "ko_KR": "수요일"
+        },
+        "FORMAT.time_formatter.day.04":
+        {
+            "en_US": "Thursday",
+            "en_GB": "Thursday",
+            "en_XX": "Thursday",
+            "de_DE": "Donnerstag",
+            "de_AT": "Donnerstag",
+            "de_XX": "Donnersdach",
+            "nl_NL": "donderdag",
+            "pt_BR": "quinta-feira",
+            "pt_PT": "quinta-feira",
+            "es_ES": "jueves",
+            "es_MX": "jueves",
+            "fr_FR": "jeudi",
+            "tr_TR": "Perşembe",
+            "pl_PL": "czwartek",
+            "ru_RU": "четверг",
+            "ko_KR": "목요일"
+        },
+        "FORMAT.time_formatter.day.05":
+        {
+            "en_US": "Friday",
+            "en_GB": "Friday",
+            "en_XX": "Friday",
+            "de_DE": "Freitag",
+            "de_AT": "Freitag",
+            "de_XX": "Freidach",
+            "nl_NL": "vrijdag",
+            "pt_BR": "sexta-feira",
+            "pt_PT": "sexta-feira",
+            "es_ES": "viernes",
+            "es_MX": "viernes",
+            "fr_FR": "vendredi",
+            "tr_TR": "Cuma",
+            "pl_PL": "piątek",
+            "ru_RU": "пятница",
+            "ko_KR": "금요일"
+        },
+        "FORMAT.time_formatter.day.06":
+        {
+            "en_US": "Saturday",
+            "en_GB": "Saturday",
+            "en_XX": "Saturday",
+            "de_DE": "Samstag",
+            "de_AT": "Samstag",
+            "de_XX": "Samschdach",
+            "nl_NL": "zaterdag",
+            "pt_BR": "sábado",
+            "pt_PT": "sábado",
+            "es_ES": "sábado",
+            "es_MX": "sábado",
+            "fr_FR": "samedi",
+            "tr_TR": "Cumartesi",
+            "pl_PL": "sobota",
+            "ru_RU": "суббота",
+            "ko_KR": "토요일"
+        },
+        "FORMAT.time_formatter.day.07":
+        {
+            "en_US": "Sunday",
+            "en_GB": "Sunday",
+            "en_XX": "Sunday",
+            "de_DE": "Sonntag",
+            "de_AT": "Sonntag",
+            "de_XX": "Sondach",
+            "nl_NL": "zondag",
+            "pt_BR": "domingo",
+            "pt_PT": "domingo",
+            "es_ES": "domingo",
+            "es_MX": "domingo",
+            "fr_FR": "dimanche",
+            "tr_TR": "Pazar",
+            "pl_PL": "niedziela",
+            "ru_RU": "воскресенье",
+            "ko_KR": "일요일"
         },
         "FORMAT.time_formatter.date_full":
         {
