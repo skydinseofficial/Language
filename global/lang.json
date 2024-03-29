@@ -175,17 +175,17 @@
             "en_US": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to possibly related language \"&s[fallback] ([fallback_country])&c\".",
             "en_GB": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to possibly related language \"&s[fallback] ([fallback_country])&c\".",
             "en_XX": "&cTongue not accessible (\"&6[language]&c\")! Thy tongue hath been set to mayhap related tongue \"&s[fallback] ([fallback_country])&c\".",
-            "de_DE": "&cKonnte Sprache (\"&6[value]&c\") nicht laden! Deine Sprache wurde auf die möglicherweise verwandte Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
-            "de_AT": "&cKonnt' die Sproch (\"&6[value]&c\") ned lod'n! Dei Sproch is af de vielleicht verwandte Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
-            "de_XX": "&cKonnt' die Sprach (\"&6[value]&c\") ned lada! Dei Sprach is auf de vielleicht verwandte Sprach \"&s[fallback] ([fallback_country])&c\" gstellt worn."
+            "de_DE": "&cKonnte Sprache (\"&6[language]&c\") nicht laden! Deine Sprache wurde auf die möglicherweise verwandte Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
+            "de_AT": "&cKonnt' die Sproch (\"&6[language]&c\") ned lod'n! Dei Sproch is af de vielleicht verwandte Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
+            "de_XX": "&cKonnt' die Sprach (\"&6[language]&c\") ned lada! Dei Sprach is auf de vielleicht verwandte Sprach \"&s[fallback] ([fallback_country])&c\" gstellt worn."
         },
         "ERROR.code.G-00004.2": {
             "en_US": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to fallback language \"&s[fallback] ([fallback_country])&c\".",
             "en_GB": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to fallback language \"&s[fallback] ([fallback_country])&c\".",
             "en_XX": "&cTongue not accessible (\"&6[language]&c\")! Set to fallback tongue \"&s[fallback] ([fallback_country])&c\".",
-            "de_DE": "&cKonnte Sprache (\"&6[value]&c\") nicht laden! Deine Sprache wurde auf die Ausweich-Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
-            "de_AT": "&cKonnt' die Sproch (\"&6[value]&c\") ned lod'n! Dei Sproch is af de Ausweich-Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
-            "de_XX": "&cSprach (\"&6[value]&c\") könnt nid g'lade werd! Deinä Sprach isch auf Ausweichsprach \"&s[fallback] ([fallback_country])&c\" gstellt worrn."
+            "de_DE": "&cKonnte Sprache (\"&6[language]&c\") nicht laden! Deine Sprache wurde auf die Ausweich-Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
+            "de_AT": "&cKonnt' die Sproch (\"&6[language]&c\") ned lod'n! Dei Sproch is af de Ausweich-Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
+            "de_XX": "&cSprach (\"&6[language]&c\") könnt nid g'lade werd! Deinä Sprach isch auf Ausweichsprach \"&s[fallback] ([fallback_country])&c\" gstellt worrn."
         },
         "ERROR.code.G-00004.3": {
             "en_US": "&cCould not load your language (\"&6[language]&c\") or any fallback language!",
