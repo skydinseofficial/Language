@@ -4,7 +4,7 @@
     {
         "ITEM.leave":
         {
-            "en_US": "&cBack to Main Hub",
+            "en_US": "&cBack to main hub",
             "de_DE": "&cZüruck zur Lobby"
         },
         "ITEM.settings":
@@ -14,8 +14,8 @@
         },
         "ITEM.challenge":
         {
-            "en_US": "&6Challenge player",
-            "de_DE": "&6Spieler herausfordern"
+            "en_US": "&6Challenge a player",
+            "de_DE": "&6Eine:n Spieler:in herausfordern"
         },
         "ITEM.level-rewards":
         {
