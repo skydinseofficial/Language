@@ -16,6 +16,11 @@
         {
             "en_US": "&6Challenge player",
             "de_DE": "&6Spieler herausfordern"
+        },
+        "ITEM.level-rewards":
+        {
+            "en_US": "&6Level rewards",
+            "de_DE": "&6Levelbelohnungen"
         }
     }
 }
