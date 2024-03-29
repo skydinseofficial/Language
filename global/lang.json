@@ -139,7 +139,7 @@
         "FORMAT.time_formatter.time_full":
         {
             "en_US": "hh:mm:ss a",
-            "en_GB": "hh:mm:ss a",
+            "en_GB": "hh:mm:ss",
             "en_XX": "hh:mm:ss a",
             "de_DE": "hh:mm:ss",
             "de_AT": "hh:mm:ss",
@@ -158,7 +158,7 @@
         "FORMAT.time_formatter.time_small":
         {
             "en_US": "hh:mm a",
-            "en_GB": "hh:mm a",
+            "en_GB": "hh:mm",
             "en_XX": "hh:mm a",
             "de_DE": "hh:mm",
             "de_AT": "hh:mm",
