@@ -2,14 +2,6 @@
     "system": "essential",
     "translations":
     {
-        "ERROR.tooltip": {
-            "en_US": "Please report this error to a team member immediately!",
-            "en_GB": "Please report this error to a team member immediately!",
-            "en_XX": "Verily, dost thou report this error posthaste to a fellow of the team!",
-            "de_DE": "Bitte melde diesen Fehler sofort an ein Teammitglied!",
-            "de_AT": "I bitt di, sog glei am Teamkammerad, dass da Fehler auftritt!",
-            "de_XX": "Wollet ihr den Fehl so bald als möglich einem Zunftmitglide melden!",
-        },
         "CONVERTMSG.tip.command":
         {
             "en_US": "<#face05>Click to insert this command into your chat!",
