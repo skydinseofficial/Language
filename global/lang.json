@@ -177,7 +177,7 @@
             "en_XX": "&cTongue not accessible (\"&6[language]&c\")! Thy tongue hath been set to mayhap related tongue \"&s[fallback] ([fallback_country])&c\".",
             "de_DE": "&cKonnte Sprache (\"&6[language]&c\") nicht laden! Deine Sprache wurde auf die möglicherweise verwandte Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
             "de_AT": "&cKonnt' die Sproch (\"&6[language]&c\") ned lod'n! Dei Sproch is af de vielleicht verwandte Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
-            "de_XX": "&cKonnt' die Sprach (\"&6[language]&c\") ned lada! Dei Sprach is auf de vielleicht verwandte Sprach \"&s[fallback] ([fallback_country])&c\" gstellt worn."
+            "de_XX": "&cKonnt' die Sprach (\"&6[language]&c\") ned lad'ne! Dei Sprach is auf de vielleicht verwandte Sprach \"&s[fallback] ([fallback_country])&c\" gstellt worn."
         },
         "ERROR.code.G-00004.2": {
             "en_US": "&cCould not load your language (\"&6[language]&c\")! Your language has been set to fallback language \"&s[fallback] ([fallback_country])&c\".",
@@ -185,7 +185,7 @@
             "en_XX": "&cTongue not accessible (\"&6[language]&c\")! Set to fallback tongue \"&s[fallback] ([fallback_country])&c\".",
             "de_DE": "&cKonnte Sprache (\"&6[language]&c\") nicht laden! Deine Sprache wurde auf die Ausweich-Sprache \"&s[fallback] ([fallback_country])&c\" gesetzt.",
             "de_AT": "&cKonnt' die Sproch (\"&6[language]&c\") ned lod'n! Dei Sproch is af de Ausweich-Sproch \"&s[fallback] ([fallback_country])&c\" gstellt worn.",
-            "de_XX": "&cSprach (\"&6[language]&c\") könnt nid g'lade werd! Deinä Sprach isch auf Ausweichsprach \"&s[fallback] ([fallback_country])&c\" gstellt worrn."
+            "de_XX": "&cSprach (\"&6[language]&c\") könnt nid g'lad'ne werd! Deinä Sprach isch auf Ausweichsprach \"&s[fallback] ([fallback_country])&c\" gstellt worrn."
         },
         "ERROR.code.G-00004.3": {
             "en_US": "&cCould not load your language (\"&6[language]&c\") or any fallback language!",
@@ -193,7 +193,7 @@
             "en_XX": "&cCould not load thy tongue (found value: \"&6[language]&c\") or any fallback tongue!",
             "de_DE": "&cKonnte weder deine Sprache (\"&6[language]&c\") noch irgendeine Ausweich-Sprache laden!",
             "de_AT": "&cKonnte weder dei Språch (\"&6[language]&c\") no a Ersatzspråchn ladn!",
-            "de_XX": "&cHob ned dein Sprach (\"&6[language]&c\") no koina Ausweichsprach lada kenna!"
+            "de_XX": "&cHob ned dein Sprach (\"&6[language]&c\") no koina Ausweichsprach lad'ne kenna!"
         }
     }
 }
