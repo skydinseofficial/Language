@@ -207,6 +207,16 @@
             "en_US": "Online since:",
             "de_DE": "Online seit:"
         },
+        "CONNECTION.default.time_zone":
+        {
+            "en_US": "Time zone:",
+            "de_DE": "Zeitzone:"
+        },
+        "CONNECTION.default.current_tome":
+        {
+            "en_US": "Current time:",
+            "de_DE": "Aktuelle Zeit:"
+        },
         "CONNECTION.default.current_proxy":
         {
             "en_US": "Current proxy:",
