@@ -209,13 +209,13 @@
         },
         "CONNECTION.default.time_zone":
         {
-            "en_US": "Time zone:",
-            "de_DE": "Zeitzone:"
+            "en_US": "Client time zone:",
+            "de_DE": "Client-Zeitzone:"
         },
         "CONNECTION.default.current_tome":
         {
-            "en_US": "Current time:",
-            "de_DE": "Aktuelle Zeit:"
+            "en_US": "Client time:",
+            "de_DE": "Client-Zeit:"
         },
         "CONNECTION.default.current_proxy":
         {
