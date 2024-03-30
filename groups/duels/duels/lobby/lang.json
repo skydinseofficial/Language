@@ -40,7 +40,7 @@
         "GUI.settings.challange.lore":
         {
             "en_US": "\n",
-            "de_DE": "\n&7Modus: &aalle\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
+            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
         },
         "GUI.settings.hider":
         {
