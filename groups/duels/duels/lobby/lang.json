@@ -32,6 +32,11 @@
             "en_US": "&6Lobby",
             "de_DE": "&6Lobby"
         },
+        "GUI.settings.lobby.title":
+        {
+            "en_US": "Settings » Lobby",
+            "de_DE": "Settings » Einstellungen"
+        },
         "GUI.settings.challange":
         {
             "en_US": "&6Challange Requests",
