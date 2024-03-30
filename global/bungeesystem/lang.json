@@ -212,7 +212,7 @@
             "en_US": "Client time zone:",
             "de_DE": "Client-Zeitzone:"
         },
-        "CONNECTION.default.current_tome":
+        "CONNECTION.default.current_time":
         {
             "en_US": "Client time:",
             "de_DE": "Client-Zeit:"
