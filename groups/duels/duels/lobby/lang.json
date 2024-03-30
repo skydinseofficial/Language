@@ -32,15 +32,30 @@
             "en_US": "&6Lobby",
             "de_DE": "&6Lobby"
         },
-        "GUI.settings.ingame":
+        "GUI.settings.challange":
+        {
+            "en_US": "&6Challange Requests",
+            "de_DE": "&6Herausforderungen"
+        },
+        "GUI.settings.challange.lore":
+        {
+            "en_US": "%nl%",
+            "de_DE": "%nl%&7Modus: &aalle%nl%%nl%&7Entscheide, welche Spieler dir%nl%&7eine &6Kampanfrage &7schicken können.%nl%%nl%&8» <#face06>Klicke zum ändern"
+        },
+        "GUI.settings.hider":
         {
             "en_US": "&6In-Game",
             "de_DE": "&6In-Game"
         },
-        "GUI.settings.lobby.title":
+        "GUI.settings.hider.lore":
         {
-            "en_US": "Lobby",
-            "de_DE": "Lobby"
+            "en_US": "&6In-Game",
+            "de_DE": "&6In-Game"
+        },
+        "GUI.settings.speed":
+        {
+            "en_US": "&6In-Game",
+            "de_DE": "&6In-Game"
         }
     }
 }
