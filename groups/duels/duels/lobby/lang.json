@@ -54,8 +54,8 @@
         },
         "GUI.settings.visibility.lore":
         {
-            "en_US": "[mode]",
-            "de_DE": "[mode]"
+            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to see.\n\n&8» <#face06>Click to change",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche Spieler\n&7du sehen kannst.\n\n&8» <#face06>Klicke zum ändern"
         },
         "GUI.settings.speed":
         {
