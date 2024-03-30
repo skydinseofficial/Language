@@ -47,15 +47,15 @@
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
             "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
         },
-        "GUI.settings.hider":
+        "GUI.settings.visibility":
         {
-            "en_US": "&6In-Game",
-            "de_DE": "&6In-Game"
+            "en_US": "&6Player visibility",
+            "de_DE": "&6Spielersichtbarkeit"
         },
-        "GUI.settings.hider.lore":
+        "GUI.settings.visibility.lore":
         {
-            "en_US": "&6In-Game",
-            "de_DE": "&6In-Game"
+            "en_US": "[mode]",
+            "de_DE": "[mode]"
         },
         "GUI.settings.speed":
         {
