@@ -5,7 +5,7 @@
         "ITEM.leave":
         {
             "en_US": "&cBack to Main Hub",
-            "de_DE": "&cZüruck zur Hauptlobby"
+            "de_DE": "&cZüruck zur Lobby"
         },
         "ITEM.settings":
         {
@@ -14,13 +14,13 @@
         },
         "ITEM.challenge":
         {
-            "en_US": "&6Challange a player",
-            "de_DE": "&6Spieler:in herausfordern"
+            "en_US": "&6Challange player",
+            "de_DE": "&6Spieler herausfordern"
         },
         "GUI.general.back":
         {
-            "en_US": "&cback",
-            "de_DE": "&czurück"
+            "en_US": "&cBack",
+            "de_DE": "&cZurück"
         },
         "GUI.settings.title":
         {
@@ -44,23 +44,23 @@
         },
         "GUI.settings.challange.lore":
         {
-            "en_US": "\n&7Mode: [mode]\n\n&7Choose which players can send you a &6challenge request&7.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler:innen dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
+            "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
         },
         "GUI.settings.hider":
         {
             "en_US": "&6In-Game",
-            "de_DE": "&6Ingame"
+            "de_DE": "&6In-Game"
         },
         "GUI.settings.hider.lore":
         {
             "en_US": "&6In-Game",
-            "de_DE": "&6Ingame"
+            "de_DE": "&6In-Game"
         },
         "GUI.settings.speed":
         {
             "en_US": "&6In-Game",
-            "de_DE": "&6Ingame"
+            "de_DE": "&6In-Game"
         }
     }
 }
