@@ -259,8 +259,8 @@
         },
         "CONNECTION.detailed.next_round":
         {
-            "en_US": "Next VAR1 round:",
-            "de_DE": "Nächste VAR1-Runde:"
+            "en_US": "Next [round] round:",
+            "de_DE": "Nächste [round]-Runde:"
         },
         "CONNECTION.detailed.current_ping":
         {
@@ -281,66 +281,6 @@
         {
             "en_US": "Resoucepack hash:",
             "de_DE": "Ressourcenpaket-Hash:"
-        },
-        "CONNECTION.default.current_proxy.tooltip":
-        {
-            "en_US": "Click to copy the current proxy!",
-            "de_DE": "Klicke, um den aktellen Proxy zu kopieren!"
-        },
-        "CONNECTION.default.current_server.tooltip":
-        {
-            "en_US": "Click to copy the current server!",
-            "de_DE": "Klicke, um den aktuellen Server zu kopieren!"
-        },
-        "CONNECTION.default.minecraft_version.tooltip":
-        {
-            "en_US": "Click to copy the minecraft version!",
-            "de_DE": "Klicke, um die Minecraft-Version zu kopieren!"
-        },
-        "CONNECTION.default.client_name.tooltip":
-        {
-            "en_US": "Click to copy the client name!",
-            "de_DE": "Klicke, um den Client-Namen zu kopieren!"
-        },
-        "CONNECTION.detailed.uuid.tooltip":
-        {
-            "en_US": "Click to copy the UUID!",
-            "de_DE": "Klicke, um die UUID zu kopieren!"
-        },
-        "CONNECTION.detailed.xuid.tooltip":
-        {
-            "en_US": "Click to copy the XUID!",
-            "de_DE": "Klicke, um die XUID zu kopieren!"
-        },
-        "CONNECTION.detailed.minecraft_edition.tooltip":
-        {
-            "en_US": "Click to copy the minecraft edition!",
-            "de_DE": "Klicke, um die Minecraft-Edition zu kopieren!"
-        },
-        "CONNECTION.detailed.next_round.tooltip":
-        {
-            "en_US": "Click to copy the next VAR1 round!",
-            "de_DE": "Klicke, um die nächste VAR1-Runde zu kopieren!"
-        },
-        "CONNECTION.detailed.current_ping.tooltip":
-        {
-            "en_US": "Click to copy the current ping!",
-            "de_DE": "Klicke, um den aktuellen Ping zu kopieren!"
-        },
-        "CONNECTION.detailed.language_setting.tooltip":
-        {
-            "en_US": "Click to copy the language setting!",
-            "de_DE": "Klicke, um die Spacheinstellung zu kopieren!"
-        },
-        "CONNECTION.detailed.language_client.tooltip":
-        {
-            "en_US": "Click to copy the client language!",
-            "de_DE": "Klicke, um die Client-Sprache zu kopieren!"
-        },
-        "CONNECTION.detailed.resoucepack_hash.tooltip":
-        {
-            "en_US": "Click to copy the resoucepack hash!",
-            "de_DE": "Klicke, um Ressourcenpaket-Hash-Wert zu kopieren!"
         },
         "CONNECTION.text.minigame":
         {
