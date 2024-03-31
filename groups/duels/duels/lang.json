@@ -21,6 +21,21 @@
         {
             "en_US": "Random",
             "de_DE": "Zufall"
+        },
+        "mode.display.anchor":
+        {
+            "en_US": "Anchor",
+            "de_DE": "Anchor"
+        },
+        "mode.display.kits":
+        {
+            "en_US": "Kits",
+            "de_DE": "Kits"
+        },
+        "mode.display.sumo":
+        {
+            "en_US": "Sumo",
+            "de_DE": "Sumo"
         }
     }
 }
