@@ -1,0 +1,11 @@
+{
+    "system": "duels-general",
+    "translations":
+    {
+        "queue.bossbar.joining":
+        {
+            "en_US": "&7Joining Queue...",
+            "de_DE": "&7Warteschlange wird betreten..."
+        }
+    }
+}
