@@ -5,82 +5,98 @@
         "ITEM.leave":
         {
             "en_US": "&cBack to Main Hub",
-            "de_DE": "&cZüruck zur Lobby"
+            "de_DE": "&cZüruck zur Lobby",
+            "tr_TR": "&cAna lobiye geri dön"
         },
         "ITEM.settings":
         {
             "en_US": "&6Settings",
-            "de_DE": "&6Einstellungen"
+            "de_DE": "&6Einstellungen",
+            "tr_TR": "&6Ayarlar"
         },
         "ITEM.challenge":
         {
             "en_US": "&6Challange player",
-            "de_DE": "&6Spieler herausfordern"
+            "de_DE": "&6Spieler herausfordern",
+            "tr_TR": "&6Oyunculara meydan oku"
         },
         "GUI.general.back":
         {
             "en_US": "&cBack",
-            "de_DE": "&cZurück"
+            "de_DE": "&cZurück",
+            "tr_TR": "&cGeri"
         },
         "GUI.settings.title":
         {
             "en_US": "Settings",
-            "de_DE": "Einstellungen"
+            "de_DE": "Einstellungen",
+            "tr_TR": "Ayarlar"
         },
         "GUI.settings.lobby":
         {
             "en_US": "&6Lobby",
-            "de_DE": "&6Lobby"
+            "de_DE": "&6Lobby",
+            "tr_TR": "&6Lobi"
         },
         "GUI.settings.lobby.title":
         {
             "en_US": "Settings » Lobby",
-            "de_DE": "Einstellungen » Lobby"
+            "de_DE": "Einstellungen » Lobby",
+            "tr_TR": "Ayarlar » Lobi"
         },
         "GUI.settings.challange":
         {
             "en_US": "&6Challange Requests",
-            "de_DE": "&6Herausforderungen"
+            "de_DE": "&6Herausforderungen",
+            "tr_TR": "&6Zorlukları"
         },
         "GUI.settings.challange.lore":
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern"
+            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern",
+            "tr_TR": "\n&7Modu: [mode]\n\nHangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.visibility":
         {
             "en_US": "&6Player visibility",
-            "de_DE": "&6Spielersichtbarkeit"
+            "de_DE": "&6Spielersichtbarkeit",
+            "tr_TR": "&6Oyuncu görünürlüğü"
         },
         "GUI.settings.visibility.lore":
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to see.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche Spieler\n&7du sehen kannst.\n\n&8» <#face06>Klicke zum ändern"
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche Spieler\n&7du sehen kannst.\n\n&8» <#face06>Klicke zum ändern",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları görebileceğini belirle.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.fly":
         {
             "en_US": "&6Fly",
-            "de_DE": "&6Flugmodus"
+            "de_DE": "&6Flugmodus",
+            "tr_TR": "&6Uçuş modu"
         },
         "GUI.settings.fly.lore":
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle your flight mode.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern"
+            "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Uçmayı etkinleştir veya devre dışı bırak.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.generic.noperm.lore":
         {
             "en_US": "\n&cYou are lacking permission!\n\n&7Rank needed: [rank]\n\n&8» <#face06>Alright!",
-            "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Rang benötigt: [rank]\n\n&8» <#face06>Verstanden!"
+            "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Rang benötigt: [rank]\n\n&8» <#face06>Verstanden!",
+            "tr_TR": "\n&cBunu yapmak için yetkin yok!\n\n&7Gerekli rütbe: [rank]\n\n&8» <#face06>Anlamazdın Anlamazdın!"
         },
         "actionbar.fly.on":
         {
             "en_US": "&aYour flight mode has been enabled.",
-            "de_DE": "&aDein Flugmodus wurde aktiviert."
+            "de_DE": "&aDein Flugmodus wurde aktiviert.",
+            "tr_TR": "&aUçuş modunu etkinleştirildi."
         },
         "actionbar.fly.off":
         {
             "en_US": "<#fa4233>Your flight mode has been disabled.",
-            "de_DE": "<#fa4233>Dein Flugmodus wurde deaktiviert."
+            "de_DE": "<#fa4233>Dein Flugmodus wurde deaktiviert.",
+            "tr_TR": "<#fa4233>Uçuş modun devre dışı bırakıldı."
         }
     }
 }
