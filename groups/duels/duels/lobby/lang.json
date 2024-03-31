@@ -71,6 +71,16 @@
         {
             "en_US": "",
             "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Du benötigst: [rank]\n\n&8» <#face06>Verstanden!"
+        },
+        "actionbar.fly.on":
+        {
+            "en_US": "&aYour flight mode has been enabled.",
+            "de_DE": "&aDein Flugmodus wurde aktiviert."
+        },
+        "actionbar.fly.off":
+        {
+            "en_US": "<#fa4233>Your flight mode has been disabled.",
+            "de_DE": "<#fa4233>Dein Flugmodus wurde deaktiviert."
         }
     }
 }
