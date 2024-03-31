@@ -14,8 +14,8 @@
         },
         "queue.bossbar.waitingforserver":
         {
-            "en_US": "&eWaiting for server...",
-            "de_DE": "&eWarten auf Server..."
+            "en_US": "&cWaiting for server...",
+            "de_DE": "&cWarten auf Server..."
         },
         "queue.bossbar.random":
         {
