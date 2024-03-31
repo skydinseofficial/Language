@@ -6,6 +6,16 @@
         {
             "en_US": "&7Joining Queue...",
             "de_DE": "&7Warteschlange wird betreten..."
+        },
+        "queue.bossbar.waitingforopponent":
+        {
+            "en_US": "&eWaiting for opponent...",
+            "de_DE": "&eWarten auf Gegner..."
+        },
+        "queue.bossbar.waitingforserver":
+        {
+            "en_US": "&eWaiting for server...",
+            "de_DE": "&eWarten auf Server..."
         }
     }
 }
