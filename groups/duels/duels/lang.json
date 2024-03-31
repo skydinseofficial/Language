@@ -16,6 +16,11 @@
         {
             "en_US": "&eWaiting for server...",
             "de_DE": "&eWarten auf Server..."
+        },
+        "queue.bossbar.random":
+        {
+            "en_US": "Random",
+            "de_DE": "Zufall"
         }
     }
 }
