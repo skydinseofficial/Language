@@ -64,13 +64,13 @@
         },
         "GUI.settings.fly.lore":
         {
-            "en_US": "",
+            "en_US": "\n&7Mode: [mode]\n\n&7Toggle your flight mode.\n\n&8» <#face06>Click to change",
             "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern"
         },
         "GUI.generic.noperm.lore":
         {
-            "en_US": "",
-            "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Du benötigst: [rank]\n\n&8» <#face06>Verstanden!"
+            "en_US": "\n&cYou are lacking permission!\n\n&7Rank needed: [rank]\n\n&8» <#face06>Alright!",
+            "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Rang benötigt: [rank]\n\n&8» <#face06>Verstanden!"
         },
         "actionbar.fly.on":
         {
