@@ -57,10 +57,15 @@
             "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to see.\n\n&8» <#face06>Click to change",
             "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche Spieler\n&7du sehen kannst.\n\n&8» <#face06>Klicke zum ändern"
         },
-        "GUI.settings.speed":
+        "GUI.settings.fly":
         {
-            "en_US": "&6In-Game",
-            "de_DE": "&6In-Game"
+            "en_US": "&6Fly",
+            "de_DE": "&6Flugmodus"
+        },
+        "GUI.settings.fly.lore":
+        {
+            "en_US": "",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern"
         }
     }
 }
