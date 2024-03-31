@@ -66,6 +66,11 @@
         {
             "en_US": "",
             "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern"
+        },
+        "GUI.generic.noperm.lore":
+        {
+            "en_US": "",
+            "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Du benötigst: [rank]\n\n&8» <#face06>Verstanden!"
         }
     }
 }
