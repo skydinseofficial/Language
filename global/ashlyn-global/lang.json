@@ -14,8 +14,8 @@
         },
         "SERVER.ashlyn.join_message":
         {
-            "en_US": "[player] &7joined &6[game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
-            "de_DE": "[player] &7hat &6[game] &7betreten! &8(&7[online_players]&8/&7[max_players]&8)"
+            "en_US": "[player] &7joined&6 [game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
+            "de_DE": "[player] &7hat&6 [game] &7betreten! &8(&7[online_players]&8/&7[max_players]&8)"
         },
         "SERVER.ashlyn.leave_message":
         {
