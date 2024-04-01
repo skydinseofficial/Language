@@ -1,1 +1,96 @@
-
+{
+    "system": "ashlyn",
+    "translations":
+    {
+        "SERVER.ashlyn.item.leavegame":
+        {
+            "en_US": "&cLeave Game",
+            "de_DE": "&cSpiel verlassen"
+        },
+        "SERVER.ashlyn.item.joinnew":
+        {
+            "en_US": "&cFind new Game",
+            "de_DE": "&cNeues Spiel suchen"
+        },
+        "SERVER.ashlyn.join_message":
+        {
+            "en_US": "[player] &7joined &6[game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
+            "de_DE": "[player] &7hat &6[game] &7betreten! &8(&7[online_players]&8/&7[max_players]&8)"
+        },
+        "SERVER.ashlyn.leave_message":
+        {
+            "en_US": "[player] &7left [game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
+            "de_DE": "[player] &7hat [game] &7verlassen! &8(&7[online_players]&8/&7[max_players]&8)"
+        },
+        "SERVER.ashlyn.round_stopped":
+        {
+            "en_US": "&cYour round has been stopped!",
+            "de_DE": "&cDeine Runde wurde gestoppt!"
+        },
+        "SERVER.ashlyn.round_full":
+        {
+            "en_US": "&cThis round is already full!",
+            "de_DE": "&cDiese Runde ist bereits voll!"
+        },
+        "SERVER.ashlyn.wait_moment":
+        {
+            "en_US": "&cPlease wait a moment!",
+            "de_DE": "&cBitte warte einen Moment!"
+        },
+        "SERVER.ashlyn.you_got_kicked_due_to_premium":
+        {
+            "en_US": "&cYou got kicked to make place for a premium player!",
+            "de_DE": "&cDu wurdest gekickt, um Platz für einen premium Spieler zu machen!"
+        },
+        "SERVER.ashlyn.could_not_kick_anyone":
+        {
+            "en_US": "&cCould not kick any non-premium player to make place for you!",
+            "de_DE": "&cEs konnte kein Non-Premium Spieler gekickt werden, um für dich Platz zu machen!"
+        },
+        "SERVER.ashlyn.round_is_stopping":
+        {
+            "en_US": "&cThis round is already stopping!",
+            "de_DE": "&cDiese Runde stoppt bereits!"
+        },
+        "SERVER.ashlyn.round_not_found":
+        {
+            "en_US": "&cThis round could not be found!",
+            "de_DE": "&cDiese Runde konnte nicht gefunden werden!"
+        },
+        "SERVER.ashlyn.free_round_not_found":
+        {
+            "en_US": "&cCould not find a free round!",
+            "de_DE": "&cEs konnte keine freie Runde gefunden werden!"
+        },
+        "SERVER.ashlyn.server_not_ready":
+        {
+            "en_US": "&cServer is not ready. Please wait a moment...",
+            "de_DE": "&cServer ist nicht bereit. Bitte habe einen Moment Geduld..."
+        },
+        "SERVER.ashlyn.important_connection_missing":
+        {
+            "en_US": "&cAn important connection to your target server is missing! &7Please wait a moment or contact our support team.",
+            "de_DE": "&cEine wichtige Systemverbindung zum Zielserver besteht nicht! &7Bitte habe einen Moment Geduld oder kontaktiere den Support."
+        },
+        "SERVER.ashlyn.unexpected_error":
+        {
+            "en_US": "&cAn unexpected error occured. Please try again.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+        },
+        "SERVER.ashlyn.this_is_a_private_round":
+        {
+            "en_US": "<#FFD800>This is a private round. Statistics are not saved!",
+            "de_DE": "<#FFD800>Dies ist eine private Runde. Statistiken werden nicht gespeichert!"
+        },
+        "SERVER.ashlyn.pround_owner":
+        {
+            "en_US": "&7Round created by:",
+            "de_DE": "&7Runde gestartet von:"
+        },
+        "SERVER.ashlyn.pround_owner_left":
+        {
+            "en_US": "&7The owner of the round left the game. &cThis round is stopping!",
+            "de_DE": "&7Der Besitzer der Runde hat die Lobbyphase verlassen. &cDie Runde wird gestoppt!"
+        }
+    }
+}
