@@ -19,8 +19,8 @@
         },
         "SERVER.ashlyn.leave_message":
         {
-            "en_US": "[player] &7left [game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
-            "de_DE": "[player] &7hat [game] &7verlassen! &8(&7[online_players]&8/&7[max_players]&8)"
+            "en_US": "[player] &7left &6[game]&7! &8(&7[online_players]&8/&7[max_players]&8)",
+            "de_DE": "[player] &7hat &6[game] &7verlassen! &8(&7[online_players]&8/&7[max_players]&8)"
         },
         "SERVER.ashlyn.round_stopped":
         {
