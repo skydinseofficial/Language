@@ -32,11 +32,6 @@
             "en_US": "&cThis round is already full!",
             "de_DE": "&cDiese Runde ist bereits voll!"
         },
-        "SERVER.ashlyn.wait_moment":
-        {
-            "en_US": "&cPlease wait a moment!",
-            "de_DE": "&cBitte warte einen Moment!"
-        },
         "SERVER.ashlyn.you_got_kicked_due_to_premium":
         {
             "en_US": "&cYou got kicked to make place for a premium player!",
@@ -91,6 +86,36 @@
         {
             "en_US": "&7The owner of the round left the game. &cThis round is stopping!",
             "de_DE": "&7Der Besitzer der Runde hat die Lobbyphase verlassen. &cDie Runde wird gestoppt!"
+        },
+        "GLOBAL.general.pleasewait":
+        {
+            "en_US": "&cPlease wait a moment!",
+            "de_DE": "&cBitte warte einen Moment!"
+        },
+        "GLOBAL.round.booting":
+        {
+            "en_US": "&7Round &e[round] &7is &astarting &7on &6[host]&7...",
+            "de_DE": "&7Runde &e[round] &astartet &7auf &6[host]&7..."
+        },
+        "GLOBAL.round.shutdown":
+        {
+            "en_US": "&7Round &e[round] &7is &cstopping &7on &6[host]&7...",
+            "de_DE": "&7Runde &e[round] &cstoppt &7auf &6[host]&7..."
+        },
+        "GLOBAL.round.couldnotfindany":
+        {
+            "en_US": "&cCould not find any free round!",
+            "de_DE": "&cEs konnte keine freie Runde gefunden werden!"
+        },
+        "GLOBAL.round.notfound":
+        {
+            "en_US": "&cThis round could not be found!",
+            "de_DE": "&cDiese Runde konnte nicht gefunden werden!"
+        },
+        "GLOBAL.round.full":
+        {
+            "en_US": "&cThe round is already full!",
+            "de_DE": "&cDie Runde ist bereits voll!"
         }
     }
 }
