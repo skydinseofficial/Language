@@ -22,6 +22,16 @@
             "en_US": "Random",
             "de_DE": "Zufall"
         },
+        "queue.msg.opponentleft":
+        {
+            "en_US": "&cYour opponent has left the match! &7You got requeued.",
+            "de_DE": "&cDein Gegner hat das Match verlassen! &7Du wurdest erneut zur Warteschlange hinzugefügt."
+        },
+        "queue.item.leavequeue":
+        {
+            "en_US": "&cLeave Queue",
+            "de_DE": "&cWarteschlange verlassen"
+        },
         "mode.display.anchor":
         {
             "en_US": "Anchor",
