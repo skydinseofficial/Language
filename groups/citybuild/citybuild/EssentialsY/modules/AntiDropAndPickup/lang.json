@@ -17,19 +17,19 @@
         "tpohere_success":
         {
             "en_US": "&aThe player &e[player] &ahas been teleported to you!",
-            "de_DE": "&aDer Spieler &e[player] &awurde zu dir teleportiert!",
+            "de_DE": "&aSpieler:in &e[player] &awurde zu dir teleportiert!",
             "de_XX": "&aDer Player &e[player] &awurde zu dir gerizzt!"
         },
         "tpohere_nocb":
         {
             "en_US": "&cThis player is not on CityBuild!",
-            "de_DE": "&cDieser Spieler ist nicht auf CityBuild!",
+            "de_DE": "&cDiese:r Spieler:in ist nicht auf CityBuild!",
             "de_XX": "&cDieser Spielteilnehmer befindet sich zum aktuellen Zeitpunkt nicht auf StadtBau!"
         },
         "tpohere_offline":
         {
             "en_US": "&cThis player is currently not online!",
-            "de_DE": "&cDieser Spieler ist offline!",
+            "de_DE": "&cDiese:r Spieler:in ist offline!",
             "de_XX": "&cDieser NPC chillt bei der Konkurrenz!"
         }
     }
