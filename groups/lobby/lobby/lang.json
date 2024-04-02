@@ -239,7 +239,7 @@
         "STATS.explosions":
         {
             "en_US": "Opponent explosios:",
-            "de_DE": "Gegner-Explosionen:",
+            "de_DE": "Gegnerische Explosionen:",
             "pt_BR": "Explosões de inimigos:",
             "tr_TR": "Düşman patlamaları:",
             "ko_KR": "상대를 폭발시킨 횟수:"
@@ -255,7 +255,7 @@
         "STATS.ghostkills":
         {
             "en_US": "Ghosts killed:",
-            "de_DE": "Geister getötet:",
+            "de_DE": "Gespenster getötet:",
             "pt_BR": "Fantasmas mortos:",
             "tr_TR": "Ruhlar öldürüldü:",
             "ko_KR": "유령을 죽인 횟수:"
@@ -470,7 +470,7 @@
         "SETTINGS.playerhider.desc":
         {
             "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
-            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler vor dir verstecken.",
+            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler:innen vor dir verstecken.",
             "pt_BR": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente.",
             "tr_TR": "&7Bu araç ile tüm veya belirli\n&7oyuncuları sizden gizleyebilirsin.",
             "ko_KR": "&7이 도구를 사용하면 모든 플레이어나\n&7특정 플레이어를 숨길 수 있습니다."
@@ -603,7 +603,7 @@
         "SETTINGS.item.visibility.name":
         {
             "en_US": "Playervisibility",
-            "de_DE": "Spielersichtbarkeit",
+            "de_DE": "Spieler:innensichtbarkeit",
             "tr_TR": "Oyuncu görünürlüğü",
             "ko_KR": "플레이어 표시"
         },
@@ -659,7 +659,7 @@
         "LS.players":
         {
             "en_US": "Players:",
-            "de_DE": "Spieler:",
+            "de_DE": "Spieler:innen:",
             "tr_TR": "Oyuncular:",
             "ko_KR": "플레이어 수:"
         },
@@ -714,7 +714,7 @@
         "INVENTORY.gui.galaxylore":
         {
             "en_US": "&7Network-wide rank\n&7obtainable through coins.\n&7\n<#FFD400>Features:\n&e● &7Every feature of &bSky\n&e● &7Lobby-elytra-doublejump (fly)\n&e● &7Join full servers\n&e● &7/joinme every 120 minutes\n&e● &7Public custom minigames\n&e● &7party memberlimit of 16\n&e● &7/start command in minigames\n&e● &7color codes in chat (&&7a, ...&7)",
-            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Alle &bSky&7-Features\n&e● &7Lobby-Elytra-Doppelsprung\n&e● &7Volle Server betreten\n&e● &7Alle 120 Minuten /joinme\n&e● &7Öffentliche Custom Minigames\n&e● &7maximal 16 Partymitglieder\n&e● &7/start Befehl in Minigames\n&e● &7Farbcodes im Chat (&&7a, ...&7)",
+            "de_DE": "&7Netzwerkweiter Rang, welcher\n&7durch Coins erhältlich ist.\n&7\n<#FFD400>Vorteile:\n&e● &7Alle &bSky&7-Features\n&e● &7Lobby-Elytra-Doppelsprung\n&e● &7Volle Server betreten\n&e● &7Alle 120 Minuten /joinme\n&e● &7Öffentliche Custom Minigames\n&e● &7maximal 16 Partymitglieder:innen\n&e● &7/start Befehl in Minigames\n&e● &7Farbcodes im Chat (&&7a, ...&7)",
             "ko_KR": "&7코인으로 휙득 할 수 있는\n&7네트워크 전역 랭크.\n&7\n<#FFD400>기능:\n&e● &bSky&7의 모든 기능들\n&e● &7로비 겉날개 더블 점프 (날기)\n&e● &7꽉 찬 사버 참가\n&e● &7/120분 마다 참가 홍보\n&e● &7공개 커스텀 미니게임\n&e● &716명 파티 제한\n&e● &7미니게임에서 /start 커맨드\n&e● &7채팅에서 색깔 코드 사용 (&&7a, ...&7)"
         },
         "INVENTORY.gui.costs":
@@ -1059,7 +1059,6 @@
         {
             "en_US": "&f\n&7=> Release in the future!",
             "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
-            "tr_TR": "",
             "ko_KR": "&f\n&7=> 출시 예정!"
         },
         "NAVIGATOR.details.game_creative":
@@ -1072,14 +1071,12 @@
         {
             "en_US": "&f\n&7=> Release in the future!",
             "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
-            "tr_TR": "",
             "ko_KR": "&f\n&7=> 출시 예정!"
         },
         "NAVIGATOR.details.game_citybuild":
         {
             "en_US": "&f\n&7=> Release in spring 2024!",
             "de_DE": "&f\n&7=> Veröffentlichung im Frühling 2024!",
-            "tr_TR": "",
             "ko_KR": "&f\n&7=> 2024년 봄에 출시!"
         },
         "NAVIGATOR.details.events":
@@ -1090,9 +1087,9 @@
         },
         "NAVIGATOR.details.projects":
         {
-            "en_US": "&f\n&7=> &a&lLAUNCH ON OCTOBER 29, 4PM!\n&f\n&7● <#F6D206>Inspired by CraftAttack\n  <#F6D206>(a German streamer project)\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/activatable",
-            "de_DE": "&f\n&7=> &a&lSTART AM 29.10. UM 16 UHR!\n&f\n&7● <#F6D206>Inspiriert von CraftAttack\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/aktivierbar",
-            "ko_KR": "%f\n&7=> &a&l10월 29일 4시에 시작!\n&f\n&7● <#F6D206>CraftAttack에서 영감을 받음\n  <#F6D206>(독일 스트리머 프로젝트)\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>땅 시스템\n&7● <#F6D206>상점 지구\n&7● <#F6D206>PvP 활성화/비활성화"
+            "en_US": "&f\n&7● <#F6D206>Inspired by CraftAttack\n  <#F6D206>(a German streamer project)\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/activatable",
+            "de_DE": "&f\n&7● <#F6D206>Inspiriert von CraftAttack\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/aktivierbar",
+            "ko_KR": "%f\n&7● <#F6D206>CraftAttack에서 영감을 받음\n  <#F6D206>(독일 스트리머 프로젝트)\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>땅 시스템\n&7● <#F6D206>상점 지구\n&7● <#F6D206>PvP 활성화/비활성화"
         },
         "NAVIGATOR.randomjoin.connect":
         {
@@ -1137,14 +1134,14 @@
         "NETWORKSTATS.registeredplayers":
         {
             "en_US": "Registered Players",
-            "de_DE": "Registrierte Spieler",
+            "de_DE": "Registrierte Spieler:innen",
             "tr_TR": "Kayıtlı oyuncular",
             "ko_KR": "등록된 플레이어"
         },
         "NETWORKSTATS.playeramountrecord":
         {
             "en_US": "Player record",
-            "de_DE": "Spielerrekord",
+            "de_DE": "Spieler:innenrekord",
             "tr_TR": "Oyuncu rekoru",
             "ko_KR": "플레이어 기록"
         },
@@ -1179,7 +1176,7 @@
         "NETWORKSTATS.discord_members":
         {
             "en_US": "members",
-            "de_DE": "Mitglieder",
+            "de_DE": "Mitglieder:innen",
             "tr_TR": "üyeler",
             "ko_KR": "회원"
         },
