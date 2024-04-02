@@ -1,1 +1,32 @@
-
+{
+    "system": "esy-challenging",
+    "translations":
+    {
+        "cmd.challenge.error.noplayername":
+        {
+            "en_US": "&cYou have to enter a playername!",
+            "de_DE": "&cDu musst einen Spielernamen angeben!"
+        },
+        "cmd.challenge.error.pendingrequest":
+        {
+            "en_US": "&cYou've already challenged a player! The request will expire within the next 15 seconds.",
+            "de_DE": "&cDu hast bereits jemanden herausgefordert! Die Anfrage wird innerhalb der nächsten 15 Sekunden erlöschen."
+        },
+        "cmd.challenge.error.cannotsendtoyourself":
+        {
+            "en_US": "&cYou can't challenge yourself!",
+            "de_DE": "&cDu kannst dich nicht selbst herausfordern!"
+        },
+        "cmd.challenge.error.playernotonline":
+        {
+            "en_US": "&cThe target player is not online!",
+            "de_DE": "&cDieser Spieler ist nicht online!"
+        },
+        "inv.java.challengeoptions.title":
+        {
+            "en_US": "Challenge Options",
+            "de_DE": "Herausforderungs-Optionen",
+            "de_XX": "Herausforderungs-Alternativmöglichkeiten"
+        }
+    }
+}
