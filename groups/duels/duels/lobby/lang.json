@@ -5,7 +5,7 @@
         "ITEM.leave":
         {
             "en_US": "&cBack to Main Hub",
-            "de_DE": "&cZüruck zur Lobby",
+            "de_DE": "&cZüruck zur Hauptlobby",
             "tr_TR": "&cAna lobiye geri dön"
         },
         "ITEM.settings":
@@ -16,8 +16,8 @@
         },
         "ITEM.challenge":
         {
-            "en_US": "&6Challange player",
-            "de_DE": "&6Spieler herausfordern",
+            "en_US": "&6Challange a player",
+            "de_DE": "&6Eine:n Spieler:in herausfordern",
             "tr_TR": "&6Oyunculara meydan oku"
         },
         "GUI.general.back":
@@ -53,7 +53,7 @@
         "GUI.settings.challange.lore":
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler:innen dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern",
             "tr_TR": "\n&7Modu: [mode]\n\nHangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.visibility":
@@ -65,7 +65,7 @@
         "GUI.settings.visibility.lore":
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to see.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche Spieler\n&7du sehen kannst.\n\n&8» <#face06>Klicke zum ändern",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler:innen du sehen kannst.\n\n&8» <#face06>Klicke zum ändern",
             "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları görebileceğini belirle.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.fly":
