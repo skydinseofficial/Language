@@ -520,7 +520,7 @@
         "LOBBYGAMES.cc.b.lore.1":
         {
             "en_US": "&7Everyone will get &e1.5x &7more cookies for &e2 minutes&7!",
-            "de_DE": "&7Jeder wird &e1.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
+            "de_DE": "&7Alle Spieler:innen werden &e1.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
             "pt_BR": "&7Todos receberão &e1.5x &7mais cookies por &e2 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e1.5x &7más cookies por &e2 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e1.5x &7plus de cookies pour &e2 minutes&7!",
@@ -529,7 +529,7 @@
         "LOBBYGAMES.cc.b.lore.2":
         {
             "en_US": "&7Everyone will get &e1.5x &7more cookies for &e5 minutes&7!",
-            "de_DE": "&7Jeder wird &e1.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
+            "de_DE": "&7Alle Spieler:innen werden &e1.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
             "pt_BR": "&7Todos receberão &e1.5x &7mais cookies por &e5 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e1.5x &7más cookies por &e5 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e1.5x &7plus de cookies pour &e5 minutes&7!",
@@ -538,7 +538,7 @@
         "LOBBYGAMES.cc.b.lore.3":
         {
             "en_US": "&7Everyone will get &e2.5x &7more cookies for &e2 minutes&7!",
-            "de_DE": "&7Jeder wird &e2.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
+            "de_DE": "&7Alle Spieler:innen werden &e2.5x &7mehr Cookies für &e2 Minuten &7bekommen!",
             "pt_BR": "&7Todos receberão &e2.5x &7mais cookies por &e2 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e2.5x &7más cookies por &e2 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e2.5x &7plus de cookies pour &e2 minutes&7!",
@@ -547,7 +547,7 @@
         "LOBBYGAMES.cc.b.lore.4":
         {
             "en_US": "&7Everyone will get &e2.5x &7more cookies for &e5 minutes&7!",
-            "de_DE": "&7Jeder wird &e2.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
+            "de_DE": "&7Alle Spieler:innen werden &e2.5x &7mehr Cookies für &e5 Minuten &7bekommen!",
             "pt_BR": "&7Todos receberão &e2.5x &7mais cookies por &e5 minutos&7!",
             "es_ES": "&7¡Todos obtendrán &e2.5x &7más cookies por &e5 minutos&7!",
             "fr_FR": "&7Tout le monde obtiendra &e2.5x &7plus de cookies pour &e5 minutes&7!",
@@ -627,8 +627,8 @@
         },
         "pleasemove":
         {
-            "en_US": "&cPlease move, are you AFK?",
-            "de_DE": "&cBitte bewege dich bist du etwa AFK?",
+            "en_US": "&cPlease move! Are you AFK?",
+            "de_DE": "&cBitte bewege dich! Bist du etwa AFK?",
             "pt_BR": "&cPor favor, mova-se, você está AFK?",
             "es_ES": "&cPor favor, muévete, ¿estás AFK?",
             "fr_FR": "&cS'il vous plaît bouger, êtes-vous AFK?",
@@ -636,7 +636,7 @@
         },
         "PLEASEMOVE.2":
         {
-            "en_US": "&cPlease move, are you AFK?",
+            "en_US": "&cWe teleported you because you probably were AFK!",
             "de_DE": "&cWir haben dich Teleportiert, weil du vermutlich AFK warst!"
         },
         "LOBBYGAMES.cc.chest.title":
