@@ -45,6 +45,11 @@
             "en_US": "&7Kit: &6[player]'s Inventory",
             "de_DE": "&7Kit: &6Inventar von [player]",
             "de_XX": "&7Bausatz: &6Mobiliar von [player]"
+        },
+        "inv.java.challengeoptions.item.bet.currentbetamount":
+        {
+            "en_US": "&7Bet Amount: &6[amount]",
+            "de_DE": "&7Wetteinsatz: &6[amount]"
         }
     }
 }
