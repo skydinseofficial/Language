@@ -10,7 +10,7 @@
         "queue.bossbar.waitingforopponent":
         {
             "en_US": "[mode/map]&cWaiting for opponent... &7([time])",
-            "de_DE": "[mode/map]&cWarten auf Gegner... &7([time])"
+            "de_DE": "[mode/map]&cWarten auf Gegner:in... &7([time])"
         },
         "queue.bossbar.waitingforserver":
         {
