@@ -55,6 +55,11 @@
         {
             "en_US": "&7Bet Amount: &6[amount]",
             "de_DE": "&7Wetteinsatz: &6[amount]"
+        },
+        "inv.java.challengeoptions.item.done.sendrequest":
+        {
+            "en_US": "&7Done: &aSend Request",
+            "de_DE": "&7Fertig: &aAnfrage Senden"
         }
     }
 }
