@@ -46,6 +46,11 @@
             "de_DE": "&7Kit: &6Inventar von [player]",
             "de_XX": "&7Bausatz: &6Mobiliar von [player]"
         },
+        "inv.java.challengeoptions.item.kit.selected":
+        {
+            "en_US": "<#6CFF2D>⬇ &aSELECTED <#6CFF2D>⬇",
+            "de_DE": "<#6CFF2D>⬇ &aAUSGEWÄHLT <#6CFF2D>⬇"
+        },
         "inv.java.challengeoptions.item.bet.currentbetamount":
         {
             "en_US": "&7Bet Amount: &6[amount]",
