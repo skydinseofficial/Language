@@ -1,0 +1,24 @@
+{
+    "system": "waitinggames",
+    "translations":
+    {
+        "JUMPANDRUN.name":
+        {
+            "en_US": "Jump and Run",
+            "en_GB": "Jump and Run",
+            "en_XX": "Leap and Passage",
+            "de_DE": "Jump and Run",
+            "de_AT": "Jump and Run",
+            "de_XX": "Super Hüpferle"
+        },
+        "JUMPANDRUN.visual.actionbar":
+        {
+            "en_US": "&6&l[game] &7| &sJumps: &e[jumps] &7| &sHighscore: &e[highscore]",
+            "en_GB": "&6&l[game] &7| &sJumps: &e[jumps] &7| &sHighscore: &e[highscore]",
+            "en_XX": "&6&l[game] &7| &sLeaps: &e[jumps] &7| &sGreatest Score: &e[highscore]",
+            "de_DE": "&6&l[game] &7| &sSprünge: &e[jumps] &7| &sBeste Punktzahl: &e[highscore]",
+            "de_AT": "&6&l[game] &7| &sSprüng: &e[jumps] &7| &sB'ste Punktazl: &e[highscore]",
+            "de_XX": "&6&l[game] &7| &sHopser: &e[jumps] &7| &sSuperzahl: &e[highscore]"
+        }
+    }
+}
