@@ -73,8 +73,8 @@
         },
         "msg.challenge.info.incomingrequest":
         {
-            "en_US": "[player] &7challenged you!%nl%&7Bet Amount: &6[amount]%nl%[kit]%nl%",
-            "de_DE": "[player] &7hat dich herausgefordert!%nl%&7Wetteinsatz: &6[amount]%nl%[kit]"
+            "en_US": "[player] &7challenged you!%nl%&7Bet Amount: &6[amount]%nl%[kit]%nl%<|tip:'TOOLTIP',value:'/challengeaccept [target]',text:'&8[&aACCEPT CHALLENGE&8]>",
+            "de_DE": "[player] &7hat dich herausgefordert!%nl%&7Wetteinsatz: &6[amount]%nl%[kit]%nl%<|tip:'TOOLTIP',value:'/challengeaccept [target]',text:'&8[&aHERAUSFORDERUNG ANNEHMEN&8]>"
         }
     }
 }
