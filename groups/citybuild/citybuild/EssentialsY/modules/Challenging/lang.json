@@ -60,6 +60,16 @@
         {
             "en_US": "&7Done: &aSend Request",
             "de_DE": "&7Fertig: &aAnfrage Senden"
+        },
+        "msg.challenge.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again.",
+            "de_DE": "&cEin unerwarteter Fehler ist auftegreten! Bitte versuche es erneut."
+        },
+        "msg.challenge.success.requestsent":
+        {
+            "en_US": "&7You've sent a challenge request to &e[player]&7!%nl%&7Bet Amount: &6[amount]%nl%[kit]",
+            "de_DE": "&7Du hast &e[player] &7eine Challenge-Anfrage geschickt!%nl%&7Wetteinsatz: &6[amount]%nl%[kit]"
         }
     }
 }
