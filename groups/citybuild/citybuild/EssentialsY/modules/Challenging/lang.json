@@ -75,6 +75,26 @@
         {
             "en_US": "[player] &7challenged you!\n&7Bet Amount: &6[amount]\n[kit]\n<|tip:'&7Click to accept!',value:'/challengeaccept [target]',text:'&8[&aACCEPT CHALLENGE&8]>",
             "de_DE": "[player] &7hat dich herausgefordert!\n&7Wetteinsatz: &6[amount]\n[kit]\n<|tip:'&7Klicke zum annehmen!',value:'/challengeaccept [target]',text:'&8[&aHERAUSFORDERUNG ANNEHMEN&8]>"
+        },
+        "msg.challenge.success.youaccepted":
+        {
+            "en_US": "&7You accepted &6[player]&7's challenge.",
+            "de_DE": "&7Du hast die Herausforderung von &6[player] &7angenommen!"
+        },
+        "msg.challenge.info.opponentaccepted":
+        {
+            "en_US": "[player] &aaccepted &7your challenge!",
+            "de_DE": "[player] &7hat deine Herausforderung &aangenommen&7!"
+        },
+        "msg.challenge.info.waitingforserver":
+        {
+            "en_US": "&7Waiting for server...",
+            "de_DE": "&7Warten auf Server..."
+        },
+        "msg.challenge.info.loadingmap":
+        {
+            "en_US": "&7Found server! Loading map...",
+            "de_DE": "&7Server gefunden! Lade Karte..."
         }
     }
 }
