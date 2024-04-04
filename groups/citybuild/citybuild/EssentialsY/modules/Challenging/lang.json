@@ -95,6 +95,11 @@
         {
             "en_US": "&7Found server! Loading map...",
             "de_DE": "&7Server gefunden! Lade Karte..."
+        },
+        "msg.challenge.info.loadingmap":
+        {
+            "en_US": "&7Map loaded! Connecting...",
+            "de_DE": "&7Karte geladen! Verbinde..."
         }
     }
 }
