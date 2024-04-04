@@ -18,14 +18,32 @@
             "de_DE": "Zeit",
             "de_AT": "Zeit"
         },
+        "JUMPANDRUN.jumps":
+        {
+            "en_US": "Jumps",
+            "en_GB": "Jumps",
+            "en_XX": "Hops",
+            "de_DE": "Sprünge",
+            "de_AT": "Sprünge",
+            "de_XX": "Hupferl"
+        },
         "JUMPANDRUN.highscore":
+        {
+            "en_US": "High score",
+            "en_GB": "High score",
+            "en_XX": "Highest tally",
+            "de_DE": "Highscore",
+            "de_AT": "Highscore",
+            "de_XX": "Heighschkore"
+        },
+        "JUMPANDRUN.reached_highscore":
         {
             "en_US": "&aYou've cracked your high score! &7Let's see how far you can get...",
             "en_GB": "&aYou've cracked your high score! &7Let's see how far you can get...",
             "en_XX": "&aVerily, thou hast shattered thy highest tally! &7Let us witness how far thou canst journey...",
             "de_DE": "&aDu hast deinen Highscore geknackt! &7Mal sehen, wie weit du noch kommst...",
             "de_AT": "&aDu hast dei Highscore g'knaust! &7Schau ma mal, wie weit du no kimmst...",
-            "de_XX": "&aDu hascht deinen Highscore zerhackt! &7Mal sehn, wie weit no kommst..."
+            "de_XX": "&aDu hascht deinen Heighschkore zerhackt! &7Mal sehn, wie weit no kommst..."
         },
         "JUMPANDRUN.you_fell_down":
         {
@@ -44,15 +62,6 @@
             "de_DE": "&cDu bist zu weit weg! &7Du hast &e[jumps] &7Sprünge geschafft.",
             "de_AT": "&cDu bist z'weit weg! &7Du host &e[jumps] &7Sprünge g'schafft.",
             "de_XX": "&cDu bischt z'weit gegangan! &e[jumps] &7Sprünge hast gschafft."
-        },
-        "JUMPANDRUN.visual.actionbar":
-        {
-            "en_US": "&6&l[game] &7| &sJumps: &e[jumps] &7| &sHighscore: &e[highscore]",
-            "en_GB": "&6&l[game] &7| &sJumps: &e[jumps] &7| &sHighscore: &e[highscore]",
-            "en_XX": "&6&l[game] &7| &sLeaps: &e[jumps] &7| &sHighest tally: &e[highscore]",
-            "de_DE": "&6&l[game] &7| &sSprünge: &e[jumps] &7| &sBeste Punktzahl: &e[highscore]",
-            "de_AT": "&6&l[game] &7| &sSprüng: &e[jumps] &7| &sB'ste Punktazl: &e[highscore]",
-            "de_XX": "&6&l[game] &7| &sHopser: &e[jumps] &7| &sSuperzahl: &e[highscore]"
         }
     }
 }
