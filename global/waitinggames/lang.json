@@ -11,6 +11,24 @@
             "de_AT": "Jump and Run",
             "de_XX": "Super Hüpferle"
         },
+        "JUMPANDRUN.you_fell_down":
+        {
+            "en_US": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
+            "en_GB": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
+            "en_XX": "&cIn sooth, thou hast fallen too far! &7Thou hast made thee &e[jumps] &7jumps.",
+            "de_DE": "&cDu bist runtergefallen! &7Du hast &e[jumps] &7Sprünge geschafft.",
+            "de_AT": "&cDu bist runter'gfallen! &7Du host &e[jumps] &7Sprünge g'schafft.",
+            "de_XX": "&cDu bist z'weit gfalla! &e[jumps] &7Sprünge hast gschafft."
+        },
+        "JUMPANDRUN.too_far_away":
+        {
+            "en_US": "&cYou are too far away! &7You've made &e[jumps] &7jumps.",
+            "en_GB": "&cYou are too far away! &7You've made &e[jumps] &7jumps.",
+            "en_XX": "&cIn sooth, thou hast strayed too far! &7Thou hast made thee &e[jumps] &7jumps.",
+            "de_DE": "&cDu bist zu weit weg! &7Du hast &e[jumps] &7Sprünge geschafft.",
+            "de_AT": "&cDu bist z'weit weg! &7Du host &e[jumps] &7Sprünge g'schafft.",
+            "de_XX": "&cDu bist z'weit gegangan! &e[jumps] &7Sprünge hast gschafft."
+        },
         "JUMPANDRUN.visual.actionbar":
         {
             "en_US": "&6&l[game] &7| &sJumps: &e[jumps] &7| &sHighscore: &e[highscore]",
