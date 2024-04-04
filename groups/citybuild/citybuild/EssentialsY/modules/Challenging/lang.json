@@ -68,13 +68,13 @@
         },
         "msg.challenge.success.requestsent":
         {
-            "en_US": "&7You've sent a challenge request to &e[player]&7!/n&7Bet Amount: &6[amount]/n[kit]",
-            "de_DE": "&7Du hast &e[player] &7herausgefordert!/n&7Wetteinsatz: &6[amount]/n[kit]"
+            "en_US": "&7You've sent a challenge request to &e[player]&7!\n&7Bet Amount: &6[amount]\n[kit]",
+            "de_DE": "&7Du hast &e[player] &7herausgefordert!\n&7Wetteinsatz: &6[amount]\n[kit]"
         },
         "msg.challenge.info.incomingrequest":
         {
-            "en_US": "[player] &7challenged you!/n&7Bet Amount: &6[amount]/n[kit]/n<|tip:'&7Click to accept!',value:'/challengeaccept [target]',text:'&8[&aACCEPT CHALLENGE&8]>",
-            "de_DE": "[player] &7hat dich herausgefordert!/n&7Wetteinsatz: &6[amount]/n[kit]/n<|tip:'&7Klicke zum annehmen!',value:'/challengeaccept [target]',text:'&8[&aHERAUSFORDERUNG ANNEHMEN&8]>"
+            "en_US": "[player] &7challenged you!\n&7Bet Amount: &6[amount]\n[kit]\n<|tip:'&7Click to accept!',value:'/challengeaccept [target]',text:'&8[&aACCEPT CHALLENGE&8]>",
+            "de_DE": "[player] &7hat dich herausgefordert!\n&7Wetteinsatz: &6[amount]\n[kit]\n<|tip:'&7Klicke zum annehmen!',value:'/challengeaccept [target]',text:'&8[&aHERAUSFORDERUNG ANNEHMEN&8]>"
         }
     }
 }
