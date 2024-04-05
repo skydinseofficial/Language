@@ -39,7 +39,7 @@
             "de_AT": "Sprünge",
             "de_XX": "Hupferl"
         },
-        "JUMPANDRUN.highscore":
+        "JUMPANDRUN.high_score":
         {
             "en_US": "High score",
             "en_GB": "High score",
@@ -47,6 +47,15 @@
             "de_DE": "Highscore",
             "de_AT": "Highscore",
             "de_XX": "Heighschkore"
+        },
+        "JUMPANDRUN.competition":
+        {
+            "en_US": "Competition",
+            "en_GB": "Competition",
+            "en_XX": "Rivalry",
+            "de_DE": "Wettkampf",
+            "de_AT": "Bewerb",
+            "de_XX": "Wettstreit"
         },
         "JUMPANDRUN.reached_highscore":
         {
