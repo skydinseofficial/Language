@@ -107,6 +107,18 @@
             "en_US": "&cYou are already in a Jump and Run!",
             "en_GB": "&cYou are already in a Jump and Run!",
             "de_DE": "&cDu bist bereits in einem Jump and Run!"
+        },
+        "JUMPANDRUN.mode_switch.infinite":
+        {
+            "en_US": "&7You switched your mode to the <#F99D19>infinite mode&7!",
+            "en_GB": "&7You switched your mode to the <#F99D19>infinite mode&7!",
+            "de_DE": "&7Du hast deinen Modus zum <#F99D19>unendlichen Modus &7gewechselt!"
+        },
+        "JUMPANDRUN.mode_switch.normal":
+        {
+            "en_US": "&7You switched your mode to the <#FCF442>normal mode&7!",
+            "en_GB": "&7You switched your mode to the <#FCF442>normal mode&7!",
+            "de_DE": "&7Du hast deinen Modus zum <#FCF442>normalen Modus &7gewechselt!"
         }
     }
 }
