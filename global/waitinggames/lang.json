@@ -66,6 +66,18 @@
             "de_AT": "&aDu hast dei Highscore g'knaust! &7Schau ma mal, wie weit du no kimmst...",
             "de_XX": "&aDu hascht deinen Heighschkore zerhackt! &7Mal sehn, wie weit no kommst..."
         },
+        "JUMPANDRUN.started.infinite":
+        {
+            "en_US": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e</jnr leave> &7to leave the game.",
+            "en_GB": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e</jnr leave> &7to leave the game.",
+            "de_DE": "&7Das Jump and Run wurde im <#F99D19>unendlichen Modus &agestartet&7. Benutze &e</jnr leave>&7, um das Spiel zu verlassen."
+        },
+        "JUMPANDRUN.started.normal":
+        {
+            "en_US": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e</jnr infinite> &7to switch to infinite mode.",
+            "en_GB": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e</jnr infinite> &7to switch to infinite mode.",
+            "de_DE": "&7Das Jump and Run wurde im <#FCF442>normalen Modus &agestartet&7. Benutze &e</jnr infinite>&7, um zum unendlichen Modus zu wechseln."
+        },
         "JUMPANDRUN.you_fell_down":
         {
             "en_US": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
