@@ -102,6 +102,12 @@
             "de_AT": "&cDu bist z'weit weg! &7Du host &e[jumps] &7Sprünge g'schafft.",
             "de_XX": "&cDu bischt z'weit gegangan! &e[jumps] &7Sprünge hast gschafft."
         },
+        "JUMPANDRUN.not_playing":
+        {
+            "en_US": "&cYou are not in a Jump and Run right now!",
+            "en_GB": "&cYou are not in a Jump and Run right now!",
+            "de_DE": "&cDu befindest dich gerade in keinem Jump and Run!"
+        },
         "JUMPANDRUN.already_playing":
         {
             "en_US": "&cYou are already in a Jump and Run!",
