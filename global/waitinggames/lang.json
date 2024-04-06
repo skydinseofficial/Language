@@ -134,6 +134,18 @@
             "en_US": "&7You switched your mode to the <#FCF442>normal mode&7!",
             "en_GB": "&7You switched your mode to the <#FCF442>normal mode&7!",
             "de_DE": "&7Du hast deinen Modus zum <#FCF442>normalen Modus &7gewechselt!"
+        },
+        "JUMPANDRUN.action_bar.infinite":
+        {
+            "en_US": "Infinite",
+            "en_GB": "Infinite",
+            "de_DE": "Unendlich"
+        },
+        "JUMPANDRUN.action_bar.normal":
+        {
+            "en_US": "Normal",
+            "en_GB": "Normal",
+            "de_DE": "Normal"
         }
     }
 }
