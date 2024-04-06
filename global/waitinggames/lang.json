@@ -78,6 +78,12 @@
             "en_GB": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e</jnr infinite> &7to switch to infinite mode.",
             "de_DE": "&7Das Jump and Run wurde im <#FCF442>normalen Modus &agestartet&7. Benutze &e</jnr infinite>&7, um zum unendlichen Modus zu wechseln."
         },
+        "JUMPANDRUN.you_left":
+        {
+            "en_US": "&cYou left the game! &7You've made &e[jumps] &7jumps.",
+            "en_GB": "&cYou left the game! &7You've made &e[jumps] &7jumps.",
+            "de_DE": "&cDu hast das Spiel verlassen! &7Du hast &e[jumps] &7Sprünge geschafft."
+        },
         "JUMPANDRUN.you_fell_down":
         {
             "en_US": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
