@@ -84,7 +84,16 @@
             "en_GB": "&cYou left the game! &7You've made &e[jumps] &7jumps.",
             "de_DE": "&cDu hast das Spiel verlassen! &7Du hast &e[jumps] &7Sprünge geschafft."
         },
-        "JUMPANDRUN.you_fell_down":
+        "JUMPANDRUN.you_fell_down.infinite":
+        {
+            "en_US": "&cYou fell down! &7You've made &e[jumps] &7jumps. &6Your jumps have been reset to 0.",
+            "en_GB": "&cYou fell down! &7You've made &e[jumps] &7jumps. &6Your jumps have been reset to 0.",
+            "en_XX": "&cIn sooth, thou hast fallen too far! &7Thou hast made thee &e[jumps] &7jumps. &6Your jumps have been reset to 0.",
+            "de_DE": "&cDu bist runtergefallen! &7Du hast &e[jumps] &7Sprünge geschafft. &6Deine Sprünge wurden auf 0 zurückgesetzt.",
+            "de_AT": "&cDu bist runter'gfallen! &7Du host &e[jumps] &7Sprünge g'schafft. &6Deine Sprünge wurden auf 0 zurückgesetzt.",
+            "de_XX": "&cDu bischt z'weit gfalla! &e[jumps] &7Sprünge hast gschafft. &6Deine Sprünge wurden auf 0 zurückgesetzt."
+        },
+        "JUMPANDRUN.you_fell_down.normal":
         {
             "en_US": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
             "en_GB": "&cYou fell down! &7You've made &e[jumps] &7jumps.",
