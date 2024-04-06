@@ -68,15 +68,15 @@
         },
         "JUMPANDRUN.started.infinite":
         {
-            "en_US": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e</jnr leave> &7to leave the game.",
-            "en_GB": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e</jnr leave> &7to leave the game.",
-            "de_DE": "&7Das Jump and Run wurde im <#F99D19>unendlichen Modus &agestartet&7. Benutze &e</jnr leave>&7, um das Spiel zu verlassen."
+            "en_US": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e<|jnr leave> &7to leave the game.",
+            "en_GB": "&7The Jump and Run has been &astarted &7in the <#F99D19>infinite mode&7. Use &e<|jnr leave> &7to leave the game.",
+            "de_DE": "&7Das Jump and Run wurde im <#F99D19>unendlichen Modus &agestartet&7. Benutze &e<|jnr leave>&7, um das Spiel zu verlassen."
         },
         "JUMPANDRUN.started.normal":
         {
-            "en_US": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e</jnr infinite> &7to switch to infinite mode.",
-            "en_GB": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e</jnr infinite> &7to switch to infinite mode.",
-            "de_DE": "&7Das Jump and Run wurde im <#FCF442>normalen Modus &agestartet&7. Benutze &e</jnr infinite>&7, um zum unendlichen Modus zu wechseln."
+            "en_US": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e<|jnr infinite> &7to switch to infinite mode.",
+            "en_GB": "&7The Jump and Run has been &astarted &7in the <#FCF442>normal mode&7. Use &e<|jnr infinite> &7to switch to infinite mode.",
+            "de_DE": "&7Das Jump and Run wurde im <#FCF442>normalen Modus &agestartet&7. Benutze &e<|jnr infinite>&7, um zum unendlichen Modus zu wechseln."
         },
         "JUMPANDRUN.you_left":
         {
