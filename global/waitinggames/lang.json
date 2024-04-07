@@ -111,6 +111,12 @@
             "de_AT": "&cDu bist z'weit weg! &7Du host &e[jumps] &7Sprünge g'schafft.",
             "de_XX": "&cDu bischt z'weit gegangan! &e[jumps] &7Sprünge hast gschafft."
         },
+        "JUMPANDRUN.no_spam":
+        {
+            "en_US": "&cPlease do not spam this command!",
+            "en_GB": "&cPlease do not spam this command!",
+            "de_DE": "&cBitte spamme diesen Befehl nicht!"
+        },
         "JUMPANDRUN.not_playing":
         {
             "en_US": "&cYou are not in a Jump and Run right now!",
