@@ -142,7 +142,13 @@
         {
             "en_US": "&cThe specified area \"&6[area]&c\" could not be found!",
             "en_GB": "&cThe specified area \"&6[area]&c\" could not be found!",
-            "de_DE": "&cDer angegebene Bereich \"&6[area]&c\" konnte nicht gefunden werden!"
+            "de_DE": "&cDas angegebene Gebiet \"&6[area]&c\" konnte nicht gefunden werden!"
+        },
+        "JUMPANDRUN.area_not_provided":
+        {
+            "en_US": "&cPlease provide the name of your target area!",
+            "en_GB": "&cPlease provide the name of your target area!",
+            "de_DE": "&cBitte gib den Namen deines Zielgebietes an!"
         },
         "JUMPANDRUN.mode_switch.infinite":
         {
