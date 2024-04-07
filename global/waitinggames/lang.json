@@ -138,6 +138,12 @@
             "en_GB": "&cYou are already in a Jump and Run!",
             "de_DE": "&cDu bist bereits in einem Jump and Run!"
         },
+        "JUMPANDRUN.area_not_found":
+        {
+            "en_US": "&cThe specified area \"&6[area]&c\" could not be found!",
+            "en_GB": "&cThe specified area \"&6[area]&c\" could not be found!",
+            "de_DE": "&cDer angegebene Bereich \"&6[area]&c\" konnte nicht gefunden werden!"
+        },
         "JUMPANDRUN.mode_switch.infinite":
         {
             "en_US": "&7You switched your mode to the <#F99D19>infinite mode&7! Use &e<|jnr leave> &7to leave the game.",
