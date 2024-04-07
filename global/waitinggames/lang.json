@@ -149,8 +149,8 @@
         },
         "JUMPANDRUN.stats.title":
         {
-            "en_US": "&7Jump and Run stats from &6[player]&7:",
-            "en_GB": "&7Jump and Run stats from &6[player]&7:",
+            "en_US": "&7Jump and Run stats of &6[player]&7:",
+            "en_GB": "&7Jump and Run stats of &6[player]&7:",
             "de_DE": "&7Jump and Run Statistiken von &6[player]&7:"
         },
         "JUMPANDRUN.stats.highscore":
