@@ -111,6 +111,15 @@
             "de_AT": "&cDu bist z'weit weg! &7Du host &e[jumps] &7Sprünge g'schafft.",
             "de_XX": "&cDu bischt z'weit gegangan! &e[jumps] &7Sprünge hast gschafft."
         },
+        "JUMPANDRUN.afk":
+        {
+            "en_US": "&cYou haven't moved for 2 minutes! &7You've made &e[jumps] &7jumps.",
+            "en_GB": "&cYou haven't moved for 2 minutes! &7You've made &e[jumps] &7jumps.",
+            "en_XX": "&cIn sooth, thou hast not moved for 2 minutes! &7Thou hast made thee &e[jumps] &7jumps.",
+            "de_DE": "&cDu hast dich 2 Minuten lang nicht bewegt! &7Du hast &e[jumps] &7Sprünge geschafft.",
+            "de_AT": "&cDu host di füa 2 Minutn ned bwegt! &7Du host &e[jumps] &7Sprünge g'schafft.",
+            "de_XX": "&cDu  hoscht dich ned bewecht für 2 Minudn! &e[jumps] &7Sprünge hast gschafft."
+        },
         "JUMPANDRUN.no_spam":
         {
             "en_US": "&cPlease do not spam this command!",
