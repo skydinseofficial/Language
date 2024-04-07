@@ -120,6 +120,12 @@
             "de_AT": "&cDu host di füa 2 Minutn ned bwegt! &7Du host &e[jumps] &7Sprünge g'schafft.",
             "de_XX": "&cDu  hoscht dich ned bewecht für 2 Minudn! &e[jumps] &7Sprünge hast gschafft."
         },
+        "JUMPANDRUN.no_position":
+        {
+            "en_US": "&cThe block generator could not find a suitable position for a new block! Please report this problem to a team member!",
+            "en_GB": "&cThe block generator could not find a suitable position for a new block! Please report this problem to a team member!",
+            "de_DE": "&cDer Blockgenerator konnte keine passende Position für einen neuen Block finden! Bitte melde dieses Problem an ein Teammitglied!"
+        },
         "JUMPANDRUN.no_spam":
         {
             "en_US": "&cPlease do not spam this command!",
