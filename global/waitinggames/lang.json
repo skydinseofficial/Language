@@ -173,9 +173,9 @@
         },
         "JUMPANDRUN.stats.highscore":
         {
-            "en_US": "&7High score: &e[high_score] &7(Position: &e[position]&7)",
-            "en_GB": "&7High score: &e[high_score] &7(Position: &e[position]&7)",
-            "de_DE": "&7Highscore: &e[high_score] &7(Position: &e[position]&7)"
+            "en_US": "&7High score: &e[high_score] &7(Position: &e[position]&6/[size]&7)",
+            "en_GB": "&7High score: &e[high_score] &7(Position: &e[position]&6/[size]&7)",
+            "de_DE": "&7Highscore: &e[high_score] &7(Position: &e[position]&6/[size]&7)"
         }
     }
 }
