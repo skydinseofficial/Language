@@ -165,7 +165,7 @@
             "en_GB": "&7Total jumps made:",
             "de_DE": "&7Insgesamt gesprungen:"
         },
-        "JUMPANDRUN.stats.total_jumps":
+        "JUMPANDRUN.stats.per_second":
         {
             "en_US": "&7Average jumps per second:",
             "en_GB": "&7Average jumps per second:",
