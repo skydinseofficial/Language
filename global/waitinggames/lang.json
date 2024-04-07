@@ -146,6 +146,30 @@
             "en_US": "Normal",
             "en_GB": "Normal",
             "de_DE": "Normal"
+        },
+        "JUMPANDRUN.stats.title":
+        {
+            "en_US": "&7Jump and Run stats from &6[player]&7:",
+            "en_GB": "&7Jump and Run stats from &6[player]&7:",
+            "de_DE": "&7Jump and Run Statistiken von &6[player]&7:"
+        },
+        "JUMPANDRUN.stats.total_time":
+        {
+            "en_US": "&7Total time played:",
+            "en_GB": "&7Total time played:",
+            "de_DE": "&7Gesamte gespielte Zeit:"
+        },
+        "JUMPANDRUN.stats.total_jumps":
+        {
+            "en_US": "&7Total jumps made:",
+            "en_GB": "&7Total jumps made:",
+            "de_DE": "&7Insgesamt gesprungen:"
+        },
+        "JUMPANDRUN.stats.total_jumps":
+        {
+            "en_US": "&7Average jumps per second:",
+            "en_GB": "&7Average jumps per second:",
+            "de_DE": "&7Durchschnittliche Sprünge pro Sekunde:"
         }
     }
 }
