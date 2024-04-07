@@ -155,27 +155,27 @@
         },
         "JUMPANDRUN.stats.highscore":
         {
-            "en_US": "&7High score: &s[high_score] &7(Position: &s[position]&6/[size]&7)",
-            "en_GB": "&7High score: &s[high_score] &7(Position: &s[position]&6/[size]&7)",
-            "de_DE": "&7Highscore: &s[high_score] &7(Position: &s[position]&6/[size]&7)"
+            "en_US": "&7High score: &e[high_score] &7(Position: &s[position]&6/[size]&7)",
+            "en_GB": "&7High score: &e[high_score] &7(Position: &s[position]&6/[size]&7)",
+            "de_DE": "&7Highscore: &e[high_score] &7(Position: &s[position]&6/[size]&7)"
         },
         "JUMPANDRUN.stats.total_jumps":
         {
-            "en_US": "&7Total jumps made: &s[jumps]",
-            "en_GB": "&7Total jumps made: &s[jumps]",
-            "de_DE": "&7Insgesamt gesprungen: &s[jumps]"
+            "en_US": "&7Total jumps made: &e[jumps]",
+            "en_GB": "&7Total jumps made: &e[jumps]",
+            "de_DE": "&7Insgesamt gesprungen: &e[jumps]"
         },
         "JUMPANDRUN.stats.total_time":
         {
-            "en_US": "&7Total time played: &s[time]",
-            "en_GB": "&7Total time played: &s[time]",
-            "de_DE": "&7Gesamte gespielte Zeit: &s[time]"
+            "en_US": "&7Total time played: &e[time]",
+            "en_GB": "&7Total time played: &e[time]",
+            "de_DE": "&7Gesamte gespielte Zeit: &e[time]"
         },
         "JUMPANDRUN.stats.per_second":
         {
-            "en_US": "&7Average jumps per second: &s[rate]",
-            "en_GB": "&7Average jumps per second: &s[rate]",
-            "de_DE": "&7Durchschnittliche Sprünge pro Sekunde: &s[rate]"
+            "en_US": "&7Average jumps per second: &e[rate]",
+            "en_GB": "&7Average jumps per second: &e[rate]",
+            "de_DE": "&7Durchschnittliche Sprünge pro Sekunde: &e[rate]"
         }
     }
 }
