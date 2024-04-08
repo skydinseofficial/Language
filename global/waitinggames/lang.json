@@ -84,6 +84,12 @@
             "en_GB": "&cYou left the game! &7You've made &e[jumps] &7jumps.",
             "de_DE": "&cDu hast das Spiel verlassen! &7Du hast &e[jumps] &7Sprünge geschafft."
         },
+        "JUMPANDRUN.interrupted":
+        {
+            "en_US": "&cThe jump and run was interrupted by another action! &7You've made &e[jumps] &7jumps.",
+            "en_GB": "&cThe jump and run was interrupted by another action! &7You've made &e[jumps] &7jumps.",
+            "de_DE": "&cDas Jump and Run wurde durch eine andere Aktion unterbrochen! &7Du hast &e[jumps] &7Sprünge geschafft."
+        },
         "JUMPANDRUN.no_position":
         {
             "en_US": "&cThe block generator could not find a suitable position for a new block! Please report this problem to a team member! &7You've made &e[jumps] &7jumps.",
