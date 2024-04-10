@@ -1,1 +1,26 @@
-
+{
+    "system": "cb-modules-dungeons",
+    "translations":
+    {
+        "msg.error.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "msg.error.onlyleadercanstartdungeon":
+        {
+            "en_US": "&cOnly the Dungeon Leader, the first player to enter the Dungeon, can start it.",
+            "de_DE": "&cNur der Dungeon Leader, der erste Spieler, der den Dungeon betreten hat, kann diesen auch starten."
+        },
+        "bossbar.waitingforplayers":
+        {
+            "en_US": "&7Waiting for players to participate...",
+            "de_DE": "&7Warten auf Spieler zum teilnehmen..."
+        },
+        "bossbar.waitingforpartyandfriends":
+        {
+            "en_US": "&7Time for party members and friends to join: &6[countdown]",
+            "de_DE": "&7Zeit zum Beitreten für Partymitglieder und Freunde: &6[countdown]"
+        }
+    }
+}
