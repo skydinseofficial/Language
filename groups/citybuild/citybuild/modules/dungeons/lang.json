@@ -21,6 +21,11 @@
         {
             "en_US": "&7Time for party members and friends to join: &6[countdown]",
             "de_DE": "&7Zeit zum Beitreten für Partymitglieder und Freunde: &6[countdown]"
+        },
+        "bossbar.timetoprepare":
+        {
+            "en_US": "&7Time to prepare: &6[countdown]",
+            "de_DE": "&7Zeit sich vorzubereiten: &6[countdown]"
         }
     }
 }
