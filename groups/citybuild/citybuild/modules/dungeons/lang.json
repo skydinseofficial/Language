@@ -26,6 +26,11 @@
         {
             "en_US": "&7Time to prepare: &6[countdown]",
             "de_DE": "&7Zeit sich vorzubereiten: &6[countdown]"
+        },
+        "bossbar.loadingmap":
+        {
+            "en_US": "&7Loading map...",
+            "de_DE": "&7Karte wird geladen..."
         }
     }
 }
