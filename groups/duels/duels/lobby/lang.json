@@ -144,6 +144,16 @@
             "de_DE": "Sumo",
             "de_XX": "Fettsack-Ringen",
             "en_XX": "Fat people sport"
+        },
+        "GUI.item.next":
+        {
+            "en_US": "Next Page",
+            "de_DE": "Nächste Seite"
+        },
+        "GUI.item.previous":
+        {
+            "en_US": "Previous Page",
+            "de_DE": "Vorherige Seite"
         }
     }
 }
