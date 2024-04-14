@@ -92,11 +92,38 @@
             "de_DE": "&aDein Flugmodus wurde aktiviert.",
             "tr_TR": "&aUçuş modunu etkinleştirildi."
         },
+        "actionbar.fly.off":
+        {
+            "en_US": "<#fa4233>Your flight mode has been disabled.",
+            "de_DE": "<#fa4233>Dein Flugmodus wurde deaktiviert.",
+            "tr_TR": "<#fa4233>Uçuş modun devre dışı bırakıldı."
+        },
         "GUI.queue.title":
         {
             "en_US": "Game Panel ([game])",
             "de_DE": "Game Panel ([game])",
             "tr_TR": "Oyun Paneli ([game])"
+        },
+        "GUI.mapselector.title":
+        {
+            "en_US": "Choose a map",
+            "de_DE": "Wähle eine Karte",
+            "tr_TR": "Harita seç"
+        },
+        "GUI.item.queue.join":
+        {
+            "en_US": "&6Join Queue",
+            "de_DE": "&6Warteschlange betreten"
+        },
+        "GUI.item.queue.leave":
+        {
+            "en_US": "&cLeave Queue",
+            "de_DE": "&cWarteschlange verlassen"
+        },
+        "GUI.item.choose-map":
+        {
+            "en_US": "&6Choose map",
+            "de_DE": "&6Karte wählen"
         },
         "GAME.anchor.name":
         {
