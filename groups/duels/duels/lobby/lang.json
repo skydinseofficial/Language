@@ -17,7 +17,7 @@
         "ITEM.challenge":
         {
             "en_US": "&6Challange a player",
-            "de_DE": "&6Eine Spieler herausfordern",
+            "de_DE": "&6Einen Spieler herausfordern",
             "tr_TR": "&6Oyunculara meydan oku"
         },
         "GUI.general.back":
@@ -59,7 +59,7 @@
         "GUI.settings.visibility":
         {
             "en_US": "&6Player visibility",
-            "de_DE": "&6Spieler:außen-sichtbarkeit",
+            "de_DE": "&6Spielersichtbarkeit",
             "tr_TR": "&6Oyuncu görünürlüğü"
         },
         "GUI.settings.visibility.lore":
@@ -92,11 +92,31 @@
             "de_DE": "&aDein Flugmodus wurde aktiviert.",
             "tr_TR": "&aUçuş modunu etkinleştirildi."
         },
-        "actionbar.fly.off":
+        "GUI.queue.title":
         {
-            "en_US": "<#fa4233>Your flight mode has been disabled.",
-            "de_DE": "<#fa4233>Dein Flugmodus wurde deaktiviert.",
-            "tr_TR": "<#fa4233>Uçuş modun devre dışı bırakıldı."
+            "en_US": "Game Panel ([game])",
+            "de_DE": "Game Panel ([game])",
+            "tr_TR": "Oyun Paneli ([game])"
+        },
+        "GAME.anchor.name":
+        {
+            "en_US": "Anchor",
+            "de_DE": "Anchor",
+            "de_XX": "Anker",
+            "en_XX": "Wallmart MLGRush"
+        },
+        "GAME.kit.name":
+        {
+            "en_US": "Kits",
+            "de_DE": "Kits",
+            "de_XX": "Startpakete"
+        },
+        "GAME.sumo.name":
+        {
+            "en_US": "Sumo",
+            "de_DE": "Sumo",
+            "de_XX": "Fettsack-Ringen",
+            "en_XX": "Fat people sport"
         }
     }
 }
