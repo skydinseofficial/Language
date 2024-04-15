@@ -659,7 +659,7 @@
         "LS.players":
         {
             "en_US": "Players:",
-            "de_DE": "Spieler:innen:",
+            "de_DE": "Spieler:",
             "tr_TR": "Oyuncular:",
             "ko_KR": "플레이어 수:"
         },
@@ -1134,14 +1134,14 @@
         "NETWORKSTATS.registeredplayers":
         {
             "en_US": "Registered Players",
-            "de_DE": "Registrierte Spieler:innen",
+            "de_DE": "Registrierte Spieler",
             "tr_TR": "Kayıtlı oyuncular",
             "ko_KR": "등록된 플레이어"
         },
         "NETWORKSTATS.playeramountrecord":
         {
             "en_US": "Player record",
-            "de_DE": "Spieler:innenrekord",
+            "de_DE": "Spielerrekord",
             "tr_TR": "Oyuncu rekoru",
             "ko_KR": "플레이어 기록"
         },
@@ -1176,7 +1176,7 @@
         "NETWORKSTATS.discord_members":
         {
             "en_US": "members",
-            "de_DE": "Mitglieder:innen",
+            "de_DE": "Mitglieder",
             "tr_TR": "üyeler",
             "ko_KR": "회원"
         },
