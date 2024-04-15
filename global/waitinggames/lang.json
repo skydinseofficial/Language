@@ -135,6 +135,12 @@
             "en_GB": "&cPlease do not spam this command!",
             "de_DE": "&cBitte spamme diesen Befehl nicht!"
         },
+        "JUMPANDRUN.no_spam_action":
+        {
+            "en_US": "&cPlease do not spam this actioon!",
+            "en_GB": "&cPlease do not spam this actioon!",
+            "de_DE": "&cBitte spamme diese Aktion nicht!"
+        },
         "JUMPANDRUN.not_playing":
         {
             "en_US": "&cYou are not in a Jump and Run right now!",
