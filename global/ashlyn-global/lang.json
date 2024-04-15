@@ -126,6 +126,11 @@
         {
             "en_US": "<+tip:'&7Server: &6[server]\n&7Mode: &6[mode]\n&7Map: &6[map]\n&7Custom: &6[custom]',text:'&8[&6[round]&8] &7Players: &e[players]/[maxplayers] &8| &7Status: [status]'>",
             "de_DE": "<+tip:'&7Server: &6[server]\n&7Modus: &6[mode]\n&7Karte: &6[map]\n&7Custom: &6[custom]',text:'&8[&6[round]&8] &7Spieler: &e[players]/[maxplayers] &8| &7Status: [status]'>"
+        },
+        "GLOBAL.cmd.ashlyn.listhosts.row":
+        {
+            "en_US": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Players: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Rounds: [rounds]'>",
+            "de_DE": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Spieler: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Runden: [rounds]'>"
         }
     }
 }
