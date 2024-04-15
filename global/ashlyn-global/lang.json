@@ -125,7 +125,7 @@
         "GLOBAL.cmd.ashlyn.listrounds.row":
         {
             "en_US": "<+tip:'&7Server: &6[server]%nl%&7Map: &6[map]%nl%&7Custom: &6[custom]',text:'&8[&6[round]&8] &7Players: &e[players]/[maxplayers] &8| &7Mode: &e[mode] &8| &7Status: [status]'>",
-            "de_DE": "<+tip:'&7Server: &6[server]%nl%&7Karte: &6[map]%nl%&7Custom: &6[custom]',text:'&8[&6[round]&8] &7Spieler: &e[players]/[maxplayers] &8| &7Modus: &e[mode] &8| &7Status: [status]'>"
+            "de_DE": "<+tip:'&7Server: &6[server]\n&7Karte: &6[map]\n&7Custom: &6[custom]',text:'&8[&6[round]&8] &7Spieler: &e[players]/[maxplayers] &8| &7Modus: &e[mode] &8| &7Status: [status]'>"
         }
     }
 }
