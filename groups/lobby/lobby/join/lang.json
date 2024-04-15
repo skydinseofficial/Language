@@ -7,21 +7,24 @@
             "en_US": "&cThere is no server online to connect you to &6VAR1&c!",
             "de_DE": "&cEs ist kein Server online, um dich auf &6VAR1 &czu verbinden!",
             "de_XX": "&cKonnte keine verfügbare Spaßaktivität im Bereich &6VAR1 &causfindig machen!",
-            "tr_TR": "&cSeni &6VAR1'e &cbağlayacak çevrimiçi bir sunucu yok"
+            "tr_TR": "&cSeni &6VAR1'e &cbağlayacak çevrimiçi bir sunucu yok",
+            "ko_KR": "&c&6VAR1에 연결할 수 있는 서버가 없습니다&c!"
         },
         "QUICKJOIN.no_game":
         {
             "en_US": "&cCouldn't find a free game in &6VAR1&c!",
             "de_DE": "&cKonnte kein freies Spiel in &6VAR1 &cfinden!",
             "de_XX": "&cKonnte keine unbesetzte Spaßaktivität in &6VAR1 &causfindig machen!",
-            "tr_TR": "&6VAR1'de &cboş oyun bulunamadı!"
+            "tr_TR": "&6VAR1'de &cboş oyun bulunamadı!",
+            "ko_KR": "&c&6VAR1에 빈 게임을 찾을 수 없습니다&c!"
         },
         "QUICKJOIN.connecting":
         {
             "en_US": "&7Connecting you to &eVAR1&7...",
             "de_DE": "&7Verbinde dich zu &eVAR1&7...",
             "de_XX": "&7Schicke dich zu &eVAR1&7...",
-            "tr_TR": "&eVAR1'e &7gönderiyoruz..."
+            "tr_TR": "&eVAR1'e &7gönderiyoruz...",
+            "ko_KR": "&eVAR1에 연결 중..."
         },
         "KICKOLDVERSIONS.kick":
         {
@@ -29,9 +32,11 @@
             "de_DE": "&6&lSKYDINSE.DE&8: &cDeine Spielversion ist zu alt! &7(&eVAR1&7)\n&cBitte nutze mindestens die Version &6VAR2&c!",
             "de_XX": "&6&lSKYDINSE.DE&8: &cDeine Game ist antik! &7(&eVAR1&7)\n&cBitte update mal auf &6VAR2&c!",
             "pt_BR": "&6&lSKYDINSE.DE&8: &cA versão do jogo é demasiado antiga! &7(&eVAR1&7)\n&cPor favor, utilize pelo menos a versão &6VAR2&c!",
-            "es_ES": "&6&lSKYDINSE.DE&8: &cLa versión del juego es demasiado antigua. &7(&eVAR1&7)\n&cPor favor, ¡utiliza al menos la versión &6VAR2&c!",
+            "es_ES": "&6&lSKYDINSE.DE&8: &cLa versión del juego es demasiado antigua. &7(&eVAR1&7)\n&cPor favor, ¡utiliza al menos la verㅅsión &6VAR2&c!",
             "fr_FR": "&6&lSKYDINSE.DE&8: &cLa version du jeu est trop ancienne! &7(&eVAR1&7)\n&cVeuillez utiliser au moins la version &6VAR2&c!",
-            "tr_TR": "&6&lSKYDINSE.DE&8: &cOyun sürümü çok eski! &7(&eVAR1&7)\n&cLütfen en azından sürüm &6VAR2&c'i kullanın!"
+            "tr_TR": "&6&lSKYDINSE.DE&8: &cOyun sürümü çok eski! &7(&eVAR1&7)\n&cLütfen en azından sürüm &6VAR2&c'i kullanın!",
+            "ko_KR": "&6&lSKYDINSE.DE&8: &c게임 버전이 너무 오래되었습니다! &7(&eVAR1&7)\n&c최소 &6VAR2&c 버전을 사용해주세요!"
+
         },
         "ACCEPT.resourcepack_reject":
         {
@@ -40,7 +45,8 @@
             "pt_BR": "&cTens de aceitar o pacote de recursos para jogar no Skydinse! &7Por favor, edita a tua entrada deste servidor na tua lista de servidores e muda a definição de 'Pacotes de recursos' do Servidor para 'Sim'!",
             "es_ES": "&c¡Debes aceptar el paquete de recursos para jugar en Skydinse! &7Edita la entrada de este servidor en tu lista de servidores y cambia la configuración de 'Paquete de recursos' del servidor a 'Activado'.",
             "fr_FR": "&cVous devez accepter le pack de ressources pour jouer sur Skydinse! &7Veuillez éditer votre entrée pour ce serveur dans votre liste de serveurs et changer le paramètre 'Packs de ressources' sur 'Activés'!",
-            "tr_TR": "&cSkydinse'de oynamak için kaynak paketini kabul etmelisiniz! &7Lütfen sunucu listenizde bu sunucu için girişinizi düzenleyin ve 'Sunucu Kaynak Paketleri' ayarını 'Açik' değiştirin!"
+            "tr_TR": "&cSkydinse'de oynamak için kaynak paketini kabul etmelisiniz! &7Lütfen sunucu listenizde bu sunucu için girişinizi düzenleyin ve 'Sunucu Kaynak Paketleri' ayarını 'Açik' değiştirin!",
+            "ko_KR": "&cSkydinse에서 플레이하려면 리소스 팩을 수락해야 합니다! &7서버 목록에서 이 서버의 항목을 편집하고 '서버 리소스 팩' 설정을 '활성화'로 변경해주세요!"
         },
         "ACCEPT.timeout":
         {
@@ -49,7 +55,8 @@
             "pt_BR": "&cEsteve inactivo durante demasiado tempo! Volte a juntar-se à rede!",
             "es_ES": "&cHas estado inactivo demasiado tiempo. Vuelve a unirte a la red.",
             "fr_FR": "&cVous êtes resté inactif trop longtemps! Rejoignez le réseau!",
-            "tr_TR": "&cÇok uzun süredir aktif değildiniz! Lütfen ağa tekrar katılın!"
+            "tr_TR": "&cÇok uzun süredir aktif değildiniz! Lütfen ağa tekrar katılın!",
+            "ko_KR": "&c너무 오랫동안 비활성 상태였습니다! 네트워크에 다시 참여해주세요!"
         },
         "ACCEPT.resourcepack_error":
         {
@@ -58,7 +65,8 @@
             "pt_BR": "&cOcorreu um erro durante a instalação do pacote de recursos! Comunique este problema à nossa equipa ou tente novamente mais tarde!",
             "es_ES": "&cSe ha producido un error durante la instalación del paquete de recursos. Informe de este problema a nuestro equipo o inténtelo de nuevo más tarde.",
             "fr_FR": "&cUne erreur s'est produite lors de l'installation du resource pack! Veuillez signaler ce problème à notre équipe ou réessayer plus tard!",
-            "tr_TR": "&cKaynak paketinin yüklenmesi sırasında bir hata oluştu! Lütfen bu sorunu ekibimize bildirin veya daha sonra tekrar deneyin!"
+            "tr_TR": "&cKaynak paketinin yüklenmesi sırasında bir hata oluştu! Lütfen bu sorunu ekibimize bildirin veya daha sonra tekrar deneyin!",
+            "ko_KR": "&c리소스 팩 설치 중 오류가 발생했습니다! 이 문제를 저희 팀에 신고하거나 나중에 다시 시도해주세요!"
         },
         "ACCEPT.require_resourepack.message":
         {
@@ -68,7 +76,8 @@
             "pt_BR": "&cÉ necessário &naceitar o pacote de recursos&c para poder jogar!",
             "es_ES": "&cTu dois &naccepter le paquet de ressources &cpour pouvoir jouer!",
             "fr_FR": "&cDebes &naceptar el paquete de recursos &cpara poder jugar.",
-            "tr_TR": "&cOynamak için &nkaynak paketini kabul&c etmelisiniz!"
+            "tr_TR": "&cOynamak için &nkaynak paketini kabul&c etmelisiniz!",
+            "ko_KR": "&c플레이 하려면 &n리소스 팩을 수락&c해야 합니다!"
         },
         "ACCEPT.require_resourepack.title":
         {
@@ -77,7 +86,8 @@
             "pt_BR": "&cAceite o pacote de recursos!",
             "es_ES": "&cAcepte el paquete de recursos.",
             "fr_FR": "&cVeuillez accepter le paquet de ressources!",
-            "tr_TR": "&cKaynak paketini kabul edin."
+            "tr_TR": "&cKaynak paketini kabul edin.",
+            "ko_KR": "&c리소스 팩을 수락해주세요!"
         },
         "GDPR.bedrock_item.accept":
         {
@@ -172,7 +182,7 @@
             "pl_PL": "&0Zgadzasz się?\n<|value:'privacy 1',text:'&2&l[ TAK ] ',tip:'&7Klikając tutaj, wyrażasz zgodę na zbieranie i przetwarzanie twoich danych przez Skydinse zgodnie z naszą polityką prywatności pod adresem &ewww.skydinse.net/go/privacy&7, oraz zgodnie z obowiązującymi przepisami Republiki Federalnej Niemiec i Unii Europejskiej.\n\n&7Możesz &anatychmiast rozpocząć swoje doświadczenie w grze&7!'>&8|<|value:'privacy 0',text:' &c&l[ NIE ]',tip:'&7Klikając tutaj, odmawiasz zgody na zbieranie i przetwarzanie twoich danych przez Skydinse zgodnie z naszą polityką prywatności pod adresem &ewww.skydinse.net/go/privacy&7, oraz zgodnie z obowiązującymi przepisami Republiki Federalnej Niemiec i Unii Europejskiej.\n\n&7Zbieranie i przetwarzanie danych są niezbędne do świadczenia naszych usług. Bez zgody na przetwarzanie twoich danych, niestety nie możemy świadczyć naszych usług. &cTwoje połączenie z siecią zostanie przerwane&7.'>",
             "ru_RU": "&0Согласны?\n<|value:'privacy 1',text:'&2&l[ ДА ] ',tip:'&7Нажимая здесь, вы &aасоглашаетесь &7на сбор и обработку ваших данных Skydinse в соответствии с нашей Политикой конфиденциальности по адресу &ewww.skydinse.net/go/privacy&7, а также в соответствии с применимым законодательством Федеративной Республики Германия и Европейского союза.\n\n&7Вы можете &aначать игровой опыт немедленно&7!'>&8|<|value:'privacy 0',text:' &c&l[ НЕТ ]',tip:'&7Нажимая здесь, вы &cотклоняете &7сбор и обработку ваших данных Skydinse в соответствии с нашей Политикой конфиденциальности по адресу &ewww.skydinse.net/go/privacy&7, а также в соответствии с применимым законодательством Федеративной Республики Германия и Европейского союза.\n\n&7Сбор и обработка данных необходимы для предоставления наших услуг. Без вашего согласия на обработку данных мы с сожалением не можем предоставить вам наши услуги. &cВаше &cподключение к сети будет прервано.'>",
             "tr_TR": "&0Kabul ediyor musunuz?\n<|value:'privacy 1',text:'&2&l[ EVET ] ',tip:'&7Buraya tıklayarak, Almanya Federal Cumhuriyeti ve Avrupa Birliği`nin ilgili yasaları uyarınca Skydinse tarafından verilerinizin toplanması ve işlenmesine ein bir rızada bulunmuş olursunuz. Ayrıca &ewww.skydinse.net/go/privacy &7adresindeki Gizlilik Politikamıza da uygunsunuz.&a Hizmetinize hemen başlayabilirsiniz!'>&8|<|value:'privacy 0',text:' &c&l[ HAYIR ]',tip:'&7Buraya tıklayarak, Almanya Federal Cumhuriyeti ve Avrupa Birliği`nin ilgili yasaları uyarınca Skydinse tarafından verilerinizin toplanması ve işlenmesini red etmiş olursunuz. Verilerinizin işlenmesi ve toplanması hizmetlerimizi sunmak için &zorunludur. Verilerinizin işlenmesine rıza göstermezseniz, maalesef hizmetlerimizi sunamayız. &cBağlantınız kesilecektir.'>",
-            "ko_KR": "&0동의하시나요?\n<|value:'privacy 1',text:'&2&l[ 예 ] ',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리에 동의합니다. 또한 &ewww.skydinse.net/go/privacy&7의 개인 정보 보호 정책에도 동의합니다.&7 게임 체험을 즉시 시작할 수 있습니다!'>&8|<|value:'privacy 0',text:' &c&l[ 아니요 ]',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리를 거부합니다. 데이터 수집 및 처리는 저희 서비스 제공에 필수적입니다. 데이터 처리에 동의하지 않으면, 서비스를 제공할 수 없음을 유감스럽게 생각합니다. &c네트워크 연결이 종료됩니다.'>"
+            "ko_KR": "&0동의하시나요?\n<|value:'privacy 1',text:'&2&l[ 예 ] ',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리에 동의합니다. 또한 &ewww.skydinse.net/go/privacy&7의 개인 정보 보호 정책에도 동의합니다.&7 게임 체험을 즉시 시작할 수 있습니다!'>&8|<|value:'privacy 0',text:' &c&l[ 아니요 ]',tip:'&7여기를 클릭하면, 독일 연방 공화국 및 유럽 연합의 적용 가능한 법률에 따라 Skydinse가 귀하의 데이터 수집 및 처리를 거부합니다. 데이터 수집 및 처리는 저희 서비스 제공에 필수적입니다. 데이터 처리에 동의하지 않으면, 서비스를 제공할 수 없으므로, &c네트워크 연결이 종료됩니다.'>"
         },
         "GDPR.text.prompt.bedrock":
         {
@@ -204,7 +214,8 @@
             "pt_BR": "&cTens de aceitar para jogar na Skydinse!",
             "es_ES": "&c¡Debes aceptar jugar en Skydinse!",
             "fr_FR": "&cTu dois accepter pour pouvoir jouer sur Skydinse!",
-            "tr_TR": "&cSkydinse'de oynamayı kabul etmelisiniz!"
+            "tr_TR": "&cSkydinse'de oynamayı kabul etmelisiniz!",
+            "ko_KR": "&cSkydinse에서 플레이하려면 수락해야 합니다!"
         },
         "FIRSTJOIN.new":
         {
@@ -214,7 +225,8 @@
             "pt_BR": "&7Bem-vindo à <#F39523>rede Skydinse&7! Desejamos-vos muita diversão!",
             "es_ES": "&7¡Bienvenido a la <#F39523>red Skydinse&7! ¡Te deseamos mucha diversión!",
             "fr_FR": "&7Bienvenue sur le <#F39523>réseau Skydinse&7! Nous te souhaitons beaucoup de plaisir!",
-            "tr_TR": "<#F39523>Skydinse ağına&7 hoş geldiniz! Size bol eğlence dileriz!"
+            "tr_TR": "<#F39523>Skydinse ağına&7 hoş geldiniz! Size bol eğlence dileriz!",
+            "ko_KR": "&7<#F39523>Skydinse 네트워크&7에 오신 것을 환영합니다! 즐거운 시간 되세요!"
         },
         "FIRSTJOIN.clickable":
         {
@@ -223,7 +235,8 @@
             "pt_BR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[DISCORD] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[SÍTIO WEB] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[JURÍDICO] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]",
             "es_ES": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[DISCORD] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[PÁGINA WEB] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[LEGAL] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]",
             "fr_FR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[DISCORD] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[SITE WEB] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[LÉGAL] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]",
-            "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[DISCORD] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[WEB SİTESİ] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[YASAL] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]"
+            "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[DISCORD] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[WEB SİTESİ] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[YASAL] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]",
+            "ko_KR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"[디스코드] \"\",\"\"color\"\":\"\"##5865F2\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR3\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[웹사이트] \"\",\"\"color\"\":\"\"gold\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR4\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"[법률] \"\",\"\"color\"\":\"\"yellow\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}}]"
         },
         "PRIVACY.update":
         {
@@ -232,7 +245,8 @@
             "pt_BR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Actualizámos a nossa política de privacidade! Pode lê-las em \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"!\"\",\"\"color\"\":\"\"gray\"\"}]",
             "es_ES": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Hemos actualizado nuestra política de privacidad. Puede leerlos en \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\".\"\",\"\"color\"\":\"\"gray\"\"}]",
             "fr_FR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Nous avons mis à jour notre déclaration de confidentialité! Tu peux les consulter sur \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"!\"\",\"\"color\"\":\"\"gray\"\"}]",
-            "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Gizlilik politikamızı güncelledik! Bunları \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\" adresinden okuyabilirsiniz!\"\",\"\"color\"\":\"\"gray\"\"}]"
+            "tr_TR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"Gizlilik politikamızı güncelledik! Bunları \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\" adresinden okuyabilirsiniz!\"\",\"\"color\"\":\"\"gray\"\"}]",
+            "ko_KR": "[\"\"\"\",{\"\"text\"\":\"\"[\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\"\u2139\"\",\"\"color\"\":\"\"##99AAB5\"\"},{\"\"text\"\":\"\"]\"\",\"\"color\"\":\"\"dark_gray\"\"},{\"\"text\"\":\"\" \u231eSkydinse\u231d \"\",\"\"color\"\":\"\"##FFC300\"\"},{\"\"text\"\":\"\"\u1405 \"\",\"\"bold\"\":true,\"\"color\"\":\"\"##5A5757\"\"},{\"\"text\"\":\"\"개인 정보 보호 정책을 업데이트했습니다! 여기에서 읽을 수 있습니다: \"\",\"\"color\"\":\"\"gray\"\"},{\"\"text\"\":\"\"VAR1\"\",\"\"underlined\"\":true,\"\"color\"\":\"\"##FFD339\"\",\"\"clickEvent\"\":{\"\"action\"\":\"\"open_url\"\",\"\"value\"\":\"\"VAR1\"\"},\"\"hoverEvent\"\":{\"\"action\"\":\"\"show_text\"\",\"\"contents\"\":\"\"VAR2\"\"}},{\"\"text\"\":\"\"!\"\",\"\"color\"\":\"\"gray\"\"}]"
         },
         "LANGUAGE.success_message":
         {
@@ -242,27 +256,32 @@
             "pt_BR": "&aA sua língua foi alterada com sucesso para <#FEA429>português&a! &7(INFORMAÇÃO: Poderá ter de voltar a entrar no servidor para que tudo seja apresentado na sua nova língua).",
             "es_ES": "&a¡Su idioma ha sido cambiado con éxito a <#FEA429>español&a! &7(INFO: Es posible que tenga que volver a entrar en el servidor para que todo se muestre en su nuevo idioma).",
             "fr_FR": "&aTa langue a été changée avec succès en <#FEA429>français&a! &7(INFO : il se peut que tu doives entrer à nouveau sur le serveur pour que tout soit affiché dans ta nouvelle langue !)",
-            "tr_TR": "&aDiliniz başarıyla <#FEA429>Türkçe &aolarak değiştirildi! &7(BİLGİ: Her şeyin yeni dilinizde görüntülenmesi için sunucuya yeniden girmeniz gerekebilir)."
+            "tr_TR": "&aDiliniz başarıyla <#FEA429>Türkçe &aolarak değiştirildi! &7(BİLGİ: Her şeyin yeni dilinizde görüntülenmesi için sunucuya yeniden girmeniz gerekebilir).",
+            "ko_KR": "&a언어가 <#FEA429>한국어&a(으)로 성공적으로 변경되었습니다! &7(팁: 모든 것을 새 언어로 표시하려면 다시 서버를 접속해야 할 수도 있습니다!)"
         },
         "LINK.privacy":
         {
             "en_US": "https://www.skydinse.net/privacy",
-            "tr_TR": "https://www.skydinse.net/privacy"
+            "tr_TR": "https://www.skydinse.net/privacy",
+            "ko_KR": "https://www.skydinse.net/privacy"
         },
         "LINK.legal":
         {
             "en_US": "https://www.skydinse.net/legal",
-            "tr_TR": "https://www.skydinse.net/legal"
+            "tr_TR": "https://www.skydinse.net/legal",
+            "ko_KR": "https://www.skydinse.net/legal"
         },
         "LINK.discord":
         {
             "en_US": "https://discord.skydinse.net/",
-            "tr_TR": "https://discord.skydinse.net/"
+            "tr_TR": "https://discord.skydinse.net/",
+            "ko_KR": "https://discord.skydinse.net/"
         },
         "LINK.website":
         {
             "en_US": "https://www.skydinse.net/",
-            "tr_TR": "https://www.skydinse.net/"
+            "tr_TR": "https://www.skydinse.net/",
+            "ko_KR": "https://www.skydinse.net/"
         },
         "LINK.tooltip":
         {
@@ -272,7 +291,8 @@
             "pt_BR": "Clique para abrir a ligação!",
             "es_ES": "Haga clic para abrir el enlace.",
             "fr_FR": "Clique pour ouvrir le lien!",
-            "tr_TR": "Bağlantıyı açmak için tıklayın!"
+            "tr_TR": "Bağlantıyı açmak için tıklayın!",
+            "ko_KR": "링크를 열려면 클릭하세요!"
         }
     }
 }

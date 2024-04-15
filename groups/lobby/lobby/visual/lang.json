@@ -5,18 +5,21 @@
         "BOSSBAR.bar.1":
         {
             "en_US": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServer Network",
-            "de_DE": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServernetzwerk"
+            "de_DE": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServernetzwerk",
+            "ko_KR": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&l네트워크"
         },
         "BOSSBAR.bar.2":
         {
             "en_US": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ᴠɪsɪᴛ ᴏᴜʀ ɴᴇᴡ sᴘᴀᴡɴ!",
-            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ʙᴇsᴜᴄʜᴇ ᴜɴsᴇʀᴇɴ ɴᴇᴜᴇɴ sᴘᴀᴡɴ!"
+            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ʙᴇsᴜᴄʜᴇ ᴜɴsᴇʀᴇɴ ɴᴇᴜᴇɴ sᴘᴀᴡɴ!",
+            "ko_KR": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>새로운 스폰을 방문하세요!"
         },
         "BOSSBAR.bar.3":
         {
             "en_US": "<#7289da>&l/DISCORD &8♦ <#99aab5>ᴊᴏɪɴ ᴏᴜʀ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ ᴛᴏ ʙᴇ ᴜᴘ ᴛᴏ ᴅᴀᴛᴇ!",
             "de_DE": "<#7289da>&l/DISCORD &8♦ <#99aab5>ᴛʀɪᴛᴛ ᴜɴsᴇʀᴇᴍ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ ʙᴇɪ!",
-            "tr_TR": "<#7289da>&l/DISCORD &8♦ <#99aab5><!Discord'umuza katıl>!"
+            "tr_TR": "<#7289da>&l/DISCORD &8♦ <#99aab5><!Discord'umuza katıl>!",
+            "ko_KR": "<#7289da>&l/DISCORD &8♦ <#99aab5>디스코드 서버에 참여하여 최신 정보를 받아보세요!"
         }
     }
 }
