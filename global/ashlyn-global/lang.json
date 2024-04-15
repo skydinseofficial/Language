@@ -129,8 +129,8 @@
         },
         "GLOBAL.cmd.ashlyn.listhosts.row":
         {
-            "en_US": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Players: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Rounds: [rounds]'>",
-            "de_DE": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Spieler: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Runden: [rounds]'>"
+            "en_US": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Players: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Rounds: &a[rounds]'>",
+            "de_DE": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Spieler: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Runden: &a[rounds]'>"
         }
     }
 }
