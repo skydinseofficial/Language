@@ -159,6 +159,11 @@
         {
             "en_US": "\n&7Players Waiting: &6[queue]\n&7Players Ingame: &6[players]\n\n&8» <#face05>Click to queue",
             "de_DE": "\n&7Wartende Spieler: &6[queue]\n&7Spieler im Spiel: &6[players]\n\n&8» <#face05>Klicke zum Beitreten"
+        },
+        "MSG.reach-shop":
+        {
+            "en_US": "&7If you look to purchase this rank, head over to <@value:'https://shop.skydinse.net/',text:'&e&nour store'>&r&7!",
+            "de_DE": "&7Falls du diesen Rang kaufen möchtest, besuche <@value:'https://shop.skydinse.net/',text:'&e&nunseren Shop'>&r&7!"
         }
     }
 }
