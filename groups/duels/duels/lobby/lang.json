@@ -162,8 +162,8 @@
         },
         "MSG.reach-shop":
         {
-            "en_US": "&7If you look to purchase this rank, head over to &e&n<@https://www.shop.skydinse.net/>&r&7!",
-            "de_DE": "&7Falls du diesen Rang kaufen möchtest, besuche &e&n<@https://www.shop.skydinse.net/>&r&7!"
+            "en_US": "&7If you look to purchase this rank, head over to &e&nhttps://www.shop.skydinse.net/&r&7!",
+            "de_DE": "&7Falls du diesen Rang kaufen möchtest, besuche &e&nhttps://www.shop.skydinse.net/&r&7!"
         }
     }
 }
