@@ -36,6 +36,11 @@
         {
             "en_US": "&7Starting in &6[countdown] seconds&7...",
             "de_DE": "&7Starten in &6[countdown] Sekunden&7..."
+        },
+        "bossbar.mobsleft":
+        {
+            "en_US": "&7Mobs left: &6[mobsalive]&7/&6[totalmobs]",
+            "de_DE": "&7Monster übrig: &6[mobsalive]&7/&6[totalmobs]"
         }
     }
 }
