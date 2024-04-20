@@ -159,7 +159,8 @@
         {
             "en_US": "\n&7Players Waiting: &6[queue]\n&7Players Ingame: &6[players]\n\n&8» <#face05>Click to queue",
             "de_DE": "\n&7Wartende Spieler: &6[queue]\n&7Spieler im Spiel: &6[players]\n\n&8» <#face05>Klicke zum Beitreten"
-        },"GUI.item.map.lore.challange":
+        },
+        "GUI.item.map.lore.challange":
         {
             "en_US": "\n\n&8» <#face05>Click to queue",
             "de_DE": "\n\n&8» <#face05>Klicke zum Beitreten"
