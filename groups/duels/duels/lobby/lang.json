@@ -169,6 +169,26 @@
         {
             "en_US": "&7If you look to purchase this rank, head over to &e&nhttps://www.shop.skydinse.net/&r&7!",
             "de_DE": "&7Falls du diesen Rang kaufen möchtest, besuche &e&nhttps://www.shop.skydinse.net/&r&7!"
+        },
+        "MSG.challange_noFriendOrParty":
+        {
+            "en_US": "&cThis player has their invitations only open to their friends or party members.",
+            "de_DE": "&cDieser Spieler hat seine Einladungen nur für Freunde oder Partymitglieder offen."
+        },
+        "MSG.challange_Off":
+        {
+            "en_US": "&cThis player is currently not available.",
+            "de_DE": "&cDieser Spieler ist gerade nicht verfügbar."
+        },
+        "MSG.challange_Queue":
+        {
+            "en_US": "&cThis player is in the queue.",
+            "de_DE": "&cDieser Spieler befindet sich in der Warteschlange."
+        },
+        "MSG.challange_Error":
+        {
+            "en_US": "&cYou can currently not challange players.",
+            "de_DE": "&cDu kannst aktuell keine Spieler herausfordern."
         }
     }
 }
