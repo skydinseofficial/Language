@@ -189,6 +189,16 @@
         {
             "en_US": "&cYou can currently not challange players.",
             "de_DE": "&cDu kannst aktuell keine Spieler herausfordern."
+        },
+        "MSG.challange_Success":
+        {
+            "en_US": "&aYou challanged &e[player]&a.",
+            "de_DE": "&aDu hast &e[player] &aherausgefordert."
+        },
+        "MSG.challange_Recieve":
+        {
+            "en_US": "&7You got challanged by &6[player]&7.",
+            "de_DE": "&7Du wurdest von &6[player] &7herausgefordert."
         }
     }
 }
