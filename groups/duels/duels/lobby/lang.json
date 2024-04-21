@@ -192,8 +192,8 @@
         },
         "MSG.challange_Success":
         {
-            "en_US": "&aYou challanged &e[player]&a.",
-            "de_DE": "&aDu hast &e[player] &aherausgefordert."
+            "en_US": "&7You challanged &e[player]&7.",
+            "de_DE": "&7Du hast &e[player] &7herausgefordert."
         },
         "MSG.challange_Recieve":
         {
