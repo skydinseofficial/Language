@@ -453,11 +453,11 @@
         },
         "INVHOTBAR.profile.desc":
         {
-            "en_US": "&7Here you can manage\nall your profile settings!",
-            "de_DE": "&7Hier kannst du all deine\nProfileinstellungen verwalten!",
+            "en_US": "&7Here you can manage\n&7all your profile settings!",
+            "de_DE": "&7Hier kannst du all deine\n&7Profileinstellungen verwalten!",
             "pt_BR": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!",
             "tr_TR": "&7Burada tüm profil \n&7ayarlarınızı yönetebilirsin!",
-            "ko_KR": "&7여기에서 모든 프로필 설정을\n관리할 수 있습니다!"
+            "ko_KR": "&7여기에서 모든 프로필 설정을\n&7관리할 수 있습니다!"
         },
         "SETTINGS.elytranoperm":
         {
