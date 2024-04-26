@@ -28,22 +28,22 @@
         },
         "INVALID_VERSION.kick":
         {
-            "en_US": "&6&lSKYDINSE.NET&8: &cYour game version &c(&6[current]&c) is not supported!\n&cWe recommend you using the version &6[recommended]&c!",
-            "en_GB": "&6&lSKYDINSE.NET&8: &cYour game version &c(&6[current]&c) is not supported!\n&cWe recommend you using the version &6[recommended]&c!",
-            "en_XX": "&6&lSKYDINSE.NET&8: &cThine game version &c(&6[current]&c) doth not find support!\n&cWe doth recommendeth thee to useth the version &6[recommended]&c!",
-            "de_DE": "&6&lSKYDINSE.NET&8: &cDeine Spielversion &c(&6[current]&c) wird nicht unterstützt!\n&cWir empfehlen dir, die Version &6[recommended]&c zu verwenden!",
-            "de_AT": "&6&lSKYDINSE.NET&8: &cDei Spielversion &c(&6[current]&c) is ned unterstützt!\n&cWir rotn dir, de Version &6[recommended]&c zum verwendn!",
-            "de_XX": "&6&lSKYDINSE.NET&8: &cDeine Game &c(&6[current]&c) ist entweder krass antik oder viel zu neu!\n&cBitte update mal auf &6[recommended]&c!",
-            "nl_NL": "&6&lSKYDINSE.NET&8: &cJe spelversie &c(&6[current]&c) wordt niet ondersteund!\n&cWe raden aan om versie &6[recommended]&c te gebruiken!",
-            "pt_BR": "&6&lSKYDINSE.NET&8: &cSua versão do jogo &c(&6[current]&c) não é suportada!\n&cRecomendamos que você use a versão &6[recommended]&c!",
-            "pt_PT": "&6&lSKYDINSE.NET&8: &cA tua versão do jogo &c(&6[current]&c) não é suportada!\n&cRecomendamos que utilizes a versão &6[recommended]&c!",
-            "es_ES": "&6&lSKYDINSE.NET&8: &c¡Tu versión del juego &c(&6[current]&c) no es compatible!\n&c¡Te recomendamos usar la versión &6[recommended]&c!",
-            "es_MX": "&6&lSKYDINSE.NET&8: &c¡Tu versión del juego &c(&6[current]&c) no es compatible!\n&c¡Te recomendamos usar la versión &6[recommended]&c!",
-            "fr_FR": "&6&lSKYDINSE.NET&8: &cVotre version du jeu &c(&6[current]&c) n'est pas prise en charge!\n&cNous vous recommandons d'utiliser la version &6[recommended]&c!",
-            "pl_PL": "&6&lSKYDINSE.NET&8: &cTwoja wersja gry &c(&6[current]&c) nie jest obsługiwana!\n&cZalecamy używanie wersji &6[recommended]&c!",
-            "ru_RU": "&6&lSKYDINSE.NET&8: &cВаша версия игры &c(&6[current]&c) не поддерживается!\n&cМы рекомендуем использовать версию &6[recommended]&c!",
-            "tr_TR": "&6&lSKYDINSE.NET&8: &cOyun sürümünüz &c(&6[current]&c) desteklenmiyor!\n&cTavsiye edilen sürümü kullanmanızı öneririz: &6[recommended]&c!",
-            "ko_KR": "&6&lSKYDINSE.NET&8: &c당신의 게임 버전 &c(&6[current]&c)은(는) 지원되지 않습니다!\n&c추천하는 버전 &6[recommended]&c을(를) 사용하는 것이 좋습니다!"
+            "en_US": "&6&lSKYDINSE.NET\n\n&cYour game version &c(&6[current]&c) is not supported!\n&cWe recommend you using the version &6[recommended]&c!",
+            "en_GB": "&6&lSKYDINSE.NET\n\n&cYour game version &c(&6[current]&c) is not supported!\n&cWe recommend you using the version &6[recommended]&c!",
+            "en_XX": "&6&lSKYDINSE.NET\n\n&cThine game version &c(&6[current]&c) doth not find support!\n&cWe doth recommendeth thee to useth the version &6[recommended]&c!",
+            "de_DE": "&6&lSKYDINSE.NET\n\n&cDeine Spielversion &c(&6[current]&c) wird nicht unterstützt!\n&cWir empfehlen dir, die Version &6[recommended]&c zu verwenden!",
+            "de_AT": "&6&lSKYDINSE.NET\n\n&cDei Spielversion &c(&6[current]&c) is ned unterstützt!\n&cWir rotn dir, de Version &6[recommended]&c zum verwendn!",
+            "de_XX": "&6&lSKYDINSE.NET\n\n&cDeine Game &c(&6[current]&c) ist entweder krass antik oder viel zu neu!\n&cBitte update mal auf &6[recommended]&c!",
+            "nl_NL": "&6&lSKYDINSE.NET\n\n&cJe spelversie &c(&6[current]&c) wordt niet ondersteund!\n&cWe raden aan om versie &6[recommended]&c te gebruiken!",
+            "pt_BR": "&6&lSKYDINSE.NET\n\n&cSua versão do jogo &c(&6[current]&c) não é suportada!\n&cRecomendamos que você use a versão &6[recommended]&c!",
+            "pt_PT": "&6&lSKYDINSE.NET\n\n&cA tua versão do jogo &c(&6[current]&c) não é suportada!\n&cRecomendamos que utilizes a versão &6[recommended]&c!",
+            "es_ES": "&6&lSKYDINSE.NET\n\n&c¡Tu versión del juego &c(&6[current]&c) no es compatible!\n&c¡Te recomendamos usar la versión &6[recommended]&c!",
+            "es_MX": "&6&lSKYDINSE.NET\n\n&c¡Tu versión del juego &c(&6[current]&c) no es compatible!\n&c¡Te recomendamos usar la versión &6[recommended]&c!",
+            "fr_FR": "&6&lSKYDINSE.NET\n\n&cVotre version du jeu &c(&6[current]&c) n'est pas prise en charge!\n&cNous vous recommandons d'utiliser la version &6[recommended]&c!",
+            "pl_PL": "&6&lSKYDINSE.NET\n\n&cTwoja wersja gry &c(&6[current]&c) nie jest obsługiwana!\n&cZalecamy używanie wersji &6[recommended]&c!",
+            "ru_RU": "&6&lSKYDINSE.NET\n\n&cВаша версия игры &c(&6[current]&c) не поддерживается!\n&cМы рекомендуем использовать версию &6[recommended]&c!",
+            "tr_TR": "&6&lSKYDINSE.NET\n\n&cOyun sürümünüz &c(&6[current]&c) desteklenmiyor!\n&cTavsiye edilen sürümü kullanmanızı öneririz: &6[recommended]&c!",
+            "ko_KR": "&6&lSKYDINSE.NET\n\n&c당신의 게임 버전 &c(&6[current]&c)은(는) 지원되지 않습니다!\n&c추천하는 버전 &6[recommended]&c을(를) 사용하는 것이 좋습니다!"
 
         },
         "ACCEPT.resourcepack_reject":
