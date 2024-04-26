@@ -28,14 +28,14 @@
         },
         "KICKOLDVERSIONS.kick":
         {
-            "en_US": "&6&lSKYDINSE.DE&8: &cYour game version is too old! &7(&eVAR1&7)\n&cPlease use at least version &6VAR2&c!",
-            "de_DE": "&6&lSKYDINSE.DE&8: &cDeine Spielversion ist zu alt! &7(&eVAR1&7)\n&cBitte nutze mindestens die Version &6VAR2&c!",
-            "de_XX": "&6&lSKYDINSE.DE&8: &cDeine Game ist antik! &7(&eVAR1&7)\n&cBitte update mal auf &6VAR2&c!",
-            "pt_BR": "&6&lSKYDINSE.DE&8: &cA versão do jogo é demasiado antiga! &7(&eVAR1&7)\n&cPor favor, utilize pelo menos a versão &6VAR2&c!",
-            "es_ES": "&6&lSKYDINSE.DE&8: &cLa versión del juego es demasiado antigua. &7(&eVAR1&7)\n&cPor favor, ¡utiliza al menos la versión &6VAR2&c!",
-            "fr_FR": "&6&lSKYDINSE.DE&8: &cLa version du jeu est trop ancienne! &7(&eVAR1&7)\n&cVeuillez utiliser au moins la version &6VAR2&c!",
-            "tr_TR": "&6&lSKYDINSE.DE&8: &cOyun sürümü çok eski! &7(&eVAR1&7)\n&cLütfen en azından sürüm &6VAR2&c'i kullanın!",
-            "ko_KR": "&6&lSKYDINSE.DE&8: &c게임 버전이 너무 오래되었습니다! &7(&eVAR1&7)\n&c최소 &6VAR2&c 버전을 사용해주세요!"
+            "en_US": "&6&lSKYDINSE.NET&8: &cYour game version is too old! &7(&eVAR1&7)\n&cPlease use at least the version &6VAR2&c!",
+            "de_DE": "&6&lSKYDINSE.NET&8: &cDeine Spielversion ist zu alt! &7(&eVAR1&7)\n&cBitte nutze mindestens die Version &6VAR2&c!",
+            "de_XX": "&6&lSKYDINSE.NET&8: &cDeine Game ist antik! &7(&eVAR1&7)\n&cBitte update mal auf &6VAR2&c!",
+            "pt_BR": "&6&lSKYDINSE.NET&8: &cA versão do jogo é demasiado antiga! &7(&eVAR1&7)\n&cPor favor, utilize pelo menos a versão &6VAR2&c!",
+            "es_ES": "&6&lSKYDINSE.NET&8: &cLa versión del juego es demasiado antigua. &7(&eVAR1&7)\n&cPor favor, ¡utiliza al menos la versión &6VAR2&c!",
+            "fr_FR": "&6&lSKYDINSE.NET&8: &cLa version du jeu est trop ancienne! &7(&eVAR1&7)\n&cVeuillez utiliser au moins la version &6VAR2&c!",
+            "tr_TR": "&6&lSKYDINSE.NET&8: &cOyun sürümü çok eski! &7(&eVAR1&7)\n&cLütfen en azından sürüm &6VAR2&c'i kullanın!",
+            "ko_KR": "&6&lSKYDINSE.NET&8: &c게임 버전이 너무 오래되었습니다! &7(&eVAR1&7)\n&c최소 &6VAR2&c 버전을 사용해주세요!"
 
         },
         "ACCEPT.resourcepack_reject":
