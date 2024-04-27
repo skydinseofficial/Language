@@ -286,11 +286,11 @@
         },
         "SCOREBOARD.playtime.time_format":
         {
-            "en_US": "[time]<#ffe732>h",
-            "de_DE": "[time] <#ffe732>Std.",
-            "pt_BR": "[time]<#ffe732>h",
-            "tr_TR": "[time] <#ffe732>saat",
-            "ko_KR": "[time]<#ffe732>시간"
+            "en_US": "[time]h",
+            "de_DE": "[time] Std.",
+            "pt_BR": "[time]h",
+            "tr_TR": "[time] saat",
+            "ko_KR": "[time]시간"
         },
         "SCOREBOARD.linked":
         {
