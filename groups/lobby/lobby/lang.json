@@ -276,29 +276,21 @@
             "tr_TR": "Enfekte olan kişiler:",
             "ko_KR": "감염된 사람:"
         },
-        "SCOREBOARD.rank":
+        "SCOREBOARD.playtime.title":
         {
-            "en_US": "Rank",
-            "de_DE": "Rang",
-            "pt_BR": "Posição",
-            "tr_TR": "Rütbe",
-            "ko_KR": "랭크"
+            "en_US": "Playtime",
+            "de_DE": "Spielzeit",
+            "pt_BR": "Tempo de jogo",
+            "tr_TR": "Playtime",
+            "ko_KR": "플레이 시간"
         },
-        "SCOREBOARD.playtime.java":
+        "SCOREBOARD.playtime.time_format":
         {
-            "en_US": "Playtime: <#ffef66>[time]<#ffe732>h",
-            "de_DE": "Spielzeit: <#ffef66>[time] <#ffe732>Std.",
-            "pt_BR": "Tempo de jogo: <#ffef66>[time]<#ffe732>h",
-            "tr_TR": "Playtime: <#ffef66>[time]<#ffe732> saat",
-            "ko_KR": "플레이 시간: <#ffef66>[time]<#ffe732>시간"
-        },
-        "SCOREBOARD.playtime.bedrock":
-        {
-            "en_US": "[time]h",
-            "de_DE": "[time] Std.",
-            "pt_BR": "[time]h",
-            "tr_TR": "[time] saat",
-            "ko_KR": "[time]시간"
+            "en_US": "[time]<#ffe732>h",
+            "de_DE": "[time] <#ffe732>Std.",
+            "pt_BR": "[time]<#ffe732>h",
+            "tr_TR": "[time] <#ffe732>saat",
+            "ko_KR": "[time]<#ffe732>시간"
         },
         "SCOREBOARD.linked":
         {
@@ -307,14 +299,6 @@
             "pt_BR": "Ligado",
             "tr_TR": "Bağlı",
             "ko_KR": "연결됨"
-        },
-        "SCOREBOARD.event":
-        {
-            "en_US": "Event",
-            "de_DE": "Event",
-            "pt_BR": "Evento",
-            "tr_TR": "Event",
-            "ko_KR": "이벤트"
         },
         "INVHOTBAR.navigator.name":
         {
