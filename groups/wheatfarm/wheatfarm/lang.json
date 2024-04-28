@@ -14,8 +14,8 @@
         },
         "msg.top":
         {
-            "en_US": "&e##[position] &6[player]&7: &e[wheat] &7Wheat",
-            "de_DE": "&e##[position] &6[player]&7: &e[wheat] &7Weizen"
+            "en_US": "&e#[position] &6[player]&7: &e[wheat] &7Wheat",
+            "de_DE": "&e#[position] &6[player]&7: &e[wheat] &7Weizen"
         }
     }
 }
