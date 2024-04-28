@@ -1,1 +1,26 @@
-
+{
+    "system": "lobbystats",
+    "translations":
+    {
+        "yourstats.title":
+        {
+            "en_US": "&x&F&F&E&4&7&0&l&nYOUR STATS",
+            "de_DE": "&x&F&F&E&4&7&0&l&nDEINE STATISTIKEN"
+        },
+        "yourstats.type.wheat":
+        {
+            "en_US": "Wheat",
+            "de_DE": "Weizen"
+        },
+        "yourstats.type.totalearned":
+        {
+            "en_US": "Wheat",
+            "de_DE": "Weizen"
+        },
+        "yourstats.type.multiplier":
+        {
+            "en_US": "Hoe-Level",
+            "de_DE": "Hacken-Level"
+        }
+    }
+}
