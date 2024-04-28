@@ -41,6 +41,26 @@
         {
             "en_US": "Generator 4 Level",
             "de_DE": "Generator 4 Level"
+        },
+        "yourstats.period.today":
+        {
+            "en_US": "&x&F&F&E&4&1&0TODAY",
+            "de_DE": "&x&F&F&E&4&1&0HEUTE"
+        },
+        "yourstats.period.thisweek":
+        {
+            "en_US": "&x&F&F&E&4&1&0THIS WEEK",
+            "de_DE": "&x&F&F&E&4&1&0DIESE WOCHE"
+        },
+        "yourstats.period.thismonth":
+        {
+            "en_US": "&x&F&F&E&4&1&0THIS MONTH",
+            "de_DE": "&x&F&F&E&4&1&0DIESEN MONAT"
+        },
+        "yourstats.period.alltime":
+        {
+            "en_US": "&x&F&F&E&4&1&0ALLTIME",
+            "de_DE": "&x&F&F&E&4&1&0GESAMT"
         }
     }
 }
