@@ -21,6 +21,26 @@
         {
             "en_US": "Hoe-Level",
             "de_DE": "Hacken-Level"
+        },
+        "yourstats.type.generator1":
+        {
+            "en_US": "Generator 1 Level",
+            "de_DE": "Generator 1 Level"
+        },
+        "yourstats.type.generator2":
+        {
+            "en_US": "Generator 2 Level",
+            "de_DE": "Generator 2 Level"
+        },
+        "yourstats.type.generator3":
+        {
+            "en_US": "Generator 3 Level",
+            "de_DE": "Generator 3 Level"
+        },
+        "yourstats.type.generator4":
+        {
+            "en_US": "Generator 4 Level",
+            "de_DE": "Generator 4 Level"
         }
     }
 }
