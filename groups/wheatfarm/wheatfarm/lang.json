@@ -11,6 +11,11 @@
         {
             "en_US": "&7Back to &aLobby",
             "de_DE": "&7Zurück zur &aLobby"
+        },
+        "msg.top":
+        {
+            "en_US": "&e##[position] &6[player]&7: &e[wheat] &7Wheat",
+            "de_DE": "&e##[position] &6[player]&7: &e[wheat] &7Weizen"
         }
     }
 }
