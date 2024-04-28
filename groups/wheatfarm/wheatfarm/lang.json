@@ -1,1 +1,16 @@
-
+{
+    "system": "wheatfarm",
+    "translations":
+    {
+        "item.hoe":
+        {
+            "en_US": "&7Hoe-Level: &e[level]",
+            "de_DE": "&7Hacken-Level: &e[level]"
+        },
+        "item.leave":
+        {
+            "en_US": "&7Back to &aLobby",
+            "de_DE": "&7Zurück zur &aLobby"
+        }
+    }
+}
