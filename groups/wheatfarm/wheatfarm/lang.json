@@ -16,6 +16,11 @@
         {
             "en_US": "&e#[position] &6[player]&7: &e[wheat] &7Wheat",
             "de_DE": "&e#[position] &6[player]&7: &e[wheat] &7Weizen"
+        },
+        "msg.top.generators":
+        {
+            "en_US": "&e#[position] &6[player]&7: &e[wheat] &7Generator Level",
+            "de_DE": "&e#[position] &6[player]&7: &e[wheat] &7Generatoren Level"
         }
     }
 }
