@@ -14,8 +14,8 @@
         },
         "yourstats.type.totalearned":
         {
-            "en_US": "Wheat",
-            "de_DE": "Weizen"
+            "en_US": "Wheat total",
+            "de_DE": "Weizen gesamt"
         },
         "yourstats.type.multiplier":
         {
