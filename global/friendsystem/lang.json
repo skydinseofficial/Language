@@ -266,13 +266,15 @@
         {
             "en_US": "&e&lVAR1 &7is &aonline&7!",
             "de_DE": "&e&lVAR1 &7ist &aonline&7!",
-            "de_XX": "&e&lVAR1 &7ist &aerschienen&7!"
+            "de_XX": "&e&lVAR1 &7ist &aerschienen&7!",
+            "tr_TR": "&e&lVAR1 &ageldi&7!"
         },
         "TOAST.leave":
         {
             "en_US": "&e&lVAR1 &7is &coffline&7!",
             "de_DE": "&e&lVAR1 &7ist &coffline&7!",
-            "de_XX": "&e&lVAR1 &7ist &cverschwunden&7!"
+            "de_XX": "&e&lVAR1 &7ist &cverschollen&7!",
+            "tr_TR": "&e&lVAR1 &cgitti&7!"
         },
         "PARTIES.msg.help":
         {
