@@ -259,8 +259,8 @@
         },
         "CONNECTION.detailed.next_round":
         {
-            "en_US": "Next round:",
-            "de_DE": "Nächste Runde:"
+            "en_US": "Current/Next game:",
+            "de_DE": "Aktuelles/Nächstes Spiel:"
         },
         "CONNECTION.detailed.current_ping":
         {
