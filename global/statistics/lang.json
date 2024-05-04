@@ -33,28 +33,33 @@
         },
         "GUI.item.timespan.today":
         {
-            "en_US": "&6Today",
-            "de_DE": "&6Heute"
+            "en_US": "&x&F&F&C&8&5&1&lToday",
+            "de_DE": "&x&F&F&C&8&5&1&lHeute"
         },
         "GUI.item.timespan.week":
         {
-            "en_US": "&6This Week",
-            "de_DE": "&6Diese Woche"
+            "en_US": "&x&F&F&C&8&5&1&lThis Week",
+            "de_DE": "&x&F&F&C&8&5&1&lDiese Woche"
         },
         "GUI.item.timespan.month":
         {
-            "en_US": "&6This Month",
-            "de_DE": "&6Diesen Monat"
+            "en_US": "&x&F&F&C&8&5&1&lThis Month",
+            "de_DE": "&x&F&F&C&8&5&1&lDiesen Monat"
         },
         "GUI.item.timespan.alltime":
         {
-            "en_US": "&6Lifetime",
-            "de_DE": "&6Global"
+            "en_US": "&x&F&F&C&8&5&1&lLifetime",
+            "de_DE": "&x&F&F&C&8&5&1&lGlobal"
         },
         "GUI.item.loading":
         {
             "en_US": "&cLoading...",
             "de_DE": "&cLaden..."
+        },
+        "GUI.stats.title.general":
+        {
+            "en_US": "&6General:",
+            "de_DE": "&6Allgemein:"
         },
         "GUI.category.wheatfarm.generator1":
         {
