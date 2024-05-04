@@ -30,6 +30,11 @@
         {
             "en_US": "[player]'s Statistics",
             "de_DE": "[player]s Statistiken"
+        },
+        "GUI.item.timespan.today":
+        {
+            "en_US": "&6Today",
+            "de_DE": "&6Heute"
         }
     }
 }
