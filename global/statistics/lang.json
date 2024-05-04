@@ -83,8 +83,8 @@
         },
         "GUI.category.wheatfarm.wheat":
         {
-            "en_US": "Wheat",
-            "de_DE": "Weizen"
+            "en_US": "Wheat Account Debit",
+            "de_DE": "Weizen-Kontobelastung"
         }
     }
 }
