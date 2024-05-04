@@ -35,6 +35,21 @@
         {
             "en_US": "&6Today",
             "de_DE": "&6Heute"
+        },
+        "GUI.item.timespan.week":
+        {
+            "en_US": "&6This Week",
+            "de_DE": "&6Diese Woche"
+        },
+        "GUI.item.timespan.month":
+        {
+            "en_US": "&6This Month",
+            "de_DE": "&6Diesen Monat"
+        },
+        "GUI.item.timespan.alltime":
+        {
+            "en_US": "&6Lifetime",
+            "de_DE": "&6Global"
         }
     }
 }
