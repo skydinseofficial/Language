@@ -593,6 +593,13 @@
             "pl_PL": "niedziela",
             "ru_RU": "воскресенье",
             "ko_KR": "일요일"
+        },
+        "BUTTON.back":
+        {
+            "en_US": "Back",
+            "en_GB": "Back",
+            "en_XX": "Back",
+            "de_DE": "Zurück"
         }
     }
 }
