@@ -70,6 +70,21 @@
         {
             "en_US": "Upgrades on Generator 4",
             "de_DE": "Upgrades an Generator 4"
+        },
+        "GUI.category.wheatfarm.multiplier":
+        {
+            "en_US": "Hoe Upgrades",
+            "de_DE": "Hacken-Upgrades"
+        },
+        "GUI.category.wheatfarm.totalearned":
+        {
+            "en_US": "Total earned Wheat",
+            "de_DE": "Insgesamt verdientes Weizen"
+        },
+        "GUI.category.wheatfarm.wheat":
+        {
+            "en_US": "Wheat",
+            "de_DE": "Weizen"
         }
     }
 }
