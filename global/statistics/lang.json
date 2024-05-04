@@ -51,6 +51,11 @@
             "en_US": "&6Lifetime",
             "de_DE": "&6Global"
         },
+        "GUI.item.loading":
+        {
+            "en_US": "&cLoading...",
+            "de_DE": "&cLaden..."
+        },
         "GUI.category.wheatfarm.generator1":
         {
             "en_US": "Upgrades on Generator 1",
