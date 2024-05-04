@@ -50,6 +50,26 @@
         {
             "en_US": "&6Lifetime",
             "de_DE": "&6Global"
+        },
+        "GUI.category.wheatfarm.generator1":
+        {
+            "en_US": "Upgrades on Generator 1",
+            "de_DE": "Upgrades an Generator 1"
+        },
+        "GUI.category.wheatfarm.generator2":
+        {
+            "en_US": "Upgrades on Generator 2",
+            "de_DE": "Upgrades an Generator 2"
+        },
+        "GUI.category.wheatfarm.generator3":
+        {
+            "en_US": "Upgrades on Generator 3",
+            "de_DE": "Upgrades an Generator 3"
+        },
+        "GUI.category.wheatfarm.generator4":
+        {
+            "en_US": "Upgrades on Generator 4",
+            "de_DE": "Upgrades an Generator 4"
         }
     }
 }
