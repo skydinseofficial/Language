@@ -4,8 +4,8 @@
     {
         "NPCHOLO.title.stats":
         {
-            "en_US": "&x&F&F&C&8&5&1&lSTATISTICS\n&7(View)",
-            "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN\n&7( Ansehen )"
+            "en_US": "&x&F&F&C&8&5&1&lSTATISTICS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN;&7(Ansehen)"
         }
     }
 }
