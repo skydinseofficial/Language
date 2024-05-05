@@ -1,1 +1,12 @@
 
+{
+    "system": "esy-essentials",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "Essentials",
+            "de_DE": "Essenzielles"
+        }
+    }
+}
