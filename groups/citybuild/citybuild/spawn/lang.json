@@ -6,6 +6,16 @@
         {
             "en_US": "&x&F&F&C&8&5&1&lSTATISTICS;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN;&7(Ansehen)"
+        },
+        "NPCHOLO.title.essentials":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lESSENTIALS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lESSENZIELLES;&7(Ansehen)"
+        },
+        "NPCHOLO.title.homes":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lHOMES;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lHOMES;&7(Ansehen)"
         }
     }
 }
