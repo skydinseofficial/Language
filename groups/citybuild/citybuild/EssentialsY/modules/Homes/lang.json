@@ -1,1 +1,11 @@
-
+{
+    "system": "esy-homes",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "[player]'s Homes",
+            "de_DE": "[player]'s Homes"
+        }
+    }
+}
