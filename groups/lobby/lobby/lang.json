@@ -1174,9 +1174,17 @@
         "COINMIGRATION.alreadymigratedordatanotloaded":
         {
             "en_US": "&cYou've already migrated your Coins into Blooms or your data is not loaded!",
-            "de_DE": "&cDu hast bereits deine Coins in Blüten umgewandelt oder deine Daten sind nicht geladen!",
-            "tr_TR": "online",
-            "ko_KR": "온라인"
+            "de_DE": "&cDu hast bereits deine Coins in Blüten umgewandelt oder deine Daten sind nicht geladen!"
+        },
+        "COINMIGRATION.anerroroccurred":
+        {
+            "en_US": "&cAn error occurred. Please try again!",
+            "de_DE": "&cEin Fehler ist aufgetreten. Bitte versuche es erneut!"
+        },
+        "COINMIGRATION.nocoinstomigrate":
+        {
+            "en_US": "&cYou don't have any Coins to migrate!",
+            "de_DE": "&cDu hast keine Coins zum migrieren!"
         }
     }
 }
