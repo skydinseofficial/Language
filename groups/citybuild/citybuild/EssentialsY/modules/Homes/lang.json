@@ -22,10 +22,30 @@
             "en_US": "Previous Page",
             "de_DE": "Vorherige Seite"
         },
-        "GUI.main.home.lore":
+        "GUI.main.home.lore.server":
         {
-            "en_US": "&6Location: &7[location]%nl%&6Server: &7[server]%nl%&6Status: &r[status]",
-            "de_DE": "&6Position: &7[location]%nl%&6Server: &7[server]%nl%&6Status: &r[status]"
+            "en_US": "&6Server: &7[server]",
+            "de_DE": "&6Server: &7[server]"
+        },
+        "GUI.main.home.lore.status":
+        {
+            "en_US": "&6Status: [status]",
+            "de_DE": "&6Status: [status]"
+        },
+        "GUI.main.home.lore.status.active":
+        {
+            "en_US": "&aEnabled",
+            "de_DE": "&aAktiviert"
+        },
+        "GUI.main.home.lore.status.inactive":
+        {
+            "en_US": "&cDisabled",
+            "de_DE": "&cDeaktiviert"
+        },
+        "GUI.main.home.lore.teleport":
+        {
+            "en_US": "&7Click to teleport &6you &7to this &6home",
+            "de_DE": "&7Klicke um dich zu diesem &6Home &7zu &6teleportieren"
         },
         "cmd.sethome.error.noname":
         {
