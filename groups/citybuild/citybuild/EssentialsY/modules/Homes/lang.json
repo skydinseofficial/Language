@@ -49,8 +49,8 @@
         },
         "GUI.main.home.lore.teleport":
         {
-            "en_US": "&7Use &6leftclick &7to teleport &6you &7to this &6home",
-            "de_DE": "&7Benutze &6Linksklick &7um dich zu diesem &6Home &7zu &6teleportieren"
+            "en_US": "&7Use &6leftclick &7to &ateleport &6you &7to this &6home",
+            "de_DE": "&7Benutze &6Linksklick &7um dich zu diesem &6Home &7zu &ateleportieren"
         },
         "GUI.main.home.lore.delete":
         {
