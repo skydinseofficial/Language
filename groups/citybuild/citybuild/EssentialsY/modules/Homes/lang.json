@@ -6,7 +6,7 @@
         {
             "en_US": "[player]'s Homes",
             "de_DE": "[player]'s Homes"
-        }
+        },
         "commands.sethome.error.noname":
         {
             "en_US": "&cYou have to enter a name for your home!",
