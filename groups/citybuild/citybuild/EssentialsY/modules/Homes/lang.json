@@ -4,8 +4,8 @@
     {
         "GUI.main.title":
         {
-            "en_US": "[player]'s Homes",
-            "de_DE": "[player]'s Homes"
+            "en_US": "&b[player]'s &7Homes",
+            "de_DE": "&b[player]'s &7Homes"
         },
         "cmd.sethome.error.noname":
         {
