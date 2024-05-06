@@ -7,6 +7,21 @@
             "en_US": "&b[player]'s &7Homes",
             "de_DE": "&b[player]'s &7Homes"
         },
+        "GUI.main.firstpage":
+        {
+            "en_US": "&7First Page",
+            "de_DE": "&7Erste Seite"
+        },
+        "GUI.main.nextpage":
+        {
+            "en_US": "&7Next Page",
+            "de_DE": "&7Nächste Seite"
+        },
+        "GUI.main.previouspage":
+        {
+            "en_US": "&7Previous Page",
+            "de_DE": "&7Vorherige Seite"
+        },
         "cmd.sethome.error.noname":
         {
             "en_US": "&cYou have to enter a name for your home!",
