@@ -22,6 +22,11 @@
             "en_US": "Previous Page",
             "de_DE": "Vorherige Seite"
         },
+        "GUI.main.home.lore.location":
+        {
+            "en_US": "&6Location: &7[location]",
+            "de_DE": "&6Position: &7[location]"
+        },
         "GUI.main.home.lore.server":
         {
             "en_US": "&6Server: &7[server]",
@@ -46,6 +51,11 @@
         {
             "en_US": "&7Click to teleport &6you &7to this &6home",
             "de_DE": "&7Klicke um dich zu diesem &6Home &7zu &6teleportieren"
+        },
+        "GUI.main.home.lore.delete":
+        {
+            "en_US": "&7Click to &cdelete &7this &6home",
+            "de_DE": "&7Klicke um dieses &6Home &7zu &clöschen"
         },
         "cmd.sethome.error.noname":
         {
