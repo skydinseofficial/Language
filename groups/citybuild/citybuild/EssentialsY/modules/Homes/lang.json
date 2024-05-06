@@ -22,6 +22,11 @@
             "en_US": "Previous Page",
             "de_DE": "Vorherige Seite"
         },
+        "GUI.main.home.lore":
+        {
+            "en_US": "&6Location: &7[location]%nl%&6Server: &7[server]%nl%&6Status: &r[status]",
+            "de_DE": "&6Position: &7[location]%nl%&6Server: &7[server]%nl%&6Status: &r[status]"
+        },
         "cmd.sethome.error.noname":
         {
             "en_US": "&cYou have to enter a name for your home!",
