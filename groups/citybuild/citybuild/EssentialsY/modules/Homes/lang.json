@@ -16,6 +16,11 @@
         {
             "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] / [max]&8)!",
             "de_DE": "&cDu hast die maximale Anzahl an Homes erreicht &8(&c[amount] / [max]&8)!"
+        },
+        "cmd.sethome.success.homeset":
+        {
+            "en_US": "&7You successfully created a home named &a[name]",
+            "de_DE": "&7Du hast erfolgreich ein Home namens &a[name] &7erstellt"
         }
     }
 }
