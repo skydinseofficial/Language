@@ -11,6 +11,11 @@
         {
             "en_US": "&cYou have to enter a name for your home!",
             "de_DE": "&cDu musst einen Namen für dein Home angeben!"
+        },
+        "cmd.sethome.error.nohomesleft":
+        {
+            "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] / [max]&8)!",
+            "de_DE": "&cDu hast die maximale Anzahl an Homes erreicht &8(&c[amount] / [max]&8)!"
         }
     }
 }
