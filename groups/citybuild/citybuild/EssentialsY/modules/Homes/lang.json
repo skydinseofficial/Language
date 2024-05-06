@@ -49,13 +49,13 @@
         },
         "GUI.main.home.lore.teleport":
         {
-            "en_US": "&7Click to teleport &6you &7to this &6home",
-            "de_DE": "&7Klicke um dich zu diesem &6Home &7zu &6teleportieren"
+            "en_US": "&7Use &6leftclick &7to teleport &6you &7to this &6home",
+            "de_DE": "&7Benutze &6Linksklick &7um dich zu diesem &6Home &7zu &6teleportieren"
         },
         "GUI.main.home.lore.delete":
         {
-            "en_US": "&7Click to &cdelete &7this &6home",
-            "de_DE": "&7Klicke um dieses &6Home &7zu &clöschen"
+            "en_US": "&7Use &6rightclick &7to &cdelete &7this &6home",
+            "de_DE": "&7Benutze &7Rechtsklick &7um dieses &6Home &7zu &clöschen"
         },
         "cmd.sethome.error.noname":
         {
