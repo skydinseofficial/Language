@@ -14,13 +14,13 @@
         },
         "GUI.main.nextpage":
         {
-            "en_US": "&7Next Page",
-            "de_DE": "&7Nächste Seite"
+            "en_US": "Next Page",
+            "de_DE": "Nächste Seite"
         },
         "GUI.main.previouspage":
         {
-            "en_US": "&7Previous Page",
-            "de_DE": "&7Vorherige Seite"
+            "en_US": "Previous Page",
+            "de_DE": "Vorherige Seite"
         },
         "cmd.sethome.error.noname":
         {
