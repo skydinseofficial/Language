@@ -31,6 +31,11 @@
         {
             "en_US": "<#A500FF>Enderchest",
             "de_DE": "<#A500FF>Endertruhe"
+        },
+        "GUI.feature.enderchest.description":
+        {
+            "en_US": "&7Use your ender chest even if you can't\n&7place one yet!\n&eTip: &7Use <#FFD800>/ec",
+            "de_DE": "&7Nutze deine Endertruhe auch wenn du\n&7gerade keine zur Verfügung hast!\n&eTipp: &7Nutze <#FFD800>/ec"
         }
     }
 }
