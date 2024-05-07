@@ -26,6 +26,11 @@
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to open",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum öffnen"
+        },
+        "GUI.feature.enderchest.title":
+        {
+            "en_US": "<#A500FF>Enderchest",
+            "de_DE": "<#A500FF>Endertruhe"
         }
     }
 }
