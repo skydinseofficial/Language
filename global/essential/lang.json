@@ -663,6 +663,16 @@
         {
             "en_US": "&cA teleport process is already in progress!",
             "de_DE": "&cEs läuft bereits ein Teleportvorgang!"
+        },
+        "SHOPNOTIFY.link.1":
+        {
+            "en_US": "&7Buy <#38ACFF>Ranks&7, <gradient:#FF46E4:#F29EFF:#FF46E4>Blooms</gradient> &7and more to unlock additional features and support us!",
+            "de_DE": "&7Kaufe <#38ACFF>Ränge&7, <gradient:#FF46E4:#F29EFF:#FF46E4>Blüten</gradient> &7und mehr, um zusätzliche Funktionen freizuschalten und uns zu unterstützen!"
+        },
+        "SHOPNOTIFY.link.2":
+        {
+            "en_US": "&7Visit: <@https://shop.skydinse.net/>",
+            "de_DE": "&7Besuche: <@https://shop.skydinse.net/>"
         }
     }
 }
