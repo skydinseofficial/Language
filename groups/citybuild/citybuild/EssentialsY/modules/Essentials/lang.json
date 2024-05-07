@@ -39,8 +39,8 @@
         },
         "GUI.feature.craftingtable.description":
         {
-            "en_US": "&7Craft items without placing a crafting table!\n&eTip: &7Use <#FFD800>/ct",
-            "de_DE": "&7Erstelle Gegenstände, ohne eine Werkbank\n&7zu platzieren!\n&eTipp: &7Nutze <#FFD800>/ct"
+            "en_US": "&7Craft items without placing a crafting table!\n&eTip: &7Use <#FFD800>/craftingtable &7(<#FFD800>/ct&7)",
+            "de_DE": "&7Erstelle Gegenstände, ohne eine Werkbank\n&7zu platzieren!\n&eTipp: &7Nutze <#FFD800>/craftingtable &7(<#FFD800>/ct&7)"
         }
     }
 }
