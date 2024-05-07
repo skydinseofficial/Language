@@ -102,8 +102,8 @@
         },
         "cmd.sethome.error.nohomesleft":
         {
-            "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] / [max]&8)!",
-            "de_DE": "&cDu hast die maximale Anzahl an Homes erreicht &8(&c[amount] / [max]&8)!"
+            "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] / [max]&8)! &7You need a &6higher rank &7to unlock more &6homes!",
+            "de_DE": "&cDu hast die maximale Anzahl an Homes erreicht &8(&c[amount] / [max]&8)! &7Du benötigst einen &6höheren Rang &7um mehr &6Homes &7freizuschalten!"
         },
         "cmd.sethome.success.homeset":
         {
