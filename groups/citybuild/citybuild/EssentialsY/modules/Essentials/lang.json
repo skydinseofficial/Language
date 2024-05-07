@@ -7,20 +7,10 @@
             "en_US": "Essentials",
             "de_DE": "Essenzielles"
         },
-        "GUI.featurelocked.rank.sky":
+        "GUI.featurelocked.rankneeded":
         {
-            "en_US": "&cNeeded Rank:&f ",
-            "de_DE": "&cBenötigter Rang:&f "
-        },
-        "GUI.featurelocked.rank.galaxy":
-        {
-            "en_US": "&cNeeded Rank:&f ",
-            "de_DE": "&cBenötigter Rang:&f "
-        },
-        "GUI.featurelocked.rank.universe":
-        {
-            "en_US": "&cNeeded Rank:&f ",
-            "de_DE": "&cBenötigter Rang:&f "
+            "en_US": "&cNeeded Rank: &f[rank]",
+            "de_DE": "&cBenötigter Rang: &f[rank]"
         },
         "MSG.featurelocked.youneedhigherrank":
         {
