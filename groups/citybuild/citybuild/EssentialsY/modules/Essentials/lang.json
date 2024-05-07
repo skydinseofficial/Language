@@ -41,6 +41,46 @@
         {
             "en_US": "&7Craft items without placing a crafting table!\n&eTip: &7Use <#FFD800>/craftingtable &7(<#FFD800>/ct&7)",
             "de_DE": "&7Erstelle Gegenstände, ohne eine Werkbank\n&7zu platzieren!\n&eTipp: &7Nutze <#FFD800>/craftingtable &7(<#FFD800>/ct&7)"
+        },
+        "GUI.feature.nightvision.title":
+        {
+            "en_US": "<#003EFF>Night Vision",
+            "de_DE": "<#003EFF>Nachtsicht"
+        },
+        "GUI.feature.nightvision.description":
+        {
+            "en_US": "&7Enable or disable your night vision so you\n&7can also see in the dark!\n&eTip: &7Use <#FFD800>/nightvision &7(<#FFD800>/nv&7)",
+            "de_DE": "&7De- bzw. aktiviere deine Nachtsicht, damit\n&7du auch im Dunkeln sehen kannst!\n&eTipp: &7Nutze <#FFD800>/nightvision &7(<#FFD800>/nv&7)"
+        },
+        "GUI.feature.fly.title":
+        {
+            "en_US": "<#FFF59B>Fly",
+            "de_DE": "<#FFF59B>Fliegen"
+        },
+        "GUI.feature.fly.description":
+        {
+            "en_US": "&7Enable or disable your flight mode in\n&7the plot worlds.\n&eTip: &7Use <#FFD800>/fly",
+            "de_DE": "&7De- bzw. aktiviere deinen Flugmodus in\n&7den Plotwelten\n&eTipp: &7Nutze <#FFD800>/nightvision"
+        },
+        "GUI.feature.speed.title":
+        {
+            "en_US": "<#7CFF81>Speed",
+            "de_DE": "<#7CFF81>Geschwindigkeit"
+        },
+        "GUI.feature.speed.description":
+        {
+            "en_US": "&7Modify you walk speed.\n&eTip: &7Use <#FFD800>/speed",
+            "de_DE": "&7Passe deine Laufgeschwindigkeit an.\n&eTipp: &7Nutze <#FFD800>/speed"
+        },
+        "GUI.feature.trash.title":
+        {
+            "en_US": "<#FF2007>Trash",
+            "de_DE": "<#FF2007>Müll"
+        },
+        "GUI.feature.trash.description":
+        {
+            "en_US": "&7Throw out your trash.\n&eTip: &7Use <#FFD800>/trash",
+            "de_DE": "&7Entsorge deinen Müll.\n&eTipp: &7Nutze <#FFD800>/trash"
         }
     }
 }
