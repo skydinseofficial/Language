@@ -96,8 +96,8 @@
             "de_DE": "&7Dieses &6Home ist momentan &cdeaktiviert! &7Dies kann passieren, wenn die Welt in der das Home war &czurückgesetzt &7wurde! Wenn du denkst, dass dies ein &cFehler &7ist, kontaktiere bitte einen &cTeammitglied!"
         },
         "GUI.main.loading": {
-            "en_US": "&7Loading...",
-            "de_DE": "&7Lade..."
+            "en_US": "Loading...",
+            "de_DE": "Lade..."
         },
         "cmd.sethome.error.noname":
         {
