@@ -22,6 +22,11 @@
             "en_US": "&cNeeded Rank:&f ",
             "de_DE": "&cBenötigter Rang:&f "
         },
+        "MSG.featurelocked.youneedhigherrank":
+        {
+            "en_US": "&cYou need at least the &r[rank]&7-Rank &cto use this feature!",
+            "de_DE": "&cDu benötigst mindestens den &r[rank]&7-Rang&c, um diese Funktion zu nutzen!"
+        },
         "GUI.actiondescription.click2open":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to open",
