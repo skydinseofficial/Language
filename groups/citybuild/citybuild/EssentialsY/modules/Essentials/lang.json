@@ -24,13 +24,23 @@
         },
         "GUI.feature.enderchest.title":
         {
-            "en_US": "<#A500FF>Enderchest",
+            "en_US": "<#A500FF>Ender Chest",
             "de_DE": "<#A500FF>Endertruhe"
         },
         "GUI.feature.enderchest.description":
         {
-            "en_US": "&7Use your ender chest even if you can't\n&7place one yet!\n&eTip: &7Use <#FFD800>/ec",
-            "de_DE": "&7Nutze deine Endertruhe auch wenn du\n&7gerade keine zur Verfügung hast!\n&eTipp: &7Nutze <#FFD800>/ec"
+            "en_US": "&7Use your ender chest even if you can't\n&7place one yet!\n&eTip: &7Use <#FFD800>/enderchest &7(<#FFD800>/ec&7)",
+            "de_DE": "&7Nutze deine Endertruhe auch wenn du\n&7gerade keine zur Verfügung hast!\n&eTipp: &7Nutze <#FFD800>/enderchest &7(<#FFD800>/ec&7)"
+        },
+        "GUI.feature.craftingtable.title":
+        {
+            "en_US": "<#BC661A>Crafting Table",
+            "de_DE": "<#BC661A>Werkbank"
+        },
+        "GUI.feature.craftingtable.description":
+        {
+            "en_US": "&7Craft items without placing a crafting table!\n&eTip: &7Use <#FFD800>/ct",
+            "de_DE": "&7Erstelle Gegenstände, ohne eine Werkbank\n&7zu platzieren!\n&eTipp: &7Nutze <#FFD800>/ct"
         }
     }
 }
