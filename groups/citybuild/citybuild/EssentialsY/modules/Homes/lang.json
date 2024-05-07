@@ -95,6 +95,10 @@
             "en_US": "&7This &6home &7is currently &cdisabled! &7This can happen if the world in wich the home was got &cresetted! &7If you think this is a &cmistake, &7please contact a &cstaff member!",
             "de_DE": "&7Dieses &6Home ist momentan &cdeaktiviert! &7Dies kann passieren, wenn die Welt in der das Home war &czurückgesetzt &7wurde! Wenn du denkst, dass dies ein &cFehler &7ist, kontaktiere bitte einen &cTeammitglied!"
         },
+        "GUI.main.loading": {
+            "en_US": "&7Loading...",
+            "de_DE": "&7Lade..."
+        },
         "cmd.sethome.error.noname":
         {
             "en_US": "&cYou have to enter a name for your home!",
