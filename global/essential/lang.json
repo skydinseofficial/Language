@@ -666,13 +666,13 @@
         },
         "SHOPNOTIFY.link.1":
         {
-            "en_US": "&7Buy <#38ACFF>Ranks&7, <gradient:#FF46E4:#F29EFF:#FF46E4>Blooms</gradient> &7and more to unlock additional features and support us!",
-            "de_DE": "&7Kaufe <#38ACFF>Ränge&7, <gradient:#FF46E4:#F29EFF:#FF46E4>Blüten</gradient> &7und mehr, um zusätzliche Funktionen freizuschalten und uns zu unterstützen!"
+            "en_US": "&7Buy <#38ACFF>Ranks&7, <gradient:#FF46E4:#F29EFF>Blooms</gradient> &7and more to unlock additional features and support us!",
+            "de_DE": "&7Kaufe <#38ACFF>Ränge&7, <gradient:#FF46E4:#F29EFF>Blüten</gradient> &7und mehr, um zusätzliche Funktionen freizuschalten und uns zu unterstützen!"
         },
         "SHOPNOTIFY.link.2":
         {
-            "en_US": "&7Visit: <@https://shop.skydinse.net/>",
-            "de_DE": "&7Besuche: <@https://shop.skydinse.net/>"
+            "en_US": "&7Visit: <#FFD800><underline><@https://shop.skydinse.net/>",
+            "de_DE": "&7Besuche: <#FFD800><underline><@https://shop.skydinse.net/>"
         }
     }
 }
