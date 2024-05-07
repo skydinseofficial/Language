@@ -21,6 +21,11 @@
         {
             "en_US": "&cNeeded Rank:&f ",
             "de_DE": "&cBenötigter Rang:&f "
+        },
+        "GUI.actiondescription.click2open":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to open",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum öffnen"
         }
     }
 }
