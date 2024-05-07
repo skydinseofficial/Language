@@ -666,8 +666,8 @@
         },
         "SHOPNOTIFY.link.1":
         {
-            "en_US": "&7Buy <#38ACFF>Ranks&7, <gradient:#FF46E4:#F29EFF>Blooms</gradient> &7and more to unlock additional features and support us!",
-            "de_DE": "&7Kaufe <#38ACFF>Ränge&7, <gradient:#FF46E4:#F29EFF>Blüten</gradient> &7und mehr, um zusätzliche Funktionen freizuschalten und uns zu unterstützen!"
+            "en_US": "&7Buy <#38ACFF>Ranks&7, <gradient:##FF46E4:##F29EFF>Blooms</gradient> &7and more to unlock additional features and support us!",
+            "de_DE": "&7Kaufe <#38ACFF>Ränge&7, <gradient:##FF46E4:##F29EFF>Blüten</gradient> &7und mehr, um zusätzliche Funktionen freizuschalten und uns zu unterstützen!"
         },
         "SHOPNOTIFY.link.2":
         {
