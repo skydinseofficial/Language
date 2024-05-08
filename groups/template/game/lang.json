@@ -1,0 +1,11 @@
+{
+    "system": "game",
+    "translations":
+    {
+        "item.mapvote":
+        {
+            "en_US": "&6Vote for Map",
+            "de_DE": "&6Karte wählen"
+        }
+    }
+}
