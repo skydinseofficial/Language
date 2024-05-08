@@ -61,11 +61,6 @@
             "en_US": "&7You've been teleported to your &6home &a[name]",
             "de_DE": "&7Du wurdest zu deinem &6Home &a[name] &7teleportiert"
         },
-        "GUI.main.home.click.error":
-        {
-            "en_US": "&cYou can't teleport to your home right now!",
-            "de_DE": "&cDu kannst dich momentan nicht zu deinem Home teleportieren!"
-        },
         "GUI.main.home.delete.success":
         {
             "en_US": "&7You successfully deleted your home &a[name]",
