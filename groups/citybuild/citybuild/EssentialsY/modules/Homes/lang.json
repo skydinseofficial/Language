@@ -76,17 +76,17 @@
             "en_US": "&cYou can't delete your home right now!",
             "de_DE": "&cDu kannst dein Home momentan nicht löschen!"
         },
-        "GUI.main.home.delete.confirm":
+        "GUI.deletion.info":
         {
-            "en_US": "&cAre you sure you want to delete your home &6[name] &c?",
+            "en_US": "&cAre you sure you want to delete your home &6[name]?",
             "de_DE": "&cBist du sicher, dass du dein Home &6[name] &clöschen möchtest?"
         },
-        "GUI.main.home.delete.confirm.yes":
+        "GUI.deletion.confirm.yes":
         {
             "en_US": "&aYes",
             "de_DE": "&aJa"
         },
-        "GUI.main.home.delete.confirm.no":
+        "GUI.deletion.confirm.no":
         {
             "en_US": "&cNo",
             "de_DE": "&cNein"
