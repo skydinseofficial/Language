@@ -68,8 +68,8 @@
         },
         "GUI.deletion.info":
         {
-            "en_US": "&cAre you sure you want to &cdelete &7your &6home &4[name]&c?",
-            "de_DE": "&cBist du sicher, dass du dein &6Home &a[name] &clöschen &7möchtest?"
+            "en_US": "&7Are you sure you want to &cdelete &7your &6home &a[name]&7?",
+            "de_DE": "&7Bist du sicher, dass du dein &6Home &a[name] &clöschen &7möchtest?"
         },
         "GUI.deletion.confirm.yes":
         {
