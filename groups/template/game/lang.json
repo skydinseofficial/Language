@@ -6,6 +6,21 @@
         {
             "en_US": "&6Vote for Map",
             "de_DE": "&6Karte wählen"
+        },
+        "item.locker":
+        {
+            "en_US": "&6Your Locker",
+            "de_DE": "&6Dein Spind"
+        },
+        "item.boosters":
+        {
+            "en_US": "&aBoosters",
+            "de_DE": "&aBooster"
+        },
+        "item.leave":
+        {
+            "en_US": "&cLeave Game",
+            "de_DE": "&cSpiel verlassen"
         }
     }
 }
