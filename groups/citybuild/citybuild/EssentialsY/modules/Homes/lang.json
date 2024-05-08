@@ -99,6 +99,10 @@
             "en_US": "Loading...",
             "de_DE": "Lade..."
         },
+        "GUI.deletion.confirm.title": {
+            "en_US": "&cDeletion Confirmation",
+            "de_DE": "&cLöschbestätigung"
+        },
         "cmd.sethome.error.noname":
         {
             "en_US": "&cYou have to enter a name for your home!",
