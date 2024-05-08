@@ -49,13 +49,13 @@
         },
         "GUI.main.home.lore.teleport":
         {
-            "en_US": "&7Use &6leftclick &7to &ateleport &6you &7to this &6home&7.",
-            "de_DE": "&7Benutze &6Linksklick &7um dich zu diesem &6Home &7zu &ateleportieren&7."
+            "en_US": "&7Use &6leftclick &7to &6teleport &7you to this &6home&7.",
+            "de_DE": "&7Benutze &6Linksklick &7um dich zu diesem &6Home &7zu &6teleportieren&7."
         },
         "GUI.main.home.lore.delete":
         {
             "en_US": "&7Use &6rightclick &7to &cdelete &7this &6home&7.",
-            "de_DE": "&7Benutze &7Rechtsklick &7um dieses &6Home &7zu &clöschen&7."
+            "de_DE": "&7Benutze &6Rechtsklick &7um dieses &6Home &7zu &clöschen&7."
         },
         "GUI.main.home.click.success": {
             "en_US": "&7You've been teleported to your &6home &a[name]&7!",
@@ -63,13 +63,13 @@
         },
         "GUI.main.home.delete.success":
         {
-            "en_US": "&7You successfully deleted your home &a[name]&7!",
-            "de_DE": "&7Du hast dein Home &a[name] &7erfolgreich gelöscht&7!"
+            "en_US": "&7You successfully &cdeleted &7your &6home &a[name]&7!",
+            "de_DE": "&7Du hast dein &6Home &a[name] &7erfolgreich &cgelöscht&7!"
         },
         "GUI.deletion.info":
         {
-            "en_US": "&cAre you sure you want to delete your home &6[name]&c?",
-            "de_DE": "&cBist du sicher, dass du dein Home &6[name] &clöschen möchtest?"
+            "en_US": "&cAre you sure you want to &cdelete &7your &6home &4[name]&c?",
+            "de_DE": "&cBist du sicher, dass du dein &6Home &a[name] &clöschen &7möchtest?"
         },
         "GUI.deletion.confirm.yes":
         {
@@ -83,17 +83,17 @@
         },
         "GUI.deletion.confirm.cancel":
         {
-            "en_US": "&7You've cancelled the deletion of your home &6[name]&7.",
-            "de_DE": "&7Du hast das Löschen deines Homes &6[name] &7abgebrochen."
+            "en_US": "&7You've &ccancelled &7the &cdeletion &7of your &6home &a[name]&7.",
+            "de_DE": "&7Du hast das &cLöschen &7deines &6Homes &5[name] &7abgebrochen."
         },
         "GUI.deletion.confirm.success":
         {
-            "en_US": "&7You've successfully deleted your home &6[name]&7.",
-            "de_DE": "&7Du hast dein Home &6[name] &7erfolgreich gelöscht."
+            "en_US": "&7You've successfully &cdeleted &7your &6home &a[name]&7.",
+            "de_DE": "&7Du hast dein &6Home &a[name] &7erfolgreich &cgelöscht."
         },
         "GUI.main.home.click.disabled": {
-            "en_US": "&7This &6home &7is currently &cdisabled! &7This can happen if the world in wich the home was got &cresetted! &7If you think this is a &cmistake, &7please contact a &cstaff member&7!",
-            "de_DE": "&7Dieses &6Home ist momentan &cdeaktiviert&7! &7Dies kann passieren, wenn die Welt in der das Home war &czurückgesetzt &7wurde! Wenn du denkst, dass dies ein &cFehler &7ist, kontaktiere bitte einen &cTeammitglied&7!"
+            "en_US": "&7This &6home &7is currently &cdisabled! &7This can happen if the world in wich the &6home &7was got &cresetted! &7If you think this is a &cmistake, &7please contact a &cstaff member&7!",
+            "de_DE": "&7Dieses &6Home ist momentan &cdeaktiviert&7! &7Dies kann passieren, wenn die Welt in der das &6Home &7war &czurückgesetzt &7wurde! Wenn du denkst, dass dies ein &cFehler &7ist, kontaktiere bitte einen &cTeammitglied&7!"
         },
         "GUI.main.loading": {
             "en_US": "Loading...",
@@ -105,18 +105,18 @@
         },
         "cmd.sethome.error.noname":
         {
-            "en_US": "&cYou have to enter a name for your home!",
-            "de_DE": "&cDu musst einen Namen für dein Home angeben!"
+            "en_US": "&cYou have to enter a &7name &cfor your &7home&c!",
+            "de_DE": "&cDu musst einen &7Namen &cfür dein &7Home &cangeben!"
         },
         "cmd.sethome.error.nohomesleft":
         {
-            "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] / [max]&8)! &7You need a &6higher rank &7to unlock more &6homes!",
-            "de_DE": "&cDu hast die maximale Anzahl an Homes erreicht &8(&c[amount] / [max]&8)! &7Du benötigst einen &6höheren Rang &7um mehr &6Homes &7freizuschalten!"
+            "en_US": "&cYou've reached the maximum amount of &6homes &8(&c[amount] / [max]&8)! &7You need a &6higher rank &7to unlock more &6homes!",
+            "de_DE": "&cDu hast die maximale Anzahl an &6Homes &7erreicht &8(&c[amount] / [max]&8)! &7Du benötigst einen &6höheren Rang &7um mehr &6Homes &7freizuschalten!"
         },
         "cmd.sethome.success.homeset":
         {
-            "en_US": "&7You successfully created a home named &a[name]&7.",
-            "de_DE": "&7Du hast erfolgreich ein Home namens &a[name] &7erstellt."
+            "en_US": "&7You successfully &2created &7a &6home named &6[name]&7.",
+            "de_DE": "&7Du hast erfolgreich ein &6Home &7namens &a[name] &2erstellt&7."
         }
     }
 }
