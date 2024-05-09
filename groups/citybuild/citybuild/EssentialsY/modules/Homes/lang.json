@@ -8,8 +8,8 @@
             "de_DE": "&b[player]'s &7Homes"
         },
         "GUI.main.title.loading": {
-            "en_US": "&b[player]'s &7Homes &6(&bLoading...&6)",
-            "de_DE": "&b[player]'s &7Homes &6(&bLade...&6)"
+            "en_US": "&b[player]'s &7Homes &c(Loading...)",
+            "de_DE": "&b[player]'s &7Homes &c(Lade...)"
         },
         "GUI.main.firstpage":
         {
