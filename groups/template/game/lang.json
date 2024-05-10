@@ -29,8 +29,8 @@
         },
         "settings.export":
         {
-            "en_US": "&7Your Settings have been exported! <$value:'%{_string}%',text:'&e&nClick me'> &7to copy this String to your Clipboard",
-            "de_DE": "&7Deine Einstellungen wurden exportiert! <$value:'%{_string}%',text:'&e&nklicke mich'>&7, um die Einstellungen in die Zwischenablage zu kopieren."
+            "en_US": "&7Your Settings have been exported! <$value:'VAL1',text:'&e&nClick me'> &7to copy this String to your Clipboard",
+            "de_DE": "&7Deine Einstellungen wurden exportiert! <$value:'VAL1',text:'&e&nklicke mich'>&7, um die Einstellungen in die Zwischenablage zu kopieren."
         }
     }
 }
