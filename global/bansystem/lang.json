@@ -2,10 +2,15 @@
     "system": "bansystem",
     "translations":
     {
-        "BAN_reason.insulting":
+        "BAN.reason.insulting":
         {
             "en_US": "Insulting",
             "de_DE": "Beleidigung"
+        },
+        "BAN.reason.server_advertising":
+        {
+            "en_US": "Server advertising",
+            "de_DE": "Serverwerbung"
         }
     }
 }
