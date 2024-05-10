@@ -9,7 +9,7 @@
         },
         "GUI.featurelocked.rankneeded":
         {
-            "en_US": "&cNeeded Rank: &f[rank]",
+            "en_US": "&cRequired Rank: &f[rank]",
             "de_DE": "&cBenötigter Rang: &f[rank]"
         },
         "MSG.featurelocked.youneedhigherrank":
