@@ -60,7 +60,12 @@
         "settings.applied_with_errors":
         {
             "en_US": "&7Applied &6VAL1 &7settings and skipped &eVAL2&7.",
-            "de_DE": "&7Es wurden &6VAL1 &7Einstellungen angewendet und &eVAL2 &7fehlerhafte übersprungen."
+            "de_DE": "&7Es wurden &6VAL1 &7Einstellungen übernommen und &eVAL2 &7fehlerhafte übersprungen."
+        },
+        "settings.applied_without_errors":
+        {
+            "en_US": "&aApplied all Settings with 0 errors",
+            "de_DE": "&aAlle Einstellungen wurden ohne Fehler übernommen"
         }
     }
 }
