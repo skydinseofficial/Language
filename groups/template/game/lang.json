@@ -57,6 +57,26 @@
             "en_US": "&7Try using a number.",
             "de_DE": "&7Verwende eine Zahl."
         },
+        "settings.err.no_value":
+        {
+            "en_US": "&cyou did not specify a value.",
+            "de_DE": "&cdu hast keinen Wert angegeben."
+        },
+        "settings.err.no_value.advice":
+        {
+            "en_US": "&7Use a fitting value.",
+            "de_DE": "&7Verwende einen passenden Wert."
+        },
+        "settings.err.unavailable":
+        {
+            "en_US": "&4VAL1 &cis not available.",
+            "de_DE": "&cDie Option &4VAL1 &cexistiert nicht."
+        },
+        "settings.err.unavailable.advice":
+        {
+            "en_US": "&7Use &e/controls listsettings &7to see all available options.",
+            "de_DE": "&7Verwende &e/controls listsettings&7, um alle verfügbaren Optionen einzusehen"
+        },
         "settings.applied_with_errors":
         {
             "en_US": "&7Applied &6VAL1 &7settings and skipped &eVAL2&7.",
