@@ -11,6 +11,101 @@
         {
             "en_US": "Server advertising",
             "de_DE": "Serverwerbung"
+        },
+        "BAN.reason.obscene_terms":
+        {
+            "en_US": "Obscene terms",
+            "de_DE": "Obszöne Begriffe"
+        },
+        "BAN.reason.disregarding_instructions":
+        {
+            "en_US": "Disregarding instructions",
+            "de_DE": "Nichtbeachtung von Anweisungen"
+        },
+        "BAN.reason.disregarding_instructions":
+        {
+            "en_US": "Disregarding instructions",
+            "de_DE": "Nichtbeachtung von Anweisungen"
+        },
+        "BAN.reason.chatting_behavior":
+        {
+            "en_US": "Chatting behavior",
+            "de_DE": "Chatverhalten"
+        },
+        "BAN.reason.harassment":
+        {
+            "en_US": "Harassment",
+            "de_DE": "Belästigung"
+        },
+        "BAN.reason.threatening":
+        {
+            "en_US": "Threatening",
+            "de_DE": "Drohung"
+        },
+        "BAN.reason.offensive_name":
+        {
+            "en_US": "Offensive name",
+            "de_DE": "Anstößiger Name"
+        },
+        "BAN.reason.offensive_skin":
+        {
+            "en_US": "Offensive skin",
+            "de_DE": "Anstößiger Skin"
+        },
+        "BAN.reason.inappropriate_building":
+        {
+            "en_US": "Inappropriate building",
+            "de_DE": "Unangebrachtes Bauwerk"
+        },
+        "BAN.reason.exploiting_bugs":
+        {
+            "en_US": "Exploiting bugs",
+            "de_DE": "Ausnutzen von Fehlern"
+        },
+        "BAN.reason.autoclicker":
+        {
+            "en_US": "Autoclicker",
+            "de_DE": "Autoklicker"
+        },
+        "BAN.reason.duplicating_items":
+        {
+            "en_US": "Duplicating items",
+            "de_DE": "Duplizieren von Items"
+        },
+        "BAN.reason.hostility":
+        {
+            "en_US": "Hostility",
+            "de_DE": "Feindlichkeit"
+        },
+        "BAN.reason.multiaccounting":
+        {
+            "en_US": "Multiaccounting",
+            "de_DE": "Multiaccounting"
+        },
+        "BAN.reason.nick_vanishleaking":
+        {
+            "en_US": "Nick-/Vanishleaking",
+            "de_DE": "Nick-/Vanishleaking"
+        },
+        "BAN.reason.scamming":
+        {
+            "en_US": "Scamming",
+            "de_DE": "Betrug"
+        },
+        "BAN.reason.ban_bypassing":
+        {
+            "en_US": "Ban bypassing",
+            "de_DE": "Bannumgehung"
+        },
+        "BAN.reason.extremist_behavior":
+        {
+            "en_US": "Extremist behavior",
+            "de_DE": "Extremistisches Verhalten"
+        },
+        "BAN.reason.right_wing_extremist_behavior":
+        {
+            "en_US": "Right-wing extremist behavior",
+            "de_DE": "Rechtsextremistisches Verhalten"
         }
     }
 }
