@@ -58,22 +58,22 @@
         },
         "GUI.manage.title":
         {
-            "en_US": "&6Manage &7your &6Home &a[name]",
-            "de_DE": "&6Verwalte &7dein &6Home &a[name]"
+            "en_US": "&6Manage &7the &6Home &a[name]",
+            "de_DE": "&6Verwalte &7das &6Home &a[name]"
         },
         "GUI.manage.lore.info":
         {
-            "en_US": "&7In this &6GUI &7you can &6manage &7your &6home &a[name]&7.",
-            "de_DE": "&7In diesem &6GUI &7kannst du dein &6Home &a[name] &7verwalten&7."
+            "en_US": "&7In this &6GUI &7you can &6manage &7the &6home &a[name]&7.",
+            "de_DE": "&7In diesem &6GUI &7kannst du das &6Home &a[name] &7verwalten&7."
         },
         "GUI.manage.home.lore.teleport": {
-            "en_US": "&6Click &7to &6teleport &7you to your &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um dich zu deinem &6Home &a[name] &7zu &6teleportieren&7."
+            "en_US": "&6Click &7to &6teleport &7you to the &6home &a[name]&7.",
+            "de_DE": "&6Klicke &7um dich zu dem &6Home &a[name] &7zu &6teleportieren&7."
         },
         "GUI.manage.home.lore.delete":
         {
-            "en_US": "&6Click &7to &cdelete &7your &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um dein &6Home &a[name] &7zu &clöschen&7."
+            "en_US": "&6Click &7to &cdelete &7the &6home &a[name]&7.",
+            "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &clöschen&7."
         },
         "GUI.manage.home.item.name.teleport": {
             "en_US": "&6Teleport",
@@ -109,15 +109,6 @@
             "en_US": "&6Click &7to &cdelete &7the &6home &a[name]&7.",
             "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &clöschen&7."
         },
-        "GUI.manage.home.admin.click.teleport": {
-            "en_US": "&7You've been teleported to the &6home &a[name]&7!",
-            "de_DE": "&7Du wurdest zu dem &6Home &a[name] &7teleportiert!"
-        },
-        "GUI.manage.home.admin.click.delete":
-        {
-            "en_US": "&7You successfully &cdeleted &7the &6home &a[name]&7!",
-            "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &cgelöscht&7!"
-        },
         "GUI.manage.home.admin.disable":
         {
             "en_US": "&7You've successfully &cdisabled &7the &6home &a[name]&7.",
@@ -129,18 +120,13 @@
             "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &aaktiviert&7."
         },
         "GUI.manage.home.click.teleport": {
-            "en_US": "&7You've been teleported to your &6home &a[name]&7!",
-            "de_DE": "&7Du wurdest zu deinem &6Home &a[name] &7teleportiert!"
+            "en_US": "&7You've been teleported to the &6home &a[name]&7!",
+            "de_DE": "&7Du wurdest zu dem &6Home &a[name] &7teleportiert!"
         },
         "GUI.manage.home.click.delete":
         {
-            "en_US": "&7You successfully &cdeleted &7your &6home &a[name]&7!",
-            "de_DE": "&7Du hast dein &6Home &a[name] &7erfolgreich &cgelöscht&7!"
-        },
-        "GUI.manage.home.delete.success":
-        {
-            "en_US": "&7You've successfully &cdeleted &7your &6home &a[name]&7.",
-            "de_DE": "&7Du hast dein &6Home &a[name] &7erfolgreich &cgelöscht."
+            "en_US": "&7You've successfully &cdeleted &7the &6home &a[name]&7.",
+            "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &cgelöscht."
         },
         "GUI.manage.home.click.disabled": {
             "en_US": "&7This &6home &7is currently &cdisabled! &7This can happen if the world in wich the &6home &7was got &cresetted! &7If you think this is a &cmistake, &7please contact a &cstaff member&7!",
@@ -153,7 +139,7 @@
         },
         "cmd.sethome.error.noname":
         {
-            "en_US": "&cYou have to enter a &7name &cfor your &7home&c!",
+            "en_US": "&cYou have to enter a &7name &cfor the &7home&c!",
             "de_DE": "&cDu musst einen &7Namen &cfür dein &7Home &cangeben!"
         },
         "cmd.sethome.error.limit":
