@@ -151,6 +151,11 @@
         {
             "en_US": "&7You successfully &2created &7a &6home &7named &a[name]&7.",
             "de_DE": "&7Du hast erfolgreich ein &6Home &7namens &a[name] &2erstellt&7."
+        },
+        "homes.msg.nop":
+        {
+            "en_US": "&cYou don't have permission for this.",
+            "de_DE": "&cDazu hast du keine Berechtigung."
         }
     }
 }
