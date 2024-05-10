@@ -58,8 +58,13 @@
         },
         "GUI.manage.title":
         {
-            "en_US": "&bManage &7your &6Home &a[name]",
-            "de_DE": "&bVerwalte &7dein &6Home &a[name]"
+            "en_US": "&6Manage &7your &6Home &a[name]",
+            "de_DE": "&6Verwalte &7dein &6Home &a[name]"
+        },
+        "GUI.manage.lore.info":
+        {
+            "en_US": "&7In this &6GUI &7you can &6manage &7your &6home &a[name]&7.",
+            "de_DE": "&7In diesem &6GUI &7kannst du dein &6Home &a[name] &7verwalten&7."
         },
         "GUI.manage.home.lore.teleport": {
             "en_US": "&6Click &7to &6teleport &7you to your &6home &a[name]&7.",
