@@ -2,7 +2,7 @@
     "system": "bansystem",
     "translations":
     {
-        "BAN_reason.insult":
+        "BAN_reason.insulting":
         {
             "en_US": "Insulting",
             "de_DE": "Beleidigung"
