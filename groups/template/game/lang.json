@@ -72,7 +72,7 @@
             "en_US": "&cYour string contains invalid characters.",
             "de_DE": "&cIn deinem String sind ungültige Symbole."
         },
-        "settings.err.ninvalid_chars.advice":
+        "settings.err.invalid_chars.advice":
         {
             "en_US": "&7Don't use invalid characters.",
             "de_DE": "&7Verzichte auf ungültige Symbole."
