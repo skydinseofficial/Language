@@ -96,6 +96,11 @@
         {
             "en_US": "&aApplied all Settings with 0 errors",
             "de_DE": "&aAlle Einstellungen wurden ohne Fehler übernommen"
+        },
+        "settings.reset":
+        {
+            "en_US": "&7All settings have been resetted.",
+            "de_DE": "&7Alle Einstellungen wurden zurückgesetzt"
         }
     }
 }
