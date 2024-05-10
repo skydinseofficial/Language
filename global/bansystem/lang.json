@@ -2,30 +2,10 @@
     "system": "bansystem",
     "translations":
     {
-        "KICK_message":
+        "BAN_reason.insult":
         {
-            "en_US": "You were kicked from our network!",
-            "de_DE": "Du wurdest von unserem Netzwerk gekickt!"
-        },
-        "BAN_message":
-        {
-            "en_US": "You were banned from our network!",
-            "de_DE": "Du wurdest von unserem Netzwerk gebannt!"
-        },
-        "reason":
-        {
-            "en_US": "Reason:",
-            "de_DE": "Grund:"
-        },
-        "TIME_left":
-        {
-            "en_US": "Time left:",
-            "de_DE": "Zeit verbleibend:"
-        },
-        "BAN_check":
-        {
-            "en_US": "Your ban will be reviewed again shortly!",
-            "de_DE": "Dein Bann wird in Kürze erneut überprüft!"
+            "en_US": "Insulting",
+            "de_DE": "Beleidigung"
         }
     }
 }
