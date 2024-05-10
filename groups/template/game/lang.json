@@ -41,6 +41,11 @@
         {
             "en_US": "&4VAL1 &cis not a number.",
             "de_DE": "&4VAL1 &cist keine Zahl."
+        },
+        "settings.err.no_number.advice":
+        {
+            "en_US": "&7Try using a number.",
+            "de_DE": "&7Verwende eine Zahl."
         }
     }
 }
