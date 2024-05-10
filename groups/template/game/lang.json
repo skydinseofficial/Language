@@ -37,6 +37,16 @@
             "en_US": "&6&nAvailable Settings:",
             "de_DE": "&6&nVerfügbare Optionen:"
         },
+        "settings.err":
+        {
+            "en_US": "&7Error:",
+            "de_DE": "&7Fehlermeldung:"
+        },
+        "settings.advicer":
+        {
+            "en_US": "&7Advice:",
+            "de_DE": "&7Vorschlag:"
+        },
         "settings.err.no_number":
         {
             "en_US": "&4VAL1 &cis not a number.",
