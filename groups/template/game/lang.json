@@ -1,61 +1,115 @@
-{
-    "system": "game",
-    "translations":
-    {
-        "item.mapvote":
-        {
-            "en_US": "&6Vote for Map",
-            "de_DE": "&6Karte wählen"
-        },
-        "item.locker":
-        {
-            "en_US": "&6Your Locker",
-            "de_DE": "&6Dein Spind"
-        },
-        "item.boosters":
-        {
-            "en_US": "&aBoosters",
-            "de_DE": "&aBooster"
-        },
-        "item.leave":
-        {
-            "en_US": "&cLeave Game",
-            "de_DE": "&cSpiel verlassen"
-        },
-        "gui.map_vote.title":
-        {
-            "en_US": "&5&lChoose Map",
-            "de_DE": "&5&lKarte wählen"
-        },
-        "settings.export":
-        {
-            "en_US": "&7Your Settings have been exported! <$value:'VAL1',text:'&e&nClick me'> &7to copy this String to your Clipboard",
-            "de_DE": "&7Deine Einstellungen wurden exportiert! <$value:'VAL1',text:'&e&nklicke mich'>&7, um die Einstellungen in die Zwischenablage zu kopieren."
-        },
-        "settings.list":
-        {
-            "en_US": "&6&nAvailable Settings:",
-            "de_DE": "&6&nVerfügbare Optionen:"
-        },
-        "settings.err":
-        {
-            "en_US": "&7Error:",
-            "de_DE": "&7Fehlermeldung:"
-        },
-        "settings.advicer":
-        {
-            "en_US": "&7Advice:",
-            "de_DE": "&7Vorschlag:"
-        },
-        "settings.err.no_number":
-        {
-            "en_US": "&4VAL1 &cis not a number.",
-            "de_DE": "&4VAL1 &cist keine Zahl."
-        },
-        "settings.err.no_number.advice":
-        {
-            "en_US": "&7Try using a number.",
-            "de_DE": "&7Verwende eine Zahl."
-        }
-    }
-}
+
+
+options:
+	prefix: &8[&6LoadSettings&8]
+
+
+on load:
+	set {controllsCommand::tabComplete::settings::input::number::*} to "minPlayers", "lobbyCountdown", "gameLenght"
+
+
+#
+#
+#			   TAB COMPLETE
+#
+#
+
+
+on tab complete of "controls":
+	set {_game} to ashlynGame(player)
+	set {_variant} to {ashlyn.data::%{ashlyn.set::registername}%::games::%{_game}%::mode}
+	set tab completions for position 1 to "set", "reset", "export", "import", "listsettings"
+	if tab arg 1 is "set":
+		set tab completions for position 2 to {game::settings::%{_variant}%::settingsCommand::*}
+		if tab arg 2 is set:
+			if {game::settings::%{_variant}%::settingsCommand::%tab arg 2%::type} is "number":
+				set tab completions for position 3 to 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
+
+
+#
+#
+#				COMMAND
+#
+#
+
+
+command /controls [<text>] [<text>] [<text>]:
+	trigger:
+		set {_game} to ashlynGame(player)
+		set {_variant} to {ashlyn.data::%{ashlyn.set::registername}%::games::%{_game}%::mode}
+		if arg 1 is "set":
+			if arg 2 is set:
+				if arg 3 is set:
+					if {game::settings::%{_variant}%::settingsCommand::%arg 2%::type} is "number":
+						set {_value} to arg 3 parsed as number
+						set {_path} to {game::settings::%{_variant}%::settingsCommand::%arg 2%::path}
+						set {ashlyn.data::%{ashlyn.set::registername}%::games::%{_game}%::%{_path}%} to {_value}
+		else if arg 1 is "reset":
+			resetGameSettings({_game})
+		else if arg 1 is "export":
+			set {_string} to ""
+			loop {game::settings::%{_variant}%::settingsCommand::*}:
+				set {_setting} to loop-value
+				set {_path} to {game::settings::%{_variant}%::settingsCommand::%loop-value%::path}
+				set {_value} to {ashlyn.data::%{ashlyn.set::registername}%::games::%{_game}%::%{_path}%}
+				set {_string} to "%{_string}%%{_setting}%=%{_value}%;"
+			send(player, "%getMessagePrefix(player, "Custom Server", "info")% &7Your Settings have been exported! <$value:'%{_string}%',text:'&eClick me'> &7to copy this String to your Clipboard")
+			#send(player, "{@prefix} &7This is the generated Code for these settings: &6<$%{_string}%>")
+		else if arg 1 is "import":
+			set {_success} to 0
+			clear {_fail::*}
+			set {_fail} to 0
+			if arg 2 is set:
+				set {_settings::*} to arg 2 split at ";"
+				loop {_settings::*}:
+					set {_setting::*} to loop-value split at "="
+					set {_option} to {_setting::1}
+					if {game::settings::%{_variant}%::settingsCommand::*} contains {_option}:
+						if {game::settings::%{_variant}%::settingsCommand::%{_option}%::type} is "number":
+							if {_setting::2} is set:
+								set {_value} to {_setting::2} parsed as number
+								if {_value} is set:
+									set {_path} to {game::settings::%{_variant}%::settingsCommand::%{_option}%::path}
+									set {ashlyn.data::%{ashlyn.set::registername}%::games::%{_game}%::%{_path}%} to {_value}
+									#broadcast "{@prefix} &7The Setting &6%{_option}%&7 was successfully imported! New Value: &e%{_value}%"
+									add 1 to {_success}
+								else:
+									#broadcast "{@prefix} &cImport of Setting &4%{_option}% &chas failed. &7The Value &e%{_setting::2}% &7is not a number. Skipping this setting.."
+									add 1 to {_fail}
+									add {_option} to {_fail::*}
+									set {_msg} to "%{l.game::%lang(player)%::settings.err.no_number}%"
+									replace "VAL1" in {_msg} with {_setting::2}
+									set {_fail::%{_option}%::error} to "%{_msg}%"
+									set {_fail::%{_option}%::advice} to "%{l.game::%lang(player)%::settings.err.no_number.advice}%"
+							else:
+								add 1 to {_fail}
+								add {_option} to {_fail::*}
+								set {_fail::%{_option}%::error} to "&cyou did not specify a value."
+								set {_fail::%{_option}%::advice} to "&7Try using a number as value."
+					else:
+						#broadcast "{@prefix} &cImport of Setting &4%{_option}% &chas failed. &7This setting is not registered. Use &e'/controls listsettings' &7to see all available setting"
+						add 1 to {_fail}
+						add {_option} to {_fail::*}
+						set {_fail::%{_option}%::error} to "&4%{_option}% &cis not available."
+						set {_fail::%{_option}%::advice} to "&7Use &e/controls listsettings &7to see all available settings."
+				if {_fail} is 0:
+					send(player, "{@prefix} &aApplied all Settings with 0 errors")
+				else:
+					send(player, "")
+					send(player, "&6&nIssues while importing:")
+					send(player, "&7Hover them to see more information.")
+					send(player, "")
+					loop {_fail::*}:
+						set {_error} to {_fail::%loop-value%::error}
+						set {_advice} to {_fail::%loop-value%::advice}
+						set {_lang.err} to "%{l.game::%lang(player)%::settings.err}%"
+						set {_lang.advice} to "%{l.game::%lang(player)%::settings.advice}%"
+						send(player, "<+tip:'%{_lang.err}% %{_error}%\n%{_lang.advice}% %{_advice}%',text:'&8» &6%loop-value%'>")
+					send(player, "")
+					send(player, "{@prefix} &7Applied &6%{_success}% &7settings and skipped &e%{_fail}%&7.")
+		else if arg 1 is "listsettings":
+			send(player, "%{l.game::%lang(player)%::settings.list}%")
+			send(player, "")
+			loop {game::settings::%{_variant}%::settingsCommand::*}:
+				send(player, "&8» &6%loop-value% &7-> %{game::settings::%{_variant}%::settingsCommand::%loop-value%::type}%")
+			send(player, "")
