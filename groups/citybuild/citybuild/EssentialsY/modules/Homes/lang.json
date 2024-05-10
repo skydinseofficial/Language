@@ -53,7 +53,7 @@
         },
         "GUI.main.home.lore.teleport":
         {
-            "en_US": "&7Use &6leftclick &7to &6manage &7you to this &6home&7.",
+            "en_US": "&7Use &6leftclick &7to &6manage &7this &6home&7.",
             "de_DE": "&7Benutze &6Linksklick &7um dieses &6Home &7zu &6verwalten&7."
         },
         "GUI.manage.home.click.teleport": {
