@@ -56,6 +56,11 @@
         {
             "en_US": "&7Try using a number.",
             "de_DE": "&7Verwende eine Zahl."
+        },
+        "settings.applied_with_errors":
+        {
+            "en_US": "&7Applied &6VAL1 &7settings and skipped &eVAL2&7.",
+            "de_DE": "&7Es wurden &6VAL1 &7Einstellungen angewendet und &eVAL2 &7fehlerhafte übersprungen."
         }
     }
 }
