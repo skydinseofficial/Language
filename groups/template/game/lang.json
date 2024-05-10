@@ -74,8 +74,8 @@
         },
         "settings.err.ninvalid_chars.advice":
         {
-            "en_US": "&7Don't use these charakters: &e<&7, &e>",
-            "de_DE": "&7Verzichte auf folgende Symbole: &e<&7, &e>"
+            "en_US": "&7Don't use invalid characters.",
+            "de_DE": "&7Verzichte auf ungültige Symbole."
         },
         "settings.err.unavailable":
         {
