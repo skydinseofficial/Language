@@ -21,6 +21,16 @@
         {
             "en_US": "&cLeave Game",
             "de_DE": "&cSpiel verlassen"
+        },
+        "gui.map_vote.title":
+        {
+            "en_US": "&5&lChoose Map",
+            "de_DE": "&5&lKarte wählen"
+        },
+        "settings.export":
+        {
+            "en_US": "&7Your Settings have been exported! <$value:'%{_string}%',text:'&e&nClick me'> &7to copy this String to your Clipboard",
+            "de_DE": "&7Deine Einstellungen wurden exportiert! <$value:'%{_string}%',text:'&e&nklicke mich'>&7, um die Einstellungen in die Zwischenablage zu kopieren."
         }
     }
 }
