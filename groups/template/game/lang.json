@@ -101,6 +101,16 @@
         {
             "en_US": "&7All settings have been resetted.",
             "de_DE": "&7Alle Einstellungen wurden zurückgesetzt"
+        },
+        "actionbar.lobby.wait":
+        {
+            "en_US": "&7Waiting for &6VAL1 &7players to join...",
+            "de_DE": "&7Warten auf &6VAL1 &7Spieler..."
+        },
+        "actionbar.lobby.count":
+        {
+            "en_US": "&7The game is starting in &6VAL1 &7seconds",
+            "de_DE": "&7Das Spiel startet in &6VAL1 &7Sekunden"
         }
     }
 }
