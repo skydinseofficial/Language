@@ -27,6 +27,16 @@
             "en_US": "&5&lChoose Map",
             "de_DE": "&5&lKarte wählen"
         },
+        "map_vote.voted":
+        {
+            "en_US": "&7You voted for &6[map]&7.",
+            "de_DE": "&7Du hast für &6[map] &7gestimmt."
+        },
+        "map_vote.revoked":
+        {
+            "en_US": "&7You revoked your vote.",
+            "de_DE": "&7Du hast deine Stimme zurückgezogen."
+        },
         "settings.export":
         {
             "en_US": "&7Your Settings have been exported! <$value:'VAL1',text:'&e&nClick me'> &7to copy this String to your Clipboard",
