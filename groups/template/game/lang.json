@@ -35,7 +35,8 @@
         "map_vote.revoked":
         {
             "en_US": "&7You revoked your vote.",
-            "de_DE": "&7Du hast deine Stimme zurückgezogen."
+            "de_DE": "&7Du hast deine Stimme zurückgezogen.",
+            "de_XX": "&7Du &eNichtwähler &7hast deine Stimme zurückgezogen."
         },
         "settings.export":
         {
