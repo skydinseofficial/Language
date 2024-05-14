@@ -61,6 +61,16 @@
         {
             "en_US": "&7Stand out by shining in your\n&7rank color.",
             "de_DE": "&7Hebe dich durch Leuchten in deiner\n&7Rangfarbe hervor."
+        },
+        "GUI.feature.fly.title":
+        {
+            "en_US": "<#FFF59B>Fly",
+            "de_DE": "<#FFF59B>Fliegen"
+        },
+        "GUI.feature.fly.description":
+        {
+            "en_US": "&7Save a few steps and activate\n&7your flight mode.",
+            "de_DE": "&7Spare ein paar Schritte und\n&7aktiviere deinen Flugmodus."
         }
     }
 }
