@@ -19,8 +19,8 @@
         },
         "GUI.availableservers":
         {
-            "en_US": "&7Available on: ",
-            "de_DE": "&7Verfügbar auf: "
+            "en_US": "Available on: ",
+            "de_DE": "Verfügbar auf: "
         },
         "GUI.statusdescription":
         {
