@@ -4,8 +4,8 @@
     {
         "GUI.main.title":
         {
-            "en_US": "<#FFD800>Features &f",
-            "de_DE": "<#FFD800>Features &f"
+            "en_US": "<#FFD800>Features <#FFFFFF>",
+            "de_DE": "<#FFD800>Features <#FFFFFF>"
         }
     }
 }
