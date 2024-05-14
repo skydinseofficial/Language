@@ -6,6 +6,56 @@
         {
             "en_US": "<#FFD800>Features <#FFFFFF>",
             "de_DE": "<#FFD800>Features <#FFFFFF>"
+        },
+        "MSG.featurelocked.youneedhigherrank":
+        {
+            "en_US": "&cYou need at least the &r[rank]&7-Rank &cto use this feature!",
+            "de_DE": "&cDu benötigst mindestens den &r[rank]&7-Rang&c, um diese Funktion zu nutzen!"
+        },
+        "GUI.featurelocked.rankneeded":
+        {
+            "en_US": "&cRequired Rank: &f[rank]",
+            "de_DE": "&cBenötigter Rang: &f[rank]"
+        },
+        "GUI.availableservers":
+        {
+            "en_US": "&7Available on: ",
+            "de_DE": "&7Verfügbar auf: "
+        },
+        "GUI.statusdescription":
+        {
+            "en_US": "&7Status: ",
+            "de_DE": "&7Status: "
+        },
+        "GUI.statusdescription.enabled":
+        {
+            "en_US": "<#6CFF2D>ᴇɴᴀʙʟᴇᴅ",
+            "de_DE": "<#6CFF2D>ᴀᴋᴛɪᴠɪᴇʀᴛ"
+        },
+        "GUI.statusdescription.disabled":
+        {
+            "en_US": "<#FF3838>ᴅɪsᴀʙʟᴇᴅ",
+            "de_DE": "<#FF3838>ᴅᴇᴀᴋᴛɪᴠɪᴇʀᴛ"
+        },
+        "GUI.actiondescription.click2enable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to enable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum aktivieren"
+        },
+        "GUI.actiondescription.click2disable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to disable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum deaktivieren"
+        },
+        "GUI.feature.glow.title":
+        {
+            "en_US": "<#FFD85D>Glow",
+            "de_DE": "<#FFD85D>Leuchten"
+        },
+        "GUI.feature.glow.description":
+        {
+            "en_US": "&7Stand out by shining in your\n&7rank color.",
+            "de_DE": "&7Hebe dich durch Leuchten in deiner\n&7Rangfarbe hervor."
         }
     }
 }
