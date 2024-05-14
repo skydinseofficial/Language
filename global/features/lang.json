@@ -4,13 +4,18 @@
     {
         "GUI.main.title":
         {
-            "en_US": "<#FFD800>Features <#FFFFFF>",
-            "de_DE": "<#FFD800>Features <#FFFFFF>"
+            "en_US": "<#FFC800>Features <#FFFFFF>",
+            "de_DE": "<#FFC800>Features <#FFFFFF>"
         },
         "MSG.featurelocked.youneedhigherrank":
         {
             "en_US": "&cYou need at least the &r[rank]&7-Rank &cto use this feature!",
             "de_DE": "&cDu benötigst mindestens den &r[rank]&7-Rang&c, um diese Funktion zu nutzen!"
+        },
+        "MSG.datanotloaded":
+        {
+            "en_US": "&cYour data is not loaded yet!",
+            "de_DE": "&cDeine Daten sind noch nicht geladen!"
         },
         "GUI.featurelocked.rankneeded":
         {
