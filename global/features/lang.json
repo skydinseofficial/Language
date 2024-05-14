@@ -1,1 +1,11 @@
-
+{
+    "system": "features",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "<#FFD800>Features",
+            "de_DE": "<#FFD800>Features"
+        }
+    }
+}
