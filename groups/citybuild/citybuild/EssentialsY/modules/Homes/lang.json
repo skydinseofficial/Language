@@ -152,6 +152,11 @@
             "en_US": "&7You successfully &2created &7a &6home &7named &a[name]&7.",
             "de_DE": "&7Du hast erfolgreich ein &6Home &7namens &a[name] &2erstellt&7."
         },
+        "cmd.homes.opengui.error.viewself":
+        {
+            "en_US": "&cDu kannst nicht deine eigenen Homes mit einem &7Admin-Command &cverwalten! &7Nutze dazu bitte &6</homes>&7!",
+            "de_DE": "&cYou cannot manage your own homes with an &7admin-command&c! &7Please use &6</homes> &7for that!"
+        }
         "homes.msg.nop":
         {
             "en_US": "&cYou don't have permission for this.",
