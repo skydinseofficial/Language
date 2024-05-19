@@ -111,6 +111,11 @@
         {
             "en_US": "Impermissible client modification",
             "de_DE": "Unerlaubte Clientmodifikation"
+        },
+        "BAN.reason.inappropriate_expressions":
+        {
+            "en_US": "Inappropriate expressions",
+            "de_DE": "Unangebrachte Ausdrucksweisen"
         }
     }
 }
