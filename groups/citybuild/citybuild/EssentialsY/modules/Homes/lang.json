@@ -154,8 +154,8 @@
         },
         "cmd.homes.opengui.error.viewself":
         {
-            "en_US": "&cDu kannst nicht deine eigenen Homes mit einem &7Admin-Command &cverwalten! &7Nutze dazu bitte &6</homes>&7!",
-            "de_DE": "&cYou cannot manage your own homes with an &7admin-command&c! &7Please use &6</homes> &7for that!"
+            "en_US": "&cYou cannot manage your own homes with an &7admin-command&c! &7Please use &6</homes> &7for that!",
+            "de_DE": "&cDu kannst deine eigenen &7nicht &cHomes mit einem &7Admin-Command &cverwalten! &7Nutze dazu bitte &6</homes>&7!"
         }
         "homes.msg.nop":
         {
