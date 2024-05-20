@@ -121,6 +121,16 @@
         {
             "en_US": "&cThe specified player is offline.",
             "de_DE": "&cDer angegebene Spieler ist offline."
+        },
+        "cmd.admin.give.received":
+        {
+            "en_US": "&7You received [amount] [currencyicon]&7.",
+            "de_DE": "&7Du hast [amount] [currencyicon] &7erhalten."
+        },
+        "cmd.admin.give.playerreceived":
+        {
+            "en_US": "&e[player] &7received [amount] [currencyicon]&7.",
+            "de_DE": "&e[player] &7hat [amount] [currencyicon] &7erhalten."
         }
     }
 }
