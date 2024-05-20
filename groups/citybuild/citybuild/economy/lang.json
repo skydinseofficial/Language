@@ -62,6 +62,11 @@
             "en_US": "&cYou don't have permission to pay everyone at the same time!",
             "de_DE": "&cDu hast keine Berechtigung dazu, allen gleichzeitig Geld zu senden!"
         },
+        "cmd.pay.payeveryonenotarget":
+        {
+            "en_US": "&cThere are currently no players you can pay!",
+            "de_DE": "&cEs gibt gerade keine Spieler, denen du Geld senden kannst!"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
