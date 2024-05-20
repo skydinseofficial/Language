@@ -32,6 +32,11 @@
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
         },
+        "cmd.pay.cantpayyourself":
+        {
+            "en_US": "&cYou can't pay yourself!",
+            "de_DE": "&cDu kannst dir selber kein Geld senden!"
+        },
         "cmd.pay.playernotonline":
         {
             "en_US": "&cThis player is not online!",
