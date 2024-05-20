@@ -131,6 +131,11 @@
         {
             "en_US": "&e[player] &7received [amount] [currencyicon]&7.",
             "de_DE": "&e[player] &7hat [amount] [currencyicon] &7erhalten."
+        },
+        "cmd.admin.give.everyonereceived":
+        {
+            "en_US": "&e[playeramount] players &7received [amount] [currencyicon]&7.",
+            "de_DE": "&e[playeramount] Spieler &7haben [amount] [currencyicon] &7erhalten."
         }
     }
 }
