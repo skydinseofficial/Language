@@ -2,120 +2,90 @@
     "system": "bansystem",
     "translations":
     {
-        "BAN.reason.insulting":
+        "BAN.reason.behavior.insulting":
         {
-            "en_US": "Insulting",
-            "de_DE": "Beleidigung"
+            "en_US": "Offensive Behavior",
+            "de_DE": "Beleidigendes Verhalten"
         },
-        "BAN.reason.server_advertising":
+        "BAN.reason.behavior.racism":
         {
-            "en_US": "Server advertising",
-            "de_DE": "Serverwerbung"
+            "en_US": "Racist Behavior",
+            "de_DE": "Rassistisches Verhalten"
         },
-        "BAN.reason.obscene_terms":
+        "BAN.reason.behavior.sexism":
         {
-            "en_US": "Obscene terms",
-            "de_DE": "Obszöne Begriffe"
+            "en_US": "Sexist Behavior",
+            "de_DE": "Sexistisches Verhalten"
         },
-        "BAN.reason.disregarding_instructions":
+        "BAN.reason.behavior.homophobia":
         {
-            "en_US": "Disregarding instructions",
-            "de_DE": "Nichtbeachtung von Anweisungen"
+            "en_US": "Homophobic Behavior",
+            "de_DE": "Homobhobisches Verhalten"
         },
-        "BAN.reason.disregarding_instructions":
+        "BAN.reason.behavior.transphobia":
         {
-            "en_US": "Disregarding instructions",
-            "de_DE": "Nichtbeachtung von Anweisungen"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.chatting_behavior":
+        "BAN.reason.behavior.doxxing":
         {
-            "en_US": "Chatting behavior",
-            "de_DE": "Chatverhalten"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.harassment":
+        "BAN.reason.behavior.bullying":
         {
-            "en_US": "Harassment",
-            "de_DE": "Belästigung"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.threatening":
+        "BAN.reason.behavior.extortion":
         {
-            "en_US": "Threatening",
-            "de_DE": "Drohung"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.offensive_name":
+        "BAN.reason.behavior.spamming":
         {
-            "en_US": "Offensive name",
-            "de_DE": "Anstößiger Name"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.offensive_skin":
+        "BAN.reason.behavior.advertising_other_servers":
         {
-            "en_US": "Offensive skin",
-            "de_DE": "Anstößiger Skin"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.inappropriate_building":
+        "BAN.reason.behavior.advertising":
         {
-            "en_US": "Inappropriate building",
-            "de_DE": "Unangebrachtes Bauwerk"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.exploiting_bugs":
+        "BAN.reason.behavior.harassment":
         {
-            "en_US": "Exploiting bugs",
-            "de_DE": "Ausnutzen von Fehlern"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.autoclicker":
+        "BAN.reason.behavior.hate_speech":
         {
-            "en_US": "Autoclicker",
-            "de_DE": "Autoklicker"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.duplicating_items":
+        "BAN.reason.behavior.suicide_baiting":
         {
-            "en_US": "Duplicating items",
-            "de_DE": "Duplizieren von Items"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.hostility":
+        "BAN.reason.behavior.provocation":
         {
-            "en_US": "Hostility",
-            "de_DE": "Feindlichkeit"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.multiaccounting":
+        "BAN.reason.behavior.phishing":
         {
-            "en_US": "Multiaccounting",
-            "de_DE": "Multiaccounting"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.nick_vanishleaking":
+        "BAN.reason.behavior.promotion_of_forbidden_content":
         {
-            "en_US": "Nick-/Vanishleaking",
-            "de_DE": "Nick-/Vanishleaking"
+            "en_US": "",
+            "de_DE": ""
         },
-        "BAN.reason.scamming":
-        {
-            "en_US": "Scamming",
-            "de_DE": "Betrug"
-        },
-        "BAN.reason.ban_bypassing":
-        {
-            "en_US": "Ban bypassing",
-            "de_DE": "Bannumgehung"
-        },
-        "BAN.reason.extremist_behavior":
-        {
-            "en_US": "Extremist behavior",
-            "de_DE": "Extremistisches Verhalten"
-        },
-        "BAN.reason.right_wing_extremist_behavior":
-        {
-            "en_US": "Right-wing extremist behavior",
-            "de_DE": "Rechtsextremistisches Verhalten"
-        },
-        "BAN.reason.impermissible_client_modification":
-        {
-            "en_US": "Impermissible client modification",
-            "de_DE": "Unerlaubte Clientmodifikation"
-        },
-        "BAN.reason.inappropriate_expressions":
-        {
-            "en_US": "Inappropriate expressions",
-            "de_DE": "Unangebrachte Ausdrucksweisen"
-        }
     }
 }
