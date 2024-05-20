@@ -2,6 +2,11 @@
     "system": "economy",
     "translations":
     {
+        "nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
         "currency.name":
         {
             "en_US": "Dollar",
