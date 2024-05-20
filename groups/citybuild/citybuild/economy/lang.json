@@ -42,6 +42,26 @@
             "en_US": "&cYou don't have enough money!",
             "de_DE": "&cDu hast nicht genug Geld!"
         },
+        "cmd.pay.youreceived":
+        {
+            "en_US": "&e[player] &7transfered you [amount] [currencyicon]&7.",
+            "de_DE": "&e[player] &7hat dir [amount] [currencyicon] &7überwiesen."
+        },
+        "cmd.pay.everyonereceived":
+        {
+            "en_US": "&e[player] &7transfered everyone [amount] [currencyicon]&7.",
+            "de_DE": "&e[player] &7hat jedem [amount] [currencyicon] &7überwiesen."
+        },
+        "cmd.pay.targetcouldnotbepayed":
+        {
+            "en_US": "&cCould not pay &e[player]&c!",
+            "de_DE": "&e[player] &ckonnte nicht bezahlt werden!"
+        },
+        "cmd.pay.payeveryonenopermission":
+        {
+            "en_US": "&cYou don't have permission to pay everyone at the same time!",
+            "de_DE": "&cDu hast keine Berechtigung dazu, allen gleichzeitig Geld zu senden!"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
