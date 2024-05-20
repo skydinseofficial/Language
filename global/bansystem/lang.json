@@ -2,292 +2,317 @@
     "system": "bansystem",
     "translations":
     {
-        "BAN.reason.behavior.insulting":
+        "CATEGORY.behavior":
         {
-            "en_US": "Offensive behavior",
-            "de_DE": "Beleidigendes Verhalten"
+            "en_US": "Behavior",
+            "de_DE": "Verhalten"
         },
-        "BAN.reason.behavior.racism":
+        "CATEGORY.cheating":
         {
-            "en_US": "Racist behavior",
-            "de_DE": "Rassistisches Verhalten"
+            "en_US": "Cheating",
+            "de_DE": "Cheating"
         },
-        "BAN.reason.behavior.sexism":
+        "CATEGORY.economy_rules":
         {
-            "en_US": "Sexist behavior",
-            "de_DE": "Sexistisches Verhalten"
+            "en_US": "Economy",
+            "de_DE": "Wirtschaft"
         },
-        "BAN.reason.behavior.homophobia":
+        "CATEGORY.gameplay_violations":
         {
-            "en_US": "Homophobic behavior",
-            "de_DE": "Homobhobisches Verhalten"
+            "en_US": "Gameplay violations",
+            "de_DE": "Spielverstöße"
         },
-        "BAN.reason.behavior.transphobia":
-        {
-            "en_US": "Transphobic behavior",
-            "de_DE": "Transphobes Verhalten"
-        },
-        "BAN.reason.behavior.doxxing":
-        {
-            "en_US": "Doxxing",
-            "de_DE": "Doxxing"
-        },
-        "BAN.reason.behavior.bullying":
-        {
-            "en_US": "Bullying",
-            "de_DE": "Mobbing"
-        },
-        "BAN.reason.behavior.extortion":
-        {
-            "en_US": "Extortion",
-            "de_DE": "Erpressung"
-        },
-        "BAN.reason.behavior.spamming":
-        {
-            "en_US": "Spamming",
-            "de_DE": "Spamming"
-        },
-        "BAN.reason.behavior.advertising_other_servers":
-        {
-            "en_US": "Unauthorized advertising of Minecraft servers",
-            "de_DE": "Unerlaubtes Bewerben von Minecraft-Servern"
-        },
-        "BAN.reason.behavior.advertising":
-        {
-            "en_US": "Unauthorized advertising",
-            "de_DE": "Unerlaubte Werbung"
-        },
-        "BAN.reason.behavior.harassment":
-        {
-            "en_US": "Harassment",
-            "de_DE": "Belästigung"
-        },
-        "BAN.reason.behavior.hate_speech":
-        {
-            "en_US": "Hate speech",
-            "de_DE": "Hassrede"
-        },
-        "BAN.reason.behavior.suicide_baiting":
-        {
-            "en_US": "Suicide baiting",
-            "de_DE": "Selbstmordhetze"
-        },
-        "BAN.reason.behavior.provocation":
-        {
-            "en_US": "Provocation",
-            "de_DE": "Provokation"
-        },
-        "BAN.reason.behavior.phishing":
-        {
-            "en_US": "Phishing",
-            "de_DE": "Phishing"
-        },
-        "BAN.reason.behavior.promoting_forbidden_content":
-        {
-            "en_US": "Promoting forbidden content",
-            "de_DE": "Werbung für verbotene Inhalte"
-        },
-        "BAN.reason.cheating.x-ray_mod":
-        {
-            "en_US": "X-Ray modification",
-            "de_DE": "X-Ray-Modifikation"
-        },
-        "BAN.reason.cheating.flight_hacks":
-        {
-            "en_US": "Flight hacks",
-            "de_DE": "Flug-Hacks"
-        },
-        "BAN.reason.cheating.speed_hacks":
-        {
-            "en_US": "Speed hacks",
-            "de_DE": "Geschwindigkeits-Hacks"
-        },
-        "BAN.reason.cheating.killaura":
-        {
-            "en_US": "Killaura",
-            "de_DE": "Killaura"
-        },
-        "BAN.reason.cheating.autoclicker":
-        {
-            "en_US": "Autoclicker",
-            "de_DE": "Autoklicker"
-        },
-        "BAN.reason.cheating.aimbot":
-        {
-            "en_US": "Aimbot",
-            "de_DE": "Aimbot"
-        },
-        "BAN.reason.cheating.jesus_hacks":
-        {
-            "en_US": "Jesus hacks",
-            "de_DE": "Jesus-Hacks"
-        },
-        "BAN.reason.cheating.extrasensory_perception":
-        {
-            "en_US": "Extrasensory perception",
-            "de_DE": "Außersinnliche Wahrnehmung"
-        },
-        "BAN.reason.cheating.noclip":
-        {
-            "en_US": "Noclip hack",
-            "de_DE": "Noclip-Hack"
-        },
-        "BAN.reason.cheating.anti_knockback":
-        {
-            "en_US": "Anti knockback",
-            "de_DE": "Anti Knockback"
-        },
-        "BAN.reason.cheating.teleportation_hacks":
-        {
-            "en_US": "Teleportation hacks",
-            "de_DE": "Teleportationshacks"
-        },
-        "BAN.reason.cheating.auto_mine":
-        {
-            "en_US": "Auto mining",
-            "de_DE": "Auto-Mining"
-        },
-        "BAN.reason.cheating.freecam_abuse":
-        {
-            "en_US": "Abuse of Freecam mods",
-            "de_DE": "Ausnutzen von Freecam-Mods"
-        },
-        "BAN.reason.cheating.auto_fish":
-        {
-            "en_US": "Auto fishing",
-            "de_DE": "Automatisches Fischen"
-        },
-        "BAN.reason.cheating.macro_abuse":
-        {
-            "en_US": "Abuse of macros",
-            "de_DE": "Ausnutzen von Macros"
-        },
-        "BAN.reason.cheating.unauthorized_mod_use":
-        {
-            "en_US": "Use of unauthorized mods",
-            "de_DE": "Nutzen von unerlaubten Mods"
-        },
-        "BAN.reason.economy_rules.trade_scam":
-        {
-            "en_US": "Trade scam",
-            "de_DE": "Handelsbetrug"
-        },
-        "BAN.reason.economy_rules.currency_duping":
-        {
-            "en_US": "Currency duping",
-            "de_DE": "Währungsduplizierung"
-        },
-        "BAN.reason.economy_rules.incorrect_trading_information":
-        {
-            "en_US": "Incorrect trading information",
-            "de_DE": "Falsche Handelsinformationen"
-        },
-        "BAN.reason.gameplay_violations.griefing":
-        {
-            "en_US": "Griefing",
-            "de_DE": "Griefing"
-        },
-        "BAN.reason.gameplay_violations.spawn_killing":
-        {
-            "en_US": "Spawn killing",
-            "de_DE": "Spawn-Killing"
-        },
-        "BAN.reason.gameplay_violations.trolling":
-        {
-            "en_US": "Trolling",
-            "de_DE": "Trolling"
-        },
-        "BAN.reason.gameplay_violations.duping":
-        {
-            "en_US": "Duplicating",
-            "de_DE": "Duplizieren"
-        },
-        "BAN.reason.gameplay_violations.afk_farming":
-        {
-            "en_US": "AFK farming",
-            "de_DE": "AFK-Farming"
-        },
-        "BAN.reason.gameplay_violations.scamming":
-        {
-            "en_US": "Scamming",
-            "de_DE": "Betrug"
-        },
-        "BAN.reason.gameplay_violations.trapping":
-        {
-            "en_US": "Trapping",
-            "de_DE": "Fangen"
-        },
-        "BAN.reason.gameplay_violations.forbidden_redstone_machines":
-        {
-            "en_US": "Forbidden redstone machines",
-            "de_DE": "Verbotene Redstone-Maschinen"
-        },
-        "BAN.reason.gameplay_violations.lag_machines":
-        {
-            "en_US": "Building lag machines",
-            "de_DE": "Bauen von Lagmaschinen"
-        },
-        "BAN.reason.gameplay_violations.inappropriate_structures":
-        {
-            "en_US": "Inappropriate structures",
-            "de_DE": "Unangebrachte Strukturen"
-        },
-        "BAN.reason.other.bug_abuse":
-        {
-            "en_US": "Bug abuse",
-            "de_DE": "Fehlerausnutzung"
-        },
-        "BAN.reason.other.ban_evasion":
-        {
-            "en_US": "Ban evasion",
-            "de_DE": "Bannumgehung"
-        },
-        "BAN.reason.other.chat_ban_evasion":
-        {
-            "en_US": "Chat ban evasion",
-            "de_DE": "Umgehung vom Chat-Bans"
-        },
-        "BAN.reason.other.distributing_malicious_software":
-        {
-            "en_US": "Distributing malicious software",
-            "de_DE": "Verbreiten schädlicher Software"
-        },
-        "BAN.reason.other.please_contact_support":
-        {
-            "en_US": "Please contact support",
-            "de_DE": "Bitte kontaktiere den Support"
-        },
-        "BAN.reason.other.other":
+        "CATEGORY.other":
         {
             "en_US": "Other",
             "de_DE": "Andere"
         },
-        "BAN.reason.server_rules.rule_violation":
+        "REASON.behavior.insulting":
+        {
+            "en_US": "Offensive behavior",
+            "de_DE": "Beleidigendes Verhalten"
+        },
+        "REASON.behavior.racism":
+        {
+            "en_US": "Racist behavior",
+            "de_DE": "Rassistisches Verhalten"
+        },
+        "REASON.behavior.sexism":
+        {
+            "en_US": "Sexist behavior",
+            "de_DE": "Sexistisches Verhalten"
+        },
+        "REASON.behavior.homophobia":
+        {
+            "en_US": "Homophobic behavior",
+            "de_DE": "Homobhobisches Verhalten"
+        },
+        "REASON.behavior.transphobia":
+        {
+            "en_US": "Transphobic behavior",
+            "de_DE": "Transphobes Verhalten"
+        },
+        "REASON.behavior.doxxing":
+        {
+            "en_US": "Doxxing",
+            "de_DE": "Doxxing"
+        },
+        "REASON.behavior.bullying":
+        {
+            "en_US": "Bullying",
+            "de_DE": "Mobbing"
+        },
+        "REASON.behavior.extortion":
+        {
+            "en_US": "Extortion",
+            "de_DE": "Erpressung"
+        },
+        "REASON.behavior.spamming":
+        {
+            "en_US": "Spamming",
+            "de_DE": "Spamming"
+        },
+        "REASON.behavior.advertising_other_servers":
+        {
+            "en_US": "Unauthorized advertising of Minecraft servers",
+            "de_DE": "Unerlaubtes Bewerben von Minecraft-Servern"
+        },
+        "REASON.behavior.advertising":
+        {
+            "en_US": "Unauthorized advertising",
+            "de_DE": "Unerlaubte Werbung"
+        },
+        "REASON.behavior.harassment":
+        {
+            "en_US": "Harassment",
+            "de_DE": "Belästigung"
+        },
+        "REASON.behavior.hate_speech":
+        {
+            "en_US": "Hate speech",
+            "de_DE": "Hassrede"
+        },
+        "REASON.behavior.suicide_baiting":
+        {
+            "en_US": "Suicide baiting",
+            "de_DE": "Selbstmordhetze"
+        },
+        "REASON.behavior.provocation":
+        {
+            "en_US": "Provocation",
+            "de_DE": "Provokation"
+        },
+        "REASON.behavior.phishing":
+        {
+            "en_US": "Phishing",
+            "de_DE": "Phishing"
+        },
+        "REASON.behavior.promoting_forbidden_content":
+        {
+            "en_US": "Promoting forbidden content",
+            "de_DE": "Werbung für verbotene Inhalte"
+        },
+        "REASON.cheating.x-ray_mod":
+        {
+            "en_US": "X-Ray modification",
+            "de_DE": "X-Ray-Modifikation"
+        },
+        "REASON.cheating.flight_hacks":
+        {
+            "en_US": "Flight hacks",
+            "de_DE": "Flug-Hacks"
+        },
+        "REASON.cheating.speed_hacks":
+        {
+            "en_US": "Speed hacks",
+            "de_DE": "Geschwindigkeits-Hacks"
+        },
+        "REASON.cheating.killaura":
+        {
+            "en_US": "Killaura",
+            "de_DE": "Killaura"
+        },
+        "REASON.cheating.autoclicker":
+        {
+            "en_US": "Autoclicker",
+            "de_DE": "Autoklicker"
+        },
+        "REASON.cheating.aimbot":
+        {
+            "en_US": "Aimbot",
+            "de_DE": "Aimbot"
+        },
+        "REASON.cheating.jesus_hacks":
+        {
+            "en_US": "Jesus hacks",
+            "de_DE": "Jesus-Hacks"
+        },
+        "REASON.cheating.extrasensory_perception":
+        {
+            "en_US": "Extrasensory perception",
+            "de_DE": "Außersinnliche Wahrnehmung"
+        },
+        "REASON.cheating.noclip":
+        {
+            "en_US": "Noclip hack",
+            "de_DE": "Noclip-Hack"
+        },
+        "REASON.cheating.anti_knockback":
+        {
+            "en_US": "Anti knockback",
+            "de_DE": "Anti Knockback"
+        },
+        "REASON.cheating.teleportation_hacks":
+        {
+            "en_US": "Teleportation hacks",
+            "de_DE": "Teleportationshacks"
+        },
+        "REASON.cheating.auto_mine":
+        {
+            "en_US": "Auto mining",
+            "de_DE": "Auto-Mining"
+        },
+        "REASON.cheating.freecam_abuse":
+        {
+            "en_US": "Abuse of Freecam mods",
+            "de_DE": "Ausnutzen von Freecam-Mods"
+        },
+        "REASON.cheating.auto_fish":
+        {
+            "en_US": "Auto fishing",
+            "de_DE": "Automatisches Fischen"
+        },
+        "REASON.cheating.macro_abuse":
+        {
+            "en_US": "Abuse of macros",
+            "de_DE": "Ausnutzen von Macros"
+        },
+        "REASON.cheating.unauthorized_mod_use":
+        {
+            "en_US": "Use of unauthorized mods",
+            "de_DE": "Nutzen von unerlaubten Mods"
+        },
+        "REASON.economy_rules.trade_scam":
+        {
+            "en_US": "Trade scam",
+            "de_DE": "Handelsbetrug"
+        },
+        "REASON.economy_rules.currency_duping":
+        {
+            "en_US": "Currency duping",
+            "de_DE": "Währungsduplizierung"
+        },
+        "REASON.economy_rules.incorrect_trading_information":
+        {
+            "en_US": "Incorrect trading information",
+            "de_DE": "Falsche Handelsinformationen"
+        },
+        "REASON.gameplay_violations.griefing":
+        {
+            "en_US": "Griefing",
+            "de_DE": "Griefing"
+        },
+        "REASON.gameplay_violations.spawn_killing":
+        {
+            "en_US": "Spawn killing",
+            "de_DE": "Spawn-Killing"
+        },
+        "REASON.gameplay_violations.trolling":
+        {
+            "en_US": "Trolling",
+            "de_DE": "Trolling"
+        },
+        "REASON.gameplay_violations.duping":
+        {
+            "en_US": "Duplicating",
+            "de_DE": "Duplizieren"
+        },
+        "REASON.gameplay_violations.afk_farming":
+        {
+            "en_US": "AFK farming",
+            "de_DE": "AFK-Farming"
+        },
+        "REASON.gameplay_violations.scamming":
+        {
+            "en_US": "Scamming",
+            "de_DE": "Betrug"
+        },
+        "REASON.gameplay_violations.trapping":
+        {
+            "en_US": "Trapping",
+            "de_DE": "Fangen"
+        },
+        "REASON.gameplay_violations.forbidden_redstone_machines":
+        {
+            "en_US": "Forbidden redstone machines",
+            "de_DE": "Verbotene Redstone-Maschinen"
+        },
+        "REASON.gameplay_violations.lag_machines":
+        {
+            "en_US": "Building lag machines",
+            "de_DE": "Bauen von Lagmaschinen"
+        },
+        "REASON.gameplay_violations.inappropriate_structures":
+        {
+            "en_US": "Inappropriate structures",
+            "de_DE": "Unangebrachte Strukturen"
+        },
+        "REASON.other.bug_abuse":
+        {
+            "en_US": "Bug abuse",
+            "de_DE": "Fehlerausnutzung"
+        },
+        "REASON.other.ban_evasion":
+        {
+            "en_US": "Ban evasion",
+            "de_DE": "Bannumgehung"
+        },
+        "REASON.other.chat_ban_evasion":
+        {
+            "en_US": "Chat ban evasion",
+            "de_DE": "Umgehung vom Chat-Bans"
+        },
+        "REASON.other.distributing_malicious_software":
+        {
+            "en_US": "Distributing malicious software",
+            "de_DE": "Verbreiten schädlicher Software"
+        },
+        "REASON.other.please_contact_support":
+        {
+            "en_US": "Please contact support",
+            "de_DE": "Bitte kontaktiere den Support"
+        },
+        "REASON.other.other":
+        {
+            "en_US": "Other",
+            "de_DE": "Andere"
+        },
+        "REASON.other.rule_violation":
         {
             "en_US": "Rule violation",
             "de_DE": "Regelbruch"
         },
-        "BAN.reason.server_rules.disregarding_team_instructions":
+        "REASON.other.disregarding_team_instructions":
         {
             "en_US": "Disregarding team instructions",
             "de_DE": "Missachtung der Teamanweisungen"
         },
-        "BAN.reason.server_rules.abuse_of_report_system":
+        "REASON.other.abuse_of_report_system":
         {
             "en_US": "Abuse of the reporting system",
             "de_DE": "Ausnutzen des Reportsystems"
         },
-        "BAN.reason.server_rules.false_accusations":
+        "REASON.other.false_accusations":
         {
             "en_US": "False accusations",
             "de_DE": "Falsche Anschuldigungen"
         },
-        "BAN.reason.server_rules.abuse_of_server_resources":
+        "REASON.other.abuse_of_server_resources":
         {
             "en_US": "Abuse of server resources",
             "de_DE": "Ausnutzen von Serverresourcen"
         },
-        "BAN.reason.server_rules.creating_server_delays":
+        "REASON.other.creating_server_delays":
         {
             "en_US": "Deliberately creating server delays",
             "de_DE": "Absichtliches erzeugen Serververzögerungen"
