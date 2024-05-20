@@ -37,6 +37,11 @@
             "en_US": "&cThe number you entered is invalid!",
             "de_DE": "&cDie angegebene Zahl ist ungültig!"
         },
+        "cmd.pay.notenoughmoney":
+        {
+            "en_US": "&cYou don't have enough money!",
+            "de_DE": "&cDu hast nicht genug Geld!"
+        },
         "transactioncooldown":
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
