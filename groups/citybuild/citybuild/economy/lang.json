@@ -36,6 +36,21 @@
         {
             "en_US": "&cTransaction cooldown: Please wait a moment!",
             "de_DE": "&cTransaktions-Cooldown: Bitte warte einen Moment!"
+        },
+        "datanotloaded":
+        {
+            "en_US": "&cYour data is not loaded yet!",
+            "de_DE": "&cDeine Daten sind noch nicht geladen!"
+        },
+        "cmd.money":
+        {
+            "en_US": "&7You currently have <#FFE800>[amount] [currencyicon]&7.",
+            "de_DE": "&7Du hast derzeit <#FFE800>[amount] [currencyicon]&7."
+        },
+        "cmd.money.other":
+        {
+            "en_US": "&e[player] &7currently has <#FFE800>[amount] [currencyicon]&7.",
+            "de_DE": "&e[player] &7hat derzeit <#FFE800>[amount] [currencyicon]&7."
         }
     }
 }
