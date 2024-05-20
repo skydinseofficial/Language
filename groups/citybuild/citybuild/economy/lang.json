@@ -136,6 +136,11 @@
         {
             "en_US": "&7The balance of &e[playeramount] players &7has been changed by [amount] [currencyicon]&7.",
             "de_DE": "&7Der Kontostand von &e[playeramount] Spielern &7hat sich um [amount] [currencyicon] &7verändert."
+        },
+        "cmd.admin.get.entername":
+        {
+            "en_US": "&cYou need to specify a playername.",
+            "de_DE": "&cDu musst einen Spielernamen angeben."
         }
     }
 }
