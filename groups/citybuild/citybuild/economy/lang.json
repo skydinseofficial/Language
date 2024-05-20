@@ -61,6 +61,11 @@
         {
             "en_US": "&cAn error occurred. Allegedly the specified player is not registered.",
             "de_DE": "&cEin Fehler ist aufgetreten. Vermutlich ist der angegebene Spieler nicht registriert."
+        },
+        "cmd.money.other.offline":
+        {
+            "en_US": "&cThe specified player is offline.",
+            "de_DE": "&cDer angegebene Spieler ist offline."
         }
     }
 }
