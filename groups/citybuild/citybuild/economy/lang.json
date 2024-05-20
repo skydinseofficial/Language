@@ -22,6 +22,11 @@
             "en_US": "&cThis function is currently disabled!",
             "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
         },
+        "erroroccurred":
+        {
+            "en_US": "&cAn error occurred, please try again.",
+            "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
+        },
         "cmd.pay.playernotonline":
         {
             "en_US": "&cThis player is not online!",
@@ -51,6 +56,11 @@
         {
             "en_US": "&e[player] &7currently has <#FFE800>[amount] [currencyicon]&7.",
             "de_DE": "&e[player] &7hat derzeit <#FFE800>[amount] [currencyicon]&7."
+        },
+        "cmd.money.other.error":
+        {
+            "en_US": "&cAn error occurred. Allegedly the specified player is not registered.",
+            "de_DE": "&cEin Fehler ist aufgetreten. Vermutlich ist der angegebene Spieler nicht registriert."
         }
     }
 }
