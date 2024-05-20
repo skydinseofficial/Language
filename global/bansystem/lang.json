@@ -4,88 +4,183 @@
     {
         "BAN.reason.behavior.insulting":
         {
-            "en_US": "Offensive Behavior",
+            "en_US": "Offensive behavior",
             "de_DE": "Beleidigendes Verhalten"
         },
         "BAN.reason.behavior.racism":
         {
-            "en_US": "Racist Behavior",
+            "en_US": "Racist behavior",
             "de_DE": "Rassistisches Verhalten"
         },
         "BAN.reason.behavior.sexism":
         {
-            "en_US": "Sexist Behavior",
+            "en_US": "Sexist behavior",
             "de_DE": "Sexistisches Verhalten"
         },
         "BAN.reason.behavior.homophobia":
         {
-            "en_US": "Homophobic Behavior",
+            "en_US": "Homophobic behavior",
             "de_DE": "Homobhobisches Verhalten"
         },
         "BAN.reason.behavior.transphobia":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Transphobic behavior",
+            "de_DE": "Transphobes Verhalten"
         },
         "BAN.reason.behavior.doxxing":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Doxxing",
+            "de_DE": "Doxxing"
         },
         "BAN.reason.behavior.bullying":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Bullying",
+            "de_DE": "Mobbing"
         },
         "BAN.reason.behavior.extortion":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Extortion",
+            "de_DE": "Erpressung"
         },
         "BAN.reason.behavior.spamming":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Spamming",
+            "de_DE": "Spamming"
         },
         "BAN.reason.behavior.advertising_other_servers":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Unauthorized advertising of Minecraft servers",
+            "de_DE": "Unerlaubtes Bewerben von Minecraft-Servern"
         },
         "BAN.reason.behavior.advertising":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Unauthorized advertising",
+            "de_DE": "Unerlaubte Werbung"
         },
         "BAN.reason.behavior.harassment":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Harassment",
+            "de_DE": "Belästigung"
         },
         "BAN.reason.behavior.hate_speech":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Hate speech",
+            "de_DE": "Hassrede"
         },
         "BAN.reason.behavior.suicide_baiting":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Suicide baiting",
+            "de_DE": "Selbstmordhetze"
         },
         "BAN.reason.behavior.provocation":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Provocation",
+            "de_DE": "Provokation"
         },
         "BAN.reason.behavior.phishing":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Phishing",
+            "de_DE": "Phishing"
         },
-        "BAN.reason.behavior.promotion_of_forbidden_content":
+        "BAN.reason.behavior.promoting_forbidden_content":
         {
-            "en_US": "",
-            "de_DE": ""
+            "en_US": "Promoting forbidden content",
+            "de_DE": "Werbung für verbotene Inhalte"
+        },
+        "BAN.reason.cheating.x-ray_mod":
+        {
+            "en_US": "X-Ray modification",
+            "de_DE": "X-Ray-Modifikation"
+        },
+        "BAN.reason.cheating.fly_hacks":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.speed_hacks":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.kill_aura":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.auto_clicker":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.aim_bot":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.wall_hacks":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.extrasensory_perception":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.noclip":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.anti_knockback":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.teleport_hacks":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.auto_mine":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.freecam_abuse":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.tracer_hacks":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.auto_fish":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.macro_use":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.unauthorized_mod_use":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.abc":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
+        },
+        "BAN.reason.cheating.abc":
+        {
+            "en_US": "abc",
+            "de_DE": "abc"
         },
     }
 }
