@@ -52,6 +52,16 @@
             "en_US": "&e[player] &7transfered everyone [amount] [currencyicon]&7.",
             "de_DE": "&e[player] &7hat jedem [amount] [currencyicon] &7überwiesen."
         },
+        "cmd.pay.senttotarget":
+        {
+            "en_US": "&7You've transfered [amount] [currencyicon] &7to &e[player]&7.",
+            "de_DE": "&7Du hast [amount] [currencyicon] &7an &e[player] &7überwiesen."
+        },
+        "cmd.pay.senttoeveryone":
+        {
+            "en_US": "&7You've transfered [amount] [currencyicon] &8([total]&8) &7to &e[playeramount] players&7.",
+            "de_DE": "&7Du hast [amount] [currencyicon] &8([total]&8) &7an &e[playeramount] Spieler &7überwiesen."
+        },
         "cmd.pay.targetcouldnotbepayed":
         {
             "en_US": "&cCould not pay &e[player]&c!",
