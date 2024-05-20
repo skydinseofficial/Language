@@ -37,6 +37,11 @@
             "en_US": "&cThe number you entered is invalid!",
             "de_DE": "&cDie angegebene Zahl ist ungültig!"
         },
+        "cmd.pay.negativenumber":
+        {
+            "en_US": "&cThe number you entered must not be 0 or below!",
+            "de_DE": "&cDie angegebene Zahl darf nicht 0 oder kleiner sein!"
+        },
         "cmd.pay.notenoughmoney":
         {
             "en_US": "&cYou don't have enough money!",
