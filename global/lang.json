@@ -600,6 +600,20 @@
             "en_GB": "Back",
             "en_XX": "Back",
             "de_DE": "Zurück"
+        },
+        "BUTTON.nextpage":
+        {
+            "en_US": "Next Page",
+            "en_GB": "Next Page",
+            "en_XX": "Next Page",
+            "de_DE": "Nächste Seite"
+        },
+        "BUTTON.previouspage":
+        {
+            "en_US": "Previous Page",
+            "en_GB": "Previous Page",
+            "en_XX": "Previous Page",
+            "de_DE": "Vorherige Seite"
         }
     }
 }
