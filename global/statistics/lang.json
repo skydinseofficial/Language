@@ -61,6 +61,21 @@
             "en_US": "&6General:",
             "de_DE": "&6Allgemein:"
         },
+        "GUI.stats.title.economy":
+        {
+            "en_US": "&6Economy:",
+            "de_DE": "&6Wirtschaft:"
+        },
+        "GUI.category.citybuild.money":
+        {
+            "en_US": "Account Debit (Dollar)",
+            "de_DE": "Kontobelastung (Dollar)"
+        },
+        "GUI.category.citybuild.totalearned":
+        {
+            "en_US": "Total earned Money",
+            "de_DE": "Insgesamt verdientes Geld"
+        },
         "GUI.category.wheatfarm.generator1":
         {
             "en_US": "Upgrades on Generator 1",
