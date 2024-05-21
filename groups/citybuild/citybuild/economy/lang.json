@@ -146,6 +146,11 @@
         {
             "en_US": "Your Earnings",
             "de_DE": "Dein Verdienst"
+        },
+        "earnings.gui.button.collectall":
+        {
+            "en_US": "Collect All",
+            "de_DE": "Alles Einsammeln"
         }
     }
 }
