@@ -141,6 +141,11 @@
         {
             "en_US": "&cYou need to specify a playername.",
             "de_DE": "&cDu musst einen Spielernamen angeben."
+        },
+        "earnings.gui.title":
+        {
+            "en_US": "Your Earnings",
+            "de_DE": "Dein Verdienst"
         }
     }
 }
