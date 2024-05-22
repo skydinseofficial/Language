@@ -142,10 +142,20 @@
             "en_US": "&cYou need to specify a playername.",
             "de_DE": "&cDu musst einen Spielernamen angeben."
         },
-        "earnings.gui.title":
+        "earnings.gui.title.neutral":
+        {
+            "en_US": "<#EB9600>[earnings] &rEarnings » <#ffc500>[balance]",
+            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#ffc500>[balance]"
+        },
+        "earnings.gui.title.positive":
         {
             "en_US": "<#EB9600>[earnings] &rEarnings » <#35c914>[balance]",
             "de_DE": "<#EB9600>[earnings] &rVerdienste » <#35c914>[balance]"
+        },
+        "earnings.gui.title.negative":
+        {
+            "en_US": "<#EB9600>[earnings] &rEarnings » <#e31919>[balance]",
+            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#e31919>[balance]"
         },
         "earnings.gui.button.collectall":
         {
