@@ -161,6 +161,16 @@
         {
             "en_US": "Collect All",
             "de_DE": "Alles Einsammeln"
+        },
+        "earnings.msg.youcollected.singular":
+        {
+            "en_US": "&7You collected &6[earnings] earning &7and made [balance] [currencyicon]&7!",
+            "de_DE": "&7Du hast &6[earnings] Verdienst &7eingesammelt und [balance] [currencyicon] &7gemacht!"
+        },
+        "earnings.msg.youcollected.plural":
+        {
+            "en_US": "&7You collected &6[earnings] earnings &7and made [balance] [currencyicon]&7!",
+            "de_DE": "&7Du hast &6[earnings] Verdienste &7eingesammelt und [balance] [currencyicon] &7gemacht!"
         }
     }
 }
