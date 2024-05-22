@@ -144,8 +144,8 @@
         },
         "earnings.gui.title":
         {
-            "en_US": "Your Earnings",
-            "de_DE": "Dein Verdienst"
+            "en_US": "[earnings] Earnings, Balance: [balance]",
+            "de_DE": "[earnings] Verdienste, Bilanz: [balance]"
         },
         "earnings.gui.button.collectall":
         {
