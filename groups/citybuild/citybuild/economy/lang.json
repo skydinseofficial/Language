@@ -169,8 +169,8 @@
         },
         "earnings.gui.button.earning.lore":
         {
-            "en_US": "&7Money: [money]\n&7Timestamp: <#FFE566>[timestamp]\n&7Description: <#FFE566>[description]",
-            "de_DE": "&7Geld: [money]\n&7Zeitpunkt: <#FFE566>[timestamp]\n&7Beschreibung: <#FFE566>[description]"
+            "en_US": "&7Money: [money] [currencyicon]\n&7Timestamp: <#FFE566>[timestamp]\n&7Description: <#FFE566>[description]",
+            "de_DE": "&7Geld: [money] [currencyicon]\n&7Zeitpunkt: <#FFE566>[timestamp]\n&7Beschreibung: <#FFE566>[description]"
         },
         "earnings.msg.youcollected.singular":
         {
