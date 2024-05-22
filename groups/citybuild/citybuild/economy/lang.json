@@ -144,8 +144,8 @@
         },
         "earnings.gui.title":
         {
-            "en_US": "&6[earnings] &rEarnings, Balance: [balance]",
-            "de_DE": "&6[earnings] &rVerdienste, Bilanz: [balance]"
+            "en_US": "<#FFA300>[earnings] &rEarnings, Balance: [balance]",
+            "de_DE": "<#FFA300>[earnings] &rVerdienste, Bilanz: [balance]"
         },
         "earnings.gui.button.collectall":
         {
