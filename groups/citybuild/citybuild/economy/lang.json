@@ -144,8 +144,8 @@
         },
         "earnings.gui.title":
         {
-            "en_US": "<#D88900>[earnings] &rEarnings, Balance: [balance]",
-            "de_DE": "<#D88900>[earnings] &rVerdienste, Bilanz: [balance]"
+            "en_US": "<#E59100>[earnings] &rEarnings, Balance: [balance]",
+            "de_DE": "<#E59100>[earnings] &rVerdienste, Bilanz: [balance]"
         },
         "earnings.gui.button.collectall":
         {
