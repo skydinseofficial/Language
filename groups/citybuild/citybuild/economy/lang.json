@@ -144,18 +144,18 @@
         },
         "earnings.gui.title.neutral":
         {
-            "en_US": "<#EB9600>[earnings] &rEarnings » <#ffc500>[balance]",
-            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#ffc500>[balance]"
+            "en_US": "<#EB9600>[earnings] &rEarnings » <#ffc500>[balance] <#ffd442>[currencyicon]",
+            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#ffc500>[balance] <#ffd442>[currencyicon]"
         },
         "earnings.gui.title.positive":
         {
-            "en_US": "<#EB9600>[earnings] &rEarnings » <#35c914>[balance]",
-            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#35c914>[balance]"
+            "en_US": "<#EB9600>[earnings] &rEarnings » <#35c914>[balance] <#44d524>[currencyicon]",
+            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#35c914>[balance] <#44d524>[currencyicon]"
         },
         "earnings.gui.title.negative":
         {
-            "en_US": "<#EB9600>[earnings] &rEarnings » <#e31919>[balance]",
-            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#e31919>[balance]"
+            "en_US": "<#EB9600>[earnings] &rEarnings » <#f12d2d>[balance] <#f74444>[currencyicon]",
+            "de_DE": "<#EB9600>[earnings] &rVerdienste » <#f12d2d>[balance] <#f74444>[currencyicon]"
         },
         "earnings.gui.button.collectall":
         {
