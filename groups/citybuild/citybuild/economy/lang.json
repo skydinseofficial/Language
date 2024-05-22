@@ -162,6 +162,16 @@
             "en_US": "Collect All",
             "de_DE": "Alles Einsammeln"
         },
+        "earnings.gui.button.earning.title":
+        {
+            "en_US": "<#FFC800>[title]",
+            "de_DE": "<#FFC800>[title]"
+        },
+        "earnings.gui.button.earning.lore":
+        {
+            "en_US": "&7Money: [money]\n&7Timestamp: <#FFE566>[timestamp]\n&7Description: <#FFE566>[description]",
+            "de_DE": "&7Geld: [money]\n&7Zeitpunkt: <#FFE566>[timestamp]\n&7Beschreibung: <#FFE566>[description]"
+        },
         "earnings.msg.youcollected.singular":
         {
             "en_US": "&7You collected &6[earnings] earning &7and made [balance] [currencyicon]&7!",
