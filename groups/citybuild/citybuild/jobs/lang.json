@@ -1,0 +1,26 @@
+{
+    "system": "jobs",
+    "translations":
+    {
+        "nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "erroroccurred":
+        {
+            "en_US": "&cAn error occurred, please try again.",
+            "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
+        },
+        "prefix.jobs":
+        {
+            "en_US": "Jobs",
+            "de_DE": "Berufe"
+        },
+        "function.disabled":
+        {
+            "en_US": "&cThis function is currently disabled!",
+            "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
+        }
+    }
+}
