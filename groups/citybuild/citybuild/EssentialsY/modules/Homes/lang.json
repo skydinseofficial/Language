@@ -63,8 +63,8 @@
         },
         "GUI.main.item.admin.disable.all.lore":
         {
-            "en_US": "&7Click to &cdisable &7all &6homes &7of the player &6[player]&7.",
-            "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &cdeaktivieren&7."
+            "en_US": "&7Click to &cdisable &7all &6homes &7of the player &6[player]&7.\n\n&cAttention: &7This cannot be undone!",
+            "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &cdeaktivieren&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
         },
         "GUI.main.item.admin.delete.all":
         {
@@ -73,8 +73,8 @@
         },
         "GUI.main.item.admin.delete.all.lore":
         {
-            "en_US": "&7Click to &cdelete &7all &6homes &7of the player &6[player]&7.",
-            "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &clöschen&7."
+            "en_US": "&7Click to &cdelete &7all &6homes &7of the player &6[player]&7.\n\n&cAttention: &7This cannot be undone!",
+            "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &clöschen&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
         },
         "GUI.manage.title":
         {
