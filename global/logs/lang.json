@@ -1,0 +1,11 @@
+{
+    "system": "logs",
+    "translations":
+    {
+        "logs.gui.title":
+        {
+            "en_US": "<#EB9600>[player]&7: &e[amount] &7Actions",
+            "de_DE": "<#EB9600>[player]&7: &e[amount] &7Aktionen"
+        }
+    }
+}
