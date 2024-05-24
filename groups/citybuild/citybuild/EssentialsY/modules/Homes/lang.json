@@ -76,6 +76,16 @@
             "en_US": "&7Click to &cdelete &7all &6homes &7of the player &6[player]&7.\n\n&cAttention: &7This cannot be undone!",
             "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &clöschen&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
         },
+        "GUI.main.click.admin.disable.all":
+        {
+            "en_US": "&7You've successfully &cdisabled &7all &6homes &7of the player &6[player]&7.",
+            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7deaktiviert&7."
+        },
+        "GUI.main.click.admin.delete.all":
+        {
+            "en_US": "&7You've successfully &cdeleted &7all &6homes &7of the player &6[player]&7.",
+            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7gelöscht&7."
+        },
         "GUI.manage.title":
         {
             "en_US": "&6Manage &7the &6Home &a[name]",
