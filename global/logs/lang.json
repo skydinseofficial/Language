@@ -2,10 +2,25 @@
     "system": "logs",
     "translations":
     {
+        "logs.cmd.logs.playernotregistered":
+        {
+            "en_US": "&cThis player is not registered. Could not find any logs!",
+            "de_DE": "&cDiser Spieler ist nicht registriert. Es konnten keine Logs gefunden werden!"
+        },
         "logs.gui.title":
         {
             "en_US": "<#EB9600>[player]&7: &e[amount] &7Actions",
             "de_DE": "<#EB9600>[player]&7: &e[amount] &7Aktionen"
+        },
+        "logs.gui.button.logentry.title":
+        {
+            "en_US": "<#FFC800>[title]",
+            "de_DE": "<#FFC800>[title]"
+        },
+        "logs.gui.button.logentry.lore":
+        {
+            "en_US": "&7Susigroup: [susigroup]\n&7Type: [type]\n&7Timestamp: <#FFE566>[timestamp]\n&7Player display: <#FFE566>[playerdisplay]\n&7Description: <#FFE566>[description]",
+            "de_DE": "<#FFC800>[title]"
         }
     }
 }
