@@ -19,8 +19,8 @@
         },
         "logs.gui.button.logentry.lore":
         {
-            "en_US": "&7Susigroup: <#FFE566>[susigroup]\n&7Type: <#FFE566>[type]\n&7Timestamp: <#FFE566>[timestamp]\n&7Player display: <#FFE566>[playerdisplay]\n&7Description: <#FFE566>[description]",
-            "de_DE": "&7Susigroup: <#FFE566>[susigroup]\n&7Type: <#FFE566>[type]\n&7Zeitpunkt: <#FFE566>[timestamp]\n&7Spielerdarstellung: <#FFE566>[playerdisplay]\n&7Beschreibung: <#FFE566>[description]"
+            "en_US": "&7Susigroup: <#FFE566>[susigroup]\n&7Server: <#FFE566>[server]\n&7Type: <#FFE566>[type]\n&7Timestamp: <#FFE566>[timestamp]\n&7Player display: <#FFE566>[playerdisplay]\n&7Description: <#FFE566>[description]",
+            "de_DE": "&7Susigroup: <#FFE566>[susigroup]\n&7Server: <#FFE566>[server]\n&7Type: <#FFE566>[type]\n&7Zeitpunkt: <#FFE566>[timestamp]\n&7Spielerdarstellung: <#FFE566>[playerdisplay]\n&7Beschreibung: <#FFE566>[description]"
         }
     }
 }
