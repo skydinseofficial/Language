@@ -56,6 +56,21 @@
             "en_US": "&7Click to &6manage &7this &6home&7.",
             "de_DE": "&7Klicke um dieses &6Home &7zu &6verwalten&7."
         },
+        "GUI.main.item.delete.all":
+        {
+            "en_US": "&cDelete All Homes",
+            "de_DE": "&cAlle Homes Löschen"
+        },
+        "GUI.main.item.delete.all.lore":
+        {
+            "en_US": "&7Click to &cdelete &7all your &6homes&7.\n\n&cAttention: &7This cannot be undone!",
+            "de_DE": "&7Klicke um alle deine &6Homes &7zu &clöschen&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
+        },
+        "GUI.main.item.delete.all.success":
+        {
+            "en_US": "&7You've successfully &cdeleted &7all your &6homes&7.",
+            "de_DE": "&7Du hast erfolgreich alle deine &6Homes &7gelöscht&7."
+        },
         "GUI.main.item.admin.disable.all":
         {
             "en_US": "&cDisable All Homes",
@@ -76,15 +91,15 @@
             "en_US": "&7Click to &cdelete &7all &6homes &7of the player &6[player]&7.\n\n&cAttention: &7This cannot be undone!",
             "de_DE": "&7Klicke um alle &6Homes &7des Spielers &6[player] &7zu &clöschen&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
         },
-        "GUI.main.click.admin.disable.all":
-        {
-            "en_US": "&7You've successfully &cdisabled &7all &6homes &7of the player &6[player]&7.",
-            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7deaktiviert&7."
-        },
-        "GUI.main.click.admin.delete.all":
+        "GUI.main.click.admin.delete.all.success":
         {
             "en_US": "&7You've successfully &cdeleted &7all &6homes &7of the player &6[player]&7.",
             "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7gelöscht&7."
+        },
+        "GUI.main.click.admin.disable.all.success":
+        {
+            "en_US": "&7You've successfully &cdisabled &7all &6homes &7of the player &6[player]&7.",
+            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7deaktiviert&7."
         },
         "GUI.manage.title":
         {
