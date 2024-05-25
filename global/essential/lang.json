@@ -673,6 +673,16 @@
         {
             "en_US": "&7Visit: <#FFD800><underline><@https://shop.skydinse.net/>",
             "de_DE": "&7Besuche: <#FFD800><underline><@https://shop.skydinse.net/>"
+        },
+        "APPEARANCE.prefix":
+        {
+            "en_US": "Appearance",
+            "de_DE": "Erscheinungsbild"
+        }
+        "APPEARANCE.command.theme.nopermission":
+        {
+            "en_US": "&cYou don't have permission to change any theme!",
+            "de_DE": "&cDu hast keine Berechtigung, um ein Farbschema zu ändern!"
         }
     }
 }
