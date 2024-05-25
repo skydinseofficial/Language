@@ -31,6 +31,11 @@
         {
             "en_US": "Hunter",
             "de_DE": "Jäger"
+        },
+        "scoreboard.word.skilllevel":
+        {
+            "en_US": "Skill Lvl",
+            "de_DE": "Skill-Lvl"
         }
     }
 }
