@@ -63,8 +63,28 @@
         },
         "GUI.main.item.delete.all.lore":
         {
-            "en_US": "&7Click to &cdelete &7all your &6homes&7.\n\n&cAttention: &7This cannot be undone!",
-            "de_DE": "&7Klicke um alle deine &6Homes &7zu &clöschen&7.\n\n&cAchtung: &7Dies kann nicht rückgängig gemacht werden!"
+            "en_US": "&7Click to &cdelete &7all your &6homes&7.",
+            "de_DE": "&7Klicke um alle deine &6Homes &7zu &clöschen&7."
+        },
+        "GUI.confirm.delete.all.title":
+        {
+            "en_US": "&cThis action CANNOT be undone!",
+            "de_DE": "&cDiese Aktion KANN NICHT rückgängig gemacht werden!"
+        },
+        "GUI.confirm.delete.all.lore":
+        {
+            "en_US": "&7Are you sure you want to &cdelete &7all your &6homes&7?",
+            "de_DE": "&7Bist du sicher, dass du alle deine &6Homes &7löschen möchtest&7?"
+        },
+        "GUI.confirm.delete.all.item.name.confirm":
+        {
+            "en_US": "&aConfirm",
+            "de_DE": "&aBestätigen"
+        },
+        "GUI.confirm.delete.all.item.name.cancel":
+        {
+            "en_US": "&cCancel",
+            "de_DE": "&cAbbrechen"
         },
         "GUI.main.item.delete.all.success":
         {
