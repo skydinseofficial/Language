@@ -142,6 +142,11 @@
             "en_US": "&eVAR1 &ccould not be teleported to his/her last death location!",
             "de_DE": "&eVAR1 &ckonnte nicht an seinen/ihren letzten Todesort teleportiert werden!"
         },
+        "scoreboard.money":
+        {
+            "en_US": "Money:",
+            "de_DE": "Geld:"
+        },
         "scoreboard.world":
         {
             "en_US": "World:",
