@@ -71,7 +71,7 @@
             "en_US": "&cAre you sure you want to delete all your homes?",
             "de_DE": "&cBist du sicher, dass du alle deine Homes löschen möchtest?"
         },
-        "GUI.confirm.delete.all.item.info":
+        "GUI.confirm.delete.all.item.name.info":
         {
             "en_US": "&9Information",
             "de_DE": "&9Information"
