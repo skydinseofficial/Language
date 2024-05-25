@@ -678,11 +678,26 @@
         {
             "en_US": "Appearance",
             "de_DE": "Erscheinungsbild"
-        }
+        },
         "APPEARANCE.command.theme.nopermission":
         {
-            "en_US": "&cYou don't have permission to change any theme!",
-            "de_DE": "&cDu hast keine Berechtigung, um ein Farbschema zu ändern!"
+            "en_US": "&cYou don't have permission to change any theme.",
+            "de_DE": "&cDu hast keine Berechtigung, um ein Farbschema zu ändern."
+        },
+        "APPEARANCE.command.theme.invalidinput":
+        {
+            "en_US": "&cYour input is invalid.",
+            "de_DE": "&cDeine Eingabe ist nicht valide."
+        },
+        "APPEARANCE.command.theme.scoreboard.success":
+        {
+            "en_US": "&7Your scoreboard theme has been updated!",
+            "de_DE": "&7Dein Farbschema des Scoreboards wurde aktualisiert!"
+        },
+        "APPEARANCE.datanotloaded":
+        {
+            "en_US": "&cYour data isn't loaded yet.",
+            "de_DE": "&cDeine Daten sind noch nicht geladen."
         }
     }
 }
