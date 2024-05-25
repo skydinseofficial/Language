@@ -11,6 +11,11 @@
         {
             "en_US": "Hats",
             "de_DE": "Hüte"
+        },
+        "CATEGORIES.wings.displayname":
+        {
+            "en_US": "Wings",
+            "de_DE": "Flügel"
         }
     }
 }
