@@ -9,8 +9,8 @@
         },
         "SYSTEM.booting.error":
         {
-            "en_US": "&6Statistic-System &7could not be loaded completely!",
-            "de_DE": "&6Statistik-System &7konnte nicht vollständig geladen werden!"
+            "en_US": "&7The &6Data-System &7could not be loaded completely!",
+            "de_DE": "&7Das &6Daten-System &7konnte nicht vollständig geladen werden!"
         },
         "SYSTEM.table.error":
         {
