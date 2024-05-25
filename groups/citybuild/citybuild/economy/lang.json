@@ -142,6 +142,16 @@
             "en_US": "&cYou need to specify a playername.",
             "de_DE": "&cDu musst einen Spielernamen angeben."
         },
+        "cmd.earnings.viewother.nopermission":
+        {
+            "en_US": "&cYou don't have permission to view others earnings!",
+            "de_DE": "&cDu hast keine Berechtigung, um die Verdienste anderer einzusehen!"
+        },
+        "cmd.earnings.viewother.playernotfound":
+        {
+            "en_US": "&cThis player is not registered. Could not find any earnings!",
+            "de_DE": "&cDiser Spieler ist nicht registriert. Es konnten keine Verdienste gefunden werden!"
+        },
         "earnings.gui.title.neutral":
         {
             "en_US": "<#EB9600>[earnings] &rEarnings » <#ffc500>[balance] <#ffd442>[currencyicon]",
