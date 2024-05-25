@@ -68,8 +68,8 @@
         },
         "GUI.confirm.delete.all.title":
         {
-            "en_US": "&cAre you sure you want to delete all your homes?",
-            "de_DE": "&cBist du sicher, dass du alle deine Homes löschen möchtest?"
+            "en_US": "&cDelete ALL your homes",
+            "de_DE": "&cLösche ALLE deine homes"
         },
         "GUI.confirm.delete.all.item.name.info":
         {
@@ -91,10 +91,15 @@
             "en_US": "&cCancel",
             "de_DE": "&cAbbrechen"
         },
-        "GUI.main.item.delete.all.success":
+        "GUI.main.click.delete.all.success":
         {
             "en_US": "&7You've successfully &cdeleted &7all your &6homes&7.",
             "de_DE": "&7Du hast erfolgreich alle deine &6Homes &7gelöscht&7."
+        },
+        "GUI.main.click.delete.all.cancel":
+        {
+            "en_US": "&7You've &ccancelled &7the &6deletion &7of all your &6homes&7.",
+            "de_DE": "&7Du hast die &6Löschung &7aller deiner &6Homes &7&cabgebrochen&7."
         },
         "GUI.main.item.admin.disable.all":
         {
