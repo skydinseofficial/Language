@@ -4,22 +4,22 @@
     {
         "GENERAL.nopermission":
         {
-            "es_US": "&cYou don't have permission for this!",
+            "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
         "SYSTEM.booting.error":
         {
-            "es_US": "&6Statistic-System &7could not be loaded completely!",
+            "en_US": "&6Statistic-System &7could not be loaded completely!",
             "de_DE": "&6Statistik-System &7konnte nicht vollständig geladen werden!"
         },
         "SYSTEM.table.error":
         {
-            "es_US": "&7An &cerror &7occurred while registrating a table!",
+            "en_US": "&7An &cerror &7occurred while registrating a table!",
             "de_DE": "&7Beim Registrieren einer Tabelle ist ein &cFehler &7aufgetreten!"
         },
         "SYSTEM.player.error":
         {
-            "es_US": "&7Timeout while loading player data!",
+            "en_US": "&7Timeout while loading player data!",
             "de_DE": "&7Timeout beim Laden von Spielerdaten!"
         }
     }

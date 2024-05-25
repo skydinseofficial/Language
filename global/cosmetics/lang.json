@@ -1,0 +1,11 @@
+{
+    "system": "cosmetics",
+    "translations":
+    {
+        "GENERAL.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        }
+    }
+}
