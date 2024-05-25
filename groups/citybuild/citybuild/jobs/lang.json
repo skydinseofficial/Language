@@ -2,12 +2,12 @@
     "system": "jobs",
     "translations":
     {
-        "nopermission":
+        "msg.nopermission":
         {
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
-        "erroroccurred":
+        "msg.erroroccurred":
         {
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
@@ -17,10 +17,20 @@
             "en_US": "Jobs",
             "de_DE": "Berufe"
         },
-        "function.disabled":
+        "msg.functiondisabled":
         {
             "en_US": "&cThis function is currently disabled!",
             "de_DE": "&cDiese Funktion ist derzeit deaktiviert!"
+        },
+        "msg.formerjobnotavailable":
+        {
+            "en_US": "&cYour former job is not available right now! You need to accept an other profession until it is available again. &7Your progress of your previous profession is not lost. For more information, visit our Discord Server: &s&n<@https://www.skydinse.net/discord>",
+            "de_DE": "&cDein ehemaliger Job ist derzeit nicht verfügbar! Du musst einen neuen Beruf annehmen, bis er wieder verfügbar ist. &7Dein Fortschritt ist nicht verloren gegangen. Für weitere Informationen, besuche unseren Discord Server: &s&n<@https://www.skydinse.net/discord>"
+        },
+        "job.word.hunter":
+        {
+            "en_US": "Hunter",
+            "de_DE": "Jäger"
         }
     }
 }
