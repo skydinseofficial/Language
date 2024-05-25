@@ -142,6 +142,11 @@
             "en_US": "&cYou need to specify a playername.",
             "de_DE": "&cDu musst einen Spielernamen angeben."
         },
+        "cmd.earnings.nopermission":
+        {
+            "en_US": "&cYou don't have permission to view earnings!",
+            "de_DE": "&cDu hast keine Berechtigung, um Verdienste einzusehen!"
+        },
         "cmd.earnings.viewother.nopermission":
         {
             "en_US": "&cYou don't have permission to view others earnings!",
