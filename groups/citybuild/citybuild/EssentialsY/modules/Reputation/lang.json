@@ -2,10 +2,40 @@
     "system": "esy-reputation",
     "translations":
     {
-        "GENERAL.nopermission":
+        "GENERAL.error.nopermission":
         {
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "GENERAL.success.evaluate":
+        {
+            "en_US": "&7You have evaluated &6[player] &7with &6[stars] &7stars.",
+            "de_DE": "&7Du hast &6[player] &7mit &6[stars] &7Sternen bewertet."
+        },
+        "GENERAL.success.evaluate.edit":
+        {
+            "en_US": "&7You have changed your evaluation of &6[player] &7to &6[stars] &7stars.",
+            "de_DE": "&7Du hast deine Bewertung von &6[player] &7auf &6[stars] &7Sterne geändert."
+        },
+        "GENERAL.error.evaluate":
+        {
+            "en_US": "&cYou can't evaluate yourself!",
+            "de_DE": "&cDu kannst dich nicht selbst bewerten!"
+        },
+        "GUI.evaluate.title":
+        {
+            "en_US": "&6Evaluate &7the &6[player]",
+            "de_DE": "&6Bewerte &7den Spieler &6[player]"
+        },
+        "GUI.evaluate.item.name":
+        {
+            "en_US": "&6[stars] ⭐ &7Stars",
+            "de_DE": "&6[stars] ⭐ &7Sterne"
+        },
+        "GUI.evaluate.item.lore":
+        {
+            "en_US": "&7Click to evaluate the player with &6[stars] &7stars.",
+            "de_DE": "&7Klicke um den Spieler mit &6[stars] &7Sternen zu bewerten."
         }
     }
 }
