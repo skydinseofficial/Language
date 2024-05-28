@@ -7,6 +7,11 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "GENERAL.error.player.notset":
+        {
+            "en_US": "&cYou have to specify a player!",
+            "de_DE": "&cDu musst einen Spieler angeben!"
+        },
         "GENERAL.success.evaluate":
         {
             "en_US": "&7You have evaluated &6[player] &7with &6[stars] &7stars.",
