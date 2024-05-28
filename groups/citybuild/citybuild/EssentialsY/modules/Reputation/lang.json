@@ -12,7 +12,7 @@
             "en_US": "&cYou have to specify a player!",
             "de_DE": "&cDu musst einen Spieler angeben!"
         },
-        "GENERAL.error.evaluate":
+        "GENERAL.error.player.evaluate.self":
         {
             "en_US": "&cYou can't evaluate yourself!",
             "de_DE": "&cDu kannst dich nicht selbst bewerten!"
