@@ -12,6 +12,11 @@
             "en_US": "&cYou have to specify a player!",
             "de_DE": "&cDu musst einen Spieler angeben!"
         },
+        "GENERAL.error.evaluate":
+        {
+            "en_US": "&cYou can't evaluate yourself!",
+            "de_DE": "&cDu kannst dich nicht selbst bewerten!"
+        },
         "GENERAL.success.evaluate":
         {
             "en_US": "&7You have evaluated &6[player] &7with &6[stars] &7stars.",
@@ -21,11 +26,6 @@
         {
             "en_US": "&7You have changed your evaluation of &6[player] &7to &6[stars] &7stars.",
             "de_DE": "&7Du hast deine Bewertung von &6[player] &7auf &6[stars] &7Sterne geändert."
-        },
-        "GENERAL.error.evaluate":
-        {
-            "en_US": "&cYou can't evaluate yourself!",
-            "de_DE": "&cDu kannst dich nicht selbst bewerten!"
         },
         "GUI.evaluate.title":
         {
