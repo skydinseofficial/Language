@@ -29,7 +29,7 @@
         },
         "GUI.evaluate.title":
         {
-            "en_US": "&6Evaluate &7the &6[player]",
+            "en_US": "&6Rate &7the player &6[player]",
             "de_DE": "&6Bewerte &7den Spieler &6[player]"
         },
         "GUI.evaluate.item.name":
