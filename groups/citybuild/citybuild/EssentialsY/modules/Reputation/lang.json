@@ -39,8 +39,8 @@
         },
         "GUI.evaluate.item.lore":
         {
-            "en_US": "&7Click to evaluate the player &6[player] &7with &6[stars] &7stars.",
-            "de_DE": "&7Klicke um den Spieler &6[player] &7mit &6[stars] &7Sternen zu bewerten."
+            "en_US": "&7Click to rate the player &6[player]&7.",
+            "de_DE": "&7Klicke um den Spieler &6[player] &7zu bewerten."
         }
     }
 }
