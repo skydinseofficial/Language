@@ -34,8 +34,8 @@
         },
         "GUI.evaluate.item.name":
         {
-            "en_US": "&6&l[stars] ⭐ &r&7Stars",
-            "de_DE": "&6&l[stars] ⭐ &r&7Sterne"
+            "en_US": "⭐ &r&7Stars",
+            "de_DE": "⭐ &r&7Sterne"
         },
         "GUI.evaluate.item.lore":
         {
