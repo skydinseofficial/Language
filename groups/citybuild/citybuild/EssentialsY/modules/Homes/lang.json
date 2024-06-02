@@ -28,18 +28,18 @@
         },
         "GUI.main.home.lore.location":
         {
-            "en_US": "&6Location: &7[location]",
-            "de_DE": "&6Position: &7[location]"
+            "en_US": "&7Location: &6[location]",
+            "de_DE": "&7Position: &6[location]"
         },
         "GUI.main.home.lore.server":
         {
-            "en_US": "&6Server: &7[server]",
-            "de_DE": "&6Server: &7[server]"
+            "en_US": "&7Server: &6[server]",
+            "de_DE": "&7Server: &6[server]"
         },
         "GUI.main.home.lore.status":
         {
-            "en_US": "&6Status: [status]",
-            "de_DE": "&6Status: [status]"
+            "en_US": "&7Status: [status]",
+            "de_DE": "&7Status: [status]"
         },
         "GUI.main.home.lore.status.active":
         {
