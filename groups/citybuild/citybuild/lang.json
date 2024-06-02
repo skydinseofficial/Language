@@ -156,6 +156,11 @@
         {
             "en_US": "Online:",
             "de_DE": "Online:"
+        },
+        "scoreboard.reputation":
+        {
+            "en_US": "Reputation:",
+            "de_DE": "Ruf:"
         }
     }
 }
