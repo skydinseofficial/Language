@@ -4,12 +4,12 @@
     {
         "GUI.main.title":
         {
-            "en_US": "&b[player]'s &7Homes",
-            "de_DE": "&b[player]'s &7Homes"
+            "en_US": "[player]'s Homes",
+            "de_DE": "[player]'s Homes"
         },
         "GUI.main.title.loading": {
-            "en_US": "&b[player]'s &7Homes &c(Loading...)",
-            "de_DE": "&b[player]'s &7Homes &c(Lade...)"
+            "en_US": "[player]'s Homes &c(Loading...)",
+            "de_DE": "[player]'s Homes &c(Lade...)"
         },
         "GUI.main.item.firstpage":
         {
@@ -53,7 +53,7 @@
         },
         "GUI.main.home.lore.manage":
         {
-            "en_US": "&7Click to &6manage &7this &6home&7.",
+            "en_US": "&8» <#face05>Click to &6manage &7this &6home&7.",
             "de_DE": "&7Klicke um dieses &6Home &7zu &6verwalten&7."
         },
         "GUI.main.item.delete.all":
