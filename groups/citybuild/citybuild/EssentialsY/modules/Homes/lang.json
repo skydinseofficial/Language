@@ -93,13 +93,13 @@
         },
         "GUI.main.click.delete.all.success":
         {
-            "en_US": "&7You've successfully &cdeleted &7all your &6homes&7.",
-            "de_DE": "&7Du hast erfolgreich alle deine &6Homes &7gelöscht&7."
+            "en_US": "&7You've successfully deleted all your homes&7.",
+            "de_DE": "&7Du hast erfolgreich alle deine Homes &7gelöscht."
         },
         "GUI.main.click.delete.all.cancel":
         {
-            "en_US": "&7You've &ccancelled &7the &6deletion &7of all your &6homes&7.",
-            "de_DE": "&7Du hast die &6Löschung &7aller deiner &6Homes &7&cabgebrochen&7."
+            "en_US": "&7You've cancelled the deletion of all your homes.",
+            "de_DE": "&7Du hast die Löschung aller deiner Homes abgebrochen."
         },
         "GUI.main.item.admin.disable.all":
         {
@@ -123,18 +123,18 @@
         },
         "GUI.main.click.admin.delete.all.success":
         {
-            "en_US": "&7You've successfully &cdeleted &7all &6homes &7of the player &6[player]&7.",
-            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7gelöscht&7."
+            "en_US": "&7You've successfully deleted all homes &7of the player &6[player].",
+            "de_DE": "&7Du hast erfolgreich alle Homes des Spielers &6[player] &7gelöscht."
         },
         "GUI.main.click.admin.disable.all.success":
         {
-            "en_US": "&7You've successfully &cdisabled &7all &6homes &7of the player &6[player]&7.",
-            "de_DE": "&7Du hast erfolgreich alle &6Homes &7des Spielers &6[player] &7deaktiviert&7."
+            "en_US": "&7You've successfully disabled all homes &7of the player &6[player]&7.",
+            "de_DE": "&7Du hast erfolgreich alle Homes des Spielers &6[player] &7deaktiviert."
         },
         "GUI.manage.title":
         {
-            "en_US": "&6Manage &7the &6Home &a[name]",
-            "de_DE": "&6Verwalte &7das &6Home &a[name]"
+            "en_US": "Homes » [name]",
+            "de_DE": "Homes » [name]"
         },
         "GUI.manage.lore.info":
         {
@@ -142,13 +142,13 @@
             "de_DE": "&7In diesem &6GUI &7kannst du das &6Home &a[name] &7verwalten&7."
         },
         "GUI.manage.home.lore.teleport": {
-            "en_US": "&6Click &7to &6teleport &7you to the &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um dich zu dem &6Home &a[name] &7zu &6teleportieren&7."
+            "en_US": "&8» <#face05>Click to teleport",
+            "de_DE": "&8» <#face05>Klicke zum Teleportieren"
         },
         "GUI.manage.home.lore.delete":
         {
-            "en_US": "&6Click &7to &cdelete &7the &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &clöschen&7."
+            "en_US": "&8» &cClick to delete",
+            "de_DE": "&8» &cKlicke zum Löschen"
         },
         "GUI.manage.home.item.name.teleport": {
             "en_US": "&6Teleport",
@@ -171,66 +171,66 @@
         },
         "GUI.manage.home.lore.admin.disable":
         {
-            "en_US": "&6Click &7to &cdisable &7the &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &cdeaktivieren&7."
+            "en_US": "&8» &cClick to disable",
+            "de_DE": "&8» &cKlicke zum deaktivieren"
         },
         "GUI.manage.home.lore.admin.enable":
         {
-            "en_US": "&6Click &7to &aenable &7the &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &aaktivieren&7."
+            "en_US": "&8» &aClick to enable",
+            "de_DE": "&8» &aKlicke zum Aktivieren"
         },
         "GUI.manage.home.lore.admin.delete":
         {
-            "en_US": "&6Click &7to &cdelete &7the &6home &a[name]&7.",
-            "de_DE": "&6Klicke &7um das &6Home &a[name] &7zu &clöschen&7."
+            "en_US": "&8» &cClick to delete",
+            "de_DE": "&8» &cKlicke zum Löschen"
         },
         "GUI.manage.home.admin.disable":
         {
-            "en_US": "&7You've successfully &cdisabled &7the &6home &a[name]&7.",
-            "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &cdeaktiviert&7."
+            "en_US": "&7You've successfully disabled the home &6[name]&7.",
+            "de_DE": "&7Du hast das Home &6[name] &7erfolgreich deaktiviert."
         },
         "GUI.manage.home.admin.enable":
         {
-            "en_US": "&7You've successfully &aenabled &7the &6home &a[name]&7.",
-            "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &aaktiviert&7."
+            "en_US": "&7You've successfully enabled &7the home &6[name]&7.",
+            "de_DE": "&7Du hast das Home &6[name] &7erfolgreich aktiviert&7."
         },
         "GUI.manage.home.click.teleport": {
-            "en_US": "&7You've been teleported to the &6home &a[name]&7!",
-            "de_DE": "&7Du wurdest zu dem &6Home &a[name] &7teleportiert!"
+            "en_US": "&7You've been teleported to the home &6[name]&7.",
+            "de_DE": "&7Du wurdest zu dem Home &6[name] &7teleportiert."
         },
         "GUI.manage.home.click.delete":
         {
-            "en_US": "&7You've successfully &cdeleted &7the &6home &a[name]&7.",
-            "de_DE": "&7Du hast das &6Home &a[name] &7erfolgreich &cgelöscht."
+            "en_US": "&7You've successfully deleted the home &6[name]&7.",
+            "de_DE": "&7Du hast das Home &6[name] &7erfolgreich gelöscht."
         },
         "GUI.manage.home.click.disabled": {
-            "en_US": "&7This &6home &7is currently &cdisabled&7! &7This can happen if the world in wich the &6home &7was got &cresetted! &7If you think this is a &cmistake&7, &7please contact a &cstaff member&7!",
-            "de_DE": "&7Dieses &6Home ist momentan &cdeaktiviert&7! &7Dies kann passieren, wenn die Welt in der das &6Home &7war &czurückgesetzt &7wurde! Wenn du denkst, dass dies ein &cFehler &7ist, kontaktiere bitte einen &cTeammitglied&7!"
+            "en_US": "&cThis home is currently &cdisabled! &7This can happen if the world in wich the home &7was resetted! &7If you think that this is a mistake&7, &7please contact a staff member&7!",
+            "de_DE": "&cDieses Home ist momentan &cdeaktiviert! &7Dies kann passieren, wenn die Welt in der das Home &7war zurückgesetzt &7wurde! Wenn du denkst, dass dies ein Fehler &7ist, kontaktiere bitte ein Teammitglied&7!"
         },
         "GUI.manage.home.click.notexits":
         {
-            "en_US": "&cThis &7home &cdoesn't &cexist anymore!",
-            "de_DE": "&cDieses &7Home &cexistiert nicht &7mehr!"
+            "en_US": "&cThis home &cdoes not &cexist anymore!",
+            "de_DE": "&cDieses Home &cexistiert nicht mehr!"
         },
         "cmd.sethome.error.noname":
         {
-            "en_US": "&cYou have to enter a &7name &cfor the &7home&c!",
-            "de_DE": "&cDu musst einen &7Namen &cfür dein &7Home &cangeben!"
+            "en_US": "&cYou have to enter a name &cfor the home&c!",
+            "de_DE": "&cDu musst einen Namen &cfür dein Home &cangeben!"
         },
         "cmd.sethome.error.limit":
         {
-            "en_US": "&cYou've reached the maximum amount of &6homes &8(&c[amount] / [max]&8)! &7You need a &6higher rank &7to unlock more &6homes!",
-            "de_DE": "&cDu hast die maximale Anzahl an &6Homes &7erreicht &8(&c[amount] / [max]&8)! &7Du benötigst einen &6höheren Rang &7um mehr &6Homes &7freizuschalten!"
+            "en_US": "&cYou've reached the maximum amount of homes &8(&c[amount] &7/ &c[max]&8)! &7You need a higher rank &7to unlock more homes!",
+            "de_DE": "&cDu hast die maximale Anzahl an Homes &7erreicht &8(&c[amount] &7/ &c[max]&8)! &7Du benötigst einen höheren Rang &7um mehr Homes &7freizuschalten!"
         },
         "cmd.sethome.success.homeset":
         {
-            "en_US": "&7You successfully &2created &7a &6home &7named &a[name]&7.",
-            "de_DE": "&7Du hast erfolgreich ein &6Home &7namens &a[name] &2erstellt&7."
+            "en_US": "&7You successfully created a home &7named &6[name]&7.",
+            "de_DE": "&7Du hast erfolgreich ein Home &7namens &6[name] &7erstellt&7."
         },
         "cmd.homes.opengui.error.viewself":
         {
-            "en_US": "&cYou cannot manage your own homes with an &7admin-command&c! &7Please use &6</homes> &7for that!",
-            "de_DE": "&cDu kannst deine eigenen &7nicht &cHomes mit einem &7Admin-Command &cverwalten! &7Nutze dazu bitte &6</homes>&7!"
+            "en_US": "&cYou cannot manage your own homes with an &cadmin-command&c! &7Please use &e&n</homes>&r &7for that!",
+            "de_DE": "&cDu kannst nicht deine eigenen Homes mit einem Admin-Command &cverwalten! &7Nutze dazu bitte &e&n</homes>&7!"
         },
         "homes.msg.nop":
         {
