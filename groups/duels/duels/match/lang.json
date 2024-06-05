@@ -11,6 +11,21 @@
         {
             "en_US": "Map:",
             "de_DE": "Karte:"
+        },
+        "ANCHOR.item.stick":
+        {
+            "en_US": "Stick",
+            "de_DE": "Knüppel"
+        },
+        "ANCHOR.item.pickaxe":
+        {
+            "en_US": "Pickaxe",
+            "de_DE": "Spitzhacke"
+        },
+        "ANCHOR.item.glowstone":
+        {
+            "en_US": "Glowstone",
+            "de_DE": "Glowstone"
         }
     }
 }
