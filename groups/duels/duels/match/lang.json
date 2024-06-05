@@ -6,6 +6,11 @@
         {
             "en_US": "Start in:",
             "de_DE": "Start in:"
+        },
+        "SCOREBOARD.map":
+        {
+            "en_US": "Map:",
+            "de_DE": "Karte:"
         }
     }
 }
