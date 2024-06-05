@@ -32,6 +32,26 @@
             "en_US": "&cLeave Queue",
             "de_DE": "&cWarteschlange verlassen"
         },
+        "queue.scoreboard.title":
+        {
+            "en_US": "Queue",
+            "de_DE": "Warteschlange"
+        },
+        "queue.scoreboard.searchtime":
+        {
+            "en_US": "Search Time:",
+            "de_DE": "Suchzeit:"
+        },
+        "queue.scoreboard.mode":
+        {
+            "en_US": "Mode:",
+            "de_DE": "Modus:"
+        },
+        "queue.scoreboard.map":
+        {
+            "en_US": "Map:",
+            "de_DE": "Karte:"
+        },
         "mode.display.anchor":
         {
             "en_US": "Anchor",
