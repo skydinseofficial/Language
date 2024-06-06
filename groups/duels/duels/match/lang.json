@@ -31,6 +31,11 @@
         {
             "en_US": "Game",
             "de_DE": "Spiel"
+        },
+        "ANCHOR.msg.anchorexploded":
+        {
+            "en_US": "[player] &7has blown up [target]&7's anchor! [progress]",
+            "de_DE": "[player] &7hat [target]&7's Anker gesprengt! [progress]"
         }
     }
 }
