@@ -26,6 +26,11 @@
         {
             "en_US": "Glowstone",
             "de_DE": "Glowstone"
+        },
+        "ANCHOR.scoreboard.game":
+        {
+            "en_US": "Game",
+            "de_DE": "Spiel"
         }
     }
 }
