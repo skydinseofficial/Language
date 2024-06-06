@@ -36,6 +36,11 @@
         {
             "en_US": "[player] &7has blown up [target]&7's anchor! [progress]",
             "de_DE": "[player] &7hat [target]&7's Anker gesprengt! [progress]"
+        },
+        "ANCHOR.msg.cantblowupownanchor":
+        {
+            "en_US": "&cYou can't blow up your own anchor.",
+            "de_DE": "&cDu kannst nicht deinen eigenen Anker sprengen."
         }
     }
 }
