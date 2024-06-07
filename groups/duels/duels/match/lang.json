@@ -22,6 +22,11 @@
             "en_US": "Pickaxe",
             "de_DE": "Spitzhacke"
         },
+        "ANCHOR.item.sandstone":
+        {
+            "en_US": "Sandstone",
+            "de_DE": "Sandstein"
+        },
         "ANCHOR.item.glowstone":
         {
             "en_US": "Glowstone",
@@ -41,6 +46,11 @@
         {
             "en_US": "&cYou can't blow up your own anchor.",
             "de_DE": "&cDu kannst nicht deinen eigenen Anker sprengen."
+        },
+        "ANCHOR.msg.buildlimitreached":
+        {
+            "en_US": "&cYou reached the build limit!",
+            "de_DE": "&cDu hast das Baulimit erreicht!"
         }
     }
 }
