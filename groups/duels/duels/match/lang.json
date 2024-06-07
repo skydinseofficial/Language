@@ -21,16 +21,16 @@
         {
             "en_US": "Pickaxe",
             "de_DE": "Spitzhacke"
+        }
+        "ANCHOR.item.glowstone":
+        {
+            "en_US": "Glowstone",
+            "de_DE": "Glowstone"
         },
         "ANCHOR.item.sandstone":
         {
             "en_US": "Sandstone",
             "de_DE": "Sandstein"
-        },
-        "ANCHOR.item.glowstone":
-        {
-            "en_US": "Glowstone",
-            "de_DE": "Glowstone"
         },
         "ANCHOR.scoreboard.game":
         {
