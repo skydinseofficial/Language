@@ -20,6 +20,16 @@
             "de_DE": "&6Einen Spieler herausfordern",
             "tr_TR": "&6Oyunculara meydan oku"
         },
+        "ITEM.levelrewards":
+        {
+            "en_US": "&6Level Rewards",
+            "de_DE": "&6Levelbelohnungen"
+        },
+        "ITEM.partyqueue":
+        {
+            "en_US": "&6Queue with party",
+            "de_DE": "&6Warteschlange mit Party betreten"
+        },
         "GUI.general.back":
         {
             "en_US": "&cBack",
