@@ -81,6 +81,11 @@
         {
             "en_US": "Loses:",
             "de_DE": "Niederlagen:"
+        },
+        "party.onlypartyleadercanexecute":
+        {
+            "en_US": "&cOnly the party leader can execute this function.",
+            "de_DE": "&cNur der Partyleader kann diese Funktion ausführen."
         }
     }
 }
