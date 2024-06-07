@@ -27,6 +27,11 @@
             "en_US": "&cYour opponent has left the match! &7You got requeued.",
             "de_DE": "&cDein Gegner hat das Match verlassen! &7Du wurdest erneut zur Warteschlange hinzugefügt."
         },
+        "queue.msg.waitingforserver":
+        {
+            "en_US": "&7Waiting for server...",
+            "de_DE": "&7Warten auf Server..."
+        },
         "queue.item.leavequeue":
         {
             "en_US": "&cLeave Queue",
@@ -82,10 +87,15 @@
             "en_US": "Loses:",
             "de_DE": "Niederlagen:"
         },
-        "party.onlypartyleadercanexecute":
+        "partyqueue.onlypartyleadercanexecute":
         {
             "en_US": "&cOnly the party leader can execute this function.",
             "de_DE": "&cNur der Partyleader kann diese Funktion ausführen."
+        },
+        "partyqueue.featureonlyattwoplayers":
+        {
+            "en_US": "&cThis feature is only at a party member count of 2 players available.",
+            "de_DE": "&cDiese Funktion ist nur bei einer Partymitgliederzahl von 2 Spielern verfügbar."
         }
     }
 }
