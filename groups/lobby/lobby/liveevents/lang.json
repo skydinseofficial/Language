@@ -34,8 +34,8 @@
         },
         "GUI.button.bigserver":
         {
-            "en_US": "<#B22DFF>Big Server",
-            "de_DE": "<#B22DFF>Großer Server"
+            "en_US": "<#D902FF>Big Server",
+            "de_DE": "<#D902FF>Großer Server"
         },
         "GUI.button.bigserver.description":
         {
@@ -44,8 +44,8 @@
         },
         "GUI.button.giantserver":
         {
-            "en_US": "<#B22DFF>Giant Server",
-            "de_DE": "<#B22DFF>Gigantischer Server"
+            "en_US": "<#FF00DC>Giant Server",
+            "de_DE": "<#FF00DC>Gigantischer Server"
         },
         "GUI.button.giantserver.description":
         {
