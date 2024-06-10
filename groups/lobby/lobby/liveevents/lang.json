@@ -1,0 +1,26 @@
+{
+    "system": "liveevents-lobby",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "<#CD00DC>Create Eventserver",
+            "de_DE": "<#CD00DC>Eventserver erstellen"
+        },
+        "GUI.button.info.title":
+        {
+            "en_US": "&6Step 1: <#FFD800>Choose a type of server.",
+            "de_DE": "&6Schritt 1: <#FFD800>Wähle eine Art Server."
+        },
+        "GUI.button.info.description":
+        {
+            "en_US": "&7Does the server on which the event is to\n&7take place only support a few players,\n&7a lot of players, or should it be a huge\n&7event with a few hundred players?",
+            "de_DE": "&7Muss der Server, auf dem das Event statt\n&7finden soll, nur ein paar Spieler aushalten,\n&7sehr viele Spieler oder soll es ein riesiges\n&7Event mit einigen Hundert Spielern werden?"
+        },
+        "GUI.button.cancel":
+        {
+            "en_US": "&cCancel",
+            "de_DE": "&cAbbrechen"
+        }
+    }
+}
