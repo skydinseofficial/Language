@@ -4,7 +4,7 @@
     {
         "GUI.main.title":
         {
-            "en_US": "<#FFD800>Features <#FFFFFF>",
+            "en_US": "<#FFD800>Features",
             "de_DE": "<#FFD800>Features <#FFFFFF>"
         },
         "MSG.featurelocked.youneedhigherrank":
