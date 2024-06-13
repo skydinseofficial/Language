@@ -19,13 +19,13 @@
         },
         "MSG.invalidinput.enternumberbetween":
         {
-            "en_US": "&cYour data is not loaded yet!",
-            "de_DE": "&cDeine Daten sind noch nicht geladen!"
+            "en_US": "&cYou need to enter a number between [from] and [to].",
+            "de_DE": "&cDu musst eine Nummer zwischen [from] und [to] angeben."
         },
         "GUI.featurelocked.rankneeded":
         {
-            "en_US": "&cYou need to enter a number between [from] and [to].",
-            "de_DE": "&cDu musst eine Nummer zwischen [from] und [to] angeben."
+            "en_US": "&cRequired Rank: &f[rank]",
+            "de_DE": "&cBenötigter Rang: &f[rank]"
         },
         "GUI.availableservers":
         {
