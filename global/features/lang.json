@@ -116,6 +116,21 @@
         {
             "en_US": "&7No description yet.",
             "de_DE": "&7Noch keine Beschreibung."
+        },
+        "GUI.statusdescription.speed.1":
+        {
+            "en_US": "<#00E6FF>sᴘᴇᴇᴅ I",
+            "de_DE": "<#00E6FF>ɢᴇsᴄʜᴡɪɴᴅɪɢᴋᴇɪᴛ I"
+        },
+        "GUI.statusdescription.speed.2":
+        {
+            "en_US": "<#00E6FF>sᴘᴇᴇᴅ II",
+            "de_DE": "<#00E6FF>ɢᴇsᴄʜᴡɪɴᴅɪɢᴋᴇɪᴛ II"
+        },
+        "GUI.statusdescription.speed.3":
+        {
+            "en_US": "<#00E6FF>sᴘᴇᴇᴅ III",
+            "de_DE": "<#00E6FF>ɢᴇsᴄʜᴡɪɴᴅɪɢᴋᴇɪᴛ III"
         }
     }
 }
