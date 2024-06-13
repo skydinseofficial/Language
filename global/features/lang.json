@@ -91,6 +91,26 @@
         {
             "en_US": "&7No description yet.",
             "de_DE": "&7Noch keine Beschreibung."
+        },
+        "GUI.feature.nightvision.title":
+        {
+            "en_US": "<#80E12F>Night Vision",
+            "de_DE": "<#80E12F>Nachtsicht"
+        },
+        "GUI.feature.nightvision.description":
+        {
+            "en_US": "&7No description yet.",
+            "de_DE": "&7Noch keine Beschreibung."
+        },
+        "GUI.feature.speed.title":
+        {
+            "en_US": "<#00FFFF>Speed",
+            "de_DE": "<#00FFFF>Geschwindigkeit"
+        },
+        "GUI.feature.speed.description":
+        {
+            "en_US": "&7No description yet.",
+            "de_DE": "&7Noch keine Beschreibung."
         }
     }
 }
