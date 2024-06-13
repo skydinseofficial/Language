@@ -17,10 +17,15 @@
             "en_US": "&cYour data is not loaded yet!",
             "de_DE": "&cDeine Daten sind noch nicht geladen!"
         },
+        "MSG.invalidinput.enternumberbetween":
+        {
+            "en_US": "&cYour data is not loaded yet!",
+            "de_DE": "&cDeine Daten sind noch nicht geladen!"
+        },
         "GUI.featurelocked.rankneeded":
         {
-            "en_US": "&cRequired Rank: &f[rank]",
-            "de_DE": "&cBenötigter Rang: &f[rank]"
+            "en_US": "&cYou need to enter a number between [from] and [to].",
+            "de_DE": "&cDu musst eine Nummer zwischen [from] und [to] angeben."
         },
         "GUI.availableservers":
         {
