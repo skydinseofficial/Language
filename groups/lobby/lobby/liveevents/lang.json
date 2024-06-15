@@ -37,6 +37,11 @@
             "en_US": "Next",
             "de_DE": "Weiter"
         },
+        "GUI.button.finish":
+        {
+            "en_US": "&aFinish: <#FFD200>Create Server",
+            "de_DE": "&aFertig: <#FFD200>Server Erstellen"
+        },
         "GUI.servertype.button.smallserver":
         {
             "en_US": "<#B22DFF>Small Server",
