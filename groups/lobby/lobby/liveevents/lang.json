@@ -24,8 +24,8 @@
         },
         "GUI.button.next":
         {
-            "en_US": "&aNext",
-            "de_DE": "&aWeiter"
+            "en_US": "Next",
+            "de_DE": "Weiter"
         },
         "GUI.servertype.button.smallserver":
         {
