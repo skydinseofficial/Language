@@ -2,6 +2,11 @@
     "system": "liveevents-lobby",
     "translations":
     {
+        "LABEL.mode.simonsays":
+        {
+            "en_US": "[player] Says",
+            "de_DE": "[player] Sagt"
+        },
         "GUI.servertype.title":
         {
             "en_US": "<#CD00DC>Create Eventserver",
