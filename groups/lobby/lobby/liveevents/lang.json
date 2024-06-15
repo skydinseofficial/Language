@@ -66,6 +66,11 @@
         {
             "en_US": "&8» <#4CFF00>SELECTED",
             "de_DE": "&8» <#4CFF00>AUSGEWÄHLT"
+        },
+        "GUI.lore.currentlynotavailable":
+        {
+            "en_US": "&8» <#FF2700>Currently not available.",
+            "de_DE": "&8» <#FF2700>Derzeit nicht verfügbar."
         }
     }
 }
