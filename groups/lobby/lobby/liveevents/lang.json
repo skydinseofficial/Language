@@ -62,6 +62,21 @@
             "en_US": "&7\n&x&F&F&C&8&5&1&lRecommended:\n&e● <#FFD800>Player limits: <#BEBEBE>300 - 500 players",
             "de_DE": "&7\n&x&F&F&C&8&5&1&lEmpfohlen:\n&e● <#FFD800>Spielerlimits: <#BEBEBE>300 - 500 players"
         },
+        "GUI.mode.button.info":
+        {
+            "en_US": "&6Step 2: <#FFD800>Choose a mode to play.",
+            "de_DE": "&6Schritt 2: <#FFD800>Wähle einen Modus zum Spielen."
+        },
+        "GUI.mode.button.info.description":
+        {
+            "en_US": "&7Does the server on which the event is to\n&7take place only support a few players,\n&7a lot of players, or should it be a huge\n&7event with a few hundred players?",
+            "de_DE": "&7Muss der Server, auf dem das Event statt\n&7finden soll, nur ein paar Spieler aushalten,\n&7sehr viele Spieler oder soll es ein riesiges\n&7Event mit einigen Hundert Spielern werden?"
+        },
+        "GUI.mode.button.simonsays.description":
+        {
+            "en_US": "&7\n&x&F&F&C&8&5&1&lRecommended:\n&e● <#FFD800>Short Latency: <#BEBEBE>Make sure to have as\n<#BEBEBE>less delay as possible to your audience.",
+            "de_DE": "&7\n&x&F&F&C&8&5&1&lEmpfohlen:\n&e● <#FFD800>Kurze Latenz: <#BEBEBE>Stelle sicher, dass so wenig\n<#BEBEBE>Verzögerung, wie möglich zu deinen Zuschauern herrscht."
+        },
         "GUI.lore.click2select":
         {
             "en_US": "&8» <#F9BD31>Click to Select",
