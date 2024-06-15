@@ -71,6 +71,11 @@
         {
             "en_US": "&8» <#FF2700>Currently not available.",
             "de_DE": "&8» <#FF2700>Derzeit nicht verfügbar."
+        },
+        "MSG.npcalreadyinuse":
+        {
+            "en_US": "&cThis NPC is already in use.",
+            "de_DE": "&cDieser NPC ist bereits in Verwendung."
         }
     }
 }
