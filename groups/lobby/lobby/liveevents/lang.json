@@ -27,6 +27,11 @@
             "en_US": "&cCancel",
             "de_DE": "&cAbbrechen"
         },
+        "GUI.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
         "GUI.button.next":
         {
             "en_US": "Next",
