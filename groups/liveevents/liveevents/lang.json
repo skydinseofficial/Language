@@ -1,0 +1,21 @@
+{
+    "system": "liveevents",
+    "translations":
+    {
+        "ITEM.leave":
+        {
+            "en_US": "&7Zurück zur &aLobby",
+            "de_DE": "&7Back to &aLobby"
+        },
+        "ITEM.whitelist.enable":
+        {
+            "en_US": "&aEnable Whitelist",
+            "de_DE": "&aWhitelist Aktivieren"
+        },
+        "ITEM.whitelist.enable":
+        {
+            "en_US": "&cDisable Whitelist",
+            "de_DE": "&cWhitelist Deaktivieren"
+        }
+    }
+}
