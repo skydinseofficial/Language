@@ -141,6 +141,11 @@
         {
             "en_US": "&cThis NPC is already in use.",
             "de_DE": "&cDieser NPC ist bereits in Verwendung."
+        },
+        "MSG.onlyvipscancreateeventserver":
+        {
+            "en_US": "&cOnly VIPs can create an event server.",
+            "de_DE": "&cNur VIPs können einen Eventserver erstellen."
         }
     }
 }
