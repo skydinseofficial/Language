@@ -12,7 +12,7 @@
             "en_US": "&aEnable Whitelist",
             "de_DE": "&aWhitelist Aktivieren"
         },
-        "ITEM.whitelist.enable":
+        "ITEM.whitelist.disable":
         {
             "en_US": "&cDisable Whitelist",
             "de_DE": "&cWhitelist Deaktivieren"
