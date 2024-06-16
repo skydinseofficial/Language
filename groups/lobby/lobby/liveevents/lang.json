@@ -146,6 +146,11 @@
         {
             "en_US": "&cOnly VIPs can create an event server.",
             "de_DE": "&cNur VIPs können einen Eventserver erstellen."
+        },
+        "MSG.whitelistenabled":
+        {
+            "en_US": "&cThe whitelist is currently enabled!",
+            "de_DE": "&cDie Whitelist ist derzeit aktiviert!"
         }
     }
 }
