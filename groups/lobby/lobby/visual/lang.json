@@ -35,8 +35,8 @@
         },
         "HOLO.networkfeatures":
         {
-            "en_US": "&x&E&D&2&1&E&2NETWORK FEATURES;<#EFAECF>Network wide <#FF00DC>Voice Chat <#EFAECF>Support: <#EF5DCF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFAECF>Crossplay <#FF00DC>Java & Bedrock <#EFAECF>Support;<#EFAECF>Big <#FF00DC>Community & Streamer <#EFAECF>Events",
-            "de_DE": "&x&E&D&2&1&E&2NETZWERK FEATURES;<#EFAECF>Netzwerkweite <#FF00DC>Voice Chat <#EFAECF>Unterstützung: <#EF5DCF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFAECF>Crossplay <#FF00DC>Java & Bedrock <#EFAECF>Unterstützung;<#EFAECF>Große <#FF00DC>Community & Streamer <#EFAECF>Events"
+            "en_US": "&x&E&D&2&1&E&2&lNETWORK FEATURES;<#EFC3CF>Network wide <#FF00DC>Voice Chat <#EFC3CF>Support: <#EFAECF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Support;<#EFC3CF>Big <#FF00DC>Community & Streamer <#EFC3CF>Events",
+            "de_DE": "&x&E&D&2&1&E&2&lNETZWERK FEATURES;<#EFC3CF>Netzwerkweite <#FF00DC>Voice Chat <#EFC3CF>Unterstützung: <#EFAECF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Unterstützung;<#EFC3CF>Große <#FF00DC>Community & Streamer <#EFC3CF>Events"
         }
     }
 }
