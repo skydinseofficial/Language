@@ -16,6 +16,11 @@
         {
             "en_US": "&cDisable Whitelist",
             "de_DE": "&cWhitelist Deaktivieren"
+        },
+        "ACTIONBAR.whitelist.cooldown":
+        {
+            "en_US": "<#FF0000>Please wait a moment.",
+            "de_DE": "<#FF0000>Bitte warte einen Moment."
         }
     }
 }
