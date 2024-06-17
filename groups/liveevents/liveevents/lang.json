@@ -36,6 +36,21 @@
         {
             "en_US": "Mode:",
             "de_DE": "Modus:"
+        },
+        "SCOREBOARD.event.whitelist":
+        {
+            "en_US": "Whitelist:",
+            "de_DE": "Whitelist:"
+        },
+        "SCOREBOARD.event.whitelist.enabled":
+        {
+            "en_US": "<#4CFF00>Enabled",
+            "de_DE": "<#4CFF00>Aktiviert"
+        },
+        "SCOREBOARD.event.whitelist.disabled":
+        {
+            "en_US": "<#FF0A00>Disabled",
+            "de_DE": "<#FF0A00>Deaktiviert"
         }
     }
 }
