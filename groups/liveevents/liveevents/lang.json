@@ -21,6 +21,21 @@
         {
             "en_US": "<#FF0000>Please wait a moment.",
             "de_DE": "<#FF0000>Bitte warte einen Moment."
+        },
+        "SCOREBOARD.event":
+        {
+            "en_US": "Event",
+            "de_DE": "Event"
+        },
+        "SCOREBOARD.event.hoster":
+        {
+            "en_US": "Hoster:",
+            "de_DE": "Hoster:"
+        },
+        "SCOREBOARD.event.mode":
+        {
+            "en_US": "Mode:",
+            "de_DE": "Modus:"
         }
     }
 }
