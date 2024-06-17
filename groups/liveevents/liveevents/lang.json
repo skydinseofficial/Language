@@ -51,6 +51,11 @@
         {
             "en_US": "<#FF0A00>Disabled",
             "de_DE": "<#FF0A00>Deaktiviert"
+        },
+        "SCOREBOARD.event.players":
+        {
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
         }
     }
 }
