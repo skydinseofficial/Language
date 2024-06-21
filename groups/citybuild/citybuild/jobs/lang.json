@@ -56,6 +56,16 @@
         {
             "en_US": "Professions",
             "de_DE": "Berufe"
+        },
+        "GUI.main.button.explanation":
+        {
+            "en_US": "<#FFD200>How to use the job system:",
+            "de_DE": "<#FFD200>So nutzt du das Job-System:"
+        },
+        "GUI.main.button.explanation.description":
+        {
+            "en_US": "&7",
+            "de_DE": "&7Du bist nicht in allen Berufsfeldern gleichzeitig\n&7ktiv, sondern konzentrierst dich in der\n&7Regel für längere Zeit auf einen Beruf.\n&7\n&7\n&x&F&F&C&8&5&1&lVorteile:\n&e● <#FFD800>Player limits: <#BEBEBE>100 - 150 players"
         }
     }
 }
