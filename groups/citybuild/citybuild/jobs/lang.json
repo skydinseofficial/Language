@@ -34,8 +34,8 @@
         },
         "scoreboard.word.skilllevel":
         {
-            "en_US": "Skill Lvl",
-            "de_DE": "Skill-Lvl"
+            "en_US": "Level",
+            "de_DE": "Level"
         }
     }
 }
