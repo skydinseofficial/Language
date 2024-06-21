@@ -32,10 +32,25 @@
             "en_US": "Hunter",
             "de_DE": "Jäger"
         },
-        "scoreboard.word.skilllevel":
+        "scoreboard.word.level":
         {
             "en_US": "Level",
             "de_DE": "Level"
+        },
+        "scoreboard.skilllevel":
+        {
+            "en_US": "Skill Level:",
+            "de_DE": "Skill-Level:"
+        },
+        "scoreboard.skillprogress":
+        {
+            "en_US": "Progress:",
+            "de_DE": "Fortschritt:"
+        },
+        "scoreboard.earning":
+        {
+            "en_US": "Earning:",
+            "de_DE": "Verdienst:"
         }
     }
 }
