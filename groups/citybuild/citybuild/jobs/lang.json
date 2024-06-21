@@ -51,6 +51,11 @@
         {
             "en_US": "Earning:",
             "de_DE": "Verdienst:"
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Professions",
+            "de_DE": "Berufe"
         }
     }
 }
