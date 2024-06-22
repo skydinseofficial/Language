@@ -74,8 +74,8 @@
         },
         "GUI.main.button.job.description.joincooldown":
         {
-            "en_US": "<#FF5E59>Can't join another profession for:\n<#FF0A00>[time]",
-            "de_DE": "<#FF5E59>Warte, um anderen Beruf auszuüben:\n<#FF0A00>[time]"
+            "en_US": "<#FF5959>Can't join another profession for:\n[time]",
+            "de_DE": "<#FF5959>Warte, um anderen Beruf auszuüben:\n[time]"
         },
         "GUI.main.button.job.description.click2join":
         {
