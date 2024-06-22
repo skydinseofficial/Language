@@ -12,6 +12,11 @@
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
         },
+        "msg.datanotloaded":
+        {
+            "en_US": "&cYour data is not loaded yet.",
+            "de_DE": "&cDeine Daten sind noch nicht geladen."
+        },
         "prefix.jobs":
         {
             "en_US": "Jobs",
@@ -31,6 +36,11 @@
         {
             "en_US": "&7You now practice the profession [profession]&7! Click the <#FFD84E>NPC &7to get <#FFD84E>information &7and enter your <#FFD84E>training area&7. You will also find out how you <#FFD84E>earn your money&7.",
             "de_DE": "&7Du übst nun den Beruf [profession] &7aus! Klicke den <#FFD84E>NPC&7, um <#FFD84E>Informationen &7zu erhalten und dein <#FFD84E>Trainingsbereich &7zu betreten. Du erfährst zudem, wodurch du dein <#FFD84E>Geld verdienst&7."
+        },
+        "msg.youdontdothisjob":
+        {
+            "en_US": "&cYou don't do this job. &7Type <#FFD84E>/jobs &7to select a profession.",
+            "de_DE": "&cDu führst diesen Beruf nicht aus. &7Nutze <#FFD84E>/jobs &7um einen Beruf auszuwählen."
         },
         "scoreboard.word.level":
         {
