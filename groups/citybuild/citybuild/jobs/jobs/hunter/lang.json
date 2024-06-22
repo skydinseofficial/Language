@@ -1,0 +1,16 @@
+{
+    "system": "jobs-hunter",
+    "translations":
+    {
+        "profession.name":
+        {
+            "en_US": "Hunter",
+            "de_DE": "Jäger"
+        },
+        "profession.display":
+        {
+            "en_US": "<#FF3426>Hunter",
+            "de_DE": "<#FF3426>Jäger"
+        }
+    }
+}
