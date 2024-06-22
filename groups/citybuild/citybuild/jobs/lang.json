@@ -27,6 +27,11 @@
             "en_US": "&cYour former job is not available right now! You need to accept an other profession until it is available again. &7Your progress of your previous profession is not lost. For more information, visit our Discord Server: &s&n<@https://www.skydinse.net/discord>",
             "de_DE": "&cDein ehemaliger Job ist derzeit nicht verfügbar! Du musst einen neuen Beruf annehmen, bis er wieder verfügbar ist. &7Dein Fortschritt ist nicht verloren gegangen. Für weitere Informationen, besuche unseren Discord Server: &s&n<@https://www.skydinse.net/discord>"
         },
+        "msg.jobjoined":
+        {
+            "en_US": "&7You now practice the profession [profession]&7! Click the <#FFD84E>NPC &7to get <#FFD84E>information &7and enter your <#FFD84E>training area&7. You will also find out how you <#FFD84E>earn your money&7.",
+            "de_DE": "&7Du übst nun den Beruf [profession] &7aus! Klicke den <#FFD84E>NPC&7, um <#FFD84E>Informationen &7zu erhalten und dein <#FFD84E>Trainingsbereich &7zu betreten. Du erfährst zudem, wodurch du dein <#FFD84E>Geld verdienst&7."
+        },
         "scoreboard.word.level":
         {
             "en_US": "Lvl",
