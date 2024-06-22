@@ -99,8 +99,8 @@
         },
         "GUI.job.button.enterpracticecampus":
         {
-            "en_US": "<#0094FF>Enter Practice Campus",
-            "de_DE": "<#0094FF>Trainingscampus Betreten"
+            "en_US": "<#FFD200>Enter Practice Campus",
+            "de_DE": "<#FFD200>Trainingscampus Betreten"
         },
         "GUI.job.button.enterpracticecampus.description":
         {
