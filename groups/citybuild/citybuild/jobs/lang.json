@@ -22,6 +22,11 @@
             "en_US": "Jobs",
             "de_DE": "Berufe"
         },
+        "word.profession":
+        {
+            "en_US": "Profession",
+            "de_DE": "Beruf"
+        },
         "msg.functiondisabled":
         {
             "en_US": "&cThis function is currently disabled!",
