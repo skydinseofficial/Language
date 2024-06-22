@@ -16,6 +16,16 @@
         {
             "en_US": "&x&F&F&C&8&5&1&lHOMES;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lHOMES;&7(Ansehen)"
+        },
+        "NPCHOLO.title.earnings":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEARNINGS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lVERDIENSTE;&7(Ansehen)"
+        },
+        "NPCHOLO.title.jobs":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lPROFESSIONS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&LBERUFE;&7(Ansehen)"
         }
     }
 }
