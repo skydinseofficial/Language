@@ -96,6 +96,16 @@
         {
             "en_US": "&8» <#F9BD31>Klick to Join",
             "de_DE": "&8» <#F9BD31>Klicke zum Beitreten"
-        }
+        },
+        "GUI.job.button.enterpracticecampus":
+        {
+            "en_US": "<#0094FF>Enter Practice Campus",
+            "de_DE": "<#0094FF>Trainingscampus Betreten"
+        },
+        "GUI.job.button.enterpracticecampus.description":
+        {
+            "en_US": "&7\n&7Practice on your <#FFD84E>private campus &7to\n<#FFD84E>level up &7and earn <#FFD84E>more money&7.\n&7Unlock und optimize your <#FFD84E>skills&7.",
+            "de_DE": "&7\n&7Trainiere auf deinem <#FFD84E>privaten Campus&7,\n&7um dich <#FFD84E>aufzuleveln &7und <#FFD84E>mehr\n<#FFD84E>Geld &7zu verdienen. Schalte neue\n<#FFD84E>Skills &7frei und optimiere sie."
+        },
     }
 }
