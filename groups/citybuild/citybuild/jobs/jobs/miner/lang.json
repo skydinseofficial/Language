@@ -1,0 +1,16 @@
+{
+    "system": "jobs-miner",
+    "translations":
+    {
+        "profession.name":
+        {
+            "en_US": "Miner",
+            "de_DE": "Minenarbeiter"
+        },
+        "profession.display":
+        {
+            "en_US": "<#658787>Miner",
+            "de_DE": "<#658787>Minenarbeiter"
+        }
+    }
+}
