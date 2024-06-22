@@ -61,6 +61,26 @@
         {
             "en_US": "&7You are not active in all professional fields at\n&7the same time, but usually concentrate on\n&7one profession for a longer period of time.\n&7\n&x&F&F&C&8&5&1&lAdvantages:\n&e● <#FFD800>Private training places\n&e● <#FFD800>Skill leveling\n&e● <#FFD800>Specialization through skills\n&7\n&7You can still change your profession every\n&7few days. Under certain circumstances also\n&7more often: Type <#FF32DC>/features",
             "de_DE": "&7Du bist nicht in allen Berufsfeldern gleichzeitig\n&7aktiv, sondern konzentrierst dich in der\n&7Regel für längere Zeit auf einen Beruf.\n&7\n&x&F&F&C&8&5&1&lVorteile:\n&e● <#FFD800>Private Trainigsplätze\n&e● <#FFD800>Skill Leveling\n&e● <#FFD800>Spezialisierung durch Fähigkeiten\n&7\n&7Deinen Beruf wechseln könntest du dennoch\n&7alle paar Tage. Unter Umständen auch\n&7öfters: Siehe <#FF32DC>/features"
+        },
+        "GUI.main.button.job.description.employees":
+        {
+            "en_US": "<#99D4FF>Employees: <#0094FF>[employees]",
+            "de_DE": "<#99D4FF>Angestellte: <#0094FF>[employees]"
+        },
+        "GUI.main.button.job.description.currentlyactive":
+        {
+            "en_US": "<#4CFF00>» Currently Active «",
+            "de_DE": "<#4CFF00>» Derzeit Tätig «"
+        },
+        "GUI.main.button.job.description.joincooldown":
+        {
+            "en_US": "<#FF5E59>Can't join another profession for:\n<#FF0A00>[time]",
+            "de_DE": "<#FF5E59>Warte, um anderen Beruf auszuüben:\n<#FF0A00>[time]"
+        },
+        "GUI.main.button.job.description.click2join":
+        {
+            "en_US": "&8» <#F9BD31>Klick to Join",
+            "de_DE": "&8» <#F9BD31>Klicke zum Beitreten"
         }
     }
 }
