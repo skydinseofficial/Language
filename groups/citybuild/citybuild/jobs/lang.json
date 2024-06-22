@@ -27,11 +27,6 @@
             "en_US": "&cYour former job is not available right now! You need to accept an other profession until it is available again. &7Your progress of your previous profession is not lost. For more information, visit our Discord Server: &s&n<@https://www.skydinse.net/discord>",
             "de_DE": "&cDein ehemaliger Job ist derzeit nicht verfügbar! Du musst einen neuen Beruf annehmen, bis er wieder verfügbar ist. &7Dein Fortschritt ist nicht verloren gegangen. Für weitere Informationen, besuche unseren Discord Server: &s&n<@https://www.skydinse.net/discord>"
         },
-        "job.word.hunter":
-        {
-            "en_US": "Hunter",
-            "de_DE": "Jäger"
-        },
         "scoreboard.word.level":
         {
             "en_US": "Lvl",
