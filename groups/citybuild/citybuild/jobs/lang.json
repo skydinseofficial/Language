@@ -64,13 +64,13 @@
         },
         "GUI.main.button.job.description.employees":
         {
-            "en_US": "<#99D4FF>Employees: <#0094FF>[employees]",
-            "de_DE": "<#99D4FF>Angestellte: <#0094FF>[employees]"
+            "en_US": "&7Employees: <#FFC800>[employees]",
+            "de_DE": "&7Angestellte: <#FFC800>[employees]"
         },
         "GUI.main.button.job.description.currentlyactive":
         {
-            "en_US": "<#4CFF00>» Currently Active «",
-            "de_DE": "<#4CFF00>» Derzeit Tätig «"
+            "en_US": "&8» <#4CFF00>SELECTED",
+            "de_DE": "&8» <#4CFF00>AUSGEWÄHLT"
         },
         "GUI.main.button.job.description.joincooldown":
         {
