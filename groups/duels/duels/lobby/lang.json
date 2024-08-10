@@ -74,9 +74,9 @@
         },
         "GUI.settings.visibility.lore":
         {
-            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to see.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler du sehen kannst.\n\n&8» <#face06>Klicke zum ändern",
-            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları görebileceğini belirle.\n\n&8» <#face06>Değiştirmek için bas"
+            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to &6see&7.\n\n&8» <#face06>Click to change",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler du &6sehen &7kannst.\n\n&8» <#face06>Klicke zum ändern",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları &6görebileceğini &7belirle.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.fly":
         {
@@ -86,15 +86,39 @@
         },
         "GUI.settings.fly.lore":
         {
-            "en_US": "\n&7Mode: [mode]\n\n&7Toggle your flight mode.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das Fliegen.\n\n&8» <#face06>Klicke zum ändern",
-            "tr_TR": "\n&7Modu: [mode]\n\n&7Uçmayı etkinleştir veya devre dışı bırak.\n\n&8» <#face06>Değiştirmek için bas"
+            "en_US": "\n&7Mode: [mode]\n\n&7Toggle your &6flight &7mode.\n\n&8» <#face06>Click to change",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das &6Fliegen&7.\n\n&8» <#face06>Klicke zum ändern",
+            "tr_TR": "\n&7Modu: [mode]\n\n&6Uçmayı &7etkinleştir veya devre dışı bırak.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.generic.noperm.lore":
         {
             "en_US": "\n&cYou are lacking permission!\n\n&7Rank needed: [rank]\n\n&8» <#face06>Alright!",
             "de_DE": "\n&cDir fehlt die Berechtigung dazu!\n\n&7Rang benötigt: [rank]\n\n&8» <#face06>Verstanden!",
             "tr_TR": "\n&cBunu yapmak için yetkin yok!\n\n&7Gerekli rütbe: [rank]\n\n&8» <#face06>Anlamazdın Anlamazdın!"
+        },
+        "GUI.generic.setting.everyone":
+        {
+            "en_US": "&aEveryone",
+            "de_DE": "&aJeder",
+            "tr_TR": "&aHerkes",
+            "de_XX": "&aHinz und Kunz (Auch die Haider)",
+            "en_XX": "&aFucking everyone (Even Mr. Epstein)"
+        },
+        "GUI.generic.setting.friendsandparty":
+        {
+            "en_US": "&6Friends/Party",
+            "de_DE": "&6Freunde/Party",
+            "tr_TR": "&6Dostlar/Party",
+            "de_XX": "&6Kameraden/Temporärer Verein",
+            "en_XX": "&6Comrades/Temporary Club"
+        },
+        "GUI.generic.setting.no-one":
+        {
+            "en_US": "&cNo one",
+            "de_DE": "&cNiemand",
+            "tr_TR": "&cKimse",
+            "de_XX": "&cDeine Freunde &8(Niemand)",
+            "en_XX": "&cYour Friends &8(No one)"
         },
         "actionbar.fly.on":
         {
