@@ -64,7 +64,7 @@
         {
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
             "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern",
-            "tr_TR": "\n&7Modu: [mode]\n\nHangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver.\n\n&8» <#face06>Değiştirmek için bas"
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver.\n\n&8» <#face06>Değiştirmek için bas"
         },
         "GUI.settings.visibility":
         {
