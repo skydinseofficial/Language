@@ -135,6 +135,13 @@
             "en_US": "&6Choose map",
             "de_DE": "&6Karte wählen"
         },
+        "GUI.item.stats.own":
+        {
+            "en_US": "&6Your statistics",
+            "de_DE": "&6Deine Statistiken",
+            "de_XX": "&6Persönliche Leistungszusammenfassung",
+            "en_XX": "&6Personal Performace Summary"
+        },
         "GAME.anchor.name":
         {
             "en_US": "Anchor",
