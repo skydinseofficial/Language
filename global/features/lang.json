@@ -32,6 +32,11 @@
             "en_US": "Available on: ",
             "de_DE": "Verfügbar auf: "
         },
+        "GUI.notavailablehere":
+        {
+            "en_US": "<#FF6666>Not available on this server.",
+            "de_DE": "<#FF6666>Auf diesem Server nicht verfügbar."
+        },
         "GUI.statusdescription":
         {
             "en_US": "&7Status: ",
