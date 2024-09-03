@@ -698,6 +698,21 @@
         {
             "en_US": "&cYour data isn't loaded yet.",
             "de_DE": "&cDeine Daten sind noch nicht geladen."
+        },
+        "SEAMLESSSPAWN.spawnnotfound":
+        {
+            "en_US": "&cThe spawn you were last on could not be found and may be offline. &7&oConnecting to another spawn...",
+            "de_DE": "&cDer Spawn, auf dem du dich zuletzt befunden hast, konnte nicht gefunden werden und ist möglicherweise offline. &7&oVerbinde auf einen anderen Spawn..."
+        },
+        "SEAMLESSSPAWN.spawnnotonline":
+        {
+            "en_US": "&cThis spawn is not online right now!",
+            "de_DE": "&cDieser Spawn ist derzeit nicht online!"
+        },
+        "SEAMLESSSPAWN.spawnnotexists":
+        {
+            "en_US": "&cThis spawn does not exist!",
+            "de_DE": "&cDieser Spawn existiert nicht!"
         }
     }
 }
