@@ -713,6 +713,11 @@
         {
             "en_US": "&cThis spawn does not exist!",
             "de_DE": "&cDieser Spawn existiert nicht!"
+        },
+        "SEAMLESSSPAWN.noregisteredspawns":
+        {
+            "en_US": "&cThere are no registered spawns!",
+            "de_DE": "&cEs gibt keine registrierten Spawns!"
         }
     }
 }
