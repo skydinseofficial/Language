@@ -1,1 +1,181 @@
-
+{
+    "system": "citybuild-farmworld",
+    "translations":
+    {
+        "global.nopermission":
+        {
+            "en_US": "&cYou don't have the permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "global.guiextra.endevent":
+        {
+            "en_US": "&x&9&0&6&3&E&7&lE&x&A&A&4&7&E&E&ln&x&C&4&2&A&F&5&ld&x&D&E&0&E&F&C&le&x&D&E&0&E&F&C&lv&x&C&4&2&A&F&5&le&x&A&A&4&7&E&E&ln&x&9&0&6&3&E&7&lt",
+            "de_DE": "&x&9&0&6&3&E&7&lE&x&A&A&4&7&E&E&ln&x&C&4&2&A&F&5&ld&x&D&E&0&E&F&C&le&x&D&E&0&E&F&C&lv&x&C&4&2&A&F&5&le&x&A&A&4&7&E&E&ln&x&9&0&6&3&E&7&lt"
+        },
+        "global.guiextra.endevent.desc":
+        {
+            "en_US": "&x&C&D&B&2&F&FEnd access every saturday from 16 p.m.%nl%&7Use &x&7&A&3&2&F&F/endevent &7for more information.",
+            "de_DE": "&x&C&D&B&2&F&FZugang zum End jeden Samstag ab 16 Uhr.%nl%&7Nutze &x&7&A&3&2&F&F/endevent &7für mehr Informationen."
+        },
+        "global.guiextra.nextreset":
+        {
+            "en_US": "&x&F&F&E&2&5&9&lN&x&F&F&D&3&5&7&le&x&F&F&C&5&5&5&lx&x&F&F&B&6&5&3&lt &x&F&F&A&7&5&1&lR&x&F&F&B&6&5&3&le&x&F&F&C&5&5&5&ls&x&F&F&D&3&5&7&le&x&F&F&E&2&5&9&lt",
+            "de_DE": "&x&F&F&E&2&5&9&lN&x&F&F&D&8&5&8&lä&x&F&F&C&E&5&6&lc&x&F&F&C&5&5&5&lh&x&F&F&B&B&5&4&ls&x&F&F&B&1&5&2&lt&x&F&F&A&7&5&1&le&x&F&F&B&1&5&2&lr &x&F&F&B&B&5&4&lR&x&F&F&C&5&5&5&le&x&F&F&C&E&5&6&ls&x&F&F&D&8&5&8&le&x&F&F&E&2&5&9&lt"
+        },
+        "global.guiextra.nextreset.desc.resetin":
+        {
+            "en_US": "&7Next reset in: &e",
+            "de_DE": "&7Nächster Reset in: &e"
+        },
+        "global.guiextra.nextreset.desc.resetexplanation":
+        {
+            "en_US": "&x&F&F&E&B&8&7All farm worlds are reset every Saturday at%nl%&x&F&F&E&B&8&79 p.m. The reset also ends the weekly end event.",
+            "de_DE": "&x&F&F&E&B&8&7Alle Farmwelten werden jeden Samstag um 21 Uhr zurückgesetzt.%nl%&x&F&F&E&B&8&7Der Reset beendet zugleich auch das wöchentliche Endevent."
+        },
+        "global.guiextra.nextreset.time.days":
+        {
+            "en_US": "Days",
+            "de_DE": "Tagen"
+        },
+        "global.guiextra.nextreset.time.day":
+        {
+            "en_US": "Day",
+            "de_DE": "Tag"
+        },
+        "global.guiextra.nextreset.time.hours":
+        {
+            "en_US": "Hours",
+            "de_DE": "Stunden"
+        },
+        "global.guiextra.nextreset.time.hour":
+        {
+            "en_US": "Hour",
+            "de_DE": "Stunde"
+        },
+        "global.guiextra.nextreset.time.minutes":
+        {
+            "en_US": "Minutes",
+            "de_DE": "Minuten"
+        },
+        "global.guiextra.nextreset.time.minute":
+        {
+            "en_US": "Minute",
+            "de_DE": "Minute"
+        },
+        "global.guiextra.nextreset.time.seconds":
+        {
+            "en_US": "Seconds",
+            "de_DE": "Sekunden"
+        },
+        "global.guiextra.nextreset.time.second":
+        {
+            "en_US": "Second",
+            "de_DE": "Sekunde"
+        },
+        "global.guiextra.nextreset.time.now":
+        {
+            "en_US": "NOW",
+            "de_DE": "JETZT"
+        },
+        "global.selectfarmworld":
+        {
+            "en_US": "Select a farm world",
+            "de_DE": "Wähle eine Farmwelt"
+        },
+        "global.farmworld":
+        {
+            "en_US": "Farm world",
+            "de_DE": "Farmwelt"
+        },
+        "global.desc.offline":
+        {
+            "en_US": "&cOFFLINE",
+            "de_DE": "&cOFFLINE"
+        },
+        "global.desc.playersonline":
+        {
+            "en_US": "&7Players:",
+            "de_DE": "&7Spieler:"
+        },
+        "global.desc.workload":
+        {
+            "en_US": "&7Workload:",
+            "de_DE": "&7Auslastung:"
+        },
+        "global.desc.size_overworld":
+        {
+            "en_US": "&7Overworld-Size: &e",
+            "de_DE": "&7Oberwelt-Größe: &e"
+        },
+        "global.desc.size_nether":
+        {
+            "en_US": "&7Nether-Size: &e",
+            "de_DE": "&7Nether-Größe: &e"
+        },
+        "global.desc.click2connect":
+        {
+            "en_US": "Click to connect.",
+            "de_DE": "Klicke zum verbinden."
+        },
+        "global.msg.offline":
+        {
+            "en_US": "This farm world is currently offline!",
+            "de_DE": "Diese Farmwelt ist derzeit offline!"
+        },
+        "global.msg.higherrankneeded":
+        {
+            "en_US": "You need a higher rank to join this farm world!",
+            "de_DE": "Du benötigst einen höheren Rang, um diese Farmwelt zu betreten!"
+        },
+        "local.reset.now":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lATTENTION: &cThis farm world is resetting &6NOW&c! &x&0&0&9&4&F&F(Duration: approx. 3 minutes)",
+            "de_DE": "&x&F&F&0&0&0&0&lACHTUNG: &cDiese Farmwelt wird &6JETZT &czurückgesetzt! &x&0&0&9&4&F&F(Dauer: ca. 3 Minuten)"
+        },
+        "local.reset.about":
+        {
+            "en_US": "&x&F&F&0&0&0&0ATTENTION: &cThis farm world is about to reset in &6VAR1 seconds&c!",
+            "de_DE": "&x&F&F&0&0&0&0ACHTUNG: &cDiese Farmwelt wird in &6VAR1 Sekunden &czurückgesetzt!"
+        },
+        "local.reset.soon":
+        {
+            "en_US": "&x&F&F&0&0&0&0ATTENTION: &cThis farm world is about to reset in &6VAR1 minutes&c!",
+            "de_DE": "&x&F&F&0&0&0&0ACHTUNG: &cDiese Farmwelt wird in &6VAR1 Minuten &czurückgesetzt!"
+        },
+        "local.cmd.forcereset.confirm":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lATTENTION: &cAre you sure you want to reset this farm world? &eEnter the command again to confirm.",
+            "de_DE": "&x&F&F&0&0&0&0&lACHTUNG: &cBist du dir sicher, dass du diese Farmwelt zurücksetzen willst? &eGebe den Befehl erneut ein, um den Reset zu bestätigen."
+        },
+        "local.cmd.forcereset.started":
+        {
+            "en_US": "&cThe reset is being executed...",
+            "de_DE": "&cDer Reset wird jetzt ausgeführt..."
+        },
+        "local.cmd.locreset.alllocationsresetted":
+        {
+            "en_US": "&cATTENTION: &7You've resetted the locations for this farm world! Every player has a new spawn from now on!",
+            "de_DE": "&cACHTUNG: &7Du hast die Locations für diese Farmwelt zurückgesetzt! Jeder Spieler hat nun einen neuen Einstiegspunkt!"
+        },
+        "local.cmd.locreset.playerlocationreset":
+        {
+            "en_US": "&7The spawn point for &eVAR1 &7has been resetted.",
+            "de_DE": "&7Der Spawnpunkt für &eVAR1 &7wurde zurückgesetzt."
+        },
+        "local.cmd.locreset.enterplayer":
+        {
+            "en_US": "&cYou have to enter a playername!",
+            "de_DE": "&cDu musst einen Spielernamen angeben!"
+        },
+        "local.cmd.locreset.playerhasnolocation":
+        {
+            "en_US": "&cThis player currently does not have a spawn point!",
+            "de_DE": "&cDieser Spieler hat derzeit keinen Einstiegspunkt!"
+        },
+        "local.yournewspawnpoint":
+        {
+            "en_US": "&7Your new spawn point for this farm world is located here! The spawn point normally only resets when the whole farm world resets.",
+            "de_DE": "&7Dein neuer Spawnpunkt für diese Farmwelt befindet sich hier! Der Spawnpunkt wir normalerweise nur dann zurückgesetzt, wenn die gesamte Farmwelt zurückgesetzt wird."
+        }
+    }
+}
