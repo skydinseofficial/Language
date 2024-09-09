@@ -47,6 +47,11 @@
             "en_US": "&6Lobby",
             "de_DE": "&6Lobby",
             "tr_TR": "&6Lobi"
+        },"GUI.settings.features":
+        {
+            "en_US": "&6Features",
+            "de_DE": "&6Features",
+            "de_XX": "&6Erweiterungsfunktionen"
         },
         "GUI.settings.lobby.title":
         {
