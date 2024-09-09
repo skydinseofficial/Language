@@ -107,6 +107,11 @@
             "en_US": "&7No description yet.",
             "de_DE": "&7Noch keine Beschreibung."
         },
+        "MSG.feature.elytra.boostcooldown":
+        {
+            "en_US": "&cPlease always wait 3 seconds after a boost!",
+            "de_DE": "&cBitte warte immer 3 Sekunden nach einem Boost!"
+        },
         "GUI.feature.nightvision.title":
         {
             "en_US": "<#80E12F>Night Vision",
