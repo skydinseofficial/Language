@@ -142,6 +142,16 @@
             "en_US": "<#00E6FF>sᴘᴇᴇᴅ III",
             "de_DE": "<#00E6FF>ɢᴇsᴄʜᴡɪɴᴅɪɢᴋᴇɪᴛ III"
         },
+        "GUI.feature.scale.title":
+        {
+            "en_US": "<#CD94FF>Scale",
+            "de_DE": "<#CD94FF>Größe"
+        },
+        "GUI.feature.scale.description":
+        {
+            "en_US": "&7No description yet.",
+            "de_DE": "&7Noch keine Beschreibung."
+        },
         "GUI.statusdescription.scale.default":
         {
             "en_US": "<#FFD200>ᴅᴇғᴀᴜʟᴛ",
