@@ -62,6 +62,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to disable",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum deaktivieren"
         },
+        "GUI.actiondescription.click2switch":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to switch",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum wechseln"
+        },
         "GUI.feature.glow.title":
         {
             "en_US": "<#FFD85D>Glow",
@@ -136,6 +141,31 @@
         {
             "en_US": "<#00E6FF>sᴘᴇᴇᴅ III",
             "de_DE": "<#00E6FF>ɢᴇsᴄʜᴡɪɴᴅɪɢᴋᴇɪᴛ III"
+        },
+        "GUI.statusdescription.scale.default":
+        {
+            "en_US": "<#FFD200>ᴅᴇғᴀᴜʟᴛ",
+            "de_DE": "<#FFD200>sᴛᴀɴᴅᴀʀᴅ"
+        },
+        "GUI.statusdescription.scale.big":
+        {
+            "en_US": "<#9794FF>ʙɪɢ",
+            "de_DE": "<#9794FF>ɢʀᴏß"
+        },
+        "GUI.statusdescription.scale.giant":
+        {
+            "en_US": "<#9794FF>ɢɪᴀɴᴛ",
+            "de_DE": "<#9794FF>ɢɪɢᴀɴᴛɪsᴄʜ"
+        },
+        "GUI.statusdescription.scale.tiny":
+        {
+            "en_US": "<#9794FF>ᴛɪɴʏ",
+            "de_DE": "<#9794FF>ᴡɪɴᴢɪɢ"
+        },
+        "GUI.statusdescription.scale.small":
+        {
+            "en_US": "<#9794FF>sᴍᴀʟʟ",
+            "de_DE": "<#9794FF>ᴋʟᴇɪɴ"
         }
     }
 }
