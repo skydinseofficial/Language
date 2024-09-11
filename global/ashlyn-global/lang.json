@@ -131,6 +131,16 @@
         {
             "en_US": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Players: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Rounds: &a[rounds]'>",
             "de_DE": "<+tip:'&7Players ingame: &6[playersingame]\n&7Autostart: [autostart]',text:'&8[&6[server]&8] &7Spieler: &e[players]/[maxplayers]'> &8| <+tip:'[roundlist]',text:'&7Runden: &a[rounds]'>"
+        },
+        "MINIGAMEBASICS.bossbar.waitingformoreplayers":
+        {
+            "en_US": "&7Waiting for &6[amount] &7more players...",
+            "de_DE": "&7Warten auf &6[amount] &7weitere Spieler..."
+        },
+        "MINIGAMEBASICS.bossbar.waitingforoneplayer":
+        {
+            "en_US": "&7Waiting for &61 &7more player...",
+            "de_DE": "&7Warten auf &61 &7weiteren Spieler..."
         }
     }
 }
