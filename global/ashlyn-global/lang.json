@@ -141,6 +141,16 @@
         {
             "en_US": "&7Waiting for &61 &7more player...",
             "de_DE": "&7Warten auf &61 &7weiteren Spieler..."
+        },
+        "MINIGAMEBASICS.bossbar.gamestartcountdown.plural":
+        {
+            "en_US": "&7The game starts in &6[amount] seconds&7!",
+            "de_DE": "&7Das Spiel startet in &6[amount] Sekunden&7!"
+        },
+        "MINIGAMEBASICS.bossbar.gamestartcountdown.singular":
+        {
+            "en_US": "&7The game starts in &61 second&7!",
+            "de_DE": "&7Das Spiel startet in &61 Sekunde&7!"
         }
     }
 }
