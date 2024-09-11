@@ -644,6 +644,20 @@
             "en_GB": "Previous Page",
             "en_XX": "Previous Page",
             "de_DE": "Vorherige Seite"
+        },
+        "WORD.players":
+        {
+            "en_US": "Players",
+            "en_GB": "Players",
+            "en_XX": "Players",
+            "de_DE": "Spieler"
+        },
+        "WORD.map":
+        {
+            "en_US": "Map",
+            "en_GB": "Map",
+            "en_XX": "Map",
+            "de_DE": "Karte"
         }
     }
 }
