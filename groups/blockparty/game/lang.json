@@ -1,1 +1,11 @@
-
+{
+    "system": "blockparty",
+    "translations":
+    {
+        "WORD.song":
+        {
+            "en_US": "Song",
+            "de_DE": "Lied"
+        }
+    }
+}
