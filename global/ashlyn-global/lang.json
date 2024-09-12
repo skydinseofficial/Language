@@ -159,8 +159,8 @@
         },
         "MINIGAMEBASICS.gui.mapvoting.title":
         {
-            "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
-            "de_DE": "&7Karte: &6[map] &8| &7Start in: &6[countdown]"
+            "en_US": "Map Voting",
+            "de_DE": "Map Voting"
         },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
