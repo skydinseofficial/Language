@@ -151,6 +151,11 @@
         {
             "en_US": "&7The game starts in &61 second&7!",
             "de_DE": "&7Das Spiel startet in &61 Sekunde&7!"
+        },
+        "MINIGAMEBASICS.title.mapandcountdown":
+        {
+            "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
+            "de_DE": "&7Karte: &6[map] &8| &7Start in: &6[countdown]"
         }
     }
 }
