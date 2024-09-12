@@ -7,6 +7,11 @@
             "en_US": "&cLeave Game",
             "de_DE": "&cSpiel verlassen"
         },
+        "SERVER.ashlyn.item.mapvoting":
+        {
+            "en_US": "&6Map Voting",
+            "de_DE": "&6Kartenabstimmung"
+        },
         "SERVER.ashlyn.item.joinnew":
         {
             "en_US": "&cFind new Game",
@@ -160,7 +165,7 @@
         "MINIGAMEBASICS.gui.mapvoting.title":
         {
             "en_US": "Map Voting",
-            "de_DE": "Map Voting"
+            "de_DE": "Kartenabstimmung"
         },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
