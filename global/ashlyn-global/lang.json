@@ -156,6 +156,21 @@
         {
             "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
             "de_DE": "&7Karte: &6[map] &8| &7Start in: &6[countdown]"
+        },
+        "MINIGAMEBASICS.gui.mapvoting.title":
+        {
+            "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
+            "de_DE": "&7Karte: &6[map] &8| &7Start in: &6[countdown]"
+        },
+        "MINIGAMEBASICS.gui.mapvoting.click2vote":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to vote",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Abstimmen"
+        },
+        "MINIGAMEBASICS.gui.mapvoting.votes":
+        {
+            "en_US": "&7Votes: &a[votes]",
+            "de_DE": "&7Votes: &a[votes]"
         }
     }
 }
