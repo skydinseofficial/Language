@@ -251,6 +251,11 @@
         {
             "en_US": "&cPause Countdown",
             "de_DE": "&cCountdown pausieren"
+        },
+        "MINIGAMEBASICS.item.instantstart":
+        {
+            "en_US": "&x&0&0&B&E&A&AINSTANT START",
+            "de_DE": "&x&0&0&B&E&A&AINSTANT START"
         }
     }
 }
