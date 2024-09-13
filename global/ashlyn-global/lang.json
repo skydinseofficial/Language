@@ -247,6 +247,11 @@
             "en_US": "&aContinue Countdown &7(Paused by &e[player]&7)",
             "de_DE": "&aCountdown fortsetzen &7(Pausiert von &e[player]&7)"
         },
+        "MINIGAMEBASICS.item.countdown.start":
+        {
+            "en_US": "&aStart Countdown",
+            "de_DE": "&aCountdown starten"
+        },
         "MINIGAMEBASICS.item.countdown.pause":
         {
             "en_US": "&cPause Countdown",
