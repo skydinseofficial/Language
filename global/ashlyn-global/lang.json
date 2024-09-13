@@ -261,6 +261,21 @@
         {
             "en_US": "&cSkip Countdown",
             "de_DE": "&cCountdown überspringen"
+        },
+        "MINIGAMEBASICS.item.skip.error.paused":
+        {
+            "en_US": "&cThe countdown is currently paused!",
+            "de_DE": "&cDer Countdown ist derzeit pausiert!"
+        },
+        "MINIGAMEBASICS.item.skip.error.countdownhasnotstarted":
+        {
+            "en_US": "&cThe countdown hasn't startet now!",
+            "de_DE": "&cDer Countdown ist noch nicht gestartet!"
+        },
+        "MINIGAMEBASICS.item.skip.error.higherrankneeded":
+        {
+            "en_US": "&cYou need a higher rank for this feature.",
+            "de_DE": "&cFür diese Funktion benötigst du einen höheren Rang."
         }
     }
 }
