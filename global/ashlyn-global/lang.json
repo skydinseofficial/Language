@@ -241,6 +241,16 @@
         {
             "en_US": "&7The game is starting...",
             "de_DE": "&7Das Spiel startet..."
+        },
+        "MINIGAMEBASICS.item.countdown.continue":
+        {
+            "en_US": "&aContinue Countdown &7(Paused by &e[player]&7)",
+            "de_DE": "&aCountdown fortsetzen &7(Pausiert von &e[player]&7)"
+        },
+        "MINIGAMEBASICS.item.countdown.pause":
+        {
+            "en_US": "&cPause Countdown",
+            "de_DE": "&cCountdown pausieren"
         }
     }
 }
