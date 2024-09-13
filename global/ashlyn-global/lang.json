@@ -181,6 +181,41 @@
         {
             "en_US": "&7Votes: &a[votes]",
             "de_DE": "&7Votes: &a[votes]"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.result.votingended":
+        {
+            "en_US": "&7The Map Voting has ended!",
+            "de_DE": "&7Die Kartenabstimmung wurde beendet!"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.result.winneris":
+        {
+            "en_US": "&7The Winner is:",
+            "de_DE": "&7Der Gewinner ist:"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.result.map":
+        {
+            "en_US": "&7Map: &6[map]",
+            "de_DE": "&7Karte: &6[map]"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.result.builder":
+        {
+            "en_US": "&7Builder: &x&F&F&D&2&0&0[builder]",
+            "de_DE": "&7Erbauer: &x&F&F&D&2&0&0[builder]"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.result.votes":
+        {
+            "en_US": "&7Votes: &a[votes]",
+            "de_DE": "&7Stimmen: &a[votes]"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.builder.skydinsebuilderteam":
+        {
+            "en_US": "Skydinse Builder Team",
+            "de_DE": "Skydinse Bauteam"
+        },
+        "MINIGAMEBASICS.msg.mapvoting.winner.random":
+        {
+            "en_US": "Winner selected at random",
+            "de_DE": "Gewinner durch Zufall auserwählt"
         }
     }
 }
