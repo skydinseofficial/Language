@@ -12,6 +12,11 @@
             "en_US": "&cYou need at least the &r[rank]&7-Rank &cto use this feature!",
             "de_DE": "&cDu benötigst mindestens den &r[rank]&7-Rang&c, um diese Funktion zu nutzen!"
         },
+        "MSG.featurelocked.arealocked":
+        {
+            "en_US": "&cPremium features are not allowed in this area.",
+            "de_DE": "&cPremium-Features sind in diesem Bereich nicht erlaubt."
+        },
         "MSG.datanotloaded":
         {
             "en_US": "&cYour data is not loaded yet!",
