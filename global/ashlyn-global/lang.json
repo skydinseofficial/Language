@@ -216,6 +216,31 @@
         {
             "en_US": "Winner selected at random",
             "de_DE": "Gewinner durch Zufall auserwählt"
+        },
+        "MINIGAMEBASICS.msg.countdown.startin":
+        {
+            "en_US": "&7The game starts in &x&F&F&D&2&0&0[sec] seconds&7.",
+            "de_DE": "&7Das Spiel startet in &x&F&F&D&2&0&0[sec] Sekunden&7."
+        },
+        "MINIGAMEBASICS.msg.countdown.shortened":
+        {
+            "en_US": "&7The countdown has been shortened!",
+            "de_DE": "&7Der Countdown wurde verkürzt!"
+        },
+        "MINIGAMEBASICS.msg.countdown.canceled":
+        {
+            "en_US": "&cThe countdown has been canceled! &7(Not enough players)",
+            "de_DE": "&cDer Countdown wurde abgebrochen! &7(Not enough players)"
+        },
+        "MINIGAMEBASICS.msg.countdown.paused":
+        {
+            "en_US": "&cThe countdown has been paused!",
+            "de_DE": "&cDer Countdown wurde pausiert!"
+        },
+        "MINIGAMEBASICS.msg.countdown.startinggame":
+        {
+            "en_US": "&7The game is starting...",
+            "de_DE": "&7Das Spiel startet..."
         }
     }
 }
