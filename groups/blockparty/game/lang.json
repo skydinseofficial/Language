@@ -6,6 +6,11 @@
         {
             "en_US": "Song",
             "de_DE": "Lied"
+        },
+        "SONGVOTING.gui.title":
+        {
+            "en_US": "Song Voting",
+            "de_DE": "Lied Abstimmung"
         }
     }
 }
