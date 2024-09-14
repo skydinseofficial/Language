@@ -5,17 +5,22 @@
         "WORD.song":
         {
             "en_US": "Song",
-            "de_DE": "Lied"
+            "de_DE": "Song"
         },
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
-            "de_DE": "Lied Abstimmung"
+            "de_DE": "Song-Voting"
         },
         "ITEM.songvoting":
         {
             "en_US": "<#FF003F>Song Voting",
-            "de_DE": "<#FF003F>Lied Abstimmung"
+            "de_DE": "<#FF003F>Song-Voting"
+        },
+        "MSG.songvoting.announcewinner":
+        {
+            "en_US": "&7The song [song] &7has won the song voting!",
+            "de_DE": "&7Das Lied [song] &7hat das Song-Voting gewonnen!"
         }
     }
 }
