@@ -7,6 +7,21 @@
             "en_US": "Song",
             "de_DE": "Song"
         },
+        "WORD.searchtime":
+        {
+            "en_US": "Search Time",
+            "de_DE": "Suchzeit"
+        },
+        "WORD.seconds":
+        {
+            "en_US": "Seconds",
+            "de_DE": "Sekunden"
+        },
+        "WORD.second":
+        {
+            "en_US": "Second",
+            "de_DE": "Sekunde"
+        },
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
