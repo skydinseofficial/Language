@@ -12,6 +12,11 @@
             "en_US": "Search Time",
             "de_DE": "Suchzeit"
         },
+        "WORD.round":
+        {
+            "en_US": "Round",
+            "de_DE": "Runde"
+        },
         "WORD.seconds":
         {
             "en_US": "Seconds",
