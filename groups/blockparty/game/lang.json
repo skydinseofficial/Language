@@ -27,82 +27,82 @@
             "en_US": "Second",
             "de_DE": "Sekunde"
         },
-        "WORD.red-concrete":
+        "WORD.red_concrete":
         {
             "en_US": "RED",
             "de_DE": "ROT"
         },
-        "WORD.black-concrete":
+        "WORD.black_concrete":
         {
             "en_US": "BLACK",
             "de_DE": "SCHWARZ"
         },
-        "WORD.green-concrete":
+        "WORD.green_concrete":
         {
             "en_US": "GREEN",
             "de_DE": "GRÜN"
         },
-        "WORD.brown-concrete":
+        "WORD.brown_concrete":
         {
             "en_US": "BROWN",
             "de_DE": "BRAUN"
         },
-        "WORD.blue-concrete":
+        "WORD.blue_concrete":
         {
             "en_US": "BLUE",
             "de_DE": "BLAU"
         },
-        "WORD.purple-concrete":
+        "WORD.purple_concrete":
         {
             "en_US": "PURPLE",
             "de_DE": "LILA"
         },
-        "WORD.cyan-concrete":
+        "WORD.cyan_concrete":
         {
             "en_US": "CYAN",
             "de_DE": "TÜRKIS"
         },
-        "WORD.light-gray-concrete":
+        "WORD.light_gray_concrete":
         {
             "en_US": "LIGHT GRAY",
             "de_DE": "HELL GRAU"
         },
-        "WORD.gray-concrete":
+        "WORD.gray_concrete":
         {
             "en_US": "GRAY",
             "de_DE": "GRAU"
         },
-        "WORD.pink-concrete":
+        "WORD.pink_concrete":
         {
             "en_US": "PINK",
             "de_DE": "PINK"
         },
-        "WORD.lime-concrete":
+        "WORD.lime_concrete":
         {
             "en_US": "LIME",
             "de_DE": "HELL GRÜN"
         },
-        "WORD.yellow-concrete":
+        "WORD.yellow_concrete":
         {
             "en_US": "YELLOW",
             "de_DE": "GELB"
         },
-        "WORD.light-blue-concrete":
+        "WORD.light_blue_concrete":
         {
             "en_US": "LIGHT BLUE",
             "de_DE": "HELL BLAU"
         },
-        "WORD.magenta-concrete":
+        "WORD.magenta_concrete":
         {
             "en_US": "MAGENTA",
             "de_DE": "MAGENTA"
         },
-        "WORD.orange-concrete":
+        "WORD.orange_concrete":
         {
             "en_US": "ORANGE",
             "de_DE": "ORANGE"
         },
-        "WORD.white-concrete":
+        "WORD.white_concrete":
         {
             "en_US": "WHITE",
             "de_DE": "WEIß"
