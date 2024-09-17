@@ -32,6 +32,11 @@
             "en_US": "BLACK",
             "de_DE": "SCHWARZ"
         },
+        "MSG.nextcolor":
+        {
+            "en_US": "&7The next color is [color]&7!",
+            "de_DE": "&7Die nächste Farbe ist [color]&7!"
+        },
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
