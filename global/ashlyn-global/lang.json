@@ -14,8 +14,13 @@
         },
         "SERVER.ashlyn.item.joinnew":
         {
-            "en_US": "&cFind new Game",
-            "de_DE": "&cNeues Spiel suchen"
+            "en_US": "&aFind new Game",
+            "de_DE": "&aNeues Spiel suchen"
+        },
+        "SERVER.ashlyn.item.teleporter":
+        {
+            "en_US": "&6Teleporter",
+            "de_DE": "&6Teleporter"
         },
         "SERVER.ashlyn.join_message":
         {
