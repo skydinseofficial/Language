@@ -194,8 +194,8 @@
         },
         "MINIGAMEBASICS.gui.teleporter.click2teleport":
         {
-            "en_US": "&8» &x&F&9&B&D&3&1Click to revoke",
-            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Zurückziehen"
+            "en_US": "&8» &x&F&9&B&D&3&1Click to teleport",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Teleportieren"
         },
         "MINIGAMEBASICS.gui.mapvoting.votes":
         {
