@@ -192,6 +192,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to revoke",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Zurückziehen"
         },
+        "MINIGAMEBASICS.gui.teleporter.click2teleport":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to revoke",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Zurückziehen"
+        },
         "MINIGAMEBASICS.gui.mapvoting.votes":
         {
             "en_US": "&7Votes: &a[votes]",
