@@ -172,6 +172,11 @@
             "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
             "de_DE": "&7Karte: &6[map] &8| &7Start in: &6[countdown]"
         },
+        "MINIGAMEBASICS.gui.teleporter.title":
+        {
+            "en_US": "Teleporter",
+            "de_DE": "Teleporter"
+        },
         "MINIGAMEBASICS.gui.mapvoting.title":
         {
             "en_US": "Map Voting",
