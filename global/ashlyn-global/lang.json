@@ -202,6 +202,16 @@
             "en_US": "Every Mode",
             "de_DE": "Jeder Modus"
         },
+        "GLOBAL.ashlyngui.game.createcustom":
+        {
+            "en_US": "&x&F&F&0&0&2&ECreate a Custom Round!",
+            "de_DE": "&x&F&F&0&0&2&EErstelle eine Custom Runde!"
+        },
+        "GLOBAL.ashlyngui.game.createcustom.lore.nomodeselected":
+        {
+            "en_US": "&cNo mode selected!%nl%&x&F&F&7&F&7&FFirst, you need to select a mode on the top.",
+            "de_DE": "&cKeine Variante ausgewählt!&x&F&F&7&F&7&FDu musst erst eine Variante oben auswählen."
+        },
         "GLOBAL.ashlyngui.game.mode.lore":
         {
             "en_US": "&7Player Limit per Round: &x&F&F&D&2&0&0[maxplayers]%nl%&7Players online: &a[players]",
