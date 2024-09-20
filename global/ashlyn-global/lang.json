@@ -182,6 +182,11 @@
             "en_US": "[game]",
             "de_DE": "[game]"
         },
+        "GLOBAL.ashlyngui.game.title.modefilter":
+        {
+            "en_US": "[game] » [mode]",
+            "de_DE": "[game] » [mode]"
+        },
         "GLOBAL.ashlyngui.game.mode.lore":
         {
             "en_US": "&7Player Limit per Round: &x&F&F&D&2&0&0[maxplayers]%nl%&7Players online: &a[players]",
