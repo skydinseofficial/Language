@@ -187,6 +187,11 @@
             "en_US": "[game] » [mode]",
             "de_DE": "[game] » [mode]"
         },
+        "GLOBAL.ashlyngui.game.findbest":
+        {
+            "en_US": "&6Find the best Round!",
+            "de_DE": "&6Die beste Runde finden!"
+        },
         "GLOBAL.ashlyngui.game.mode.lore":
         {
             "en_US": "&7Player Limit per Round: &x&F&F&D&2&0&0[maxplayers]%nl%&7Players online: &a[players]",
