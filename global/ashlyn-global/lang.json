@@ -162,6 +162,21 @@
             "en_US": "&7Round started! Connecting...",
             "de_DE": "&7Runde gestartet! Verbinde..."
         },
+        "GLOBAL.ashlyngui.main.title":
+        {
+            "en_US": "Select a Game",
+            "de_DE": "Wähle ein Spiel"
+        },
+        "GLOBAL.ashlyngui.main.game.lore":
+        {
+            "en_US": "&7Register Name: &x&F&F&D&2&0&0[registername]%nl%&7Modes &8(&7[modecount]&8)&7:%nl%",
+            "de_DE": "&7Registername: &x&F&F&D&2&0&0[registername]%nl%&7Modi &8(&7[modecount]&8)&7:%nl%"
+        },
+        "GLOBAL.ashlyngui.main.game.lore.mode":
+        {
+            "en_US": "&7- &x&F&F&D&2&0&0[mode] &8» &7Min &a[msc] Lobbies &8» &7Max [maxplayers] players &8» &7Premium: &e[premium]",
+            "de_DE": "&7- &x&F&F&D&2&0&0[mode] &8» &7Min &a[msc] Lobbys &8» &7Max [maxplayers] Spieler &8» &7Premium: &e[premium]"
+        },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
             "en_US": "&7Waiting for &6[amount] &7more players...",
