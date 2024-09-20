@@ -210,7 +210,7 @@
         "GLOBAL.ashlyngui.game.createcustom.lore.nomodeselected":
         {
             "en_US": "&cNo mode selected!%nl%&x&F&F&7&F&7&FFirst, you need to select a mode on the top.",
-            "de_DE": "&cKeine Variante ausgewählt!&x&F&F&7&F&7&FDu musst erst eine Variante oben auswählen."
+            "de_DE": "&cKeine Variante ausgewählt!%nl%&x&F&F&7&F&7&FDu musst erst eine Variante oben auswählen."
         },
         "GLOBAL.ashlyngui.game.mode.lore":
         {
