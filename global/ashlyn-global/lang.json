@@ -147,6 +147,21 @@
             "en_US": "&cThere is currently no host available!",
             "de_DE": "&cDerzeit ist kein Server verfügbar!"
         },
+        "GLOBAL.customround.waitingforserver":
+        {
+            "en_US": "&7Waiting for server...",
+            "de_DE": "&7Warten auf Server..."
+        },
+        "GLOBAL.customround.serverfound":
+        {
+            "en_US": "&7Found server! Creating round...",
+            "de_DE": "&7Server gefunden! Erstelle Runde..."
+        },
+        "GLOBAL.customround.roundstarted":
+        {
+            "en_US": "&7Round started! Connecting...",
+            "de_DE": "&7Runde gestartet! Verbinde..."
+        },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
             "en_US": "&7Waiting for &6[amount] &7more players...",
