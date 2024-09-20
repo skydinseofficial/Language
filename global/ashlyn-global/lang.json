@@ -177,6 +177,26 @@
             "en_US": "&7- &x&F&F&D&2&0&0[mode] &8» &7Min &a[msc] Lobbies &8» &7Max [maxplayers] players &8» &7Premium: &e[premium]",
             "de_DE": "&7- &x&F&F&D&2&0&0[mode] &8» &7Min &a[msc] Lobbys &8» &7Max [maxplayers] Spieler &8» &7Premium: &e[premium]"
         },
+        "GLOBAL.ashlyngui.game.title":
+        {
+            "en_US": "[game]",
+            "de_DE": "[game]"
+        },
+        "GLOBAL.ashlyngui.game.mode.lore":
+        {
+            "en_US": "&7Player Limit per Round: &x&F&F&D&2&0&0[maxplayers]%nl%&7Players online: &a[players]",
+            "de_DE": "&7Spielerlimit pro Runde: &x&F&F&D&2&0&0[maxplayers]%nl%&7Spieler online: &a[players]"
+        },
+        "GLOBAL.ashlyngui.game.mode.click2select":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Auswählen"
+        },
+        "GLOBAL.ashlyngui.game.mode.click2removefilter":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to remove Filter",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke, um den Filter zu entfernen"
+        },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
             "en_US": "&7Waiting for &6[amount] &7more players...",
