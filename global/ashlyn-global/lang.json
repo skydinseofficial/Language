@@ -169,8 +169,8 @@
         },
         "GLOBAL.ashlyngui.main.game.lore":
         {
-            "en_US": "&7Register Name: &x&F&F&D&2&0&0[registername]%nl%&7Modes &8(&7[modecount]&8)&7:%nl%",
-            "de_DE": "&7Registername: &x&F&F&D&2&0&0[registername]%nl%&7Modi &8(&7[modecount]&8)&7:%nl%"
+            "en_US": "&7Register Name: &x&F&F&D&2&0&0[registername]%nl%&7Players: &a[players]%nl%&7Rounds: &x&F&F&D&2&0&0[rounds]%nl%&7Servers: &x&F&F&D&2&0&0[servers]%nl%&7Modes &8(&7[modecount]&8)&7:%nl%",
+            "de_DE": "&7Registername: &x&F&F&D&2&0&0[registername]%nl%&7Spieler: &a[players]%nl%&7Runden: &x&F&F&D&2&0&0[rounds]%nl%&7Server: &x&F&F&D&2&0&0[servers]%nl%&7Modi &8(&7[modecount]&8)&7:%nl%"
         },
         "GLOBAL.ashlyngui.main.game.lore.mode":
         {
