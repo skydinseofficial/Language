@@ -202,6 +202,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to remove Filter",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke, um den Filter zu entfernen"
         },
+        "GLOBAL.ashlyngui.game.round.lore":
+        {
+            "en_US": "&7Players: &a[players]%nl%&7Mode: &x&F&F&D&2&0&0[mode]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Click to Join",
+            "de_DE": "&7Spieler: &a[players]%nl%&7Modus: &x&F&F&D&2&0&0[mode]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Klicke zum Beitreten"
+        },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
             "en_US": "&7Waiting for &6[amount] &7more players...",
