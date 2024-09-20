@@ -204,8 +204,8 @@
         },
         "GLOBAL.ashlyngui.game.round.lore":
         {
-            "en_US": "&7Players: &a[players]%nl%&7Mode: &x&F&F&D&2&0&0[mode]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Click to Join",
-            "de_DE": "&7Spieler: &a[players]%nl%&7Modus: &x&F&F&D&2&0&0[mode]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Klicke zum Beitreten"
+            "en_US": "&7Players: &a[players]%nl%&7Mode: &x&F&F&D&2&0&0[mode]%nl%&7Map: &x&F&F&D&2&0&0[map]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Click to Join",
+            "de_DE": "&7Spieler: &a[players]%nl%&7Modus: &x&F&F&D&2&0&0[mode]%nl%&7Karte: &x&F&F&D&2&0&0[map]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Klicke zum Beitreten"
         },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
