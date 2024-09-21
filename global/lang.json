@@ -223,6 +223,16 @@
             "en_US": "Hours",
             "de_DE": "Stunden"
         },
+        "FORMAT.time_formatter.word.day":
+        {
+            "en_US": "Day",
+            "de_DE": "Tag"
+        },
+        "FORMAT.time_formatter.word.days":
+        {
+            "en_US": "Days",
+            "de_DE": "Tage"
+        },
         "ERROR.tooltip": {
             "en_US": "&cPlease report this error to a team member immediately!",
             "en_GB": "&cPlease report this error to a team member immediately!",
