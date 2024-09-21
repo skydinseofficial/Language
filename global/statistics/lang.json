@@ -56,6 +56,11 @@
             "en_US": "&cLoading...",
             "de_DE": "&cLaden..."
         },
+        "GUI.stats.extra.onlinetime.title":
+        {
+            "en_US": "&6Online Time:",
+            "de_DE": "&6Onlinezeit:"
+        },
         "GUI.stats.title.general":
         {
             "en_US": "&6General:",
