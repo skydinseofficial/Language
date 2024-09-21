@@ -110,6 +110,31 @@
         {
             "en_US": "Wheat Account Debit",
             "de_DE": "Weizen-Kontobelastung"
+        },
+        "GUI.category.blockparty.xp":
+        {
+            "en_US": "Experience",
+            "de_DE": "Erfahrung"
+        },
+        "GUI.category.blockparty.playedgames":
+        {
+            "en_US": "Games played",
+            "de_DE": "Gespielte Spiele"
+        },
+        "GUI.category.blockparty.wins":
+        {
+            "en_US": "Wins",
+            "de_DE": "Siege"
+        },
+        "GUI.category.blockparty.survivedrounds":
+        {
+            "en_US": "Rounds survived",
+            "de_DE": "Runden überlebt"
+        },
+        "GUI.category.blockparty.powerupscollected":
+        {
+            "en_US": "Powerups collected",
+            "de_DE": "Powerups gesammelt"
         }
     }
 }
