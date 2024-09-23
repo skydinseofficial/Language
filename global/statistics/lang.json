@@ -131,6 +131,16 @@
             "en_US": "Wins",
             "de_DE": "Siege"
         },
+        "GUI.category.blockparty.blooms":
+        {
+            "en_US": "Blooms",
+            "de_DE": "Blüten"
+        },
+        "GUI.category.blockparty.points":
+        {
+            "en_US": "Points",
+            "de_DE": "Punkte"
+        },
         "GUI.category.blockparty.survivedrounds":
         {
             "en_US": "Rounds survived",
