@@ -391,6 +391,21 @@
         {
             "en_US": "&cYou need a higher rank for this feature.",
             "de_DE": "&cFür diese Funktion benötigst du einen höheren Rang."
+        },
+        "MINIGAMEBASICS.stats.statsthisround":
+        {
+            "en_US": "&6&nStatistics of the game:",
+            "de_DE": "&6&nStatistiken der Runde:"
+        },
+        "MINIGAMEBASICS.stats.category.xp":
+        {
+            "en_US": "&x&9&3&F&F&0&0Experience",
+            "de_DE": "&x&9&3&F&F&0&0Erfahrung"
+        },
+        "MINIGAMEBASICS.stats.category.points":
+        {
+            "en_US": "&x&0&0&9&4&F&FPoints",
+            "de_DE": "&x&0&0&9&4&F&FPunkte"
         }
     }
 }
