@@ -352,6 +352,11 @@
             "en_US": "&7The game is starting...",
             "de_DE": "&7Das Spiel startet..."
         },
+        "MINIGAMEBASICS.msg.ingame.playergoteliminated":
+        {
+            "en_US": "&e[player] &7got &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lA&x&d&3&0&0&0&0&lT&x&c&1&0&0&0&0&lE&x&a&f&0&0&0&0&lD&7!",
+            "de_DE": "&e[player] &7wurde &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lI&x&d&3&0&0&0&0&lE&x&c&1&0&0&0&0&lR&x&a&f&0&0&0&0&lT&7!"
+        },
         "MINIGAMEBASICS.item.countdown.continue":
         {
             "en_US": "&aContinue Countdown &7(Paused by &e[player]&7)",
