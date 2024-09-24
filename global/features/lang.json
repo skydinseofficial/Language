@@ -186,6 +186,16 @@
         {
             "en_US": "<#9794FF>sᴍᴀʟʟ",
             "de_DE": "<#9794FF>ᴋʟᴇɪɴ"
-        }
+        },
+        "GUI.feature.armor.title":
+        {
+            "en_US": "<#FF1800>Armor",
+            "de_DE": "<#FF1800>Rüstung"
+        },
+        "GUI.feature.armor.description":
+        {
+            "en_US": "&7No description yet.",
+            "de_DE": "&7Noch keine Beschreibung."
+        },
     }
 }
