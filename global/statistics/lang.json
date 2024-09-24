@@ -71,6 +71,11 @@
             "en_US": "&6Economy:",
             "de_DE": "&6Wirtschaft:"
         },
+        "GUI.stats.title.blooms":
+        {
+            "en_US": "&6Blooms:",
+            "de_DE": "&6Blüten:"
+        },
         "GUI.category.citybuild.money":
         {
             "en_US": "Account Debit (Dollar)",
