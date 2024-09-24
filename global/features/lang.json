@@ -27,6 +27,11 @@
             "en_US": "&cYou need to enter a number between [from] and [to].",
             "de_DE": "&cDu musst eine Nummer zwischen [from] und [to] angeben."
         },
+        "MSG.feature.armor.armorsaved":
+        {
+            "en_US": "&7Your armor has &asuccessfully &7been saved!",
+            "de_DE": "&7Deine Rüstung wurde &aerfolgreich &7gespeichert!"
+        },
         "GUI.featurelocked.rankneeded":
         {
             "en_US": "&cRequired Rank: &f[rank]",
