@@ -28,8 +28,8 @@
         },
         "GUI.main.title":
         {
-            "en_US": "[player]'s Statistics",
-            "de_DE": "[player]s Statistiken"
+            "en_US": "[player] - Statistics",
+            "de_DE": "[player] - Statistiken"
         },
         "GUI.item.timespan.today":
         {
