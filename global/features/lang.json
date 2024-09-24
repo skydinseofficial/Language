@@ -29,7 +29,7 @@
         },
         "MSG.feature.armor.armorsaved":
         {
-            "en_US": "&7Your armor has &asuccessfully &7been saved!",
+            "en_US": "&7Your armor has been &asuccessfully &7saved!",
             "de_DE": "&7Deine Rüstung wurde &aerfolgreich &7gespeichert!"
         },
         "GUI.featurelocked.rankneeded":
