@@ -155,6 +155,21 @@
         {
             "en_US": "Powerups collected",
             "de_DE": "Powerups gesammelt"
+        },
+        "GUI.category.global.blossoms":
+        {
+            "en_US": "Blooms Balance",
+            "de_DE": "Blütenbilanz"
+        },
+        "GUI.category.global.blossomsearned":
+        {
+            "en_US": "Earned Blooms",
+            "de_DE": "Verdiente Blüten"
+        },
+        "GUI.category.global.blossomsmodified":
+        {
+            "en_US": "Extraordinary Changes (Shop, Support)",
+            "de_DE": "Außergewöhnliche Veränderungen (Shop, Support)"
         }
     }
 }
