@@ -12,6 +12,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Auswählen"
         },
+        "GUI.lore.selected":
+        {
+            "en_US": "&8» &x&4&C&F&F&0&0SELECTED",
+            "de_DE": "&8» &x&4&C&F&F&0&0AUSGEWÄHLT"
+        },
         "GUI.categoryselection.title":
         {
             "en_US": "Select a Category",
