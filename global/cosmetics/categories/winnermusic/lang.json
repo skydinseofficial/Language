@@ -4,18 +4,18 @@
     {
         "ITEM.WeAreNumberOne":
         {
-            "en_US": "We Are Number One",
-            "de_DE": "We Are Number One"
+            "en_US": "&6We Are Number One",
+            "de_DE": "&6We Are Number One"
         },
         "ITEM.Heidi":
         {
-            "en_US": "Heidi",
-            "de_DE": "Heidi"
+            "en_US": "&6Heidi",
+            "de_DE": "&6Heidi"
         },
         "ITEM.Megalovania":
         {
-            "en_US": "Megalovania",
-            "de_DE": "Megalovania"
+            "en_US": "&6Megalovania",
+            "de_DE": "&6Megalovania"
         }
     }
 }
