@@ -7,6 +7,11 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "GENERAL.msg.datanotloaded":
+        {
+            "en_US": "&cYour data isn't loaded yet.",
+            "de_DE": "&cDeine Daten sind noch nicht geladen."
+        },
         "GUI.lore.click2select":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
@@ -66,6 +71,16 @@
         {
             "en_US": "&7Choose a song that will be played%nl%&7if you or your team wins.",
             "de_DE": "&7Wähle ein Lied, welches gespielt wird,%nl%&7wenn du oder dein Team gewinnt."
+        },
+        "GUI.category.pet.title":
+        {
+            "en_US": "Pets",
+            "de_DE": "Haustiere"
+        },
+        "GUI.category.pet.description":
+        {
+            "en_US": "&7Get a small or even a large sweet%nl%&7partner.",
+            "de_DE": "&7Schaffe dir einen kleinen oder sogar%nl%&7großen Lebensgefährten an."
         }
     }
 }
