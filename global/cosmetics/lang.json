@@ -22,6 +22,11 @@
             "en_US": "Price: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Discount&8)",
             "de_DE": "Preis: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Rabatt&8)"
         },
+        "GENERAL.msg.purchase.successful":
+        {
+            "en_US": "&7You've successfully purchased &e[item] &8(&6[category]&8) &7for &x&F&F&D&2&0&0[price]&7!",
+            "de_DE": "&7Du hast erfolgreich &e[item] &8(&6[category]&8) &7für &x&F&F&D&2&0&0[price] &7gekauft!"
+        },
         "GUI.lore.click2select":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
