@@ -22,6 +22,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Auswählen"
         },
+        "GUI.lore.click2buy":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to Buy",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Kaufen"
+        },
         "GUI.lore.selected":
         {
             "en_US": "&8» &x&4&C&F&F&0&0SELECTED",
@@ -61,6 +66,21 @@
         {
             "en_US": "&7This item is currently selected.",
             "de_DE": "&7Dieser Gegenstand ist derzeit ausgewählt."
+        },
+        "GUI.category.item.inpossession.lore":
+        {
+            "en_US": "&x&0&0&9&4&F&FIn Possession",
+            "de_DE": "&x&0&0&9&4&F&FIn Besitz"
+        },
+        "GUI.category.item.price.lore":
+        {
+            "en_US": "&7Price: &x&F&F&D&2&0&0[price]",
+            "de_DE": "&7Preis: &x&F&F&D&2&0&0[price]"
+        },
+        "GUI.category.item.cantafford.lore":
+        {
+            "en_US": "&cYou don't have enough Blooms.",
+            "de_DE": "&cDu hast nicht genügend Blüten."
         },
         "GUI.categoryselection.title":
         {
