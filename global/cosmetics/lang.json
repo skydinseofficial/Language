@@ -12,6 +12,11 @@
             "en_US": "&cYour data isn't loaded yet.",
             "de_DE": "&cDeine Daten sind noch nicht geladen."
         },
+        "GENERAL.msg.errorloadingdata":
+        {
+            "en_US": "&cAn error occurred whilst loading your data. &7Please try again.",
+            "de_DE": "&cBeim Laden deiner Daten ist ein Fehler aufgetreten. &7Bitte versuche es erneut."
+        },
         "GUI.lore.click2select":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
