@@ -19,8 +19,8 @@
         },
         "GENERAL.msg.purchase.endprice":
         {
-            "en_US": "Price: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Discount&8)",
-            "de_DE": "Preis: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Rabatt&8)"
+            "en_US": "&7Price: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Discount&8)",
+            "de_DE": "&7Preis: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Rabatt&8)"
         },
         "GENERAL.msg.purchase.successful":
         {
