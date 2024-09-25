@@ -87,6 +87,21 @@
             "en_US": "Select a Category",
             "de_DE": "Wähle eine Kategorie"
         },
+        "GUI.confirmpurchase.title":
+        {
+            "en_US": "Are you sure?",
+            "de_DE": "Bist du dir sicher?"
+        },
+        "GUI.confirmpurchase.item.confirm":
+        {
+            "en_US": "&x&4&C&F&F&0&0&lYES",
+            "de_DE": "&x&4&C&F&F&0&0&lJA"
+        },
+        "GUI.confirmpurchase.item.cancel":
+        {
+            "en_US": "&x&F&F&0&0&0&0NO",
+            "de_DE": "&x&F&F&0&0&0&0NEIN"
+        },
         "GUI.category.winnermusic.title":
         {
             "en_US": "Winner Music",
