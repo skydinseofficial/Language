@@ -17,6 +17,36 @@
             "en_US": "&8» &x&4&C&F&F&0&0SELECTED",
             "de_DE": "&8» &x&4&C&F&F&0&0AUSGEWÄHLT"
         },
+        "GUI.lore.click2disable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to Disable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Deaktivieren"
+        },
+        "GUI.lore.click2enable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to Enable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Aktivieren"
+        },
+        "GUI.category.enabled":
+        {
+            "en_US": "&x&4&C&F&F&0&0ENABLED",
+            "de_DE": "&x&4&C&F&F&0&0AKTIVIERT"
+        },
+        "GUI.category.disabled":
+        {
+            "en_US": "&x&F&F&1&4&0&0DISABLED",
+            "de_DE": "&x&F&F&1&4&0&0DEAKTIVIERT"
+        },
+        "GUI.category.item.nothingselected":
+        {
+            "en_US": "&x&F&F&1&4&0&0Noting selected",
+            "de_DE": "&x&F&F&1&4&0&0Nichts ausgewählt"
+        },
+        "GUI.category.item.nothingselected.lore":
+        {
+            "en_US": "&7Select or buy an item of this%nl%&7category.",
+            "de_DE": "&7Wähle bzw. kaufe einen Gegenstand%nl%&7aus dieser Kategorie."
+        },
         "GUI.categoryselection.title":
         {
             "en_US": "Select a Category",
