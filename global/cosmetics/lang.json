@@ -42,6 +42,11 @@
             "en_US": "&x&F&F&1&4&0&0Noting selected",
             "de_DE": "&x&F&F&1&4&0&0Nichts ausgewählt"
         },
+        "GUI.category.item.currentlyselected":
+        {
+            "en_US": "&7This item is currently selected.",
+            "de_DE": "&7Dieser Gegenstand ist derzeit ausgewählt."
+        },
         "GUI.category.item.nothingselected.lore":
         {
             "en_US": "&7Select or buy an item of this%nl%&7category.",
