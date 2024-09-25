@@ -17,6 +17,11 @@
             "en_US": "&cAn error occurred whilst loading your data. &7Please try again.",
             "de_DE": "&cBeim Laden deiner Daten ist ein Fehler aufgetreten. &7Bitte versuche es erneut."
         },
+        "GENERAL.msg.purchase.endprice":
+        {
+            "en_US": "Price: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Discount&8)",
+            "de_DE": "Preis: &x&F&F&D&2&0&0[price] &8(&x&5&0&F&F&0&0[discount]% &7Rabatt&8)"
+        },
         "GUI.lore.click2select":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
