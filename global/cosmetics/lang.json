@@ -7,6 +7,11 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "GUI.lore.click2select":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to Select",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Auswählen"
+        },
         "GUI.categoryselection.title":
         {
             "en_US": "Select a Category",
