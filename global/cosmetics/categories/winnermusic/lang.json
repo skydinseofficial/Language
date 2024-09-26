@@ -16,6 +16,96 @@
         {
             "en_US": "&6Megalovania",
             "de_DE": "&6Megalovania"
+        },
+        "ITEM.SmellsLikeTeenSpirit":
+        {
+            "en_US": "&6Smells Like Teen Spirit",
+            "de_DE": "&6Smells Like Teen Spirit"
+        },
+        "ITEM.MamaMia":
+        {
+            "en_US": "&6Mama Mia",
+            "de_DE": "&6Mama Mia"
+        },
+        "ITEM.JailhouseRock":
+        {
+            "en_US": "&6Jailhouse Rock",
+            "de_DE": "&6Jailhouse Rock"
+        },
+        "ITEM.ItsMyLife":
+        {
+            "en_US": "&6Its My Life",
+            "de_DE": "&6Its My Life"
+        },
+        "ITEM.EinBettImKornfeld":
+        {
+            "en_US": "&6Ein Bett Im Kornfeld",
+            "de_DE": "&6Ein Bett Im Kornfeld"
+        },
+        "ITEM.DontStopMeNow":
+        {
+            "en_US": "&6Dont Stop Me Now",
+            "de_DE": "&6Dont Stop Me Now"
+        },
+        "ITEM.DJGotUsFallinInLove":
+        {
+            "en_US": "&6DJ Got Us Fallin In Love",
+            "de_DE": "&6DJ Got Us Fallin In Love"
+        },
+        "ITEM.Despacito":
+        {
+            "en_US": "&6Despacito",
+            "de_DE": "&6Despacito"
+        },
+        "ITEM.DancingQueen":
+        {
+            "en_US": "&6Dancing Queen",
+            "de_DE": "&6Dancing Queen"
+        },
+        "ITEM.Waterloo":
+        {
+            "en_US": "&6Waterloo",
+            "de_DE": "&6Waterloo"
+        },
+        "ITEM.CheriCheriLady":
+        {
+            "en_US": "&6Cheri Cheri Lady",
+            "de_DE": "&6Cheri Cheri Lady"
+        },
+        "ITEM.BoomBoomBoomBoom":
+        {
+            "en_US": "&6Boom Boom Boom Boom",
+            "de_DE": "&6Boom Boom Boom Boom"
+        },
+        "ITEM.Beliver":
+        {
+            "en_US": "&6Beliver",
+            "de_DE": "&6Beliver"
+        },
+        "ITEM.BadRomance":
+        {
+            "en_US": "&6Bad Romance",
+            "de_DE": "&6Bad Romance"
+        },
+        "ITEM.AtemlosDurchDieNacht":
+        {
+            "en_US": "&6Atemlos Durch Die Nacht",
+            "de_DE": "&6Atemlos Durch Die Nacht"
+        },
+        "ITEM.Animals":
+        {
+            "en_US": "&6Animals",
+            "de_DE": "&6Animals"
+        },
+        "ITEM.AllAroundTheWorld":
+        {
+            "en_US": "&6All Around The World",
+            "de_DE": "&6All Around The World"
+        },
+        "ITEM.AKindOfMagic":
+        {
+            "en_US": "&6A Kind Of Magic",
+            "de_DE": "&6A Kind Of Magic"
         }
     }
 }
