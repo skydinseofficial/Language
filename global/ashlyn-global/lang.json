@@ -262,6 +262,11 @@
             "en_US": "&e[player] &7has won the game!",
             "de_DE": "&e[player] &7hat das Spiel gewonnen!"
         },
+        "MINIGAMEBASICS.title.playerwonthegame":
+        {
+            "en_US": "&7has won the game!",
+            "de_DE": "&7hat das Spiel gewonnen!"
+        },
         "MINIGAMEBASICS.title.mapandcountdown":
         {
             "en_US": "&7Map: &6[map] &8| &7Start in: &6[countdown]",
