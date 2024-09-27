@@ -12,100 +12,85 @@
             "en_US": "&6Heidi",
             "de_DE": "&6Heidi"
         },
-        "ITEM.Megalovania":
+        "ITEM.AllTheThingsSheSaid":
         {
-            "en_US": "&6Megalovania",
-            "de_DE": "&6Megalovania"
+            "en_US": "&6All The Things She Said",
+            "de_DE": "&6All TheThings She Said"
         },
-        "ITEM.SmellsLikeTeenSpirit":
+        "ITEM.Bridge":
         {
-            "en_US": "&6Smells Like Teen Spirit",
-            "de_DE": "&6Smells Like Teen Spirit"
-        },
-        "ITEM.MamaMia":
-        {
-            "en_US": "&6Mama Mia",
-            "de_DE": "&6Mama Mia"
-        },
-        "ITEM.JailhouseRock":
-        {
-            "en_US": "&6Jailhouse Rock",
-            "de_DE": "&6Jailhouse Rock"
-        },
-        "ITEM.ItsMyLife":
-        {
-            "en_US": "&6Its My Life",
-            "de_DE": "&6Its My Life"
-        },
-        "ITEM.EinBettImKornfeld":
-        {
-            "en_US": "&6Ein Bett Im Kornfeld",
-            "de_DE": "&6Ein Bett Im Kornfeld"
-        },
-        "ITEM.DontStopMeNow":
-        {
-            "en_US": "&6Dont Stop Me Now",
-            "de_DE": "&6Dont Stop Me Now"
-        },
-        "ITEM.DJGotUsFallinInLove":
-        {
-            "en_US": "&6DJ Got Us Fallin In Love",
-            "de_DE": "&6DJ Got Us Fallin In Love"
-        },
-        "ITEM.Despacito":
-        {
-            "en_US": "&6Despacito",
-            "de_DE": "&6Despacito"
-        },
-        "ITEM.DancingQueen":
-        {
-            "en_US": "&6Dancing Queen",
-            "de_DE": "&6Dancing Queen"
-        },
-        "ITEM.Waterloo":
-        {
-            "en_US": "&6Waterloo",
-            "de_DE": "&6Waterloo"
-        },
-        "ITEM.CheriCheriLady":
-        {
-            "en_US": "&6Cheri Cheri Lady",
-            "de_DE": "&6Cheri Cheri Lady"
-        },
-        "ITEM.BoomBoomBoomBoom":
-        {
-            "en_US": "&6Boom Boom Boom Boom",
-            "de_DE": "&6Boom Boom Boom Boom"
-        },
-        "ITEM.Beliver":
-        {
-            "en_US": "&6Beliver",
-            "de_DE": "&6Beliver"
-        },
-        "ITEM.BadRomance":
-        {
-            "en_US": "&6Bad Romance",
-            "de_DE": "&6Bad Romance"
+            "en_US": "&6Bridge",
+            "de_DE": "&6Bridge"
         },
         "ITEM.AtemlosDurchDieNacht":
         {
             "en_US": "&6Atemlos Durch Die Nacht",
             "de_DE": "&6Atemlos Durch Die Nacht"
         },
-        "ITEM.Animals":
+        "ITEM.DragosteaDinTei":
         {
-            "en_US": "&6Animals",
-            "de_DE": "&6Animals"
+            "en_US": "&6Dragostea Din Tei",
+            "de_DE": "&6Dragostea Din Tei"
         },
-        "ITEM.AllAroundTheWorld":
+        "ITEM.Fest":
         {
-            "en_US": "&6All Around The World",
-            "de_DE": "&6All Around The World"
+            "en_US": "&6Fest",
+            "de_DE": "&6Fest"
         },
-        "ITEM.AKindOfMagic":
+        "ITEM.FunkYou":
         {
-            "en_US": "&6A Kind Of Magic",
-            "de_DE": "&6A Kind Of Magic"
+            "en_US": "&6FunkYou",
+            "de_DE": "&6FunkYou"
+        },
+        "ITEM.Levels":
+        {
+            "en_US": "&6Levels",
+            "de_DE": "&6Levels"
+        },
+        "ITEM.NeverGonnaGiveYouUp":
+        {
+            "en_US": "&6Never Gonna Give You Up",
+            "de_DE": "&6Never Gonna Give You Up"
+        },
+        "ITEM.GetReadyForThis":
+        {
+            "en_US": "&6Get Ready For This",
+            "de_DE": "&6Get Ready For This"
+        },
+        "ITEM.TheFinalCountDown":
+        {
+            "en_US": "&6The Final Count Down",
+            "de_DE": "&6The Final Count Down"
+        },
+        "ITEM.Thunder":
+        {
+            "en_US": "&6Thunder",
+            "de_DE": "&6Thunder"
+        },
+        "ITEM.IchWarNochNiemalsInNewYork":
+        {
+            "en_US": "&6Ich War Noch Niemals In New York",
+            "de_DE": "&6Ich War Noch Niemals In New York"
+        },
+        "ITEM.WaterLoo":
+        {
+            "en_US": "&6WaterLoo",
+            "de_DE": "&6WaterLoo"
+        },
+        "ITEM.GriechischerWein":
+        {
+            "en_US": "&6Griechischer Wein",
+            "de_DE": "&6Griechischer Wein"
+        },
+        "ITEM.BarbieGirl":
+        {
+            "en_US": "&6Barbie Girl",
+            "de_DE": "&6Barbie Girl"
+        },
+        "ITEM.WouldntItBeNice":
+        {
+            "en_US": "&6Wouldn't It Be Nice",
+            "de_DE": "&6Wouldn't It Be Nice"
         }
     }
 }
