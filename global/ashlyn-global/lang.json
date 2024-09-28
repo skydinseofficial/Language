@@ -431,6 +431,11 @@
         {
             "en_US": "&x&0&0&9&4&F&FPoints",
             "de_DE": "&x&0&0&9&4&F&FPunkte"
+        },
+        "MINIGAMEBASICS.scoreboard.category.winners":
+        {
+            "en_US": "Winners",
+            "de_DE": "Gewinner"
         }
     }
 }
