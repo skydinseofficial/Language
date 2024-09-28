@@ -292,6 +292,11 @@
             "en_US": "Map Voting",
             "de_DE": "Kartenabstimmung"
         },
+        "MINIGAMEBASICS.gui.teamselector.title":
+        {
+            "en_US": "Select a Team",
+            "de_DE": "Wähle ein Team"
+        },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to vote",
