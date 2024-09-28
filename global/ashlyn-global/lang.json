@@ -12,6 +12,11 @@
             "en_US": "&6Map Voting",
             "de_DE": "&6Kartenabstimmung"
         },
+        "SERVER.ashlyn.item.selectteam":
+        {
+            "en_US": "&6Select Team",
+            "de_DE": "&6Team wählen"
+        },
         "SERVER.ashlyn.item.joinnew":
         {
             "en_US": "&aFind new Game",
