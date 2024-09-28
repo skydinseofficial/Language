@@ -297,6 +297,46 @@
             "en_US": "Select a Team",
             "de_DE": "Wähle ein Team"
         },
+        "MINIGAMEBASICS.teams.team.red":
+        {
+            "en_US": "Team Red",
+            "de_DE": "Team Rot"
+        },
+        "MINIGAMEBASICS.teams.team.blue":
+        {
+            "en_US": "Team Blue",
+            "de_DE": "Team Blau"
+        },
+        "MINIGAMEBASICS.teams.team.yellow":
+        {
+            "en_US": "Team Yellow",
+            "de_DE": "Team Gelb"
+        },
+        "MINIGAMEBASICS.teams.team.green":
+        {
+            "en_US": "Team Green",
+            "de_DE": "Team Grün"
+        },
+        "MINIGAMEBASICS.teams.team.cyan":
+        {
+            "en_US": "Team Cyan",
+            "de_DE": "Team Türkis"
+        },
+        "MINIGAMEBASICS.teams.team.pink":
+        {
+            "en_US": "Team Pink",
+            "de_DE": "Team Pink"
+        },
+        "MINIGAMEBASICS.teams.team.orange":
+        {
+            "en_US": "Team Orange",
+            "de_DE": "Team Orange"
+        },
+        "MINIGAMEBASICS.teams.team.purple":
+        {
+            "en_US": "Team Purple",
+            "de_DE": "Team Violett"
+        },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to vote",
