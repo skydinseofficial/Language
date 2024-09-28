@@ -382,6 +382,11 @@
             "en_US": "&7You are now playing in [team]&7.",
             "de_DE": "&7Du spielst nun in [team]&7."
         },
+        "MINIGAMEBASICS.msg.teams.noteamfoundforparty":
+        {
+            "en_US": "&cCould not find a team for your party...",
+            "de_DE": "&cEs konnte kein Team für deine Party gefunden werden..."
+        },
         "MINIGAMEBASICS.msg.mapvoting.result.votingended":
         {
             "en_US": "&7The Map Voting has ended!",
