@@ -367,6 +367,11 @@
             "en_US": "&7You joined [team]&7!",
             "de_DE": "&7Du hast [team] &7betreten!"
         },
+        "MINIGAMEBASICS.msg.teams.alreadyinteam":
+        {
+            "en_US": "&cYou are alrady in [team]&c!",
+            "de_DE": "&cDu bist bereits in [team]&c!"
+        },
         "MINIGAMEBASICS.msg.mapvoting.result.votingended":
         {
             "en_US": "&7The Map Voting has ended!",
