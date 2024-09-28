@@ -357,6 +357,16 @@
             "en_US": "&7Votes: &a[votes]",
             "de_DE": "&7Votes: &a[votes]"
         },
+        "MINIGAMEBASICS.msg.teams.teamalreadyfull":
+        {
+            "en_US": "[team] &cis already full!",
+            "de_DE": "[team] &cist bereits voll!"
+        },
+        "MINIGAMEBASICS.msg.teams.teamjoined":
+        {
+            "en_US": "&7You joined [team]&7!",
+            "de_DE": "&7Du hast [team] &7betreten!"
+        },
         "MINIGAMEBASICS.msg.mapvoting.result.votingended":
         {
             "en_US": "&7The Map Voting has ended!",
