@@ -46,14 +46,23 @@
             "fr_FR": "<#face05>Cliquez pour utiliser la commande surlignée !\n&7Soyez prudent lorsque vous utilisez des commandes envoyées par d'autres personnes !",
             "tr_TR": "<#face05>Vurgulanan komutu kullanmak için tıklayın!\n&7Lütfen başkaları tarafından size gönderilen komutları kullanırken dikkatli olun!"
         },
-        "FILTER.language":
+        "FILTER.language.marked":
         {
-            "en_US": "&cPlease watch your language! &7Your chat message has been shared with the server team.",
-            "de_DE": "&cBitte achte auf deine Ausdrucksweise! &7Deine Chatnachricht wurde mit dem Serverteam geteilt.",
-            "pt_BR": "&cEi, presta atenção na tua linguagem! &7Tua mensagem foi compartilhada com a equipe do servidor.",
-            "es_ES": "&c¡Oye, cuida tu forma de hablar! &7Tu mensaje fue compartido con el equipo del servidor.",
-            "fr_FR": "&cHé, fais attention à ton langage ! &7Ton message a été partagé avec l’équipe du serveur.",
-            "tr_TR": "&cDikkat et, üslubuna dikkat et! &7Mesajın sunucu ekibiyle paylaşıldı."
+            "en_US": "&cPlease watch your language!",
+            "de_DE": "&cBitte achte auf deine Ausdrucksweise!",
+            "pt_BR": "&cEi, presta atenção na tua linguagem!",
+            "es_ES": "&c¡Oye, cuida tu forma de hablar!",
+            "fr_FR": "&cHé, fais attention à ton langage !",
+            "tr_TR": "&cDikkat et, üslubuna dikkat et!"
+        },
+        "FILTER.language.check":
+        {
+            "en_US": "&7Your chat message will be checked the server team.",
+            "de_DE": "&7Deine Chatnachricht wird vom Serverteam überprüft.",
+            "pt_BR": "&7Tua mensagem está sendo analisada pela equipe do servidor.",
+            "es_ES": "&7Tu mensaje está siendo revisado por el equipo del servidor.",
+            "fr_FR": "&7Ton message est en cours de vérification par l’équipe du serveur.",
+            "tr_TR": "&7Mesajın sunucu ekibi tarafından inceleniyor."
         }
     }
 }
