@@ -7,6 +7,11 @@
             "en_US": "&cLeave Game",
             "de_DE": "&cSpiel verlassen"
         },
+        "SERVER.ashlyn.item.settings":
+        {
+            "en_US": "&6Round Settings",
+            "de_DE": "&6Rundeneinstellungen"
+        },
         "SERVER.ashlyn.item.mapvoting":
         {
             "en_US": "&6Map Voting",
