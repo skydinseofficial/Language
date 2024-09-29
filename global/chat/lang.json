@@ -45,6 +45,15 @@
             "es_ES": "<#face05>Haga clic para utilizar el comando resaltado.\n&7Ten cuidado al utilizar comandos que te envíen otras personas.",
             "fr_FR": "<#face05>Cliquez pour utiliser la commande surlignée !\n&7Soyez prudent lorsque vous utilisez des commandes envoyées par d'autres personnes !",
             "tr_TR": "<#face05>Vurgulanan komutu kullanmak için tıklayın!\n&7Lütfen başkaları tarafından size gönderilen komutları kullanırken dikkatli olun!"
+        },
+        "FILTER.language":
+        {
+            "en_US": "&cPlease watch your language! &7Your chat message has been shared with the server team.",
+            "de_DE": "&cBitte achte auf deine Ausdrucksweise! &7Deine Chatnachricht wurde mit dem Serverteam geteilt.",
+            "pt_BR": "&cEi, presta atenção na tua linguagem! &7Tua mensagem foi compartilhada com a equipe do servidor.",
+            "es_ES": "&c¡Oye, cuida tu forma de hablar! &7Tu mensaje fue compartido con el equipo del servidor.",
+            "fr_FR": "&cHé, fais attention à ton langage ! &7Ton message a été partagé avec l’équipe du serveur.",
+            "tr_TR": "&cDikkat et, üslubuna dikkat et! &7Mesajın sunucu ekibiyle paylaşıldı."
         }
     }
 }
