@@ -347,6 +347,56 @@
             "en_US": "Team Purple",
             "de_DE": "Team Violett"
         },
+        "MINIGAMEBASICS.gui.customsettings.settingvalue":
+        {
+            "en_US": "Value:",
+            "de_DE": "Wert:"
+        },
+        "MINIGAMEBASICS.gui.customsettings.boolean.true":
+        {
+            "en_US": "&aYES",
+            "de_DE": "&aJA"
+        },
+        "MINIGAMEBASICS.gui.customsettings.boolean.false":
+        {
+            "en_US": "&cNO",
+            "de_DE": "&cNEIN"
+        },
+        "MINIGAMEBASICS.gui.customsettings.click2select":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to select",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Auswählen"
+        },
+        "MINIGAMEBASICS.gui.customsettings.click2enable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to enable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Aktivieren"
+        },
+        "MINIGAMEBASICS.gui.customsettings.click2disable":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to enable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Aktivieren"
+        },
+        "MINIGAMEBASICS.gui.customsettings.shiftrightclick2increaseby10":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Shift Right Click: &a+10",
+            "de_DE": "&8» &x&F&9&B&D&3&1Shift und Rechtsklick: &a+ 10"
+        },
+        "MINIGAMEBASICS.gui.customsettings.shiftleftclick2decreaseby10":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Shift Left Click: &c-10",
+            "de_DE": "&8» &x&F&9&B&D&3&1Shift und Linksklick: &c-10"
+        },
+        "MINIGAMEBASICS.gui.customsettings.rightclick2increaseby1":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Right Click: &a+1",
+            "de_DE": "&8» &x&F&9&B&D&3&1Rechtsklick: &a+1"
+        },
+        "MINIGAMEBASICS.gui.customsettings.leftclick2decreaseby1":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Left Click: &c-1",
+            "de_DE": "&8» &x&F&9&B&D&3&1Linksklick: &c-1"
+        },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to vote",
