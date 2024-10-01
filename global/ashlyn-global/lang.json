@@ -374,8 +374,8 @@
         },
         "MINIGAMEBASICS.gui.customsettings.click2disable":
         {
-            "en_US": "&8» &x&F&9&B&D&3&1Click to enable",
-            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Aktivieren"
+            "en_US": "&8» &x&F&9&B&D&3&1Click to disable",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Deaktivieren"
         },
         "MINIGAMEBASICS.gui.customsettings.shiftrightclick2increaseby10":
         {
