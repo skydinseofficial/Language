@@ -407,6 +407,11 @@
             "en_US": "Publicly visible:",
             "de_DE": "Öffentlich sichtbar:"
         },
+        "MINIGAMEBASICS.gui.customsettings.mainsettings.setting.playerlimit":
+        {
+            "en_US": "Player Limit:",
+            "de_DE": "Spielerlimit:"
+        },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Click to vote",
