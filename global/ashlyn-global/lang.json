@@ -397,10 +397,15 @@
             "en_US": "&8» &x&F&9&B&D&3&1Left Click: &c-1",
             "de_DE": "&8» &x&F&9&B&D&3&1Linksklick: &c-1"
         },
-        "MINIGAMEBASICS.gui.customsettings.mainsettingstitle":
+        "MINIGAMEBASICS.gui.customsettings.mainsettings.title":
         {
             "en_US": "General Settings",
             "de_DE": "Allgemeine Einstellungen"
+        },
+        "MINIGAMEBASICS.gui.customsettings.mainsettings.setting.publiclyvisible":
+        {
+            "en_US": "Publicly visible:",
+            "de_DE": "Öffentlich sichtbar:"
         },
         "MINIGAMEBASICS.gui.mapvoting.click2vote":
         {
