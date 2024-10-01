@@ -349,8 +349,8 @@
         },
         "MINIGAMEBASICS.gui.customsettings.settingvalue":
         {
-            "en_US": "Value:",
-            "de_DE": "Wert:"
+            "en_US": "Currently:",
+            "de_DE": "Aktuell:"
         },
         "MINIGAMEBASICS.gui.customsettings.boolean.true":
         {
