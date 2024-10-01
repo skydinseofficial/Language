@@ -242,6 +242,11 @@
             "en_US": "&7Players: [players]%nl%&7Mode: &x&F&F&D&2&0&0[mode]%nl%&7Map: &x&F&F&D&2&0&0[map]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Click to Connect",
             "de_DE": "&7Spieler: [players]%nl%&7Modus: &x&F&F&D&2&0&0[mode]%nl%&7Karte: &x&F&F&D&2&0&0[map]%nl%&7Status: [state]%nl%%nl%&8» &x&F&9&B&D&3&1Klicke zum Verbinden"
         },
+        "GLOBAL.ashlyngui.game.round.privateround":
+        {
+            "en_US": "&x&F&F&0&0&2&Eᴄᴜsᴛᴏᴍ",
+            "de_DE": "&x&F&F&0&0&2&Eᴄᴜsᴛᴏᴍ"
+        },
         "MINIGAMEBASICS.bossbar.waitingformoreplayers":
         {
             "en_US": "&7Waiting for &6[amount] &7more players...",
