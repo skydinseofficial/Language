@@ -141,6 +141,21 @@
         {
             "en_US": "General BlockParty Settings",
             "de_DE": "Allgemeine BlockParty-Einstellungen"
+        },
+        "GUI.customsettings.main.setting.defaultsearchtime":
+        {
+            "en_US": "Time to find the color (Seconds)",
+            "de_DE": "Zeit, um die Farben zu finden (Sekunden)"
+        },
+        "GUI.customsettings.main.setting.timeuntilnextcolor":
+        {
+            "en_US": "Dancing time until next color is selected (Seconds)",
+            "de_DE": "Tanzzeit, bis zur nächsten Farbe (Sekunden)"
+        },
+        "GUI.customsettings.main.setting.roundsuntilreducingsearchtime":
+        {
+            "en_US": "Amount of rounds until search time reduces by 0.2 sec",
+            "de_DE": "Rundenanzahl, bis die Suchzeit um 0,2 Sek. reduziert wird"
         }
     }
 }
