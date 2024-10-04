@@ -28,6 +28,41 @@
         {
             "en_US": "&7You are already registered and have completed the survey. See you on <#FFD84E>October 26th, 2024 &7from <#FFD84E>4 p.m.&7!",
             "de_DE": "&7Du bist bereits angemeldet und hast die Umfrage beendet. Wir sehen uns am <#FFD84E>26.10.2024 &7ab <#FFD84E>16 Uhr&7!"
+        },
+        "MINEATTACK.msg.survey.1":
+        {
+            "en_US": "<#FFC800>Question 1/7: &7Have you ever participated in a <#FFD84E>Skydinse MineAttack &7project?",
+            "de_DE": "<#FFC800>Frage 1/7: &7Warst du schonmal bei einem der <#FFD84E>Skydinse MineAttack &7Projekte dabei?"
+        },
+        "MINEATTACK.msg.survey.2":
+        {
+            "en_US": "<#FFC800>Question 2/7: &7Will you take part in the <#FFD84E>start &7(<#FFD84E>October 26, 2024 &7at <#FFD84E>4 p.m.&7)?",
+            "de_DE": "<#FFC800>Frage 2/7: &7Wirst du am <#FFD84E>Start &7(<#FFD84E>26.10.2024 &7um <#FFD84E>16 Uhr&7) teilnehmen?"
+        },
+        "MINEATTACK.msg.survey.3":
+        {
+            "en_US": "<#FFC800>Question 3/7: &7Du you prefer a specific <#FFD84E>amount of participants&7?",
+            "de_DE": "<#FFC800>Frage 3/7: &7Bevorzugst du lieber eine bestimmte <#FFD84E>Teilnehmerzahl&7?"
+        },
+        "MINEATTACK.msg.survey.4":
+        {
+            "en_US": "<#FFC800>Question 4/7: &7Would you help building a <#FFD84E>shopping district&7?",
+            "de_DE": "<#FFC800>Frage 4/7: &7Würdest du mithelfen, einen <#FFD84E>Shoppingdistrict &7zu bauen?"
+        },
+        "MINEATTACK.msg.survey.5":
+        {
+            "en_US": "<#FFC800>Question 5/7: &7What's your opinion on <#FFD84E>PvP&7?",
+            "de_DE": "<#FFC800>Frage 5/7: &7Was ist deine Meinung zum <#FFD84E>PvP&7?"
+        },
+        "MINEATTACK.msg.survey.6":
+        {
+            "en_US": "<#FFC800>Question 6/7: &7Are you a <#FFD84E>Content Creator&7? And if so, maybe you will also stream <#FFD84E>Skydinse MineAttack V &7or <#FFD84E>produce Videos&7? &7(<#FFD84E>TIPP: &7You can apply for VIP rank on our <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'>&7!)",
+            "de_DE": "<#FFC800>Frage 6/7: &7Bist du ein <#FFD84E>Content Creator&7? Und wenn ja, wirst du vielleicht auch <#FFD84E>Skydinse MineAttack V streamen &7bzw. davon <#FFD84E>Videos produzieren&7? &7(<#FFD84E>TIPP: &7Du kannst dich auf unserem <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7für den VIP-Rang bewerben!)"
+        },
+        "MINEATTACK.msg.survey.7":
+        {
+            "en_US": "<#FFC800>Question 6/7: &7Would you like to <#FFD84E>form a team &7and <#FFD84E>haven't found anyone yet&7? You don't want to miss any <#FFD84E>events &7or <#FFD84E>news&7? Then join our <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7to be a <#FFD84E>part of our community&7!",
+            "de_DE": "<#FFC800>Frage 6/7: &7Möchtest du ein <#FFD84E>Team bilden &7und hast noch niemanden gefunden? Oder möchtest du keine <#FFD84E>Events &7und <#FFD84E>Neuigkeiten &7verpassen? Dann tritt ebenfalls unserem <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7bei und werde <#FFD84E>Teil unserer Community&7!"
         }
     }
 }
