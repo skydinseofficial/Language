@@ -4,8 +4,8 @@
     {
         "GUI.customsettings.main.title":
         {
-            "en_US": "General Murder Mystery Settings",
-            "de_DE": "Allgemeine Murder Mystery-Einstellungen"
+            "en_US": "Settings » Murder Mystery",
+            "de_DE": "Einstellungen » Murder Mystery"
         },
         "GUI.customsettings.main.setting.murdereramount":
         {
