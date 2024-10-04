@@ -1,0 +1,16 @@
+{
+    "system": "murdermystery",
+    "translations":
+    {
+        "GUI.customsettings.main.title":
+        {
+            "en_US": "General Murder Mystery Settings",
+            "de_DE": "Allgemeine Murder Mystery-Einstellungen"
+        },
+        "GUI.customsettings.main.setting.murdereramount":
+        {
+            "en_US": "Amount of Murderers",
+            "de_DE": "Mörder-Anzahl"
+        }
+    }
+}
