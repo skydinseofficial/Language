@@ -16,6 +16,16 @@
         {
             "en_US": "Coin spawn rate (seconds)",
             "de_DE": "Münzen-Spawnrate (Sekunden)"
+        },
+        "GUI.customsettings.main.setting.sheriff-bow-coins":
+        {
+            "en_US": "Coins required to get the One-Shot Zapper (0 to disable)",
+            "de_DE": "Münzen bis zum Ein-Schuss-Zapper (0 zum deaktivieren)"
+        },
+        "GUI.customsettings.main.setting.sheriffamount":
+        {
+            "en_US": "Amound of Sheriffs",
+            "de_DE": "Sheriff-Anzahl"
         }
     }
 }
