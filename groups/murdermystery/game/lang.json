@@ -11,6 +11,11 @@
         {
             "en_US": "Amount of Murderers",
             "de_DE": "Mörder-Anzahl"
+        },
+        "GUI.customsettings.main.setting.coin-spawn-rate":
+        {
+            "en_US": "Coin spawn rate (seconds)",
+            "de_DE": "Münzen-Spawnrate (Sekunden)"
         }
     }
 }
