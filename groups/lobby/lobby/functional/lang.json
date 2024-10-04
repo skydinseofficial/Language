@@ -18,6 +18,11 @@
         {
             "en_US": "&cYour data is already loading!",
             "de_DE": "&cDeine Daten laden bereits!"
+        },
+        "MINEATTACK.msg.youarenowregistered":
+        {
+            "en_US": "&7You are now &aregistered&7!",
+            "de_DE": "&7Du bist nun &aangemeldet&7!"
         }
     }
 }
