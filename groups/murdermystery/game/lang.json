@@ -27,6 +27,11 @@
             "en_US": "Amound of Sheriffs",
             "de_DE": "Sheriff-Anzahl"
         },
+        "GUI.customsettings.main.setting.ingametime":
+        {
+            "en_US": "Game lenght (minutes)",
+            "de_DE": "Spiellänge (Minuten)"
+        },
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
