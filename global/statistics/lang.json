@@ -156,6 +156,26 @@
             "en_US": "Powerups collected",
             "de_DE": "Powerups gesammelt"
         },
+        "GUI.category.murdermystery.kills":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills"
+        },
+        "GUI.category.murdermystery.deaths":
+        {
+            "en_US": "Deaths",
+            "de_DE": "Tode"
+        },
+        "GUI.category.murdermystery.saves":
+        {
+            "en_US": "Murderers killed",
+            "de_DE": "Getötete Mörder"
+        },
+        "GUI.category.murdermystery.coins":
+        {
+            "en_US": "Collected coins",
+            "de_DE": "Gesammelte Münzen"
+        },
         "GUI.category.global.blossoms":
         {
             "en_US": "Blooms Balance",
