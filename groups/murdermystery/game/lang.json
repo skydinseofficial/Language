@@ -34,8 +34,8 @@
         },
         "TEXT.role.INNOCENTS":
         {
-            "en_US": "&aInnocents",
-            "de_DE": "&aUnschuldige"
+            "en_US": "Innocents",
+            "de_DE": "Unschuldige"
         },
         "TEXT.role.SHERIFF":
         {
