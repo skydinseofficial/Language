@@ -26,6 +26,26 @@
         {
             "en_US": "Amound of Sheriffs",
             "de_DE": "Sheriff-Anzahl"
+        },
+        "TEXT.role.INNOCENT":
+        {
+            "en_US": "&aInnocent",
+            "de_DE": "&aUnschuldig"
+        },
+        "TEXT.role.SHERIFF":
+        {
+            "en_US": "&9Sheriff",
+            "de_DE": "&9Sheriff"
+        },
+        "TEXT.role.MURDERER":
+        {
+            "en_US": "&cMurderer",
+            "de_DE": "&cMörder"
+        },
+        "ACTIONBAR.ingame.INNOCENT":
+        {
+            "en_US": "[role]    [xp]    [coins]    [innocents]",
+            "de_DE": "[role]    [xp]    [coins]    [innocents]"
         }
     }
 }
