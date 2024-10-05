@@ -1,0 +1,21 @@
+{
+    "system": "cosmetics-pet",
+    "translations":
+    {
+        "ITEM.Pig":
+        {
+            "en_US": "&6Pig",
+            "de_DE": "&6Schwein"
+        },
+        "ITEM.Sheep":
+        {
+            "en_US": "&6Sheep",
+            "de_DE": "&6Schaf"
+        },
+        "ITEM.Cow":
+        {
+            "en_US": "&6Cow",
+            "de_DE": "&6Kuh"
+        }
+    }
+}
