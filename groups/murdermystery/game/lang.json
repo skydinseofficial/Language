@@ -60,7 +60,7 @@
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
-            "de_DE": "[role]    [xp]    [coins]    𓅍𓅍𓅍𓅍𓅍[innocents]"
+            "de_DE": "[role]    [xp]    [coins]    [innocents]"
         }
     }
 }
