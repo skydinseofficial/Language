@@ -26,6 +26,11 @@
             "de_DE": "&7Spielerdaten Lade-Timeout!",
             "tr_TR": "&7Playerdata load timeout!"
         },
+        "SYSTEM.your_stats":
+        {
+            "en_US": "Your Statistics",
+            "de_DE": "Deine Statistiken"
+        },
         "GUI.main.title":
         {
             "en_US": "[player] - Statistics",
