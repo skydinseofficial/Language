@@ -131,6 +131,11 @@
         {
             "en_US": "&6Allay",
             "de_DE": "&6Allay"
+        },
+        "ITEM.Armadillo":
+        {
+            "en_US": "&6Armadillo",
+            "de_DE": "&6Armadillo"
         }
     }
 }
