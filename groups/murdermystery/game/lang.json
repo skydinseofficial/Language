@@ -32,6 +32,11 @@
             "en_US": "&aInnocent",
             "de_DE": "&aUnschuldig"
         },
+        "TEXT.role.INNOCENTS":
+        {
+            "en_US": "&aInnocents",
+            "de_DE": "&aUnschuldige"
+        },
         "TEXT.role.SHERIFF":
         {
             "en_US": "&9Sheriff",
