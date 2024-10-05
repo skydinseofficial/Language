@@ -73,6 +73,25 @@
         {
             "en_US": "<#FFC800>Question 7/7: &7Would you like to <#FFD84E>form a team &7and <#FFD84E>haven't found anyone yet&7? You don't want to miss any <#FFD84E>events &7or <#FFD84E>news&7? Then join our <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7to be a <#FFD84E>part of our community&7!",
             "de_DE": "<#FFC800>Frage 7/7: &7Möchtest du ein <#FFD84E>Team bilden &7und hast noch niemanden gefunden? Oder möchtest du keine <#FFD84E>Events &7und <#FFD84E>Neuigkeiten &7verpassen? Dann tritt ebenfalls unserem <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7bei und werde <#FFD84E>Teil unserer Community&7!"
+        },
+        "SETTINGS.language.title":
+        {
+            "en_US": "Language",
+            "en_GB": "Language",
+            "en_XX": "Tongue",
+            "de_DE": "Sprache",
+            "de_AT": "Sprache",
+            "de_XX": "Sprāhe",
+            "nl_NL": "Taal",
+            "pt_BR": "Língua",
+            "pt_PT": "Língua",
+            "es_ES": "Idioma",
+            "es_MX": "Idioma",
+            "fr_FR": "Langue",
+            "pl_PL": "Język",
+            "ru_RU": "Язык",
+            "tr_TR": "Dil",
+            "ko_KO": "언어"
         }
     }
 }
