@@ -16,6 +16,121 @@
         {
             "en_US": "&6Cow",
             "de_DE": "&6Kuh"
+        },
+        "ITEM.Chicken":
+        {
+            "en_US": "&6Chicken",
+            "de_DE": "&6Huhn"
+        },
+        "ITEM.Wolf":
+        {
+            "en_US": "&6Wolf",
+            "de_DE": "&6Wolf"
+        },
+        "ITEM.Cat": 
+        {
+            "en_US": "&6Cat",
+            "de_DE": "&6Katze"
+        },
+        "ITEM.Donkey":
+        {
+            "en_US": "&6Donkey",
+            "de_DE": "&6Esel"
+        },
+        "ITEM.Fox":
+        {
+            "en_US": "&6Fox",
+            "de_DE": "&6Fuchs"
+        },
+        "ITEM.Frog":
+        {
+            "en_US": "&6Frog",
+            "de_DE": "&6Frosch"
+        },
+        "ITEM.Goat":
+        {
+            "en_US": "&6Goat",
+            "de_DE": "&6Ziege"
+        },
+        "ITEM.Horse":
+        {
+            "en_US": "&6Horse",
+            "de_DE": "&6Pferd"
+        },
+        "ITEM.Llama":
+        {
+            "en_US": "&6Llama",
+            "de_DE": "&6Lama"
+        },
+        "ITEM.Mooshroom":
+        {
+            "en_US": "&6Mooshroom",
+            "de_DE": "&6Pilzkuh"
+        },
+        "ITEM.Mule":
+        {
+            "en_US": "&6Mule",
+            "de_DE": "&6Maultier"
+        },
+        "ITEM.Ocelot":
+        {
+            "en_US": "&6Ocelot",
+            "de_DE": "&6Ozelot"
+        },
+        "ITEM.Panda":
+        {
+            "en_US": "&6Panda",
+            "de_DE": "&6Panda"
+        },
+        "ITEM.Parrot":
+        {
+            "en_US": "&6Parrot",
+            "de_DE": "&6Papagei"
+        },
+        "ITEM.PolarBear":
+        {
+            "en_US": "&6Polar Bear",
+            "de_DE": "&6Eisbär"
+        },
+        "ITEM.Rabbit":
+        {
+            "en_US": "&6Rabbit",
+            "de_DE": "&6Kaninchen"
+        },
+        "ITEM.Sniffer":
+        {
+            "en_US": "&6Sniffer",
+            "de_DE": "&6Schnüffler"
+        },
+        "ITEM.TraderLlama":
+        {
+            "en_US": "&6Trader Llama",
+            "de_DE": "&6Händlerlama"
+        },
+        "ITEM.Turtle":
+        {
+            "en_US": "&6Turtle",
+            "de_DE": "&6Schildkröte"
+        },
+        "ITEM.Villager":
+        {
+            "en_US": "&6Villager",
+            "de_DE": "&6Dorfbewohner"
+        },
+        "ITEM.WanderingTrader":
+        {
+            "en_US": "&6Wandering Trader",
+            "de_DE": "&6Wandernder Händler"
+        },
+        "ITEM.Axolotl":
+        {
+            "en_US": "&6Axolotl",
+            "de_DE": "&6Axolotl"
+        },
+        "ITEM.Allay":
+        {
+            "en_US": "&6Allay",
+            "de_DE": "&6Allay"
         }
     }
 }
