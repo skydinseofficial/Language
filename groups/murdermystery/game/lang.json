@@ -42,6 +42,16 @@
             "en_US": "&cMurderer",
             "de_DE": "&cMörder"
         },
+        "TEXT.stat.COINS":
+        {
+            "en_US": "Coins",
+            "de_DE": "Münzen"
+        },
+        "TEXT.stat.xp":
+        {
+            "en_US": "XP",
+            "de_DE": "XP"
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
