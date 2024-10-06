@@ -52,6 +52,11 @@
             "en_US": "&cMurderer",
             "de_DE": "&cMörder"
         },
+        "TEXT.role.desc.INNOCENT":
+        {
+            "en_US": "&bTry to survive!",
+            "de_DE": "&bVersuche zu überleben!"
+        },
         "TEXT.stat.COINS":
         {
             "en_US": "Coins",
