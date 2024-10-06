@@ -57,12 +57,17 @@
             "en_US": "&bTry to survive!",
             "de_DE": "&bVersuche zu überleben!"
         },
+        "TEXT.role.plural.INNOCENT":
+        {
+            "en_US": "&aInnocents",
+            "de_DE": "&aUnschuldigen"
+        },
         "TEXT.stat.COINS":
         {
             "en_US": "Coins",
             "de_DE": "Münzen"
         },
-        "TEXT.stat.xp":
+        "TEXT.stat.XP":
         {
             "en_US": "XP",
             "de_DE": "XP"
