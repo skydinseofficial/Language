@@ -135,7 +135,8 @@
         "ITEM.Armadillo":
         {
             "en_US": "&6Armadillo",
-            "de_DE": "&6Armadillo"
+            "de_DE": "&6Armadillo",
+            "en_XX": "&6Armadildo"
         }
     }
 }
