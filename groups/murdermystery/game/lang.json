@@ -57,6 +57,11 @@
             "en_US": "&bTry to survive!",
             "de_DE": "&bVersuche zu überleben!"
         },
+        "TEXT.role.desc.MURDERER":
+        {
+            "en_US": "&6Kill all innocents!",
+            "de_DE": "&6Töte alle Unschuldigen!"
+        },
         "TEXT.role.plural.INNOCENT":
         {
             "en_US": "&aInnocents",
