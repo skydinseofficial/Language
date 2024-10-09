@@ -76,6 +76,16 @@
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
             "de_DE": "[role]    [xp]    [coins]    [innocents]"
+        },
+        "ITEM.ingame.SWORD":
+        {
+            "en_US": "&cKnife",
+            "de_DE": "&cMesser"
+        },
+        "ITEM.ingame.throwable.SWORD":
+        {
+            "en_US": "&6Throwable sword",
+            "de_DE": "&6Wurfschwert"
         }
     }
 }
