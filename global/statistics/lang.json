@@ -181,6 +181,26 @@
             "en_US": "Collected coins",
             "de_DE": "Gesammelte Münzen"
         },
+        "GUI.category.exorcist.humanskilled":
+        {
+            "en_US": "Humans killed",
+            "de_DE": "Menschen getötet"
+        },
+        "GUI.category.exorcist.detonations":
+        {
+            "en_US": "Detonations",
+            "de_DE": "Detonationen"
+        },
+        "GUI.category.exorcist.ghostskilled":
+        {
+            "en_US": "Ghosts killed",
+            "de_DE": "Geister getötet"
+        },
+        "GUI.category.exorcist.bulletsfired":
+        {
+            "en_US": "Thrown snowballs",
+            "de_DE": "Schneebälle geworfen"
+        },
         "GUI.category.global.blossoms":
         {
             "en_US": "Blooms Balance",
