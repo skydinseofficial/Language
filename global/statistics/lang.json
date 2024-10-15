@@ -126,27 +126,27 @@
             "en_US": "Wheat Account Debit",
             "de_DE": "Weizen-Kontobelastung"
         },
-        "GUI.category.blockparty.xp":
+        "GUI.category.minigames.xp":
         {
             "en_US": "Experience",
             "de_DE": "Erfahrung"
         },
-        "GUI.category.blockparty.playedgames":
+        "GUI.category.minigames.playedgames":
         {
             "en_US": "Games played",
             "de_DE": "Gespielte Spiele"
         },
-        "GUI.category.blockparty.wins":
+        "GUI.category.minigames.wins":
         {
             "en_US": "Wins",
             "de_DE": "Siege"
         },
-        "GUI.category.blockparty.blooms":
+        "GUI.category.minigames.blooms":
         {
             "en_US": "Blooms",
             "de_DE": "Blüten"
         },
-        "GUI.category.blockparty.points":
+        "GUI.category.minigames.points":
         {
             "en_US": "Points",
             "de_DE": "Punkte"
