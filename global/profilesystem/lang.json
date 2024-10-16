@@ -149,7 +149,8 @@
         {
             "en_US": "&6Blocked players",
             "de_DE": "&6Blockierte Spieler",
-            "de_XX": "&6Gecancelte leute"
+            "en_XX": "&6Players in gulag",
+            "de_XX": "&6Personen im Gulag"
         },
         "GUI.blockedplayers.lore_1":
         {
@@ -316,13 +317,15 @@
         {
             "en_US": "&cBlock this person",
             "de_DE": "&cDiese Person blockieren",
-            "de_XX": "&cDieses Menschlein sperren"
+            "en_XX": "&cSend this person to gulag",
+            "de_XX": "&cDiese Person ins Gulag senden"
         },
         "GUI.profileother.unblockplayer":
         {
             "en_US": "&aUnblock this person",
             "de_DE": "&aDiese Person entblocken",
-            "de_XX": "&aDieses Menschlein entsperren"
+            "en_XX": "&aRelease this person from gulag"
+            "de_XX": "&aDiese Person aus dem Gulag befreien"
         },
         "GUI.profileother.notblockself":
         {
