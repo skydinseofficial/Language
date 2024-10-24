@@ -117,6 +117,11 @@
             "en_US": "&aAvailable",
             "de_DE": "&aVerfügbar"
         },
+        "actions.claiminfo.status":
+        {
+            "en_US": "Status",
+            "de_DE": "Status"
+        },
         "actions.protectedarea":
         {
             "en_US": "&cYou can't create a claim here! This is currently a claim-free region.",
