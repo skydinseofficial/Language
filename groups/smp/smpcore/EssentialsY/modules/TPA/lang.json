@@ -1,0 +1,50 @@
+{
+    "system": "esy-tpa",
+    "translations":
+    {
+        "MSG.noplayerentered":
+        {
+            "en_US": "&cYou need to enter a playername.",
+            "de_DE": "&cDu musst einen Spielernamen angeben."
+        },
+        "MSG.pendingrequest": {
+            "en_US": "&cYou already have a teleport request in progress! &7This will expire in the next 15 seconds.",
+            "de_DE": "&cDu hast bereits eine laufende Teleportanfrage! &7Diese ist in den nächsten 15 Sekunden abgelaufen."
+        },
+        "MSG.cannotsendtoyourself":
+        {
+            "en_US": "&cYou can't send a TPA to yourself.",
+            "de_DE": "&cDu kannst dir nicht selber keine TPA senden."
+        },
+        "MSG.requestsent":
+        {
+            "en_US": "&7Your teleport request was sent to &6[player]&7. Stop moving!",
+            "de_DE": "&7Deine Teleportanfrage wurde an &6[player] &7geschickt. Nicht mehr bewegen!"
+        },
+        "MSG.playernotonline":
+        {
+            "en_US": "&cThis player is not online!",
+            "de_DE": "&cDieser Spieler ist nicht online!"
+        },
+        "MSG.youaccepted":
+        {
+            "en_US": "&aYou have accepted the teleport request from [player]&a!",
+            "de_DE": "&aDu hast die Teleportanfrage von [player] &aangenommen!"
+        },
+        "MSG.incomingrequest":
+        {
+            "en_US": "[player] &7has sent you a teleport request!",
+            "de_DE": "&7Server: &6[server]"
+        },
+        "MSG.incomingrequest.accept":
+        {
+            "en_US": "<|tip:'&7» Click to accept «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tpaccept [player]]'>",
+            "de_DE": "<|tip:'&7» Klicke zum Akzeptieren «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tpaccept [player]]'>"
+        },
+        "MSG.requestgotaccepted":
+        {
+            "en_US": "&7Your teleport request to &6[player] &7has been &aaccepted&7!",
+            "de_DE": "&7Deine Teleportanfrage an &6[player] &7wurde &aangenommen&7!"
+        }
+    }
+}
