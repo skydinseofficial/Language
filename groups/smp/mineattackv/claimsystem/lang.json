@@ -156,6 +156,11 @@
         {
             "en_US": "&aYour claim has been created successfully! &7This Chunk is now protected.",
             "de_DE": "&aDein Claim wurde erfolgreich erstellt! &7Dieser Chunk wird nun geschützt."
+        },
+        "actions.receivednewchunks":
+        {
+            "en_US": "&aYou received &eVAR1 &aChunks!",
+            "de_DE": "&aDu hast &eVAR1 &aweitere Chunks erhalten!"
         }
     }
 }
