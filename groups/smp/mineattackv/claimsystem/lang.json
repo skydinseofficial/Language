@@ -77,6 +77,46 @@
             "en_US": "Date",
             "de_DE": "Datum"
         },
+        "actions.claim_info":
+        {
+            "en_US": "Claim info",
+            "de_DE": "Claiminfo"
+        },
+        "actions.claiminfo.status.protected":
+        {
+            "en_US": "&cProtected",
+            "de_DE": "&cGeschützt"
+        },
+        "actions.claiminfo.owner":
+        {
+            "en_US": "&7Owner:",
+            "de_DE": "&7Besitzer:"
+        },
+        "actions.claiminfo.claimdate":
+        {
+            "en_US": "&7Claimdate:",
+            "de_DE": "&7Beanspruchungszeitpunkt:"
+        },
+        "actions.claiminfo.trusted.nobody":
+        {
+            "en_US": "&cNobody",
+            "de_DE": "&cNiemand"
+        },
+        "actions.claiminfo.trusted":
+        {
+            "en_US": "&7Trusted:",
+            "de_DE": "&7Vertraute:"
+        },
+        "actions.claiminfo.banned":
+        {
+            "en_US": "&7Banned:",
+            "de_DE": "&7Gebannte:"
+        },
+        "actions.claiminfo.status.unprotected":
+        {
+            "en_US": "&aAvailable",
+            "de_DE": "&aVerfügbar"
+        },
         "actions.protectedarea":
         {
             "en_US": "&cYou can't create a claim here! This is currently a claim-free region.",
@@ -106,6 +146,11 @@
         {
             "en_US": "&cYou can't claim this chunk on this server.",
             "de_DE": "&cDu kannst diesen Chunk nicht auf diesem Server beanspruchen."
+        },
+        "actions.claimcreated":
+        {
+            "en_US": "&aYour claim has been created successfully! &7This Chunk is now protected.",
+            "de_DE": "&aDein Claim wurde erfolgreich erstellt! &7Dieser Chunk wird nun geschützt."
         }
     }
 }
