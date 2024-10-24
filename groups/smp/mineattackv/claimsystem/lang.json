@@ -102,10 +102,10 @@
             "en_US": "&cThis chunk is not claimed!",
             "de_DE": "&cDieser Chunk ist nicht geschützt!"
         },
-        "actions.protectedarea":
+        "actions.wrongserver":
         {
-            "en_US": "&cYou can't create a claim here! This is currently a claim-free region.",
-            "de_DE": "&cDu kannst hier kein Claim erstellen! Dies ist derzeit eine Claim-freie Region."
+            "en_US": "&cYou can't claim this chunk on this server.",
+            "de_DE": "&cDu kannst diesen Chunk nicht auf diesem Server beanspruchen."
         }
     }
 }
