@@ -166,6 +166,21 @@
         {
             "en_US": "&aThis claim has been &cdeleted&a! &7It is not protected anymore.",
             "de_DE": "&aDieses Claim wurde &cgelöscht&a! &7Es ist nun nicht mehr geschützt."
+        },
+        "actions.faultydatabasequery":
+        {
+            "en_US": "&cFaulty database query! &7Please try again.",
+            "de_DE": "&cFehlerhafte Datenbankabfrage! &7Bitte versuche es erneut."
+        },
+        "actions.trust.all.alreadytrusted":
+        {
+            "en_US": "&cThis player is already trusted everywhere!",
+            "de_DE": "&cDieser Spieler ist bereits überall getrustet!"
+        },
+        "actions.untrust.all.nottrusted":
+        {
+            "en_US": "&cThis player is not trusted everywhere!",
+            "de_DE": "&cDieser Spieler ist nicht überall getrustet!"
         }
     }
 }
