@@ -1,0 +1,26 @@
+{
+    "system": "claimsystem",
+    "translations":
+    {
+        "nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "additionalchunks.newland.1":
+        {
+            "en_US": "&x&4&C&F&F&0&0You received new land! &7(&e+ VAR1 Chunks&7)",
+            "de_DE": "&x&4&C&F&F&0&0Du hast neues Land erhalten! &7(&e+ VAR1 Chunks&7)"
+        },
+        "additionalchunks.newland.2":
+        {
+            "en_US": "&7You can now claim and protect up to &6VAR1 chunks&7!",
+            "de_DE": "&7Du kannst jetzt bis zu &6VAR1 Chunks &7beanspruchen und schützen."
+        },
+        "additionalchunks.newland.3":
+        {
+            "en_US": "&7Use &e/claim &7or the golden shovel to claim a chunk.",
+            "de_DE": "&7Nutze &e/claim &7oder die goldene Schaufel, um einen Chunk zu schützen."
+        }
+    }
+}
