@@ -34,7 +34,7 @@
         "MSG.incomingrequest":
         {
             "en_US": "[player] &7has sent you a teleport request!",
-            "de_DE": "[player] &7hat die eine TPA gesendet!"
+            "de_DE": "[player] &7hat dir eine TPA gesendet!"
         },
         "MSG.incomingrequest.accept":
         {
