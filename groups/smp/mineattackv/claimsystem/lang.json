@@ -7,6 +7,16 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "pleasewait":
+        {
+            "en_US": "&cPlease wait a moment!",
+            "de_DE": "&cBitte warte einen Moment!"
+        },
+        "datanotloaded":
+        {
+            "en_US": "&cYour data isn't completely loaded yet!",
+            "de_DE": "&cDeine Daten sind noch nicht vollständig geladen!"
+        },
         "additionalchunks.newland.1":
         {
             "en_US": "&x&4&C&F&F&0&0You received new land! &7(&e+ VAR1 Chunks&7)",
@@ -21,6 +31,81 @@
         {
             "en_US": "&7Use &e/claim &7or the golden shovel to claim a chunk.",
             "de_DE": "&7Nutze &e/claim &7oder die goldene Schaufel, um einen Chunk zu schützen."
+        },
+        "actions.youdonthaveanychunks":
+        {
+            "en_US": "&cYou currently don't have any claimed chunks.",
+            "de_DE": "&cDu hast derzeit keine Chunks geschützt!"
+        },
+        "actions.noclaimedchunks":
+        {
+            "en_US": "&cThis player currently does not have any chunks claimed.",
+            "de_DE": "&cDieser Spieler hat derzeit keine Chunks beansprucht."
+        },
+        "actions.protectedchunksof":
+        {
+            "en_US": "&7Protected chunks of &eVAR1&7:",
+            "de_DE": "&7Geschützte Chunks von &eVAR1&7:"
+        },
+        "actions.world_nether":
+        {
+            "en_US": "Nether",
+            "de_DE": "Nether"
+        },
+        "actions.world_end":
+        {
+            "en_US": "The End",
+            "de_DE": "Das Ende"
+        },
+        "actions.world_overworld":
+        {
+            "en_US": "Oberwelt",
+            "de_DE": "Oberwelt"
+        },
+        "actions.claim_coordinates":
+        {
+            "en_US": "Coordinates",
+            "de_DE": "Koordinaten"
+        },
+        "actions.world":
+        {
+            "en_US": "World",
+            "de_DE": "Welt"
+        },
+        "actions.date":
+        {
+            "en_US": "Date",
+            "de_DE": "Datum"
+        },
+        "actions.protectedarea":
+        {
+            "en_US": "&cYou can't create a claim here! This is currently a claim-free region.",
+            "de_DE": "&cDu kannst hier kein Claim erstellen! Dies ist derzeit eine Claim-freie Region."
+        },
+        "actions.chunkalreadyclaimed":
+        {
+            "en_US": "&cThis chunk is already protected!",
+            "de_DE": "&cDieser Chunk ist bereits geschützt!"
+        },
+        "actions.chunklimitreached":
+        {
+            "en_US": "&cYou cannot claim any more chunks yet! &7Your chunk limit of &eVAR1 &7has been reached. Get levels or contact support to claim more space.",
+            "de_DE": "&cDu kannst noch keine weiteren Chunks beanspruchen! &7Dein Chunk-Limit von &eVAR1 &7wurde erreicht. Erhalte Level oder wende dich an den Support, um mehr Fläche beanspruchen zu können."
+        },
+        "actions.notyourchunk":
+        {
+            "en_US": "&cYou are not the owner of this chunk!",
+            "de_DE": "&cDu bist nicht der Besitzer von diesem Chunk!"
+        },
+        "actions.chunknotclaimed":
+        {
+            "en_US": "&cThis chunk is not claimed!",
+            "de_DE": "&cDieser Chunk ist nicht geschützt!"
+        },
+        "actions.protectedarea":
+        {
+            "en_US": "&cYou can't create a claim here! This is currently a claim-free region.",
+            "de_DE": "&cDu kannst hier kein Claim erstellen! Dies ist derzeit eine Claim-freie Region."
         }
     }
 }
