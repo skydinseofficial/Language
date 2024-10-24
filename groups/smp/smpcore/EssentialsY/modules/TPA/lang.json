@@ -18,8 +18,8 @@
         },
         "MSG.requestsent":
         {
-            "en_US": "&7Your teleport request was sent to &6[player]&7. Stop moving!",
-            "de_DE": "&7Deine Teleportanfrage wurde an &6[player] &7geschickt. Nicht mehr bewegen!"
+            "en_US": "&7You've sent &6[player] a teleport request&7. Stop moving!",
+            "de_DE": "&7Du hast &6[player] &7eine TPA geschickt. Nicht mehr bewegen!"
         },
         "MSG.playernotonline":
         {
