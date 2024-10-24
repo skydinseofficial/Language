@@ -181,6 +181,26 @@
         {
             "en_US": "&cThis player is not trusted everywhere!",
             "de_DE": "&cDieser Spieler ist nicht überall getrustet!"
+        },
+        "actions.trust.all.success":
+        {
+            "en_US": "&eVAR1 &7is now trusted in all your chunks.",
+            "de_DE": "&eVAR1 &7ist nun in allen deinen Chunks vertraut."
+        },
+        "actions.trust.all.successtarget":
+        {
+            "en_US": "&7You are now trusted in all chunks of &eVAR1&7.",
+            "de_DE": "&7Du bist nun in allen Chunks von &eVAR1 &7vertraut."
+        },
+        "actions.untrust.all.success":
+        {
+            "en_US": "&eVAR1 &7is no more trusted everywhere. &7(But maybe in some chunks)",
+            "de_DE": "&eVAR1 &7ist nun nicht mehr in allen Chunks vertraut. &7(Aber vielleicht in manchen Chunks)"
+        },
+        "actions.untrust.all.successtarget":
+        {
+            "en_US": "&7You are not trusted in all chunks of &eVAR2 &7anymore.",
+            "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7vertraut."
         }
     }
 }
