@@ -1,0 +1,16 @@
+{
+    "system": "mineattackv",
+    "translations":
+    {
+        "nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "SERVERLOGIC.bordernear":
+        {
+            "en_US": "&cServer border in [amount] blocks!",
+            "de_DE": "&cServerborder in [amount] Blöcken!"
+        }
+    }
+}
