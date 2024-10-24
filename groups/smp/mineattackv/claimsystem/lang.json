@@ -161,6 +161,11 @@
         {
             "en_US": "&aYou received &eVAR1 &aChunks!",
             "de_DE": "&aDu hast &eVAR1 &aweitere Chunks erhalten!"
+        },
+        "actions.claimdelete.success":
+        {
+            "en_US": "&aThis claim has been &cdeleted&a! &7It is not protected anymore.",
+            "de_DE": "&aDieses Claim wurde &cgelöscht&a! &7Es ist nun nicht mehr geschützt."
         }
     }
 }
