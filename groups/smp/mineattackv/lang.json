@@ -11,6 +11,11 @@
         {
             "en_US": "&cServer border in [amount] blocks!",
             "de_DE": "&cServerborder in [amount] Blöcken!"
+        },
+        "FRACTIONS.title":
+        {
+            "en_US": "Fractions",
+            "de_DE": "Fraktionen"
         }
     }
 }
