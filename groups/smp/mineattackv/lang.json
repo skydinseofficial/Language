@@ -22,6 +22,11 @@
             "en_US": "Factions command:",
             "de_DE": "Fraktionen-Befehl:"
         },
+        "FACTIONS.command.help.list":
+        {
+            "en_US": "List all factions",
+            "de_DE": "Alle Fraktionen auflisten"
+        },
         "FACTIONS.command.help.info":
         {
             "en_US": "Show a faction's or player's details.",
