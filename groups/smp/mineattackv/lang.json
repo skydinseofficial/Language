@@ -81,6 +81,11 @@
         {
             "en_US": "A faction with this ID already exists!",
             "de_DE": "Eine Fraktion mit dieser ID existiert bereits!"
+        },
+        "FRACTIONS.command.create.name_length":
+        {
+            "en_US": "&cThe name you entered is too long! Use a maximum of &s[max] characters &c(excluding color codes)!",
+            "de_DE": "&cDer von dir eingegebene Name ist zu lang! Verwende maximal &s[max] Zeichen &c(ohne Farbcodes)!"
         }
     }
 }
