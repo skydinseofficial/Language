@@ -17,6 +17,16 @@
             "en_US": "&cYour data isn't completely loaded yet!",
             "de_DE": "&cDeine Daten sind noch nicht vollständig geladen!"
         },
+        "invalidinput":
+        {
+            "en_US": "&cInvalid Input!",
+            "de_DE": "&cInvalide Eingabe!"
+        },
+        "faultydatabasequery":
+        {
+            "en_US": "&cFaulty database query! &7Please try again.",
+            "de_DE": "&cFehlerhafte Datenbankabfrage! &7Bitte versuche es erneut."
+        },
         "additionalchunks.newland.1":
         {
             "en_US": "&x&4&C&F&F&0&0You received new land! &7(&e+ VAR1 Chunks&7)",
@@ -166,12 +176,7 @@
         {
             "en_US": "&aThis claim has been &cdeleted&a! &7It is not protected anymore.",
             "de_DE": "&aDieses Claim wurde &cgelöscht&a! &7Es ist nun nicht mehr geschützt."
-        },
-        "actions.faultydatabasequery":
-        {
-            "en_US": "&cFaulty database query! &7Please try again.",
-            "de_DE": "&cFehlerhafte Datenbankabfrage! &7Bitte versuche es erneut."
-        },
+        }
         "actions.trust.all.alreadytrusted":
         {
             "en_US": "&cThis player is already trusted everywhere!",
@@ -201,6 +206,36 @@
         {
             "en_US": "&7You are not trusted in all chunks of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7vertraut."
+        }
+        "actions.trust.only.alreadytrusted":
+        {
+            "en_US": "&cThis player is already trusted on this chunk!",
+            "de_DE": "&cDieser Spieler ist bereits auf diesem Chunk getrustet!"
+        },
+        "actions.untrust.only.nottrusted":
+        {
+            "en_US": "&cThis player is not trusted on this chunk!",
+            "de_DE": "&cDieser Spieler ist nicht auf diesem Chunk getrustet!"
+        },
+        "actions.trust.only.success":
+        {
+            "en_US": "&eVAR1 &7is now trusted in this chunk. (&6VAR2&7)",
+            "de_DE": "&eVAR1 &7ist nun in diesem Chunk vertraut. (&6VAR2&7)"
+        },
+        "actions.trust.only.successtarget":
+        {
+            "en_US": "&7You are now trusted in chunk &6VAR1 &7of &eVAR2&7.",
+            "de_DE": "&7Du bist nun beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
+        },
+        "actions.untrust.only.success":
+        {
+            "en_US": "&eVAR1 &7is no more trusted in this chunk. (&6VAR2&7)",
+            "de_DE": "&eVAR1 &7ist nun nicht mehr in diesem Chunk vertraut. (&6VAR2&7)"
+        },
+        "actions.untrust.only.successtarget":
+        {
+            "en_US": "&7You are not trusted in chunk &6VAR1 &7of &eVAR2 &7anymore.",
+            "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
         },
         "regionhandling.leftareaofplayer":
         {
