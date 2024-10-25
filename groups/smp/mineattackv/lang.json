@@ -29,8 +29,8 @@
         },
         "FRACTIONS.command.help.create":
         {
-            "en_US": "Create a new fraction.",
-            "de_DE": "Eine neue Fraktion erstellen."
+            "en_US": "Create a new fraction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
+            "de_DE": "Eine neue Fraktion erstellen. Wählen eine ID (Kurzname, nur Buchstaben und Unterstriche) und einen Namen (vollständiger Name, Buchstaben, &s<@text:'Farbcodes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, Leerzeichen und Unterstriche)."
         },
         "FRACTIONS.command.help.invite":
         {
