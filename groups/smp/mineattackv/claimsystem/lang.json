@@ -297,6 +297,16 @@
             "en_US": "&7You are not banned in chunk &6VAR1 &7of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7gebannt."
         },
+        "actions.interact.all.success.yes":
+        {
+            "en_US": "&7Everyone can now interact in all your chunks. (Buttons, Doors, Levers)",
+            "de_DE": "&7Jeder kann nun in all deinen Chunks interagieren. (Knöpfe, Türen, Schalter)"
+        },
+        "actions.interact.all.success.no":
+        {
+            "en_US": "&7Nobody can now interact in all your chunks.",
+            "de_DE": "&7Niemand kann nun in all deinen Chunks interagieren."
+        },
         "regionhandling.leftareaofplayer":
         {
             "en_US": "&x&F&F&3&8&3&8Leaving &earea &7of VAR1",
