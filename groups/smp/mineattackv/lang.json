@@ -87,32 +87,32 @@
             "en_US": "&7Members: &e[amount]",
             "de_DE": "&7Mitglieder: &e[amount]"
         },
-        "FACTIONS.command.list.info":
+        "FACTIONS.command.info.info":
         {
             "en_US": "Faction info:",
             "de_DE": "Fraktions-Infos:"
         },
-        "FACTIONS.command.list.name":
+        "FACTIONS.command.info.name":
         {
             "en_US": "Name:",
             "de_DE": "Name:"
         },
-        "FACTIONS.command.list.id":
+        "FACTIONS.command.info.id":
         {
             "en_US": "ID:",
             "de_DE": "ID:"
         },
-        "FACTIONS.command.list.created_at":
+        "FACTIONS.command.info.created_at":
         {
             "en_US": "Created at:",
             "de_DE": "Erstellt am:"
         },
-        "FACTIONS.command.list.created_by":
+        "FACTIONS.command.info.created_by":
         {
             "en_US": "Created by:",
             "de_DE": "Erstellt von:"
         },
-        "FACTIONS.command.list.description":
+        "FACTIONS.command.info.description":
         {
             "en_US": "Description:",
             "de_DE": "Beschreibung:"
