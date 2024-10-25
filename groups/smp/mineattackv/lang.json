@@ -47,10 +47,15 @@
             "en_US": "Invite a player to your faction.",
             "de_DE": "Lade einen Spieler zu deiner Fraktion ein."
         },
-        "FACTIONS.command.help.revoke":
+        "FACTIONS.command.help.accept":
         {
-            "en_US": "Revoke an invitation to your faction.",
-            "de_DE": "Widerrufe eine Einladung zu deiner Fraktion."
+            "en_US": "Accept the invitation to a faction.",
+            "de_DE": "Akzeptiere die Einladung zu einer Fraktion."
+        },
+        "FACTIONS.command.help.decline":
+        {
+            "en_US": "Decline the invitation to a faction.",
+            "de_DE": "Lehne die Einladung zu einer Fraktion ab."
         },
         "FACTIONS.command.help.remove":
         {
