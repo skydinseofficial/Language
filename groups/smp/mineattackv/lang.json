@@ -67,6 +67,31 @@
             "en_US": "Set a description for your faction.",
             "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
         },
+        "FACTIONS.command.list.not_found":
+        {
+            "en_US": "Could not find any factions!",
+            "de_DE": "Es konnten keine Frationen gefunden werden!"
+        },
+        "FACTIONS.command.list.view_details":
+        {
+            "en_US": "view details",
+            "de_DE": "Details ansehen"
+        },
+        "FACTIONS.command.list.member_count":
+        {
+            "en_US": "&7Members: &e[amount]",
+            "de_DE": "&7Mitglieder: &e[amount]"
+        },
+        "FACTIONS.command.info.missing_id":
+        {
+            "en_US": "Please enter the id of a faction!",
+            "de_DE": "Bitte gib die ID einer Fraktion an!"
+        },
+        "FACTIONS.command.info.not_found":
+        {
+            "en_US": "A faction with that id could not be found!",
+            "de_DE": "Eine Fraktion mit dieser ID konnte nicht gefunden werden!"
+        },
         "FACTIONS.command.create.missing_id":
         {
             "en_US": "Please enter an id for your faction!",
