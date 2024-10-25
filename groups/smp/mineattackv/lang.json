@@ -16,6 +16,51 @@
         {
             "en_US": "Fractions",
             "de_DE": "Fraktionen"
+        },
+        "FRACTIONS.command.help.info":
+        {
+            "en_US": "Show a fraction's details.",
+            "de_DE": "Die Details einer Fraktion anzeigen."
+        },
+        "FRACTIONS.command.help.create":
+        {
+            "en_US": "Create a new fraction.",
+            "de_DE": "Eine neue Fraktion erstellen."
+        },
+        "FRACTIONS.command.help.invite":
+        {
+            "en_US": "Invite a player to your fraction.",
+            "de_DE": "Lade einen Spieler zu deiner Fraktion ein."
+        },
+        "FRACTIONS.command.help.revoke":
+        {
+            "en_US": "Revoke an invitation to your fraction.",
+            "de_DE": "Widerrufe eine Einladung zu deiner Fraktion."
+        },
+        "FRACTIONS.command.help.remove":
+        {
+            "en_US": "Remove a player from your fraction.",
+            "de_DE": "Entferne einen Spieler aus deiner Fraktion."
+        },
+        "FRACTIONS.command.help.role":
+        {
+            "en_US": "Set a fraction member's role to member or admin.",
+            "de_DE": "Setze die Rolle eines Fraktionsmitglieds auf Mitglied (Member) oder Admin."
+        },
+        "FRACTIONS.command.help.name":
+        {
+            "en_US": "Change the name of your fraction.",
+            "de_DE": "Ändere den Namen deiner Fraktion."
+        },
+        "FRACTIONS.command.help.dissolve":
+        {
+            "en_US": "Dissolve your fraction.",
+            "de_DE": "Löse deine Fraktion auf."
+        },
+        "FRACTIONS.command.help.description":
+        {
+            "en_US": "Set a description for your fraction.",
+            "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
         }
     }
 }
