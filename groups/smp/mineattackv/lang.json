@@ -87,6 +87,36 @@
             "en_US": "&7Members: &e[amount]",
             "de_DE": "&7Mitglieder: &e[amount]"
         },
+        "FACTIONS.command.list.info":
+        {
+            "en_US": "Faction info:",
+            "de_DE": "Fraktions-Infos:"
+        },
+        "FACTIONS.command.list.name":
+        {
+            "en_US": "Name:",
+            "de_DE": "Name:"
+        },
+        "FACTIONS.command.list.id":
+        {
+            "en_US": "ID:",
+            "de_DE": "ID:"
+        },
+        "FACTIONS.command.list.created_at":
+        {
+            "en_US": "Created at:",
+            "de_DE": "Erstellt am:"
+        },
+        "FACTIONS.command.list.created_by":
+        {
+            "en_US": "Created by:",
+            "de_DE": "Erstellt von:"
+        },
+        "FACTIONS.command.list.description":
+        {
+            "en_US": "Description:",
+            "de_DE": "Beschreibung:"
+        },
         "FACTIONS.command.info.missing_id":
         {
             "en_US": "Please enter the id of a faction!",
