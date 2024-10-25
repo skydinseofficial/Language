@@ -221,6 +221,26 @@
         {
             "en_US": "&cThis region is not accessable right now! &7(Chunk of VAR1&7)",
             "de_DE": "&cDieses Gebiet ist derzeit nicht betretbar! &7(Chunk von VAR1&7)"
+        },
+        "tools.claimtoolalreadyinuse":
+        {
+            "en_US": "&cYou are already using the claimtool. You can see the chunk limits above you.",
+            "de_DE": "&cDu nutzt bereits das Claimtool. Die Chunkbegrenzungen siehst du über dir."
+        },
+        "tools.chunkviewforoneminute":
+        {
+            "en_US": "&7You will now see the chunk limits for 1 minute above you.",
+            "de_DE": "&7Du siehst nun die Chunkbegrenzungen für 1 Minute über dir."
+        },
+        "tools.holdingclaimtool":
+        {
+            "en_US": "&x&F&F&D&8&0&0You're now holding the &nclaimtool&x&F&F&D&8&0&0!",
+            "de_DE": "&x&F&F&D&8&0&0Du hältst nun das &nClaimtool&x&F&F&D&8&0&0!"
+        },
+        "tools.claimtooldesc":
+        {
+            "en_US": "&7Break or click a block to protect the chunk.",
+            "de_DE": "&7Zerstöre oder klicke einen Block, um den Chunk zu schützen."
         }
     }
 }
