@@ -12,94 +12,94 @@
             "en_US": "&cServer border in [amount] blocks!",
             "de_DE": "&cServerborder in [amount] Blöcken!"
         },
-        "FRACTIONS.title":
+        "FACTIONS.title":
         {
-            "en_US": "Fractions",
+            "en_US": "factions",
             "de_DE": "Fraktionen"
         },
-        "FRACTIONS.command.help":
+        "FACTIONS.command.help":
         {
-            "en_US": "Fractions command:",
+            "en_US": "factions command:",
             "de_DE": "Fraktionen-Befehl:"
         },
-        "FRACTIONS.command.help.info":
+        "FACTIONS.command.help.info":
         {
-            "en_US": "Show a fraction's or player's details.",
+            "en_US": "Show a faction's or player's details.",
             "de_DE": "Die Details einer Fraktion oder einer Person anzeigen."
         },
-        "FRACTIONS.command.help.create":
+        "FACTIONS.command.help.create":
         {
-            "en_US": "Create a new fraction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
+            "en_US": "Create a new faction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
             "de_DE": "Eine neue Fraktion erstellen. Wählen eine ID (Kurzname, nur Buchstaben und Unterstriche) und einen Namen (vollständiger Name, Buchstaben, &s<@text:'Farbcodes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, Leerzeichen und Unterstriche)."
         },
-        "FRACTIONS.command.help.invite":
+        "FACTIONS.command.help.invite":
         {
-            "en_US": "Invite a player to your fraction.",
+            "en_US": "Invite a player to your faction.",
             "de_DE": "Lade einen Spieler zu deiner Fraktion ein."
         },
-        "FRACTIONS.command.help.revoke":
+        "FACTIONS.command.help.revoke":
         {
-            "en_US": "Revoke an invitation to your fraction.",
+            "en_US": "Revoke an invitation to your faction.",
             "de_DE": "Widerrufe eine Einladung zu deiner Fraktion."
         },
-        "FRACTIONS.command.help.remove":
+        "FACTIONS.command.help.remove":
         {
-            "en_US": "Remove a player from your fraction.",
+            "en_US": "Remove a player from your faction.",
             "de_DE": "Entferne einen Spieler aus deiner Fraktion."
         },
-        "FRACTIONS.command.help.role":
+        "FACTIONS.command.help.role":
         {
-            "en_US": "Set a fraction member's role to member or admin.",
+            "en_US": "Set a faction member's role to member or admin.",
             "de_DE": "Setze die Rolle eines Fraktionsmitglieds auf Mitglied (Member) oder Admin."
         },
-        "FRACTIONS.command.help.name":
+        "FACTIONS.command.help.name":
         {
-            "en_US": "Change the name of your fraction.",
+            "en_US": "Change the name of your faction.",
             "de_DE": "Ändere den Namen deiner Fraktion."
         },
-        "FRACTIONS.command.help.dissolve":
+        "FACTIONS.command.help.dissolve":
         {
-            "en_US": "Dissolve your fraction.",
+            "en_US": "Dissolve your faction.",
             "de_DE": "Löse deine Fraktion auf."
         },
-        "FRACTIONS.command.help.description":
+        "FACTIONS.command.help.description":
         {
-            "en_US": "Set a description for your fraction.",
+            "en_US": "Set a description for your faction.",
             "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
         },
-        "FRACTIONS.command.create.missing_id":
+        "FACTIONS.command.create.missing_id":
         {
-            "en_US": "Please enter an id for your fraction!",
+            "en_US": "Please enter an id for your faction!",
             "de_DE": "Bitte gib eine ID für deine Fraktion ein!"
         },
-        "FRACTIONS.command.create.missing_name":
+        "FACTIONS.command.create.missing_name":
         {
-            "en_US": "Please enter a name for your fraction!",
+            "en_US": "Please enter a name for your faction!",
             "de_DE": "Bitte gib einen Namen für deine Fraktion ein!"
         },
-        "FRACTIONS.command.create.exists_id":
+        "FACTIONS.command.create.exists_id":
         {
             "en_US": "A faction with this ID already exists!",
             "de_DE": "Eine Fraktion mit dieser ID existiert bereits!"
         },
-        "FRACTIONS.command.create.exists_name":
+        "FACTIONS.command.create.exists_name":
         {
             "en_US": "A faction with exactly this name already exists!",
             "de_DE": "Eine Fraktion mit genau diesem Namen existiert bereits!"
         },
-        "FRACTIONS.command.create.name_length_uncolored":
+        "FACTIONS.command.create.name_length_uncolored":
         {
             "en_US": "&cThe name you entered is too long! Use a maximum of &s[max] characters &c(excluding color codes)!",
             "de_DE": "&cDer von dir eingegebene Name ist zu lang! Verwende maximal &s[max] Zeichen &c(ohne Farbcodes)!"
         },
-        "FRACTIONS.command.create.name_length_total":
+        "FACTIONS.command.create.name_length_total":
         {
             "en_US": "&cThe name you entered has more than 256 characters! Please shorten the name!",
             "de_DE": "&cDer von dir eingegebene Name hat mehr als 256 Zeichen! Bitte kürze den Namen!"
         },
-        "FRACTIONS.command.create.success":
+        "FACTIONS.command.create.success":
         {
-            "en_US": "&aYour fraction named &6[name] &a(&s[id]&a) has been successfully created!",
+            "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         }
     }
