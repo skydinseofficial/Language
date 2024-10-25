@@ -17,6 +17,11 @@
             "en_US": "Fractions",
             "de_DE": "Fraktionen"
         },
+        "FRACTIONS.command.help":
+        {
+            "en_US": "Fractions command:",
+            "de_DE": "Fraktionen-Befehl:"
+        },
         "FRACTIONS.command.help.info":
         {
             "en_US": "Show a fraction's details.",
