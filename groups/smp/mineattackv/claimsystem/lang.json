@@ -346,6 +346,11 @@
         {
             "en_US": "&cYou can not enter your own name!",
             "de_DE": "&cDu kannst nicht deinen eigenen Namen angeben!"
+        },
+        "command.notyourchunk":
+        {
+            "en_US": "&cYou are not the owner of this chunk!",
+            "de_DE": "&cDu bist nicht der Besitzer von diesem Chunk!"
         }
     }
 }
