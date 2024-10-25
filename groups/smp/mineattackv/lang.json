@@ -27,6 +27,11 @@
             "en_US": "Show a faction's or player's details.",
             "de_DE": "Die Details einer Fraktion oder einer Person anzeigen."
         },
+        "FACTIONS.command.help.members":
+        {
+            "en_US": "Show a faction's members.",
+            "de_DE": "Die Mitglieder einer Fraktion anzeigen."
+        },
         "FACTIONS.command.help.create":
         {
             "en_US": "Create a new faction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
