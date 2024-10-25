@@ -91,6 +91,11 @@
         {
             "en_US": "&cThe name you entered is too long! Use a maximum of &s[max] characters &c(excluding color codes)!",
             "de_DE": "&cDer von dir eingegebene Name ist zu lang! Verwende maximal &s[max] Zeichen &c(ohne Farbcodes)!"
+        },
+        "FRACTIONS.command.create.success":
+        {
+            "en_US": "&aYour fraction named &6[name] &a(&s[id]&a) has been successfully created!",
+            "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         }
     }
 }
