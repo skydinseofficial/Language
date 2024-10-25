@@ -236,6 +236,66 @@
         {
             "en_US": "&7You are not trusted in chunk &6VAR1 &7of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
+        }
+        "actions.ban.all.alreadybanned":
+        {
+            "en_US": "&cThis player is already banned everywhere!",
+            "de_DE": "&cDieser Spieler ist bereits überall gebannt!"
+        },
+        "actions.unban.all.notbanned":
+        {
+            "en_US": "&cThis player is not banned everywhere!",
+            "de_DE": "&cDieser Spieler ist nicht überall gebannt!"
+        },
+        "actions.ban.all.success":
+        {
+            "en_US": "&eVAR1 &7is now banned in all your chunks.",
+            "de_DE": "&eVAR1 &7ist nun in allen deinen Chunks gebannt."
+        },
+        "actions.ban.all.successtarget":
+        {
+            "en_US": "&7You are now banned in all chunks of &eVAR1&7.",
+            "de_DE": "&7Du bist nun in allen Chunks von &eVAR1 &7gebannt."
+        },
+        "actions.unban.all.success":
+        {
+            "en_US": "&eVAR1 &7is no more banned everywhere. &7(But maybe in some chunks)",
+            "de_DE": "&eVAR1 &7ist nun nicht mehr in allen Chunks gebannt. &7(Aber vielleicht in manchen Chunks)"
+        },
+        "actions.unban.all.successtarget":
+        {
+            "en_US": "&7You are not banned in all chunks of &eVAR2 &7anymore.",
+            "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7gebannt."
+        }
+        "actions.ban.only.alreadybanned":
+        {
+            "en_US": "&cThis player is already banned in this Chunk!",
+            "de_DE": "&cDieser Spieler ist bereits in diesem Chunk gebannt!"
+        },
+        "actions.unban.only.notbanned":
+        {
+            "en_US": "&cThis player is not banned in this chunk!",
+            "de_DE": "&cDieser Spieler ist nicht in diesem Chunk gebannt!"
+        },
+        "actions.ban.only.success":
+        {
+            "en_US": "&eVAR1 &7is now banned in this chunk. (&6VAR2&7)",
+            "de_DE": "&eVAR1 &7ist nun in diesem Chunk gebannt. (&6VAR2&7)"
+        },
+        "actions.ban.only.successtarget":
+        {
+            "en_US": "&7You are now banned in chunk &6VAR1 &7of &eVAR2&7.",
+            "de_DE": "&7Du bist nun beim Chunk &6VAR1 &7von &eVAR2 &7gebannt."
+        },
+        "actions.unban.only.success":
+        {
+            "en_US": "&eVAR1 &7is no more banned in this chunk. (&6VAR2&7)",
+            "de_DE": "&eVAR1 &7ist nun nicht mehr in diesem Chunk gebannt. (&6VAR2&7)"
+        },
+        "actions.unban.only.successtarget":
+        {
+            "en_US": "&7You are not banned in chunk &6VAR1 &7of &eVAR2 &7anymore.",
+            "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7gebannt."
         },
         "regionhandling.leftareaofplayer":
         {
@@ -281,6 +341,11 @@
         {
             "en_US": "Claim tool",
             "de_DE": "Claimtool"
+        },
+        "command.ownnameentered":
+        {
+            "en_US": "&cYou can not enter your own name!",
+            "de_DE": "&cDu kannst nicht deinen eigenen Namen angeben!"
         }
     }
 }
