@@ -12,6 +12,11 @@
             "en_US": "&cServer border in [amount] blocks!",
             "de_DE": "&cServerborder in [amount] Blöcken!"
         },
+        "SERVERLOGIC.cantinteractnearborder":
+        {
+            "en_US": "&cYou cannot interact with the world near a server border.",
+            "de_DE": "&cDu kannst in der Nähe einer Serverborder nicht mit der Welt interagieren."
+        },
         "FACTIONS.title":
         {
             "en_US": "Factions",
