@@ -9,8 +9,8 @@
         },
         "SERVERLOGIC.bordernear":
         {
-            "en_US": "&cServer border in [amount] blocks!",
-            "de_DE": "&cServerborder in [amount] Blöcken!"
+            "en_US": "Server border in [amount] blocks!",
+            "de_DE": "Serverborder in [amount] Blöcken!"
         },
         "SERVERLOGIC.cantinteractnearborder":
         {
