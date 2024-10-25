@@ -67,6 +67,11 @@
             "en_US": "Set a description for your faction.",
             "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
         },
+        "FACTIONS.command.list.info":
+        {
+            "en_US": "List of all factions:",
+            "de_DE": "Liste aller Fraktionen:"
+        },
         "FACTIONS.command.list.not_found":
         {
             "en_US": "Could not find any factions!",
