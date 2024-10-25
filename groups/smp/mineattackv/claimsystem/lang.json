@@ -241,6 +241,11 @@
         {
             "en_US": "&7Break or click a block to protect the chunk.",
             "de_DE": "&7Zerstöre oder klicke einen Block, um den Chunk zu schützen."
+        },
+        "tools.claim_tool_name":
+        {
+            "en_US": "Claim tool",
+            "de_DE": "Claimtool"
         }
     }
 }
