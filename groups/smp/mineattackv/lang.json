@@ -24,8 +24,8 @@
         },
         "FRACTIONS.command.help.info":
         {
-            "en_US": "Show a fraction's details.",
-            "de_DE": "Die Details einer Fraktion anzeigen."
+            "en_US": "Show a fraction's or player's details.",
+            "de_DE": "Die Details einer Fraktion oder einer Person anzeigen."
         },
         "FRACTIONS.command.help.create":
         {
@@ -66,6 +66,21 @@
         {
             "en_US": "Set a description for your fraction.",
             "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
+        },
+        "FRACTIONS.command.create.missing_id":
+        {
+            "en_US": "Please enter an id for your fraction!",
+            "de_DE": "Bitte gib eine ID für deine Fraktion ein!"
+        },
+        "FRACTIONS.command.create.missing_name":
+        {
+            "en_US": "Please enter a name for your fraction!",
+            "de_DE": "Bitte gib einen Namen für deine Fraktion ein!"
+        },
+        "FRACTIONS.command.create.exists_id":
+        {
+            "en_US": "A faction with this ID already exists!",
+            "de_DE": "Eine Fraktion mit dieser ID existiert bereits!"
         }
     }
 }
