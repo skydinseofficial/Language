@@ -361,6 +361,11 @@
         {
             "en_US": "&cYou are not the owner of this chunk!",
             "de_DE": "&cDu bist nicht der Besitzer von diesem Chunk!"
+        },
+        "command.interact.all.notenteredvalue":
+        {
+            "en_US": "&cYou have to enter &e&nallow&c or &e&ndeny&c.",
+            "de_DE": "&cDu musst entweder &e&nallow&c oder &e&ndeny&c angeben."
         }
     }
 }
