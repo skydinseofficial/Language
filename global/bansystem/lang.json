@@ -37,6 +37,11 @@
             "en_US": "Racist behavior",
             "de_DE": "Rassistisches Verhalten"
         },
+        "REASON.behavior.right_wing_extremist_behavior":
+        {
+            "en_US": "Right-wing extremist behavior",
+            "de_DE": "Rechtsextremes Verhalten"
+        },
         "REASON.behavior.sexism":
         {
             "en_US": "Sexist behavior",
@@ -256,6 +261,11 @@
         {
             "en_US": "Inappropriate structures",
             "de_DE": "Unangebrachte Strukturen"
+        },
+        "REASON.other.exploits":
+        {
+            "en_US": "Exploits",
+            "de_DE": "Exploits"
         },
         "REASON.other.bug_abuse":
         {
