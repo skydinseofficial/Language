@@ -102,6 +102,11 @@
             "en_US": "Please enter a name for your faction!",
             "de_DE": "Bitte gib einen Namen für deine Fraktion ein!"
         },
+        "FACTIONS.command.create.already_in_faction":
+        {
+            "en_US": "You are already in a faction!",
+            "de_DE": "Du bist bereits in einer Fraktion!"
+        },
         "FACTIONS.command.create.exists_id":
         {
             "en_US": "A faction with this ID already exists!",
