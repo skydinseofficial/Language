@@ -99,8 +99,8 @@
         },
         "FACTIONS.command.info.info_member":
         {
-            "en_US": "Member info:",
-            "de_DE": "Member-Infos:"
+            "en_US": "&6Faction of &s[player] &6info:",
+            "de_DE": "&6Fraktion von &s[player] &6Infos:"
         },
         "FACTIONS.command.info.name":
         {
