@@ -92,10 +92,15 @@
             "en_US": "&7Members: &s[amount]",
             "de_DE": "&7Mitglieder: &s[amount]"
         },
-        "FACTIONS.command.info.info":
+        "FACTIONS.command.info.info_faction":
         {
             "en_US": "Faction info:",
             "de_DE": "Fraktions-Infos:"
+        },
+        "FACTIONS.command.info.info_member":
+        {
+            "en_US": "Member info:",
+            "de_DE": "Member-Infos:"
         },
         "FACTIONS.command.info.name":
         {
