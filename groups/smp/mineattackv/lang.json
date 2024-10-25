@@ -87,10 +87,15 @@
             "en_US": "A faction with exactly this name already exists!",
             "de_DE": "Eine Fraktion mit genau diesem Namen existiert bereits!"
         },
-        "FRACTIONS.command.create.name_length":
+        "FRACTIONS.command.create.name_length_uncolored":
         {
             "en_US": "&cThe name you entered is too long! Use a maximum of &s[max] characters &c(excluding color codes)!",
             "de_DE": "&cDer von dir eingegebene Name ist zu lang! Verwende maximal &s[max] Zeichen &c(ohne Farbcodes)!"
+        },
+        "FRACTIONS.command.create.name_length_total":
+        {
+            "en_US": "&cThe name you entered has more than 256 characters! Please shorten the name!",
+            "de_DE": "&cDer von dir eingegebene Name hat mehr als 256 Zeichen! Bitte kürze den Namen!"
         },
         "FRACTIONS.command.create.success":
         {
