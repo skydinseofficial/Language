@@ -84,8 +84,8 @@
         },
         "FACTIONS.command.list.member_count":
         {
-            "en_US": "&7Members: &e[amount]",
-            "de_DE": "&7Mitglieder: &e[amount]"
+            "en_US": "&7Members: &s[amount]",
+            "de_DE": "&7Mitglieder: &s[amount]"
         },
         "FACTIONS.command.info.info":
         {
