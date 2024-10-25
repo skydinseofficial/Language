@@ -201,6 +201,26 @@
         {
             "en_US": "&7You are not trusted in all chunks of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7vertraut."
+        },
+        "regionhandling.leftareaofplayer":
+        {
+            "en_US": "&x&F&F&3&8&3&8Leaving &earea &7of VAR1",
+            "de_DE": "&x&F&F&3&8&3&8Verlasse &eGebiet &7von VAR1"
+        },
+        "regionhandling.joinareaofplayer":
+        {
+            "en_US": "&x&6&C&F&F&2&DEntering &earea &7of VAR1",
+            "de_DE": "&x&6&C&F&F&2&DBetrete &eGebiet &7von VAR1"
+        },
+        "regionhandling.banned":
+        {
+            "en_US": "&cYou are banned from this region! &7(Chunk of VAR1&7)",
+            "de_DE": "&cDu bist von diesem Gebiet gebannt! &7(Chunk von VAR1&7)"
+        },
+        "regionhandling.notaccessable":
+        {
+            "en_US": "&cThis region is not accessable right now! &7(Chunk of VAR1&7)",
+            "de_DE": "&cDieses Gebiet ist derzeit nicht betretbar! &7(Chunk von VAR1&7)"
         }
     }
 }
