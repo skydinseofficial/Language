@@ -137,6 +137,16 @@
             "en_US": "A faction with that id could not be found!",
             "de_DE": "Eine Fraktion mit dieser ID konnte nicht gefunden werden!"
         },
+        "FACTIONS.command.members.info":
+        {
+            "en_US": "Faction members:",
+            "de_DE": "Fraktions-Mitglieder:"
+        },
+        "FACTIONS.command.members.not_found":
+        {
+            "en_US": "A faction with that id could not be found!",
+            "de_DE": "Eine Fraktion mit dieser ID konnte nicht gefunden werden!"
+        },
         "FACTIONS.command.create.missing_id":
         {
             "en_US": "Please enter an id for your faction!",
