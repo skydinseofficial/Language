@@ -201,37 +201,37 @@
             "en_US": "Thrown snowballs",
             "de_DE": "Schneebälle geworfen"
         },
-        "GUI.category.mineattack.deaths":
+        "GUI.category.mineattackv.deaths":
         {
             "en_US": "Deaths",
             "de_DE": "Tode"
         },
-        "GUI.category.mineattack.mobskilled":
+        "GUI.category.mineattackv.mobskilled":
         {
             "en_US": "Mobs killed",
             "de_DE": "Mobs getötet"
         },
-        "GUI.category.mineattack.animalskilled":
+        "GUI.category.mineattackv.animalskilled":
         {
             "en_US": "Animals killed",
             "de_DE": "Tiere getötet"
         },
-        "GUI.category.mineattack.blocksplaced":
+        "GUI.category.mineattackv.blocksplaced":
         {
             "en_US": "Blocks placed",
             "de_DE": "Blöcke platziert"
         },
-        "GUI.category.mineattack.blocksbreaked":
+        "GUI.category.mineattackv.blocksbreaked":
         {
             "en_US": "Blocks destroyed",
             "de_DE": "Blöcke abgebaut"
         },
-        "GUI.category.mineattack.distancemoved":
+        "GUI.category.mineattackv.distancemoved":
         {
             "en_US": "Blocks walked",
             "de_DE": "Blöcke gelaufen"
         },
-        "GUI.category.mineattack.jumps":
+        "GUI.category.mineattackv.jumps":
         {
             "en_US": "Jumps",
             "de_DE": "Sprünge"
