@@ -336,6 +336,41 @@
         {
             "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
+        },
+        "FACTIONS.command.invite.success":
+        {
+            "en_US": "&aYou invited &e[player] &ato the faction &e[faction]&a!",
+            "de_DE": "&aDu hast &e[player] &ain die Fraktion &e[faction] &aeingeladen!"
+        },
+        "FACTIONS.command.invite.failed":
+        {
+            "en_US": "&cThe invitation of &6[player] &cfailed!",
+            "de_DE": "&cDie Einladung von &6[player] &cist fehlgeschlagen!"
+        },
+        "FACTIONS.command.invite.player_already_invited":
+        {
+            "en_US": "&6[player] &cis already invited to your faction!",
+            "de_DE": "&6[player] &cist bereits in deine Fraktion eingeladen!"
+        },
+        "FACTIONS.command.invite.player_already_in_faction":
+        {
+            "en_US": "&6[player] &cis already a member faction!",
+            "de_DE": "&6[player] &cist bereits ein Mitglied deiner Fraktion!"
+        },
+        "FACTIONS.command.invite.action_no_permission_in_faction":
+        {
+            "en_US": "&cYou do not have the permission to invite other people to your faction!",
+            "de_DE": "&cDu hast nicht die Berechtigung weitere Personen in deine Fraktion einzuladen!"
+        },
+        "FACTIONS.command.invite.you_not_in_faction":
+        {
+            "en_US": "&cYou are not in a faction!",
+            "de_DE": "&cDu bist in keiner Fraktion!"
+        },
+        "FACTIONS.command.invite.missing_player_argument":
+        {
+            "en_US": "&cPlease enter a player name!",
+            "de_DE": "&cBitte gib einen Spielernamen an!"
         }
     }
 }
