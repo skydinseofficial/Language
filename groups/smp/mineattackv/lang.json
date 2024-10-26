@@ -371,6 +371,16 @@
         {
             "en_US": "&cPlease enter a player name!",
             "de_DE": "&cBitte gib einen Spielernamen an!"
+        },
+        "FACTIONS.command.accept.joined_faction":
+        {
+            "en_US": "&aYou have successfully joined the faction &e[faction]&a!",
+            "de_DE": "&aDu bist erfolgreich der Fraktion &e[faction] &abeigetreten!"
+        },
+        "FACTIONS.command.accept.failed":
+        {
+            "en_US": "&cfailed!",
+            "de_DE": "&cfailed!"
         }
     }
 }
