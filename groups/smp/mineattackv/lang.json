@@ -177,6 +177,11 @@
             "en_US": "Remove a player from your faction.",
             "de_DE": "Entferne einen Spieler aus deiner Fraktion."
         },
+        "FACTIONS.command.help.leave":
+        {
+            "en_US": "Leave your faction.",
+            "de_DE": "Verlasse deine Fraktion."
+        },
         "FACTIONS.command.help.role":
         {
             "en_US": "Set a faction member's role to member or admin.",
