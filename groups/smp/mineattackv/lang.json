@@ -82,6 +82,11 @@
             "en_US": "&cThe location could not be identified. Please try again. &7Otherwise try resetting your home and report this error to the team.",
             "de_DE": "&cDie Location konnte nicht identifiziert werden. Bitte versuche es erneut. &7Sonst versuche dein Home neuzusetzen und melde diesen Fehler dem Team."
         },
+        "HOME.homenotset":
+        {
+            "en_US": "&cYou haven't set home &6VAR1&c!",
+            "de_DE": "&cDu hast das Home &6VAR1 &cnicht gesetzt!"
+        },
         "FACTIONS.title":
         {
             "en_US": "Factions",
