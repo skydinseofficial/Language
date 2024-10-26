@@ -72,6 +72,16 @@
             "en_US": "&7Home number &6VAR1 &7has been &cdeleted&7.",
             "de_DE": "&7Home Nummer &6VAR1 &7wurde &cgelöscht&7."
         },
+        "HOME.set":
+        {
+            "en_US": "&7Home number &6VAR1 &7has been &aset&7.",
+            "de_DE": "&7Home Nummer &6VAR1 &7wurde &agesetzt&7."
+        },
+        "HOME.error":
+        {
+            "en_US": "&cThe location could not be identified. Please try again. &7Otherwise try resetting your home and report this error to the team.",
+            "de_DE": "&cDie Location konnte nicht identifiziert werden. Bitte versuche es erneut. &7Sonst versuche dein Home neuzusetzen und melde diesen Fehler dem Team."
+        },
         "FACTIONS.title":
         {
             "en_US": "Factions",
