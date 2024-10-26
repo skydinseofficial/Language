@@ -17,6 +17,46 @@
             "en_US": "&cYou cannot interact with the world near a server border.",
             "de_DE": "&cDu kannst in der Nähe einer Serverborder nicht mit der Welt interagieren."
         },
+        "PVP.atspawn":
+        {
+            "en_US": "&cPvP is disabled at spawn!",
+            "de_DE": "&cPvP ist am Spawn deaktiviert!"
+        },
+        "PVP.hasdisabled":
+        {
+            "en_US": "&6VAR1 &chas currently disabled PvP!",
+            "de_DE": "&6VAR1 &chat PvP derzeit deaktiviert!"
+        },
+        "PVP.yourpvpisdisabled":
+        {
+            "en_US": "&cYour PvP is currently disabled!",
+            "de_DE": "&cDein PvP ist gerade deaktiviert!"
+        },
+        "PVP.enabling":
+        {
+            "en_US": "&7Your &ePvP &7has been &aenabled&7.",
+            "de_DE": "&7Dein &ePvP &7wurde nun &aaktiviert&7."
+        },
+        "PVP.disabling":
+        {
+            "en_US": "&7Your &ePvP &7has been &cdisabled &7for the next &612 hours&7.",
+            "de_DE": "&7Dein &ePvP &7wurde nun für die nächsten &612 Stunden &cdeaktiviert&7."
+        },
+        "PVP.disabling.permanent":
+        {
+            "en_US": "&7Your &ePvP &7has been &cdisabled&7.",
+            "de_DE": "&7Dein &ePvP &7wurde &cdeaktiviert&7."
+        },
+        "PVP.blocked":
+        {
+            "en_US": "&cYou have been blocked from using the PvP-Command!",
+            "de_DE": "&cDu wurdest für die Benutzung des PvP-Befehls gesperrt!"
+        },
+        "PVP.datanotloaded":
+        {
+            "en_US": "&cYour data is not completely loaded!",
+            "de_DE": "&cDeine Daten sind gerade nicht vollständig geladen!"
+        },
         "FACTIONS.title":
         {
             "en_US": "Factions",
