@@ -57,6 +57,21 @@
             "en_US": "&cYour data is not completely loaded!",
             "de_DE": "&cDeine Daten sind gerade nicht vollständig geladen!"
         },
+        "HOME.invalidinput":
+        {
+            "en_US": "&cPlease enter either 1, 2, 3, 4, 5 or 6 as Home!",
+            "de_DE": "&cBitte gebe entweder 1, 2, 3, 4, 5 oder 6 als Home an!"
+        },
+        "HOME.allset":
+        {
+            "en_US": "&cYou have already set all your 6 available homes! Please delete a home first!",
+            "de_DE": "&cDu hast bereits alle 6 deiner Homes gesetzt! Bitte lösche zuerst ein Home!"
+        },
+        "HOME.delete":
+        {
+            "en_US": "&7Home number &6VAR1 &7has been &cdeleted&7.",
+            "de_DE": "&7Home Nummer &6VAR1 &7wurde &cgelöscht&7."
+        },
         "FACTIONS.title":
         {
             "en_US": "Factions",
