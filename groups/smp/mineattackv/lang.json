@@ -7,6 +7,21 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "SCOREBOARD.playersonline":
+        {
+            "en_US": "Online:",
+            "de_DE": "Online:"
+        },
+        "SCOREBOARD.region":
+        {
+            "en_US": "Region:",
+            "de_DE": "Region:"
+        },
+        "SCOREBOARD.start":
+        {
+            "en_US": "Project Start:",
+            "de_DE": "Projektstart:"
+        },
         "SERVERLOGIC.bordernear":
         {
             "en_US": "Server border in [amount] blocks!",
