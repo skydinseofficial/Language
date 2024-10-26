@@ -24,7 +24,7 @@
         },
         "HELP.tipbroadcast.4":
         {
-            "en_US": "&&7Send a &6teleport request &7to someone using &b/tpa <name>&7. This can be accepted with &b/tpaccept <name>&7.",
+            "en_US": "&7Send a &6teleport request &7to someone using &b/tpa <name>&7. This can be accepted with &b/tpaccept <name>&7.",
             "de_DE": "&7Sende mit &b/tpa <name> &7eine &6Teleportanfrage &7zu jemandem. Diese kann mit &b/tpaccept <name> &7akzeptiert werden."
         },
         "HELP.tipbroadcast.5":
