@@ -344,8 +344,8 @@
         },
         "FACTIONS.command.invite.failed":
         {
-            "en_US": "&cThe invitation of &6[player] &cfailed!",
-            "de_DE": "&cDie Einladung von &6[player] &cist fehlgeschlagen!"
+            "en_US": "&cERROR: The invitation of &6[player] &cfailed!",
+            "de_DE": "&cFEHLER: Die Einladung von &6[player] &cist fehlgeschlagen!"
         },
         "FACTIONS.command.invite.player_already_invited":
         {
@@ -374,13 +374,43 @@
         },
         "FACTIONS.command.accept.joined_faction":
         {
-            "en_US": "&aYou have successfully joined the faction &e[faction]&a!",
+            "en_US": "&aYou have successfully joined the faction &e[faction]!",
             "de_DE": "&aDu bist erfolgreich der Fraktion &e[faction] &abeigetreten!"
         },
         "FACTIONS.command.accept.failed":
         {
-            "en_US": "&cfailed!",
-            "de_DE": "&cfailed!"
+            "en_US": "&cERROR: Accepting the invitation has failed!",
+            "de_DE": "&cFEHLER: Das Akzeptieren der Einladung ist fehlgeschlagen!"
+        },
+        "FACTIONS.command.accept.not_invited":
+        {
+            "en_US": "&cYou have not been invited to the faction &e[faction]&c!",
+            "de_DE": "&cDu wurdest nicht in die Fraktion &e[faction] &ceingeladen!"
+        },
+        "FACTIONS.command.accept.leave_first":
+        {
+            "en_US": "&cYou are still in the faction &e[current]&c! &7Leave it with the command &e</fn leave [id]>&7 to join the faction &e[faction]&7!",
+            "de_DE": "&cDu bist noch in der Fraktion &e[current]&c! &7Verlasse diese mit dem Befehl &e</fn leave [id]>&7, um der Fraktion &e[faction] &7beitreten zu können!"
+        },
+        "FACTIONS.command.accept.faction_does_not_exist":
+        {
+            "en_US": "&cThis faction does not exist!",
+            "de_DE": "&cDiese Fraktion existiert nicht!"
+        },
+        "FACTIONS.command.accept.missing_id_arg":
+        {
+            "en_US": "&cPlease enter the ID of a faction!",
+            "de_DE": "&cBitte gib die ID einer Fraktion an!"
+        },
+        "FACTIONS.command.decline.success":
+        {
+            "en_US": "&7You have declined the invitation to the faction &e[faction]&7!",
+            "de_DE": "&7Du hast die Einladung zur Fraktion &e[faction] &7abgelehnt!"
+        },
+        "FACTIONS.command.decline.failed":
+        {
+            "en_US": "&cERROR: Declining the invitation has failed!",
+            "de_DE": "&cFEHLER: Das Ablehnen der Einladung ist fehlgeschlagen!"
         }
     }
 }
