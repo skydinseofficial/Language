@@ -519,7 +519,7 @@
         },
         "FACTIONS.command.role.success.admin":
         {
-            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ff8c8cAdmin&7!",
+            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ff8c8cadmin&7!",
             "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ff8c8cAdmin &7geändert!"
         },
         "FACTIONS.command.role.success.member":
