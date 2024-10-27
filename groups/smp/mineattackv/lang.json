@@ -451,6 +451,16 @@
         {
             "en_US": "&7You have left the faction &e[faction]&7!",
             "de_DE": "&7Du hast die Fraktion &e[faction] &7verlassen!"
+        },
+        "FACTIONS.command.role.missing_role_arg":
+        {
+            "en_US": "&cPlease enter a role!",
+            "de_DE": "&cBitte gib eine Rolle an!"
+        },
+        "FACTIONS.command.role.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to change a member role!",
+            "de_DE": "&cDu hast nicht die Berechtigung, Mitgliederrollen der Personen aus deiner Fraktion zu ändern!"
         }
     }
 }
