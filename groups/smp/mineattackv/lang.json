@@ -531,6 +531,16 @@
         {
             "en_US": "&cYou are about to dissolve/delete your faction &e[faction] &7. This cannot be undone! &7To continue, enter the command &e/fn dissolve [id] yes&7.",
             "de_DE": "&cDu bist dabei, deine Fraktion &e[faction] &7aufzulösen/zu löschen. Dies kann nicht rückgängig gemacht werden! &7Um fortzufahren, gib den Befehl &e/fn dissolve [id] yes &7ein."
+        },
+        "FACTIONS.command.dissolve.failed":
+        {
+            "en_US": "&cERROR: Failed to dissolve your faction!",
+            "de_DE": "&CFEHLER: Das Auflösen deiner Fraktion ist fehlgeschlagen!"
+        },
+        "FACTIONS.command.dissolve.success":
+        {
+            "en_US": "&7Your faction &e[faction] &7has been dissolved!",
+            "de_DE": "&7Deine Fraktion &e[faction] &7wurde aufgelöst!"
         }
     }
 }
