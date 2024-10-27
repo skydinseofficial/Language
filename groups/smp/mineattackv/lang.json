@@ -587,6 +587,11 @@
             "en_US": "&7Your description input has been cancelled.",
             "de_DE": "&7Die Eingabe der Beschreibung wurde abgebrochen."
         },
+        "FACTIONS.command.description.success":
+        {
+            "en_US": "&aYour description has been updated.",
+            "de_DE": "&aDeine Beschreibung wurde aktualisiert."
+        },
         "FACTIONS.command.description.failed":
         {
             "en_US": "&cERROR: Failed to update your faction description!",
