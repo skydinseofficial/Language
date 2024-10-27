@@ -614,8 +614,8 @@
         },
         "FACTIONS.command.description.shortened_lines":
         {
-            "en_US": "&cYour description exceeded the 10 lines limit and was shortened.",
-            "de_DE": "&cDeine Beschreibung hat die Grenze von 10 Zeilen überschritten und wurde gekürzt."
+            "en_US": "&cYour description exceeded the 20 lines limit and was shortened.",
+            "de_DE": "&cDeine Beschreibung hat die Grenze von 20 Zeilen überschritten und wurde gekürzt."
         },
         "FACTIONS.command.description.empty":
         {
