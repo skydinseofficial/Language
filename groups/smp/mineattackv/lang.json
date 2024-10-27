@@ -359,8 +359,8 @@
         },
         "FACTIONS.command.invite.no_permission":
         {
-            "en_US": "&cYou do not have the permission to invite other people to your faction!",
-            "de_DE": "&cDu hast nicht die Berechtigung weitere Personen in deine Fraktion einzuladen!"
+            "en_US": "&cYou do not have the permission to invite players to your faction!",
+            "de_DE": "&cDu hast nicht die Berechtigung Personen in deine Fraktion einzuladen!"
         },
         "FACTIONS.command.invite.you_not_in_faction":
         {
@@ -411,6 +411,31 @@
         {
             "en_US": "&cERROR: Declining the invitation has failed!",
             "de_DE": "&cFEHLER: Das Ablehnen der Einladung ist fehlgeschlagen!"
+        },
+        "FACTIONS.command.remove.not_in_your_faction":
+        {
+            "en_US": "&cThis player is not in your faction!",
+            "de_DE": "&cDiese Person ist nicht in deiner Fraktion!"
+        },
+        "FACTIONS.command.remove.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to remove players from your faction!",
+            "de_DE": "&cDu hast nicht die Berechtigung Personen aus deiner Fraktion zu entfernen!"
+        },
+        "FACTIONS.command.remove.cannot_remove_founder":
+        {
+            "en_US": "&cThe founder of a faction cannot be removed!",
+            "de_DE": "&cGründer:in einer Fraktion kann nicht entfernt werden!"
+        },
+        "FACTIONS.command.remove.failed":
+        {
+            "en_US": "&cERROR: Removing the player has failed!",
+            "de_DE": "&cFEHLER: Das Entfernen der Person ist fehlgeschlagen"
+        },
+        "FACTIONS.command.remove.success":
+        {
+            "en_US": "&7You have successfully removed &e[player] &7from your faction!",
+            "de_DE": "&7Du hast &e[player] &7erfolgreich aus deiner Fraktion entfernt!"
         }
     }
 }
