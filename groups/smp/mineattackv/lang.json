@@ -576,6 +576,11 @@
         {
             "en_US": "&cYour description exceeded the 1024 character limit and was shortened.",
             "de_DE": "&cDeine Beschreibung hat die Grenze von 1024 Zeichen überschritten und wurde gekürzt."
+        },
+        "FACTIONS.command.description.shortened_lines":
+        {
+            "en_US": "&cYour description exceeded the 10 lines limit and was shortened.",
+            "de_DE": "&cDeine Beschreibung hat die Grenze von 10 Zeilen überschritten und wurde gekürzt."
         }
     }
 }
