@@ -604,8 +604,8 @@
         },
         "FACTIONS.command.description.current_2":
         {
-            "en_US": "&7Use &e</fn description> &e[text] &7to add text to your description, &e<|fn description done> &7to finish and update and &e<|fn description cancel> &7to cancel.",
-            "de_DE": "&7Benutze &e</fn description> &e[text]&7, um deiner Beschreibung Text hinzuzufügen, &e<|fn description done> &7zum Beenden und Aktualisieren und &e<|fn description cancel> &7zum Abbrechen."
+            "en_US": "&7Use &e</fn description> &e[text] &7to add text to your description, &#daf7a6<|fn description done> &7to finish and update and &#f7a6a6<|fn description cancel> &7to cancel.",
+            "de_DE": "&7Benutze &e</fn description> &e[text]&7, um deiner Beschreibung Text hinzuzufügen, &#daf7a6<|fn description done> &7zum Beenden und Aktualisieren und &#f7a6a6<|fn description cancel> &7zum Abbrechen."
         },
         "FACTIONS.command.description.shortened":
         {
