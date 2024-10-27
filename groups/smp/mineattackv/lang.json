@@ -347,6 +347,11 @@
             "en_US": "&6[player] &7was &cremoved &7by &s[sender] &7from the faction &e[faction]&7.",
             "de_DE": "&6[player] &7wurde von &s[sender] &7aus der Fraktion &e[faction] &centfernt&7."
         },
+        "FACTIONS.command.invite.notify_leave":
+        {
+            "en_US": "&6[player] &7has &cleft &7the faction &e[faction]&7.",
+            "de_DE": "&6[player] &7hat die Fraktion &e[faction] &cverlassen&7."
+        },
         "FACTIONS.command.invite.personal":
         {
             "en_US": "&aYou have been invited to the faction &e[faction] &aby &s[name]&a!",
