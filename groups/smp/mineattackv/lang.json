@@ -337,6 +337,11 @@
             "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         },
+        "FACTIONS.command.invite.personal":
+        {
+            "en_US": "&aYou have been invited to the faction &e[faction] &aby &s[name]&a!",
+            "de_DE": "&aDu wurdest von &s[name] &azur Fraktion &e[faction] &aeingeladen!"
+        },
         "FACTIONS.command.invite.success":
         {
             "en_US": "&aYou invited &e[player] &ato the faction &e[faction]&a!",
