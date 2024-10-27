@@ -32,6 +32,16 @@
             "en_US": "&7With &e</claim trust> <name> &7you can give someone rights to your areas. (Building, opening chests, etc.)",
             "de_DE": "&7Mit &e</claim trust> <name> &7kannst du jemanden Rechte auf deine Gebiete geben. (Bauen, Truhen öffnen etc.)"
         },
+        "NIGHT_VISION.enable":
+        {
+            "en_US": "&7You have &aenabled &7night vision!",
+            "de_DE": "&7Du hast Nachtsicht &aaktiviert&7!"
+        },
+        "NIGHT_VISION.disable":
+        {
+            "en_US": "&7You have &cdisabled &7night vision!",
+            "de_DE": "&7Du hast Nachtsicht &cdeaktiviert&7!"
+        },
         "SCOREBOARD.playersonline":
         {
             "en_US": "Online:",
