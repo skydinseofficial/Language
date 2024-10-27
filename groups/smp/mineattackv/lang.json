@@ -404,7 +404,7 @@
         },
         "FACTIONS.command.invite.player_already_in_faction":
         {
-            "en_US": "&6[player] &cis already a member faction!",
+            "en_US": "&6[player] &cis already a member of your faction!",
             "de_DE": "&6[player] &cist bereits ein Mitglied deiner Fraktion!"
         },
         "FACTIONS.command.invite.no_permission":
