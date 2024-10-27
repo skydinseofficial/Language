@@ -454,13 +454,48 @@
         },
         "FACTIONS.command.role.missing_role_arg":
         {
-            "en_US": "&cPlease enter a role!",
-            "de_DE": "&cBitte gib eine Rolle an!"
+            "en_US": "&cPlease enter a valid role name (admin, member)!",
+            "de_DE": "&cBitte gib einen validen Rollenamen (admin, member) an!"
+        },
+        "FACTIONS.command.role.missing_player_arg":
+        {
+            "en_US": "&cPlease enter a player name!",
+            "de_DE": "&cBitte gib einen Spielernamen an!"
         },
         "FACTIONS.command.role.no_permission":
         {
             "en_US": "&cYou do not have the permission to change a member role!",
             "de_DE": "&cDu hast nicht die Berechtigung, Mitgliederrollen der Personen aus deiner Fraktion zu ändern!"
+        },
+        "FACTIONS.command.role.no_permission":
+        {
+            "en_US": "&cThe founder's role cannot be changed! &7If you would like to transfer the ownership of your faction to another player, please contact us in a support ticket!",
+            "de_DE": "&cDie Gründerrolle kann nicht gändert werden! &7Falls du die Eigentumsrechte deiner Fraktion an eine andere Person abgeben möchtest, melde dich hierzu bitte in einem Support-Ticket!"
+        },
+        "FACTIONS.command.role.error_player_info":
+        {
+            "en_US": "&cERROR: Could not get player info!",
+            "de_DE": "&CFEHLER: Spielerinformationen konnten nicht abgerufen werden!"
+        },
+        "FACTIONS.command.role.already_has":
+        {
+            "en_US": "&cThe player already has this role!",
+            "de_DE": "&cDie Person hat diese Rolle bereits!"
+        },
+        "FACTIONS.command.role.failed":
+        {
+            "en_US": "&cERROR: Could not update player role!",
+            "de_DE": "&CFEHLER: Spielerrolle konnte nicht aktualisiert werden!"
+        },
+        "FACTIONS.command.role.success.admin":
+        {
+            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ff8c8cAdmin&7!",
+            "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ff8c8cAdmin &7geändert!"
+        },
+        "FACTIONS.command.role.success.member":
+        {
+            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ffef94member&7!",
+            "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ffef94Mitglied &7geändert!"
         }
     }
 }
