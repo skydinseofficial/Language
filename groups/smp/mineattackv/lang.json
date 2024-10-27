@@ -521,6 +521,16 @@
         {
             "en_US": "&7You have successfully changed the name of the faction &e[id] &7to &e[name]&7!",
             "de_DE": "&7Du hast erfolgreich den Namen der Fraktion &e[id] &7zu &e[name]&7 geändert!"
+        },
+        "FACTIONS.command.dissolve.not_founder":
+        {
+            "en_US": "&cOnly the founder of a faction can dissolve the faction!",
+            "de_DE": "&cNur Gründer:in einer Fraktion kann die Fraktion auflösen!"
+        },
+        "FACTIONS.command.dissolve.confirm":
+        {
+            "en_US": "&cYou are about to dissolve/delete your faction &e[faction] &7. This cannot be undone! &7To continue, enter the command &e/fn dissolve [id] yes&7.",
+            "de_DE": "&cDu bist dabei, deine Fraktion &e[faction] &7aufzulösen/zu löschen. Dies kann nicht rückgängig gemacht werden! &7Um fortzufahren, gib den Befehl &e/fn dissolve [id] yes &7ein."
         }
     }
 }
