@@ -337,6 +337,16 @@
             "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         },
+        "FACTIONS.command.invite.notify_join":
+        {
+            "en_US": "&6[player] &ajoined &7the faction &e[faction] &7at the invitation of &s[sender]&7.",
+            "de_DE": "&6[player] &7ist der Fraktion &e[faction] &7auf Einladung von &s[sender] &abeigetreten&7."
+        },
+        "FACTIONS.command.invite.notify_remove":
+        {
+            "en_US": "&6[player] &7was &cremoved &7by &s[sender] &7from the faction &e[faction]&7.",
+            "de_DE": "&6[player] &7wurde von &s[sender] &7aus der Fraktion &e[faction] &centfernt&7."
+        },
         "FACTIONS.command.invite.personal":
         {
             "en_US": "&aYou have been invited to the faction &e[faction] &aby &s[name]&a!",
