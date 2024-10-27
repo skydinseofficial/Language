@@ -430,12 +430,27 @@
         "FACTIONS.command.remove.failed":
         {
             "en_US": "&cERROR: Removing the player has failed!",
-            "de_DE": "&cFEHLER: Das Entfernen der Person ist fehlgeschlagen"
+            "de_DE": "&cFEHLER: Das Entfernen der Person ist fehlgeschlagen!"
         },
         "FACTIONS.command.remove.success":
         {
             "en_US": "&7You have successfully removed &e[player] &7from your faction!",
             "de_DE": "&7Du hast &e[player] &7erfolgreich aus deiner Fraktion entfernt!"
+        },
+        "FACTIONS.command.leave.cannot_leave_own_faction":
+        {
+            "en_US": "&cYou cannot leave your own faction! &7If you would like to transfer the ownership of your faction to another player, please contact us in a support ticket!",
+            "de_DE": "&cDu kannst nicht deine eigene Fraktion verlassen! &7Falls du die Eigentumsrechte deiner Fraktion an eine andere Person abgeben möchtest, melde dich hierzu bitte in einem Support-Ticket!"
+        },
+        "FACTIONS.command.leave.failed":
+        {
+            "en_US": "&cERROR: Leaving your faction has failed!",
+            "de_DE": "&cFEHLER: Das Verlassen deiner Fraktion ist fehlgeschlagen!"
+        },
+        "FACTIONS.command.leave.success":
+        {
+            "en_US": "&7You have left the faction &e[faction]&7!",
+            "de_DE": "&7Du hast die Fraktion &e[faction] &7verlassen!"
         }
     }
 }
