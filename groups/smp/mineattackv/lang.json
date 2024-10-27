@@ -32,15 +32,20 @@
             "en_US": "&7With &e</claim trust> <name> &7you can give someone rights to your areas. (Building, opening chests, etc.)",
             "de_DE": "&7Mit &e</claim trust> <name> &7kannst du jemanden Rechte auf deine Gebiete geben. (Bauen, Truhen öffnen etc.)"
         },
+        "SCOREBOARD.playersonline":
+        {
+            "en_US": "Online:",
+            "de_DE": "Online:"
+        },
         "SCOREBOARD.spawn":
         {
             "en_US": "Spawn:",
             "de_DE": "Spawn:"
         },
-        "SCOREBOARD.playersonline":
+        "SCOREBOARD.faction":
         {
-            "en_US": "Online:",
-            "de_DE": "Online:"
+            "en_US": "Faction:",
+            "de_DE": "Fraktion:"
         },
         "SCOREBOARD.region":
         {
