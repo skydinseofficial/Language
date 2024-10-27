@@ -357,7 +357,7 @@
             "en_US": "&6[player] &cis already a member faction!",
             "de_DE": "&6[player] &cist bereits ein Mitglied deiner Fraktion!"
         },
-        "FACTIONS.command.invite.action_no_permission_in_faction":
+        "FACTIONS.command.invite.no_permission":
         {
             "en_US": "&cYou do not have the permission to invite other people to your faction!",
             "de_DE": "&cDu hast nicht die Berechtigung weitere Personen in deine Fraktion einzuladen!"
