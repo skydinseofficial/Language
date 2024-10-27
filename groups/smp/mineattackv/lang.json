@@ -42,6 +42,11 @@
             "en_US": "Spawn:",
             "de_DE": "Spawn:"
         },
+        "SCOREBOARD.claim":
+        {
+            "en_US": "Claim:",
+            "de_DE": "Claim:"
+        },
         "SCOREBOARD.faction":
         {
             "en_US": "Faction:",
@@ -56,6 +61,11 @@
         {
             "en_US": "Project Start:",
             "de_DE": "Projektstart:"
+        },
+        "SCOREBOARD.claim.nobody":
+        {
+            "en_US": "&#fc9d9dnobody",
+            "de_DE": "&#fc9d9dniemand"
         },
         "SERVERLOGIC.bordernear":
         {
