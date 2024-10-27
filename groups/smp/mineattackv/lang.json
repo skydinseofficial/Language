@@ -496,6 +496,31 @@
         {
             "en_US": "&7The role of &e[player] &7has been successfully updated to &#ffef94member&7!",
             "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ffef94Mitglied &7geändert!"
+        },
+        "FACTIONS.command.name.missing_newname_arg":
+        {
+            "en_US": "&cPlease enter a new name for your faction!",
+            "de_DE": "&cBitte gib einen neuen Namen für deine Fraktion an!"
+        },
+        "FACTIONS.command.name.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to change the faction name!",
+            "de_DE": "&cDu hast nicht die Berechtigung, den Namen deiner Fraktion zu ändern!"
+        },
+        "FACTIONS.command.name.same_name":
+        {
+            "en_US": "&cThe name you have entered is the current name of the faction!",
+            "de_DE": "&cDer Name, den du angegeben hast, ist der aktuelle Name der Fraktion!"
+        },
+        "FACTIONS.command.name.failed":
+        {
+            "en_US": "&cERROR: Failed to update faction name!",
+            "de_DE": "&CFEHLER: Fraktionsname konnte nicht aktualisiert werden!"
+        },
+        "FACTIONS.command.name.success":
+        {
+            "en_US": "&7You have successfully changed the name of the faction &e[id] &7to &e[name]&7!",
+            "de_DE": "&7Du hast erfolgreich den Namen der Fraktion &e[id] &7zu &e[name]&7 geändert!"
         }
     }
 }
