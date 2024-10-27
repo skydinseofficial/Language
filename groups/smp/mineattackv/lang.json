@@ -152,6 +152,11 @@
             "en_US": "Factions",
             "de_DE": "Fraktionen"
         },
+        "FACTIONS.command.no_spam":
+        {
+            "en_US": "Please do not spam this command!",
+            "de_DE": "Bitte spamme diesen Befehl nicht!"
+        },
         "FACTIONS.command.help":
         {
             "en_US": "Factions command:",
