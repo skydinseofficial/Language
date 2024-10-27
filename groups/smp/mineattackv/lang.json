@@ -581,6 +581,11 @@
         {
             "en_US": "&cYour description exceeded the 10 lines limit and was shortened.",
             "de_DE": "&cDeine Beschreibung hat die Grenze von 10 Zeilen überschritten und wurde gekürzt."
+        },
+        "FACTIONS.command.description.empty":
+        {
+            "en_US": "&cYour description is still empty! &7Use &e</fn description> &e[text] &7to add text.",
+            "de_DE": "&cDeine Beschreibung ist noch leer! &7Nutze &e</fn description> &e[text] &7um Text hinzuzufügen."
         }
     }
 }
