@@ -2,6 +2,26 @@
     "system": "bansystem",
     "translations":
     {
+        "MESSAGE.ban_temp.kick":
+        {
+            "en_US": "&c&lYou are temporarily banned from Skydinse!\n\n&7Reason: &s[reason]\n&7Banned until: &e[date]\n&7Ban ID: &e[id]\n\n&7You can submit an &cunban request &7on Discord at &#7289dadiscord.skydinse.net.",
+            "de_DE": "&c&lDu bist temporär von Skydinse gebannt!\n\n&7Grund: &s[reason]\n&7Gebannt bis: &e[date]\n&7Ban-ID: &e[id]\n\n&7Du kannst auf Discord unter &#7289dadiscord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
+        },
+        "MESSAGE.ban_perma.kick":
+        {
+            "en_US": "&c&lYou are permanently banned from Skydinse!\n\n&7Reason: &s[reason]\n&7Ban ID: &e[id]\n\n&7You can submit an &cunban request &7on Discord at &#7289dadiscord.skydinse.net.",
+            "de_DE": "&c&lDu bist permanent von Skydinse gebannt!\n\n&7Grund: &s[reason]\n&7Ban-ID: &e[id]\n\n&7Du kannst auf Discord unter &#7289dadiscord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
+        },
+        "MESSAGE.ban_temp.chat":
+        {
+            "en_US": "&cYou are banned from this server group until &s[time]&c! &7You have been banned by &e[name] &7for the reason &e[text]&7.",
+            "de_DE": "&cDu bist von dieser Servergruppe bis zum &s[time] &cgebannt! &7Du wurdest von &e[name] &7aus dem Grund &e[text] &7gebannt."
+        },
+        "MESSAGE.ban_perma.chat":
+        {
+            "en_US": "&cYou are banned from this server group permanently! &7You have been banned by &e[name] &7for the reason &e[text]&7.",
+            "de_DE": "&cDu bist permanent von dieser Servergruppe gebannt! &7Du wurdest von &e[name] &7aus dem Grund &e[text] &7gebannt."
+        },
         "CATEGORY.behavior":
         {
             "en_US": "Behavior",
