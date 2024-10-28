@@ -62,10 +62,10 @@
             "en_US": "Anchor",
             "de_DE": "Anchor"
         },
-        "mode.display.kits":
+        "mode.display.kit":
         {
-            "en_US": "Kits",
-            "de_DE": "Kits"
+            "en_US": "Kit",
+            "de_DE": "Kit"
         },
         "mode.display.sumo":
         {
