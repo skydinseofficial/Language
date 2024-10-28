@@ -35,37 +35,37 @@
         "deathmessage.2":
         {
             "en_US": "VAR1 &7passed away.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist von uns gegangen."
         },
         "deathmessage.3":
         {
             "en_US": "VAR1 &7is pushing up daisies.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7liegt jetzt unter der Erde."
         },
         "deathmessage.4":
         {
             "en_US": "VAR1 &7went to heaven.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist in den Himmel gegangen."
         },
         "deathmessage.5":
         {
             "en_US": "VAR1 &7is leaving this mortal coil.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7hat diese irdische Welt verlassen."
         },
         "deathmessage.6":
         {
             "en_US": "VAR1 &7went to a better place.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist an einen besseren Ort gegangen."
         },
         "deathmessage.7":
         {
-            "en_US": "&VAR1 &7moved over.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "en_US": "VAR1 &7moved over.",
+            "de_DE": "VAR1 &7hat das Zeitliche gesegnet."
         },
         "deathmessage.8":
         {
             "en_US": "VAR1 &7is not with us anymore.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "de_DE": "VAR1 &7ist nicht mehr unter uns."
         },
         "deathmessage.9":
         {
