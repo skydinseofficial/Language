@@ -14,13 +14,13 @@
         },
         "MESSAGE.ban_temp.chat":
         {
-            "en_US": "&cYou are banned from this server group until &s[time]&c! &7Reason: &e[text]&7, &7Punish ID: &e<$[id]>&7.",
-            "de_DE": "&cDu bist von dieser Servergruppe bis zum &s[time] &cgebannt! &7Grund: &e[text]&7, &7Punish-ID: &e<$[id]>&7."
+            "en_US": "&cYou are banned from this server group until &s[time]&c! &7Reason: &e[reason]&7, &7Punish ID: &e<$[id]>&7.",
+            "de_DE": "&cDu bist von dieser Servergruppe bis zum &s[time] &cgebannt! &7Grund: &e[reason]&7, &7Punish-ID: &e<$[id]>&7."
         },
         "MESSAGE.ban_perma.chat":
         {
-            "en_US": "&cYou are banned from this server group permanently! &7Reason: &e[text]&7, &7Punish ID: &e<$[id]>&7.",
-            "de_DE": "&cDu bist permanent von dieser Servergruppe gebannt! &7Grund: &e[text]&7, &7Punish-ID: &e<$[id]>&7."
+            "en_US": "&cYou are banned from this server group permanently! &7Reason: &e[reason]&7, &7Punish ID: &e<$[id]>&7.",
+            "de_DE": "&cDu bist permanent von dieser Servergruppe gebannt! &7Grund: &e[reason]&7, &7Punish-ID: &e<$[id]>&7."
         },
         "CATEGORY.behavior":
         {
