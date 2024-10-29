@@ -4,23 +4,23 @@
     {
         "MESSAGE.kick_network":
         {
-            "en_US": "&cYou were kicked from Skydinse!\n\n&7Reason: &c[reason]\n&7Kicked by: &e[name]\n&7Punish ID: &e[id]",
-            "de_DE": "&cDu wurdest von Skydinse gekickt!\n\n&7Grund: &c[reason]\n&7Gekickt von: &e[name]\n&7Punish-ID: &e[id]"
+            "en_US": "&cYou were &lkicked &cfrom Skydinse!\n\n&7Reason: &c[reason]\n&7Kicked by: &e[name]\n&7Punish ID: &e[id]",
+            "de_DE": "&cDu wurdest von Skydinse &lgekickt&c!\n\n&7Grund: &c[reason]\n&7Gekickt von: &e[name]\n&7Punish-ID: &e[id]"
         },
         "MESSAGE.kick_lobby":
         {
-            "en_US": "&cYou were kicked to the lobby! &7Reason: &c[reason]&7, Kicked by: &e[name]&7, Punish ID: &e<$[id]>",
-            "de_DE": "&cDu wurdest in die Lobby gekickt! &7Grund: &c[reason]&7, Gekickt von: &e[name]&7, Punish-ID: &e<$[id]>"
+            "en_US": "&cYou were &lkicked &cto the lobby! &7Reason: &c[reason]&7, Kicked by: &e[name]&7, Punish ID: &e<$[id]>",
+            "de_DE": "&cDu wurdest in die Lobby &lgekickt&c! &7Grund: &c[reason]&7, Gekickt von: &e[name]&7, Punish-ID: &e<$[id]>"
         },
         "MESSAGE.ban_temp.kick":
         {
-            "en_US": "&c&lYou are temporarily banned from Skydinse!\n\n&7Reason: &c[reason]\n&7Banned until: &e[date]\n&7Punish ID: &e[id]\n\n&7You can file an &cunban request &7on Discord at &9discord.skydinse.net&7.",
-            "de_DE": "&c&lDu bist temporär von Skydinse gebannt!\n\n&7Grund: &c[reason]\n&7Gebannt bis: &e[date]\n&7Punish-ID: &e[id]\n\n&7Du kannst auf Discord unter &9discord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
+            "en_US": "&cYou are &ltemporarily banned &cfrom Skydinse!\n\n&7Reason: &c[reason]\n&7Banned until: &e[date]\n&7Punish ID: &e[id]\n\n&7You can file an &cunban request &7on Discord at &9discord.skydinse.net&7.",
+            "de_DE": "&cDu bist &ltemporär &cvon Skydinse &lgebannt&c!\n\n&7Grund: &c[reason]\n&7Gebannt bis: &e[date]\n&7Punish-ID: &e[id]\n\n&7Du kannst auf Discord unter &9discord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
         },
         "MESSAGE.ban_perma.kick":
         {
-            "en_US": "&c&lYou are permanently banned from Skydinse!\n\n&7Reason: &c[reason]\n&7Punish ID: &e[id]\n\n&7You can file an &cunban request &7on Discord at &9discord.skydinse.net&7.",
-            "de_DE": "&c&lDu bist permanent von Skydinse gebannt!\n\n&7Grund: &c[reason]\n&7Punish-ID: &e[id]\n\n&7Du kannst auf Discord unter &9discord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
+            "en_US": "&cYou are &lpermanently banned &cfrom Skydinse!\n\n&7Reason: &c[reason]\n&7Punish ID: &e[id]\n\n&7You can file an &cunban request &7on Discord at &9discord.skydinse.net&7.",
+            "de_DE": "&cDu bist &lpermanent &cvon Skydinse &lgebannt&c!\n\n&7Grund: &c[reason]\n&7Punish-ID: &e[id]\n\n&7Du kannst auf Discord unter &9discord.skydinse.net &7einen &cEntbannungsantrag &7stellen."
         },
         "MESSAGE.ban_temp.chat":
         {
