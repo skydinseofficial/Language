@@ -2,6 +2,11 @@
     "system": "bansystem",
     "translations":
     {
+        "MESSAGE.warn":
+        {
+            "en_US": "&cYou were &lwarned &cby &s[player]&c!\n\n&7Reason: &c[reason]&7. This warn will influence your future punishments.",
+            "de_DE": "&cDu wurdest von &s[player] &c&lgewarnt&c!\n\n&7Grund: &c[reason]&7. Dieser Warn wird deine zukünftigen Bestrafungen beeinflussen."
+        },
         "MESSAGE.kick_network":
         {
             "en_US": "&cYou were &lkicked &cfrom Skydinse!\n\n&7Reason: &c[reason]\n&7Kicked by: &e[name]\n&7Punish ID: &e[id]",
