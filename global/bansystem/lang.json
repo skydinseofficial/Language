@@ -2,7 +2,7 @@
     "system": "bansystem",
     "translations":
     {
-        "MESSAGE.kick_global":
+        "MESSAGE.kick_network":
         {
             "en_US": "&cYou were kicked from Skydinse!\n\n&7Reason: &c[reason]\n&7Punish ID: &e[id]",
             "de_DE": "&cDu wurdest von Skydinse gekickt!\n\n&7Grund: &c[reason]\n&7Punish-ID: &e[id]"
