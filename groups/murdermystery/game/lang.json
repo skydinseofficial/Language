@@ -82,10 +82,35 @@
             "en_US": "XP",
             "de_DE": "XP"
         },
+        "TEXT.stat.KILLS":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills"
+        },
+        "TEXT.stat.zapper.READY":
+        {
+            "en_US": "&aZapper ready",
+            "de_DE": "&aZapper bereit"
+        },
+        "TEXT.stat.zapper.COOLDOWN":
+        {
+            "en_US": "&cZapper cooling down",
+            "de_DE": "&cZapper lädt neu"
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
             "de_DE": "[role]    [xp]    [coins]    [innocents]"
+        },
+        "ACTIONBAR.ingame.SHERIFF":
+        {
+            "en_US": "[role]    [xp]    [coins]    [zapper]    [innocents]",
+            "de_DE": "[role]    [xp]    [coins]    [zapper]    [innocents]"
+        },
+        "ACTIONBAR.ingame.MURDERER":
+        {
+            "en_US": "[role]    [xp]    [coins]    [kills]    [innocents]",
+            "de_DE": "[role]    [xp]    [coins]    [kills]    [innocents]"
         },
         "ITEM.ingame.SWORD":
         {
