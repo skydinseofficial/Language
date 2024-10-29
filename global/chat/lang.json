@@ -68,6 +68,11 @@
         {
             "en_US": "&cThe chat system is currently disabled!",
             "de_DE": "&cDas Chatsystem ist aktuell deaktiviert!"
+        },
+        "NO_SPAM":
+        {
+            "en_US": "&cPlease do not spam chat messages!",
+            "de_DE": "&cBitte spamme keine Chatnachrichten!"
         }
     }
 }
