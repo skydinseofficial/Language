@@ -57,6 +57,11 @@
             "en_US": "&bTry to survive!",
             "de_DE": "&bVersuche zu überleben!"
         },
+        "TEXT.role.desc.SHERIFF":
+        {
+            "en_US": "&cFind an kill the murderer!",
+            "de_DE": "&cFinde und eliminiere den Mörder!"
+        },
         "TEXT.role.desc.MURDERER":
         {
             "en_US": "&6Kill all innocents!",
@@ -91,6 +96,21 @@
         {
             "en_US": "&6Throwable sword",
             "de_DE": "&6Wurfschwert"
+        },
+        "ITEM.ingame.zapper.BOW":
+        {
+            "en_US": "&bZapper",
+            "de_DE": "&bZapper"
+        },
+        "ITEM.ingame.zapper.ARROW":
+        {
+            "en_US": "&aMunition",
+            "de_DE": "&aMunition"
+        },
+        "ITEM.ingame.zapper.ONESHOT":
+        {
+            "en_US": "&bOne-shot Zapper",
+            "de_DE": "&bEin-Schuss Zapper"
         }
     }
 }
