@@ -4,13 +4,13 @@
     {
         "MESSAGE.kick_network":
         {
-            "en_US": "&cYou were kicked from Skydinse!\n\n&7Reason: &c[reason]\n&7Punish ID: &e[id]",
-            "de_DE": "&cDu wurdest von Skydinse gekickt!\n\n&7Grund: &c[reason]\n&7Punish-ID: &e[id]"
+            "en_US": "&cYou were kicked from Skydinse!\n\n&7Reason: &c[reason]\n&7Kicked by: &e[name]\n&7Punish ID: &e[id]",
+            "de_DE": "&cDu wurdest von Skydinse gekickt!\n\n&7Grund: &c[reason]\n&7Gekickt von: &e[name]\n&7Punish-ID: &e[id]"
         },
         "MESSAGE.kick_lobby":
         {
-            "en_US": "&cYou were kicked to the lobby! &7Reason: &c[reason]&7, Punish ID: &e<$[id]>",
-            "de_DE": "&cDu wurdest in die Lobby gekickt! &7Grund: &c[reason]&7, Punish-ID: &e<$[id]>"
+            "en_US": "&cYou were kicked to the lobby! &7Reason: &c[reason]&7, Kicked by: &e[name]&7, Punish ID: &e<$[id]>",
+            "de_DE": "&cDu wurdest in die Lobby gekickt! &7Grund: &c[reason]&7, Gekickt von: &e[name]&7, Punish-ID: &e<$[id]>"
         },
         "MESSAGE.ban_temp.kick":
         {
