@@ -2,6 +2,16 @@
     "system": "bansystem",
     "translations":
     {
+        "MESSAGE.kick_global":
+        {
+            "en_US": "&cYou were kicked from Skydinse!\n\n&7Reason: &c[reason]\n&7Punish ID: &e[id]",
+            "de_DE": "&cDu wurdest von Skydinse gekickt!\n\n&7Grund: &c[reason]\n&7Punish-ID: &e[id]"
+        },
+        "MESSAGE.kick_lobby":
+        {
+            "en_US": "&cYou were kicked to the lobby! &7Reason: &c[reason]&7, Punish ID: &e<$[id]>",
+            "de_DE": "&cDu wurdest in die Lobby gekickt! &7Grund: &c[reason]&7, Punish-ID: &e<$[id]>"
+        },
         "MESSAGE.ban_temp.kick":
         {
             "en_US": "&c&lYou are temporarily banned from Skydinse!\n\n&7Reason: &c[reason]\n&7Banned until: &e[date]\n&7Punish ID: &e[id]\n\n&7You can file an &cunban request &7on Discord at &9discord.skydinse.net&7.",
