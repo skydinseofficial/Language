@@ -1185,6 +1185,36 @@
         {
             "en_US": "&cYou don't have any Coins to migrate!",
             "de_DE": "&cDu hast keine Coins zum migrieren!"
+        },
+        "HALLOWEEN.portalshardfound":
+        {
+            "en_US": "&cPortal shard found",
+            "de_DE": "&cPortalsplitter Gefunden"
+        },
+        "HALLOWEEN.youfound":
+        {
+            "en_US": "&7You found a portal shard!",
+            "de_DE": "&7Du hast einen Portalsplitter gefunden!"
+        },
+        "HALLOWEEN.progress":
+        {
+            "en_US": "&5Progress &c»",
+            "de_DE": "&5Fortschritt &c»"
+        },
+        "HALLOWEEN.alreadyfound":
+        {
+            "en_US": "&cYou already found this portal shard!",
+            "de_DE": "&cDu hast diesen Portalsplitter bereits gefunden!"
+        },
+        "HALLOWEEN.foundeverything":
+        {
+            "en_US": "&dYou have found all &5portal shards&d! &aFor this you will receive the &bSky rank &afor (+)14 days!",
+            "de_DE": "&dDu hast alle &5Portalsplitter &dgefunden! &aSomit erhältst du den &bSky-Rang &afür (+)14 Tage!"
+        },
+        "HALLOWEEN.yourcurrentprogess":
+        {
+            "en_US": "&7Your current progress in the &csearch game &7is:",
+            "de_DE": "&7Dein derzeitiger Fortschritt beim &cSuchspiel &7liegt bei:"
         }
     }
 }
