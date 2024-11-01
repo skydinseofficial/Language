@@ -1,0 +1,51 @@
+{
+    "system": "citybuild",
+    "translations":
+    {
+        "nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "higherrankneeded":
+        {
+            "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nshop.skydinse.net",
+            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nshop.skydinse.net"
+        },
+        "spawnnotfound":
+        {
+            "en_US": "&cThe spawn you were last on could not be found and may be offline. &7&oConnecting to another spawn...",
+            "de_DE": "&cDer Spawn, auf dem du dich zuletzt befunden hast, konnte nicht gefunden werden und ist möglicherweise offline. &7&oVerbinde auf einen anderen Spawn..."
+        },
+        "spawnnotonline":
+        {
+            "en_US": "&cThis spawn is not online right now!",
+            "de_DE": "&cDieser Spawn ist derzeit nicht online!"
+        },
+        "spawnnotexists":
+        {
+            "en_US": "&cThis spawn does not exist!",
+            "de_DE": "&cDieser Spawn existiert nicht!"
+        },
+        "scoreboard.money":
+        {
+            "en_US": "Money:",
+            "de_DE": "Geld:"
+        },
+        "scoreboard.world":
+        {
+            "en_US": "World:",
+            "de_DE": "Welt:"
+        },
+        "scoreboard.playersonline":
+        {
+            "en_US": "Online:",
+            "de_DE": "Online:"
+        },
+        "scoreboard.reputation":
+        {
+            "en_US": "Reputation:",
+            "de_DE": "Ruf:"
+        }
+    }
+}
