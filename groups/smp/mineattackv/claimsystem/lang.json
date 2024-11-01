@@ -366,6 +366,11 @@
         {
             "en_US": "&cYou have to enter &e&nallow&c or &e&ndeny&c.",
             "de_DE": "&cDu musst entweder &e&nallow&c oder &e&ndeny&c angeben."
+        },
+        "command.viewlimits":
+        {
+            "en_US": "&7You can still claim &6[chunks] Chunks&7.",
+            "de_DE": "&7Du kannst noch &6[chunks] Chunks &7beanspruchen."
         }
     }
 }
