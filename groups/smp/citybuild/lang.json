@@ -27,6 +27,21 @@
             "en_US": "&cThis spawn does not exist!",
             "de_DE": "&cDieser Spawn existiert nicht!"
         },
+        "srvalias.plotworld":
+        {
+            "en_US": "Plotworld",
+            "de_DE": "Plotwelt"
+        },
+        "srvalias.farmworld":
+        {
+            "en_US": "Farmworld",
+            "de_DE": "Farmwelt"
+        },
+        "srvalias.endworld":
+        {
+            "en_US": "End dimension",
+            "de_DE": "End-Dimension"
+        },
         "scoreboard.money":
         {
             "en_US": "Money:",
