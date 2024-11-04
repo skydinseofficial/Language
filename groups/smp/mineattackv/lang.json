@@ -42,6 +42,11 @@
             "en_US": "&7You have &cdisabled &7night vision!",
             "de_DE": "&7Du hast Nachtsicht &cdeaktiviert&7!"
         },
+        "SCOREBOARD.nether":
+        {
+            "en_US": "Nether",
+            "de_DE": "Nether"
+        },
         "SCOREBOARD.the_end":
         {
             "en_US": "The End",
