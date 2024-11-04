@@ -42,6 +42,11 @@
             "en_US": "&7You have &cdisabled &7night vision!",
             "de_DE": "&7Du hast Nachtsicht &cdeaktiviert&7!"
         },
+        "SCOREBOARD.the_end":
+        {
+            "en_US": "The End",
+            "de_DE": "Das Ende"
+        },
         "SCOREBOARD.playersonline":
         {
             "en_US": "Online:",
