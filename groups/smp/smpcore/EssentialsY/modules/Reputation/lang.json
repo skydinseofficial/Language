@@ -19,8 +19,8 @@
         },
         "GENERAL.success.evaluate":
         {
-            "en_US": "&7You have rated &6[player] &7with &e[stars] &x&F&F&D&8&0&0⭐",
-            "de_DE": "&7Du hast &6[player] &7mit &e[stars] bewertet &x&F&F&D&8&0&0⭐"
+            "en_US": "&7You have rated &6[player] &7with &e[stars]",
+            "de_DE": "&7Du hast &6[player] &7mit &e[stars] bewertet."
         },
         "GUI.evaluate.title":
         {
