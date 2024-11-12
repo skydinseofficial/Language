@@ -19,8 +19,8 @@
         },
         "GENERAL.success.evaluate":
         {
-            "en_US": "&7You have rated &6[player] &7with &6&l[stars] ⭐ &7stars.",
-            "de_DE": "&7Du hast &6[player] &7mit &6&l[stars] ⭐ &7Sternen bewertet."
+            "en_US": "&7You have rated &6[player] &7with &e[stars] &x&F&F&D&8&0&0⭐",
+            "de_DE": "&7Du hast &6[player] &7mit &e[stars] bewertet &x&F&F&D&8&0&0⭐"
         },
         "GUI.evaluate.title":
         {
@@ -39,8 +39,8 @@
         },
         "GUI.evaluate.item.lore":
         {
-            "en_US": "&7Click to rate the player &6[player]&7.",
-            "de_DE": "&7Klicke um den Spieler &6[player] &7zu bewerten."
+            "en_US": "&8» <#F9BD31>Click to rate",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bewerten"
         }
     }
 }
