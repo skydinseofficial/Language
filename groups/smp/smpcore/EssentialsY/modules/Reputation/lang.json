@@ -29,13 +29,13 @@
         },
         "GUI.evaluate.item.stars":
         {
-            "en_US": "&7Stars &r⭐",
-            "de_DE": "&7Sterne &r⭐"
+            "en_US": "Stars &x&F&F&D&8&0&0⭐",
+            "de_DE": "Sterne &x&F&F&D&8&0&0⭐"
         },
         "GUI.evaluate.item.star":
         {
-            "en_US": "&7Star &r⭐",
-            "de_DE": "&7Stern &r⭐"
+            "en_US": "Star &x&F&F&D&8&0&0⭐",
+            "de_DE": "Stern &x&F&F&D&8&0&0⭐"
         },
         "GUI.evaluate.item.lore":
         {
