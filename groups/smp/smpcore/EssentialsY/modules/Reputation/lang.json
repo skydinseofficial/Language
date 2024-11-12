@@ -2,10 +2,10 @@
     "system": "esy-reputation",
     "translations":
     {
-        "GENERAL.error.nopermission":
+        "GENERAL.error.playernotregistered":
         {
-            "en_US": "&cYou don't have permission for this!",
-            "de_DE": "&cDazu hast du keine Berechtigung!"
+            "en_US": "&cThe target player is not registered.",
+            "de_DE": "&cDieser Spieler ist nicht registriert."
         },
         "GENERAL.error.player.notset":
         {
@@ -24,13 +24,18 @@
         },
         "GUI.evaluate.title":
         {
-            "en_US": "&6Rate &7the player &6[player]",
-            "de_DE": "&6Bewerte &7den Spieler &6[player]"
+            "en_US": "Rating [player]",
+            "de_DE": "Bewerte [player]"
         },
-        "GUI.evaluate.item.name":
+        "GUI.evaluate.item.stars":
         {
-            "en_US": "⭐ &r&7Stars",
-            "de_DE": "⭐ &r&7Sterne"
+            "en_US": "&7Stars &r⭐",
+            "de_DE": "&7Sterne &r⭐"
+        },
+        "GUI.evaluate.item.star":
+        {
+            "en_US": "&7Star &r⭐",
+            "de_DE": "&7Stern &r⭐"
         },
         "GUI.evaluate.item.lore":
         {
