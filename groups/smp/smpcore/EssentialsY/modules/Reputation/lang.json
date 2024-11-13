@@ -17,6 +17,16 @@
             "en_US": "&cYou can't rate yourself!",
             "de_DE": "&cDu kannst dich nicht selbst bewerten!"
         },
+        "GENERAL.info.yourreputation":
+        {
+            "en_US": "&7Your Reputation: [reputation]",
+            "de_DE": "&7Dein Ruf: [reputation]"
+        },
+        "GENERAL.info.evaluators":
+        {
+            "en_US": "&7Currently rated by: [evaluators]",
+            "de_DE": "&7Derzeit bewertet von: [evaluators]"
+        },
         "GENERAL.info.abusewarning":
         {
             "en_US": "&cREPUTATION ABUSE: &e[player] &7may rates people unfairly! &8[&71 Star for [bad]/[all] = [percent]&8]",
