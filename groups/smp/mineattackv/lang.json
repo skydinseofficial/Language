@@ -72,6 +72,11 @@
             "en_US": "Faction:",
             "de_DE": "Fraktion:"
         },
+        "SCOREBOARD.reputation":
+        {
+            "en_US": "Reputation:",
+            "de_DE": "Ruf:"
+        },
         "SCOREBOARD.region":
         {
             "en_US": "Region:",
