@@ -12,6 +12,11 @@
             "en_US": "&cYou have to specify a player!",
             "de_DE": "&cDu musst einen Spieler angeben!"
         },
+        "GENERAL.error.pleasewait":
+        {
+            "en_US": "&cPlease wait a moment.",
+            "de_DE": "&cBitte warte einen Moment."
+        },
         "GENERAL.error.player.evaluate.self":
         {
             "en_US": "&cYou can't rate yourself!",
