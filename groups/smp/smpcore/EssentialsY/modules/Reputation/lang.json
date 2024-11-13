@@ -22,6 +22,11 @@
             "en_US": "&7Your Reputation: [reputation]",
             "de_DE": "&7Dein Ruf: [reputation]"
         },
+        "GENERAL.info.reputationof":
+        {
+            "en_US": "&e[player]'s &7Reputation: [reputation]",
+            "de_DE": "&7Ruf von &e[player]&7: [reputation]"
+        },
         "GENERAL.info.evaluators":
         {
             "en_US": "&7Currently rated by &6[amount] &7people: [evaluators]",
