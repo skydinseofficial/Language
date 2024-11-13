@@ -17,6 +17,26 @@
             "en_US": "&cYou can't rate yourself!",
             "de_DE": "&cDu kannst dich nicht selbst bewerten!"
         },
+        "GENERAL.info.abusewarning":
+        {
+            "en_US": "&cREPUTATION ABUSE: &e[player] &7may rates people unfairly! &8[&71 Star for [bad]/[all] = [percent]&8]",
+            "de_DE": "&cREPUTATION ABUSE: &7Möglicherweise bewertet &e[player] &7Personen zu Unrecht! &8[&71 Stern für [bad]/[all] = [percent]&8]"
+        },
+        "GENERAL.info.noteratingabuse.1":
+        {
+            "en_US": "&x&F&F&D&2&0&0You rate almost all players pretty poorly :(",
+            "de_DE": "&x&F&F&D&2&0&0Du bewertest fast alle Spieler ziemlich schlecht :("
+        },
+        "GENERAL.info.noteratingabuse.2":
+        {
+            "en_US": "&cThe team has just been informed of this to avoid potential exploitation of this system.",
+            "de_DE": "&cDas Team wurde soeben darüber informiert, um potentielle Ausnutzung dieses Systems zu vermeiden."
+        },
+        "GENERAL.info.noteratingabuse.3":
+        {
+            "en_US": "&cPlease remember that every review should be fair and always based on a reason.",
+            "de_DE": "&7Bitte denke daran, dass jede Bewertung fair und immer zufolge eines Grundes sein sollte."
+        },
         "GENERAL.success.evaluate":
         {
             "en_US": "&7You have rated &6[player] &7with &e[stars]",
