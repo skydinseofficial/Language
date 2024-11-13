@@ -24,8 +24,8 @@
         },
         "GENERAL.info.evaluators":
         {
-            "en_US": "&7Currently rated by: [evaluators]",
-            "de_DE": "&7Derzeit bewertet von: [evaluators]"
+            "en_US": "&7Currently rated by [amount] people: [evaluators]",
+            "de_DE": "&7Derzeit bewertet von [amount] Personen: [evaluators]"
         },
         "GENERAL.info.evaluators.noevaluators":
         {
