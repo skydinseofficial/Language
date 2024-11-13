@@ -17,6 +17,11 @@
             "en_US": "&cPlease wait a moment.",
             "de_DE": "&cBitte warte einen Moment."
         },
+        "GENERAL.error.player.notallowedtorate":
+        {
+            "en_US": "&cYou are temporarily not allowed to rate anyone anymore. You probably rated too many players unfairly.",
+            "de_DE": "&cDu darfst temporär niemanden mehr bewerten. Vermutlich hast du zu viele Spieler unfair bewertet."
+        },
         "GENERAL.error.player.evaluate.self":
         {
             "en_US": "&cYou can't rate yourself!",
