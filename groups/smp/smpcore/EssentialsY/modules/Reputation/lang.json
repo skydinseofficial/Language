@@ -27,6 +27,11 @@
             "en_US": "&7Currently rated by: [evaluators]",
             "de_DE": "&7Derzeit bewertet von: [evaluators]"
         },
+        "GENERAL.info.evaluators.noevaluators":
+        {
+            "en_US": "&cNo Evaluators :c",
+            "de_DE": "&cKeine Bewerter :c"
+        },
         "GENERAL.info.abusewarning":
         {
             "en_US": "&cREPUTATION ABUSE: &e[player] &7may rates people unfairly! &8[&71 Star for [bad]/[all] = [percent]&8]",
