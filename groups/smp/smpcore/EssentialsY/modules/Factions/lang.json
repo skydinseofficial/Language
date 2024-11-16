@@ -1,0 +1,506 @@
+{
+    "system": "esy-factions",
+    "translations":
+    {
+        "title":
+        {
+            "en_US": "Factions",
+            "de_DE": "Fraktionen"
+        },
+        "command.no_spam":
+        {
+            "en_US": "Please do not spam this command!",
+            "de_DE": "Bitte spamme diesen Befehl nicht!"
+        },
+        "command.help":
+        {
+            "en_US": "Factions command:",
+            "de_DE": "Fraktionen-Befehl:"
+        },
+        "command.help.list":
+        {
+            "en_US": "List all factions",
+            "de_DE": "Alle Fraktionen auflisten"
+        },
+        "command.help.info":
+        {
+            "en_US": "Show a faction's or player's details.",
+            "de_DE": "Die Details einer Fraktion oder einer Person anzeigen."
+        },
+        "command.help.members":
+        {
+            "en_US": "Show a faction's members.",
+            "de_DE": "Die Mitglieder einer Fraktion anzeigen."
+        },
+        "command.help.create":
+        {
+            "en_US": "Create a new faction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
+            "de_DE": "Eine neue Fraktion erstellen. Wählen eine ID (Kurzname, nur Buchstaben und Unterstriche) und einen Namen (vollständiger Name, Buchstaben, &s<@text:'Farbcodes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, Leerzeichen und Unterstriche)."
+        },
+        "command.help.invite":
+        {
+            "en_US": "Invite a player to your faction.",
+            "de_DE": "Lade einen Spieler zu deiner Fraktion ein."
+        },
+        "command.help.accept":
+        {
+            "en_US": "Accept the invitation to a faction.",
+            "de_DE": "Akzeptiere die Einladung zu einer Fraktion."
+        },
+        "command.help.decline":
+        {
+            "en_US": "Decline the invitation to a faction.",
+            "de_DE": "Lehne die Einladung zu einer Fraktion ab."
+        },
+        "command.help.remove":
+        {
+            "en_US": "Remove a player from your faction.",
+            "de_DE": "Entferne einen Spieler aus deiner Fraktion."
+        },
+        "command.help.leave":
+        {
+            "en_US": "Leave your faction.",
+            "de_DE": "Verlasse deine Fraktion."
+        },
+        "command.help.role":
+        {
+            "en_US": "Set a faction member's role to member or admin.",
+            "de_DE": "Setze die Rolle eines Fraktionsmitglieds auf Mitglied (Member) oder Admin."
+        },
+        "command.help.name":
+        {
+            "en_US": "Change the name of your faction.",
+            "de_DE": "Ändere den Namen deiner Fraktion."
+        },
+        "command.help.dissolve":
+        {
+            "en_US": "Dissolve your faction.",
+            "de_DE": "Löse deine Fraktion auf."
+        },
+        "command.help.description":
+        {
+            "en_US": "Set a description for your faction.",
+            "de_DE": "Lege eine Beschreibung für deine Fraktion fest."
+        },
+        "command.list.info":
+        {
+            "en_US": "List of all factions:",
+            "de_DE": "Liste aller Fraktionen:"
+        },
+        "command.list.not_found":
+        {
+            "en_US": "Could not find any factions!",
+            "de_DE": "Es konnten keine Frationen gefunden werden!"
+        },
+        "command.list.view_details":
+        {
+            "en_US": "view details",
+            "de_DE": "Details ansehen"
+        },
+        "command.list.member_count":
+        {
+            "en_US": "&7Members: &s[amount]",
+            "de_DE": "&7Mitglieder: &s[amount]"
+        },
+        "command.info.info_faction":
+        {
+            "en_US": "Faction info:",
+            "de_DE": "Fraktions-Infos:"
+        },
+        "command.info.info_member":
+        {
+            "en_US": "&6Faction of &s[player] &6info:",
+            "de_DE": "&6Fraktion von &s[player] &6Infos:"
+        },
+        "command.info.name":
+        {
+            "en_US": "Name:",
+            "de_DE": "Name:"
+        },
+        "command.info.id":
+        {
+            "en_US": "ID:",
+            "de_DE": "ID:"
+        },
+        "command.info.created_at":
+        {
+            "en_US": "Created at:",
+            "de_DE": "Erstellt am:"
+        },
+        "command.info.created_by":
+        {
+            "en_US": "Created by:",
+            "de_DE": "Erstellt von:"
+        },
+        "command.info.description":
+        {
+            "en_US": "Description:",
+            "de_DE": "Beschreibung:"
+        },
+        "command.info.members":
+        {
+            "en_US": "Members:",
+            "de_DE": "Mitglieder:"
+        },
+        "command.info.missing_id":
+        {
+            "en_US": "Please enter the id of a faction!",
+            "de_DE": "Bitte gib die ID einer Fraktion an!"
+        },
+        "command.info.not_found":
+        {
+            "en_US": "A faction with that id could not be found!",
+            "de_DE": "Eine Fraktion mit dieser ID konnte nicht gefunden werden!"
+        },
+        "command.members.info":
+        {
+            "en_US": "Faction members:",
+            "de_DE": "Fraktions-Mitglieder:"
+        },
+        "command.members.not_found":
+        {
+            "en_US": "A faction with that id could not be found!",
+            "de_DE": "Eine Fraktion mit dieser ID konnte nicht gefunden werden!"
+        },
+        "command.members.founder":
+        {
+            "en_US": "Founder",
+            "de_DE": "Gründer:in"
+        },
+        "command.members.admin":
+        {
+            "en_US": "Admin",
+            "de_DE": "Admin"
+        },
+        "command.members.member":
+        {
+            "en_US": "Member",
+            "de_DE": "Mitglied"
+        },
+        "command.create.missing_id":
+        {
+            "en_US": "Please enter an id for your faction!",
+            "de_DE": "Bitte gib eine ID für deine Fraktion ein!"
+        },
+        "command.create.missing_name":
+        {
+            "en_US": "Please enter a name for your faction!",
+            "de_DE": "Bitte gib einen Namen für deine Fraktion ein!"
+        },
+        "command.create.already_in_faction":
+        {
+            "en_US": "You are already in a faction!",
+            "de_DE": "Du bist bereits in einer Fraktion!"
+        },
+        "command.create.exists_id":
+        {
+            "en_US": "A faction with this ID already exists!",
+            "de_DE": "Eine Fraktion mit dieser ID existiert bereits!"
+        },
+        "command.create.exists_name":
+        {
+            "en_US": "A faction with exactly this name already exists!",
+            "de_DE": "Eine Fraktion mit genau diesem Namen existiert bereits!"
+        },
+        "command.create.name_length_uncolored":
+        {
+            "en_US": "&cThe name you entered is too long! Use a maximum of &s[max] characters &c(excluding color codes)!",
+            "de_DE": "&cDer von dir eingegebene Name ist zu lang! Verwende maximal &s[max] Zeichen &c(ohne Farbcodes)!"
+        },
+        "command.create.name_length_total":
+        {
+            "en_US": "&cThe name you entered has more than 256 characters! Please shorten the name!",
+            "de_DE": "&cDer von dir eingegebene Name hat mehr als 256 Zeichen! Bitte kürze den Namen!"
+        },
+        "command.create.success":
+        {
+            "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
+            "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
+        },
+        "command.invite.notify_join":
+        {
+            "en_US": "&6[player] &ajoined &7the faction &e[faction] &7at the invitation of &s[sender]&7.",
+            "de_DE": "&6[player] &7ist der Fraktion &e[faction] &7auf Einladung von &s[sender] &abeigetreten&7."
+        },
+        "command.invite.notify_remove":
+        {
+            "en_US": "&6[player] &7was &cremoved &7by &s[sender] &7from the faction &e[faction]&7.",
+            "de_DE": "&6[player] &7wurde von &s[sender] &7aus der Fraktion &e[faction] &centfernt&7."
+        },
+        "command.invite.notify_leave":
+        {
+            "en_US": "&6[player] &7has &cleft &7the faction &e[faction]&7.",
+            "de_DE": "&6[player] &7hat die Fraktion &e[faction] &cverlassen&7."
+        },
+        "command.invite.notify_create":
+        {
+            "en_US": "&aThe faction &e[faction] &awas just created by &s[player]&a.",
+            "de_DE": "&aDie Fraktion &e[Fraktion] &awurde gerade von &s[player] &aerstellt."
+        },
+        "command.invite.notify_dissolved":
+        {
+            "en_US": "&cThe faction &e[faction] &cwas just dissolved by &s[player]&c.",
+            "de_DE": "&cDie Fraktion &e[Fraktion] &cwurde gerade von &s[player] &caufgelöst."
+        },
+        "command.invite.personal":
+        {
+            "en_US": "&aYou have been invited to the faction &e[faction] &aby &s[name]&a!",
+            "de_DE": "&aDu wurdest von &s[name] &azur Fraktion &e[faction] &aeingeladen!"
+        },
+        "command.invite.success":
+        {
+            "en_US": "&aYou invited &e[player] &ato the faction &e[faction]&a!",
+            "de_DE": "&aDu hast &e[player] &ain die Fraktion &e[faction] &aeingeladen!"
+        },
+        "command.invite.failed":
+        {
+            "en_US": "&cERROR: The invitation of &6[player] &cfailed!",
+            "de_DE": "&cFEHLER: Die Einladung von &6[player] &cist fehlgeschlagen!"
+        },
+        "command.invite.player_already_invited":
+        {
+            "en_US": "&6[player] &cis already invited to your faction!",
+            "de_DE": "&6[player] &cist bereits in deine Fraktion eingeladen!"
+        },
+        "command.invite.player_already_in_faction":
+        {
+            "en_US": "&6[player] &cis already a member of your faction!",
+            "de_DE": "&6[player] &cist bereits ein Mitglied deiner Fraktion!"
+        },
+        "command.invite.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to invite players to your faction!",
+            "de_DE": "&cDu hast nicht die Berechtigung Personen in deine Fraktion einzuladen!"
+        },
+        "command.invite.you_not_in_faction":
+        {
+            "en_US": "&cYou are not in a faction!",
+            "de_DE": "&cDu bist in keiner Fraktion!"
+        },
+        "command.invite.missing_player_argument":
+        {
+            "en_US": "&cPlease enter a player name!",
+            "de_DE": "&cBitte gib einen Spielernamen an!"
+        },
+        "command.accept.joined_faction":
+        {
+            "en_US": "&aYou have successfully joined the faction &e[faction]!",
+            "de_DE": "&aDu bist erfolgreich der Fraktion &e[faction] &abeigetreten!"
+        },
+        "command.accept.failed":
+        {
+            "en_US": "&cERROR: Accepting the invitation has failed!",
+            "de_DE": "&cFEHLER: Das Akzeptieren der Einladung ist fehlgeschlagen!"
+        },
+        "command.accept.not_invited":
+        {
+            "en_US": "&cYou have not been invited to the faction &e[faction]&c!",
+            "de_DE": "&cDu wurdest nicht in die Fraktion &e[faction] &ceingeladen!"
+        },
+        "command.accept.leave_first":
+        {
+            "en_US": "&cYou are still in the faction &e[current]&c! &7Leave it with the command &e</fn leave [id]>&7 to join the faction &e[faction]&7!",
+            "de_DE": "&cDu bist noch in der Fraktion &e[current]&c! &7Verlasse diese mit dem Befehl &e</fn leave [id]>&7, um der Fraktion &e[faction] &7beitreten zu können!"
+        },
+        "command.accept.faction_does_not_exist":
+        {
+            "en_US": "&cThis faction does not exist!",
+            "de_DE": "&cDiese Fraktion existiert nicht!"
+        },
+        "command.accept.missing_id_arg":
+        {
+            "en_US": "&cPlease enter the ID of a faction!",
+            "de_DE": "&cBitte gib die ID einer Fraktion an!"
+        },
+        "command.decline.success":
+        {
+            "en_US": "&7You have declined the invitation to the faction &e[faction]&7!",
+            "de_DE": "&7Du hast die Einladung zur Fraktion &e[faction] &7abgelehnt!"
+        },
+        "command.decline.failed":
+        {
+            "en_US": "&cERROR: Declining the invitation has failed!",
+            "de_DE": "&cFEHLER: Das Ablehnen der Einladung ist fehlgeschlagen!"
+        },
+        "command.remove.not_in_your_faction":
+        {
+            "en_US": "&cThis player is not in your faction!",
+            "de_DE": "&cDiese Person ist nicht in deiner Fraktion!"
+        },
+        "command.remove.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to remove players from your faction!",
+            "de_DE": "&cDu hast nicht die Berechtigung Personen aus deiner Fraktion zu entfernen!"
+        },
+        "command.remove.cannot_remove_founder":
+        {
+            "en_US": "&cThe founder of a faction cannot be removed!",
+            "de_DE": "&cGründer:in einer Fraktion kann nicht entfernt werden!"
+        },
+        "command.remove.failed":
+        {
+            "en_US": "&cERROR: Removing the player has failed!",
+            "de_DE": "&cFEHLER: Das Entfernen der Person ist fehlgeschlagen!"
+        },
+        "command.remove.success":
+        {
+            "en_US": "&7You have successfully removed &e[player] &7from your faction!",
+            "de_DE": "&7Du hast &e[player] &7erfolgreich aus deiner Fraktion entfernt!"
+        },
+        "command.leave.cannot_leave_own_faction":
+        {
+            "en_US": "&cYou cannot leave your own faction! &7If you would like to transfer the ownership of your faction to another player, please contact us in a support ticket!",
+            "de_DE": "&cDu kannst nicht deine eigene Fraktion verlassen! &7Falls du die Eigentumsrechte deiner Fraktion an eine andere Person abgeben möchtest, melde dich hierzu bitte in einem Support-Ticket!"
+        },
+        "command.leave.failed":
+        {
+            "en_US": "&cERROR: Leaving your faction has failed!",
+            "de_DE": "&cFEHLER: Das Verlassen deiner Fraktion ist fehlgeschlagen!"
+        },
+        "command.leave.success":
+        {
+            "en_US": "&7You have left the faction &e[faction]&7!",
+            "de_DE": "&7Du hast die Fraktion &e[faction] &7verlassen!"
+        },
+        "command.role.missing_role_arg":
+        {
+            "en_US": "&cPlease enter a valid role name (admin, member)!",
+            "de_DE": "&cBitte gib einen validen Rollenamen (admin, member) an!"
+        },
+        "command.role.missing_player_arg":
+        {
+            "en_US": "&cPlease enter a player name!",
+            "de_DE": "&cBitte gib einen Spielernamen an!"
+        },
+        "command.role.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to change a member role!",
+            "de_DE": "&cDu hast nicht die Berechtigung, Mitgliederrollen der Personen aus deiner Fraktion zu ändern!"
+        },
+        "command.role.no_permission":
+        {
+            "en_US": "&cThe founder's role cannot be changed! &7If you would like to transfer the ownership of your faction to another player, please contact us in a support ticket!",
+            "de_DE": "&cDie Gründerrolle kann nicht gändert werden! &7Falls du die Eigentumsrechte deiner Fraktion an eine andere Person abgeben möchtest, melde dich hierzu bitte in einem Support-Ticket!"
+        },
+        "command.role.error_player_info":
+        {
+            "en_US": "&cERROR: Could not get player info!",
+            "de_DE": "&CFEHLER: Spielerinformationen konnten nicht abgerufen werden!"
+        },
+        "command.role.already_has":
+        {
+            "en_US": "&cThe player already has this role!",
+            "de_DE": "&cDie Person hat diese Rolle bereits!"
+        },
+        "command.role.failed":
+        {
+            "en_US": "&cERROR: Could not update player role!",
+            "de_DE": "&CFEHLER: Spielerrolle konnte nicht aktualisiert werden!"
+        },
+        "command.role.success.admin":
+        {
+            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ff8c8cadmin&7!",
+            "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ff8c8cAdmin &7geändert!"
+        },
+        "command.role.success.member":
+        {
+            "en_US": "&7The role of &e[player] &7has been successfully updated to &#ffef94member&7!",
+            "de_DE": "&7Die Rolle von &e[player] &7wurde erfolgreich auf &#ffef94Mitglied &7geändert!"
+        },
+        "command.name.missing_newname_arg":
+        {
+            "en_US": "&cPlease enter a new name for your faction!",
+            "de_DE": "&cBitte gib einen neuen Namen für deine Fraktion an!"
+        },
+        "command.name.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to change the faction name!",
+            "de_DE": "&cDu hast nicht die Berechtigung, den Namen deiner Fraktion zu ändern!"
+        },
+        "command.name.same_name":
+        {
+            "en_US": "&cThe name you have entered is the current name of the faction!",
+            "de_DE": "&cDer Name, den du angegeben hast, ist der aktuelle Name der Fraktion!"
+        },
+        "command.name.failed":
+        {
+            "en_US": "&cERROR: Failed to update faction name!",
+            "de_DE": "&CFEHLER: Fraktionsname konnte nicht aktualisiert werden!"
+        },
+        "command.name.success":
+        {
+            "en_US": "&7You have successfully changed the name of the faction &e[id] &7to &e[name]&7!",
+            "de_DE": "&7Du hast erfolgreich den Namen der Fraktion &e[id] &7zu &e[name]&7 geändert!"
+        },
+        "command.dissolve.not_founder":
+        {
+            "en_US": "&cOnly the founder of a faction can dissolve the faction!",
+            "de_DE": "&cNur Gründer:in einer Fraktion kann die Fraktion auflösen!"
+        },
+        "command.dissolve.confirm":
+        {
+            "en_US": "&cYou are about to dissolve/delete your faction &e[faction] &7. This cannot be undone! &7To continue, enter the command &e/fn dissolve [id] yes&7.",
+            "de_DE": "&cDu bist dabei, deine Fraktion &e[faction] &7aufzulösen/zu löschen. Dies kann nicht rückgängig gemacht werden! &7Um fortzufahren, gib den Befehl &e/fn dissolve [id] yes &7ein."
+        },
+        "command.dissolve.failed":
+        {
+            "en_US": "&cERROR: Failed to dissolve your faction!",
+            "de_DE": "&CFEHLER: Das Auflösen deiner Fraktion ist fehlgeschlagen!"
+        },
+        "command.dissolve.success":
+        {
+            "en_US": "&7Your faction &e[faction] &7has been dissolved!",
+            "de_DE": "&7Deine Fraktion &e[faction] &7wurde aufgelöst!"
+        },
+        "command.description.no_permission":
+        {
+            "en_US": "&cYou do not have the permission to change the faction description!",
+            "de_DE": "&cDu hast nicht die Berechtigung, die Beschreibung deiner Fraktion zu ändern!"
+        },
+        "command.description.start_input":
+        {
+            "en_US": "&7Your description input has been started. Use &e</fn description> &e[text] &7to add text to your description.",
+            "de_DE": "&7Die Eingabe der Beschreibung wurde gestartet. Nutze &e</fn description> &e[text] &7um Text zu deiner Beschreibung hinzuzufügen."
+        },
+        "command.description.cancelled":
+        {
+            "en_US": "&7Your description input has been cancelled.",
+            "de_DE": "&7Die Eingabe der Beschreibung wurde abgebrochen."
+        },
+        "command.description.success":
+        {
+            "en_US": "&aYour description has been updated.",
+            "de_DE": "&aDeine Beschreibung wurde aktualisiert."
+        },
+        "command.description.failed":
+        {
+            "en_US": "&cERROR: Failed to update your faction description!",
+            "de_DE": "&CFEHLER: Das Aktualisieren der Beschreibung deiner Fraktion ist fehlgeschlagen!"
+        },
+        "command.description.current_1":
+        {
+            "en_US": "&7Your current description input:",
+            "de_DE": "&7Dein aktueller Beschreibungs-Input:"
+        },
+        "command.description.current_2":
+        {
+            "en_US": "&7Use &e</fn description> &e[text] &7to add text to your description, &#daf7a6<|fn description done> &7to finish and update and &#f7a6a6<|fn description cancel> &7to cancel.",
+            "de_DE": "&7Benutze &e</fn description> &e[text]&7, um deiner Beschreibung Text hinzuzufügen, &#daf7a6<|fn description done> &7zum Beenden und Aktualisieren und &#f7a6a6<|fn description cancel> &7zum Abbrechen."
+        },
+        "command.description.shortened":
+        {
+            "en_US": "&cYour description exceeded the 1024 character limit and was shortened.",
+            "de_DE": "&cDeine Beschreibung hat die Grenze von 1024 Zeichen überschritten und wurde gekürzt."
+        },
+        "command.description.shortened_lines":
+        {
+            "en_US": "&cYour description exceeded the 20 lines limit and was shortened.",
+            "de_DE": "&cDeine Beschreibung hat die Grenze von 20 Zeilen überschritten und wurde gekürzt."
+        },
+        "command.description.empty":
+        {
+            "en_US": "&cYour description is still empty! &7Use &e</fn description> &e[text] &7to add text.",
+            "de_DE": "&cDeine Beschreibung ist noch leer! &7Nutze &e</fn description> &e[text] &7um Text hinzuzufügen."
+        }
+    }
+}
