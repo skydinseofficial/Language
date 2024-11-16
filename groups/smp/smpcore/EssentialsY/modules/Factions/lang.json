@@ -235,7 +235,7 @@
         "command.invite.notify_create":
         {
             "en_US": "&aThe faction &e[faction] &awas just created by &s[player]&a.",
-            "de_DE": "&aDie Fraktion &e[Fraktion] &awurde gerade von &s[player] &aerstellt."
+            "de_DE": "&aDie Fraktion &e[faction] &awurde gerade von &s[player] &aerstellt."
         },
         "command.invite.notify_dissolved":
         {
