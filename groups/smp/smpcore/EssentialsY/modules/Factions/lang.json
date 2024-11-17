@@ -240,7 +240,7 @@
         "command.invite.notify_dissolved":
         {
             "en_US": "&cThe faction &e[faction] &cwas just dissolved by &s[player]&c.",
-            "de_DE": "&cDie Fraktion &e[Fraktion] &cwurde gerade von &s[player] &caufgelöst."
+            "de_DE": "&cDie Fraktion &e[faction] &cwurde gerade von &s[player] &caufgelöst."
         },
         "command.invite.personal":
         {
