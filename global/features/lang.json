@@ -89,8 +89,8 @@
         },
         "INFOGUI.feature.galaxy.8":
         {
-            "en_US": "Chat: Write in color &7(skydinse.net/wiki/minecraft-chat/colorcodes)",
-            "de_DE": "Chat: Farbig schreiben &7(skydinse.net/wiki/minecraft-chat/colorcodes)"
+            "en_US": "Chat: Write in color\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
+            "de_DE": "Chat: Farbig schreiben\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
         },
         "INFOGUI.feature.galaxy.9":
         {
