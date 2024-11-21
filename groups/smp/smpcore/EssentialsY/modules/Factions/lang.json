@@ -217,6 +217,11 @@
             "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         },
+        "command.create.invalid_id":
+        {
+            "en_US": "&cThe faction abbreviation contains illegal characters.",
+            "de_DE": "&cDas Fraktionskürzel enthält unerlaubte Zeichen."
+        },
         "command.invite.notify_join":
         {
             "en_US": "&6[player] &ajoined &7the faction &e[faction] &7at the invitation of &s[sender]&7.",
