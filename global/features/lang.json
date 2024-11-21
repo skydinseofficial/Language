@@ -117,6 +117,51 @@
             "en_US": "&9ALL Features of <#FFFFFF>",
             "de_DE": "&9ALLE Vorteile von <#FFFFFF>"
         },
+        "INFOGUI.feature.universe.1":
+        {
+            "en_US": "&6Ingame & Discord color &dpink &6(+ Prefix & Suffix)",
+            "de_DE": "&6Ingame & Discord Farbe &dpink &(+ Prefix & Suffix)"
+        },
+        "INFOGUI.feature.universe.2":
+        {
+            "en_US": "&6Elytra Boost &7(&e/features&7)",
+            "de_DE": "&6Elytra-Boost &7(&e/features&7)"
+        },
+        "INFOGUI.feature.universe.3":
+        {
+            "en_US": "&6Fly &7(&e/features&7)",
+            "de_DE": "&6Fliegen &7(&e/features&7)"
+        },
+        "INFOGUI.feature.universe.4":
+        {
+            "en_US": "&6Change Scale &7(&e/features&7)",
+            "de_DE": "&6Größe Verändern &7(&e/features&7)"
+        },
+        "INFOGUI.feature.universe.5":
+        {
+            "en_US": "&6Party with up to 32 members",
+            "de_DE": "&6Party mit bis zu 32 Mitgliedern"
+        },
+        "INFOGUI.feature.universe.6":
+        {
+            "en_US": "&6Set party to public",
+            "de_DE": "&6Party auf öffentlich stellen"
+        },
+        "INFOGUI.feature.universe.7":
+        {
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Write in hex color\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6In hexadezimalen Farben schreiben\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
+        },
+        "INFOGUI.feature.universe.8":
+        {
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Bold, Italic, Underlined, Strikethrough\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6Fett, Kursiv, Unterstrichen, Durchgestrichen\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
+        },
+        "INFOGUI.feature.universe.9":
+        {
+            "en_US": "&6Sign items 1x per day &7(&e/sign&7)",
+            "de_DE": "&6Items 1x pro Tag signieren &7(&e/sign&7)"
+        },
         "GUI.main.title":
         {
             "en_US": "<#FFD800>Features <#FFFFFF>",
