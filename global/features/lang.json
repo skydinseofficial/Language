@@ -4,18 +4,18 @@
     {
         "INFOGUI.title.sky":
         {
-            "en_US": "<#FFD800>Features of <#FFFFFF>",
-            "de_DE": "<#FFD800>Vorteile von <#FFFFFF>"
+            "en_US": "&bFeatures of <#FFFFFF>",
+            "de_DE": "&bVorteile von <#FFFFFF>"
         },
         "INFOGUI.title.galaxy":
         {
-            "en_US": "<#FFD800>Features of <#FFFFFF>",
-            "de_DE": "<#FFD800>Features von <#FFFFFF>"
+            "en_US": "&9Features of <#FFFFFF>",
+            "de_DE": "&9Features von <#FFFFFF>"
         },
         "INFOGUI.title.universe":
         {
-            "en_US": "<#FFD800>Features of <#FFFFFF>",
-            "de_DE": "<#FFD800>Features von <#FFFFFF>"
+            "en_US": "&dFeatures of <#FFFFFF>",
+            "de_DE": "&dFeatures von <#FFFFFF>"
         },
         "INFOGUI.feature.sky.1":
         {
