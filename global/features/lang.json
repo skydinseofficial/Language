@@ -54,8 +54,8 @@
         },
         "INFOGUI.feature.galaxy.0":
         {
-            "en_US": "&b&nALL Features of <#FFFFFF>",
-            "de_DE": "&b&nALLE Vorteile von <#FFFFFF>"
+            "en_US": "&bALL Features of <#FFFFFF>",
+            "de_DE": "&bALLE Vorteile von <#FFFFFF>"
         },
         "INFOGUI.feature.galaxy.1":
         {
@@ -114,8 +114,8 @@
         },
         "INFOGUI.feature.universe.0":
         {
-            "en_US": "&9&nALL Features of <#FFFFFF>",
-            "de_DE": "&9&nALLE Vorteile von <#FFFFFF>"
+            "en_US": "&9ALL Features of <#FFFFFF>",
+            "de_DE": "&9ALLE Vorteile von <#FFFFFF>"
         },
         "GUI.main.title":
         {
