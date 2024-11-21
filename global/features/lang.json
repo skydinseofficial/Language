@@ -19,93 +19,93 @@
         },
         "INFOGUI.feature.sky.1":
         {
-            "en_US": "Ingame & Discord color &blight blue &6(+ prefix & suffix)",
-            "de_DE": "Ingame & Discord Farbe &bhell blau &6(+ Prefix & Suffix)"
+            "en_US": "&6Ingame & Discord color &blight blue &6(+ prefix & suffix)",
+            "de_DE": "&6Ingame & Discord Farbe &bhell blau &6(+ Prefix & Suffix)"
         },
         "INFOGUI.feature.sky.2":
         {
-            "en_US": "Join the network when it's full",
-            "de_DE": "Netzwerk betreten, wenn es voll ist"
+            "en_US": "&6Join the network when it's full",
+            "de_DE": "&6Netzwerk betreten, wenn es voll ist"
         },
         "INFOGUI.feature.sky.3":
         {
-            "en_US": "Join full Rounds in Minigames",
-            "de_DE": "Volle Minigame Runden betreten"
+            "en_US": "&6Join full Rounds in Minigames",
+            "de_DE": "&6Volle Minigame Runden betreten"
         },
         "INFOGUI.feature.sky.4":
         {
-            "en_US": "Double Jump (/features)",
-            "de_DE": "Doppelsprung (/features)"
+            "en_US": "&6Double Jump &7(&e/features&7)",
+            "de_DE": "&6Doppelsprung &7(&e/features&7)"
         },
         "INFOGUI.feature.sky.5":
         {
-            "en_US": "Save Armor as Cosmetics (/savearmor & /features)",
-            "de_DE": "Rüstung als Kosmetik speichern (/savearmor & /features)"
+            "en_US": "&6Save Armor as Cosmetics &7(&e/savearmor &7& &e/features&7)",
+            "de_DE": "&6Rüstung als Kosmetik speichern &7(&e/savearmor &7& &e/features&7)"
         },
         "INFOGUI.feature.sky.6":
         {
-            "en_US": "Night Vision (/nv)",
-            "de_DE": "Nachtsicht (/nv)"
+            "en_US": "&6Night Vision &7(&e/nv&7)",
+            "de_DE": "&6Nachtsicht &7(&e/nv&7)"
         },
         "INFOGUI.feature.sky.7":
         {
-            "en_US": "Party with up to 8 members",
-            "de_DE": "Party mit bis zu 8 Mitgliedern"
+            "en_US": "&6Party with up to 8 members",
+            "de_DE": "&6Party mit bis zu 8 Mitgliedern"
         },
         "INFOGUI.feature.galaxy.1":
         {
-            "en_US": "Ingame & Discord color &9blue &6(+ prefix & suffix)",
-            "de_DE": "Ingame & Discord Farbe &9dunkel blau &6(+ Prefix & Suffix)"
+            "en_US": "&6Ingame & Discord color &9blue &6(+ prefix & suffix)",
+            "de_DE": "&6Ingame & Discord Farbe &9dunkel blau &6(+ Prefix & Suffix)"
         },
         "INFOGUI.feature.galaxy.2":
         {
-            "en_US": "Join full Servers (e.g. full MineAttack Spawns)",
-            "de_DE": "Volle Server betreten (z.B. volle MineAttack Spawns)"
+            "en_US": "&6Join full Servers &7(e.g. full MineAttack Spawns)",
+            "de_DE": "&6Volle Server betreten &7(z.B. volle MineAttack Spawns)"
         },
         "INFOGUI.feature.galaxy.3":
         {
-            "en_US": "Elytra (/features)",
-            "de_DE": "Elytra (/features)"
+            "en_US": "&6Elytra &7(&e/features&7)",
+            "de_DE": "&6Elytra &7(&e/features&7)"
         },
         "INFOGUI.feature.galaxy.4":
         {
-            "en_US": "Speed (/features)",
-            "de_DE": "Speed (/features)"
+            "en_US": "&6Speed &7(&e/features&7)",
+            "de_DE": "&6Speed &7(&e/features&7)"
         },
         "INFOGUI.feature.galaxy.5":
         {
-            "en_US": "Glow (/features)",
-            "de_DE": "Glow (/features)"
+            "en_US": "&6Glow &7(&e/features&7)",
+            "de_DE": "&6Glow &7(&e/features&7)"
         },
         "INFOGUI.feature.galaxy.6":
         {
-            "en_US": "Skip Minigame Countdown",
-            "de_DE": "Minigame Countdown überspringen"
+            "en_US": "&6Skip Minigame Countdown",
+            "de_DE": "&6Minigame Countdown überspringen"
         },
         "INFOGUI.feature.galaxy.7":
         {
-            "en_US": "Party with up to 16 members",
-            "de_DE": "Party mit bis zu 16 Mitgliedern"
+            "en_US": "&6Party with up to 16 members",
+            "de_DE": "&6Party mit bis zu 16 Mitgliedern"
         },
         "INFOGUI.feature.galaxy.8":
         {
-            "en_US": "Chat: Write in color\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
-            "de_DE": "Chat: Farbig schreiben\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Write in color\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6Farbig schreiben\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
         },
         "INFOGUI.feature.galaxy.9":
         {
-            "en_US": "Chat: Write in SGA &7(github.com/skydinseofficial/Language)",
-            "de_DE": "Chat: SGA schreiben &7(github.com/skydinseofficial/Language)"
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Write in SGA\n&7(github.com/skydinseofficial/Language)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6SGA schreiben\n&7(github.com/skydinseofficial/Language)"
         },
         "INFOGUI.feature.galaxy.10":
         {
-            "en_US": "Chat: Write TinyText &7(github.com/skydinseofficial/Language)",
-            "de_DE": "Chat: TinyText schreiben &7(github.com/skydinseofficial/Language)"
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Write TinyText\n&7(github.com/skydinseofficial/Language)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6TinyText schreiben\n&7(github.com/skydinseofficial/Language)"
         },
         "INFOGUI.feature.galaxy.11":
         {
-            "en_US": "Chat: Write Tooltip &7(github.com/skydinseofficial/Language)",
-            "de_DE": "Chat: Tooltip schreiben &7(github.com/skydinseofficial/Language)"
+            "en_US": "&x&F&F&D&8&0&0Chat: &6Write Tooltip\n&7(github.com/skydinseofficial/Language)",
+            "de_DE": "&x&F&F&D&8&0&0Chat: &6Tooltip schreiben\n&7(github.com/skydinseofficial/Language)"
         },
         "GUI.main.title":
         {
