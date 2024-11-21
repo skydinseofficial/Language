@@ -10,12 +10,12 @@
         "INFOGUI.title.galaxy":
         {
             "en_US": "&9Features of <#FFFFFF>",
-            "de_DE": "&9Features von <#FFFFFF>"
+            "de_DE": "&9Vorteile von <#FFFFFF>"
         },
         "INFOGUI.title.universe":
         {
             "en_US": "&dFeatures of <#FFFFFF>",
-            "de_DE": "&dFeatures von <#FFFFFF>"
+            "de_DE": "&dVorteile von <#FFFFFF>"
         },
         "INFOGUI.feature.sky.1":
         {
@@ -51,6 +51,11 @@
         {
             "en_US": "&6Party with up to 8 members",
             "de_DE": "&6Party mit bis zu 8 Mitgliedern"
+        },
+        "INFOGUI.feature.galaxy.0":
+        {
+            "en_US": "&b&nALL Features of <#FFFFFF>",
+            "de_DE": "&b&nALLE Vorteile von <#FFFFFF>"
         },
         "INFOGUI.feature.galaxy.1":
         {
@@ -106,6 +111,11 @@
         {
             "en_US": "&x&F&F&D&8&0&0Chat: &6Write Tooltip\n&7(github.com/skydinseofficial/Language)",
             "de_DE": "&x&F&F&D&8&0&0Chat: &6Tooltip schreiben\n&7(github.com/skydinseofficial/Language)"
+        },
+        "INFOGUI.feature.universe.0":
+        {
+            "en_US": "&9&nALL Features of <#FFFFFF>",
+            "de_DE": "&9&nALLE Vorteile von <#FFFFFF>"
         },
         "GUI.main.title":
         {
