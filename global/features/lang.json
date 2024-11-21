@@ -2,6 +2,56 @@
     "system": "features",
     "translations":
     {
+        "INFOGUI.title.sky":
+        {
+            "en_US": "<#FFD800>Features of <#FFFFFF>",
+            "de_DE": "<#FFD800>Vorteile von <#FFFFFF>"
+        },
+        "INFOGUI.title.galaxy":
+        {
+            "en_US": "<#FFD800>Features of <#FFFFFF>",
+            "de_DE": "<#FFD800>Features von <#FFFFFF>"
+        },
+        "INFOGUI.title.universe":
+        {
+            "en_US": "<#FFD800>Features of <#FFFFFF>",
+            "de_DE": "<#FFD800>Features von <#FFFFFF>"
+        },
+        "INFOGUI.feature.sky.1":
+        {
+            "en_US": "Ingame & Discord color light blue (+ prefix & suffix)",
+            "de_DE": "Ingame & Discord Farbe hell blau (+ Prefix & Suffix)"
+        },
+        "INFOGUI.feature.sky.2":
+        {
+            "en_US": "Join the network when it's full",
+            "de_DE": "Netzwerk betreten, wenn es voll ist"
+        },
+        "INFOGUI.feature.sky.3":
+        {
+            "en_US": "Join full Rounds in Minigames",
+            "de_DE": "Volle Minigame Runden betreten"
+        },
+        "INFOGUI.feature.sky.4":
+        {
+            "en_US": "Double Jump (/features)",
+            "de_DE": "Doppelsprung (/features)"
+        },
+        "INFOGUI.feature.sky.5":
+        {
+            "en_US": "Save Armor as Cosmetics (/savearmor & /features)",
+            "de_DE": "Rüstung als Kosmetik speichern (/savearmor & /features)"
+        },
+        "INFOGUI.feature.sky.6":
+        {
+            "en_US": "Night Vision (/nv)",
+            "de_DE": "Nachtsicht (/nv)"
+        },
+        "INFOGUI.feature.sky.7":
+        {
+            "en_US": "Party with up to 8 members",
+            "de_DE": "Party mit bis zu 8 Mitgliedern"
+        },
         "GUI.main.title":
         {
             "en_US": "<#FFD800>Features <#FFFFFF>",
