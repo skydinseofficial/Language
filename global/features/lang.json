@@ -19,8 +19,8 @@
         },
         "INFOGUI.feature.sky.1":
         {
-            "en_US": "Ingame & Discord color light blue (+ prefix & suffix)",
-            "de_DE": "Ingame & Discord Farbe hell blau (+ Prefix & Suffix)"
+            "en_US": "Ingame & Discord color &blight blue &6(+ prefix & suffix)",
+            "de_DE": "Ingame & Discord Farbe &bhell blau &6(+ Prefix & Suffix)"
         },
         "INFOGUI.feature.sky.2":
         {
@@ -51,6 +51,61 @@
         {
             "en_US": "Party with up to 8 members",
             "de_DE": "Party mit bis zu 8 Mitgliedern"
+        },
+        "INFOGUI.feature.galaxy.1":
+        {
+            "en_US": "Ingame & Discord color &9blue &6(+ prefix & suffix)",
+            "de_DE": "Ingame & Discord Farbe &9dunkel blau &6(+ Prefix & Suffix)"
+        },
+        "INFOGUI.feature.galaxy.2":
+        {
+            "en_US": "Join full Servers (e.g. full MineAttack Spawns)",
+            "de_DE": "Volle Server betreten (z.B. volle MineAttack Spawns)"
+        },
+        "INFOGUI.feature.galaxy.3":
+        {
+            "en_US": "Elytra (/features)",
+            "de_DE": "Elytra (/features)"
+        },
+        "INFOGUI.feature.galaxy.4":
+        {
+            "en_US": "Speed (/features)",
+            "de_DE": "Speed (/features)"
+        },
+        "INFOGUI.feature.galaxy.5":
+        {
+            "en_US": "Glow (/features)",
+            "de_DE": "Glow (/features)"
+        },
+        "INFOGUI.feature.galaxy.6":
+        {
+            "en_US": "Skip Minigame Countdown",
+            "de_DE": "Minigame Countdown überspringen"
+        },
+        "INFOGUI.feature.galaxy.7":
+        {
+            "en_US": "Party with up to 16 members",
+            "de_DE": "Party mit bis zu 16 Mitgliedern"
+        },
+        "INFOGUI.feature.galaxy.8":
+        {
+            "en_US": "Chat: Write in color &7(skydinse.net/wiki/minecraft-chat/colorcodes)",
+            "de_DE": "Chat: Farbig schreiben &7(skydinse.net/wiki/minecraft-chat/colorcodes)"
+        },
+        "INFOGUI.feature.galaxy.9":
+        {
+            "en_US": "Chat: Write in SGA &7(github.com/skydinseofficial/Language)",
+            "de_DE": "Chat: SGA schreiben &7(github.com/skydinseofficial/Language)"
+        },
+        "INFOGUI.feature.galaxy.10":
+        {
+            "en_US": "Chat: Write TinyText &7(github.com/skydinseofficial/Language)",
+            "de_DE": "Chat: TinyText schreiben &7(github.com/skydinseofficial/Language)"
+        },
+        "INFOGUI.feature.galaxy.11":
+        {
+            "en_US": "Chat: Write Tooltip &7(github.com/skydinseofficial/Language)",
+            "de_DE": "Chat: Tooltip schreiben &7(github.com/skydinseofficial/Language)"
         },
         "GUI.main.title":
         {
