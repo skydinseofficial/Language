@@ -61,6 +61,11 @@
         {
             "en_US": "Reputation:",
             "de_DE": "Ruf:"
+        },
+        "scoreboard.faction":
+        {
+            "en_US": "Municipality:",
+            "de_DE": "Gemeinde:"
         }
     }
 }
