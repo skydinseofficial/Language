@@ -26,6 +26,16 @@
         {
             "en_US": "&x&F&F&C&8&5&1&lPROFESSIONS;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&LBERUFE;&7(Ansehen)"
+        },
+        "NPCHOLO.title.switchspawn":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lSWITCH SPAWN;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&LSPAWN WECHSELN;&7(Ansehen)"
+        },
+        "NPCHOLO.title.farmworld":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lFARM WORLD;&7(Teleport)",
+            "de_DE": "&x&F&F&C&8&5&1&LFARMWELT;&7(Teleportieren)"
         }
     }
 }
