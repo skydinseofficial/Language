@@ -174,6 +174,11 @@
             "ru_RU": "HH:mm",
             "ko_KR": "HH:mm"
         },
+        "FORMAT.time_formatter.word.now":
+        {
+            "en_US": "Now",
+            "de_DE": "Jetzt"
+        },
         "FORMAT.time_formatter.word.second":
         {
             "en_US": "Second",
