@@ -1,0 +1,16 @@
+{
+    "system": "esy-warps",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "Player Warps",
+            "de_DE": "Spieler Warps"
+        },
+        "GUI.main.warp.lore":
+        {
+            "en_US": "&7Abbreviation: &x&F&F&D&2&0&0[abbreviation]\n&7Created by: [prefix][owner]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
+            "de_DE": "&7Kürzel: &x&F&F&D&2&0&0[abbreviation]\n&7Erstellt von: [prefix][owner]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        }
+    }
+}
