@@ -11,6 +11,31 @@
         {
             "en_US": "&7Abbreviation: &x&F&F&D&2&0&0[abbreviation]\n&7Created by: [prefix][owner]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Kürzel: &x&F&F&D&2&0&0[abbreviation]\n&7Erstellt von: [prefix][owner]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
+        "MSG.create.idalreadyexists":
+        {
+            "en_US": "&cA warp with this abbreviation already exists.",
+            "de_DE": "&cEin Warp mit diesem Kürzel existiert bereits."
+        },
+        "MSG.create.namealreadyexists":
+        {
+            "en_US": "&cA warp with this display name already exists.",
+            "de_DE": "&cEin Warp mit diesem Anzeigenamen existiert bereits."
+        },
+        "MSG.create.invalidid":
+        {
+            "en_US": "&cThe abbreviation must not contain any special characters.",
+            "de_DE": "&cDas Kürzel darf keine Sonderzeichen beinhalten."
+        },
+        "MSG.create.toomanychars":
+        {
+            "en_US": "&cThe warp abbreviation or display name cannot have more than [amount] characters.",
+            "de_DE": "&cDas Warp-Kürzel oder der Anzeigename darf nicht mehr als [amount] Zeichen haben."
+        },
+        "MSG.create.success":
+        {
+            "en_US": "&7Your warp &6[abbreviation] &7was &asuccessfully &7created!",
+            "de_DE": "&7Dein Warp &6[abbreviation] &7wurde &aerfolgreich &7erstellt!"
         }
     }
 }
