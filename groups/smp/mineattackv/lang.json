@@ -9,29 +9,34 @@
         },
         "HELP.tipbroadcast.1":
         {
+            "en_US": "&x&F&F&0&0&0&0&lATTENTION: &cUsing X-Ray or other unfair cheats is prohibited and will be punished with a &4ban&c!",
+            "de_DE": "&x&F&F&0&0&0&0&lACHTUNG: &cDas nutzen von X-Ray oder anderen unfairen Cheats ist untersagt und wird mit einem &4Bann &cbestraft!"
+        },
+        "HELP.tipbroadcast.2":
+        {
             "en_US": "&7Use &e<|claim> &7to &aprotect your buildings&7. Are you out of chunks? Then ask a moderator (or higher) to get some or create a Discord ticket.",
             "de_DE": "&7Nutze &e<|claim>&7, um dein &aGebautes zu schützen&7. Du hast keine Chunks mehr? Dann frage einen Moderator (oder höher), um welche zu erhalten oder erstelle ein Discord-Ticket."
         },
-        "HELP.tipbroadcast.2":
+        "HELP.tipbroadcast.3":
         {
             "en_US": "&7With &c<|pvp> &7you can always deactivate your &6PvP &7for &e12 hours&7.",
             "de_DE": "&7Mit &c<|pvp> &7kannst du dein &6PvP &7immer für &e12 Stunden &7deaktivieren."
         },
-        "HELP.tipbroadcast.3":
+        "HELP.tipbroadcast.4":
         {
             "en_US": "&7You can set up to &66 teleport points &7using the command &e</home> <number>&7! &7Use &e/delhome <number> &7to delete a home.",
             "de_DE": "&7Du kannst mit dem Befehl &e</home> <nummer> &7bis zu &66 Teleportpunkte &7setzen! &7Mit &e/delhome <nummer> &7löschst du ein Home."
         },
-        "HELP.tipbroadcast.4":
+        "HELP.tipbroadcast.5":
         {
             "en_US": "&7Send a &6teleport request &7to someone using &b</tpa> <name>&7. This can be accepted with &b/tpaccept <name>&7.",
             "de_DE": "&7Sende mit &b</tpa> <name> &7eine &6Teleportanfrage &7zu jemandem. Diese kann mit &b/tpaccept <name> &7akzeptiert werden."
         },
-        "HELP.tipbroadcast.5":
+        "HELP.tipbroadcast.6":
         {
             "en_US": "&7With &e</claim trust> <name> &7you can give someone rights to your areas. (Building, opening chests, etc.)",
             "de_DE": "&7Mit &e</claim trust> <name> &7kannst du jemanden Rechte auf deine Gebiete geben. (Bauen, Truhen öffnen etc.)"
-        },
+        }
         "NIGHT_VISION.enable":
         {
             "en_US": "&7You have &aenabled &7night vision!",
