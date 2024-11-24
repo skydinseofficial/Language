@@ -37,6 +37,11 @@
             "en_US": "&7Your warp &6[abbreviation] &7was &asuccessfully &7created!",
             "de_DE": "&7Dein Warp &6[abbreviation] &7wurde &aerfolgreich &7erstellt!"
         },
+        "MSG.create.success.extended":
+        {
+            "en_US": "&7Your warp &6[abbreviation] &7was &asuccessfully &7extended!",
+            "de_DE": "&7Dein Warp &6[abbreviation] &7wurde &aerfolgreich &7verlängert!"
+        },
         "MSG.teleport.nowarpwiththatid":
         {
             "en_US": "&cThere is no warp with that abbreviation.",
