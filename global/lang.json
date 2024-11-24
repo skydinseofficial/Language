@@ -657,10 +657,10 @@
         },
         "CHAT.input.title":
         {
-            "en_US": "Chat Input",
-            "en_GB": "Chat Input",
-            "en_XX": "Chat Input",
-            "de_DE": "Chateingabe"
+            "en_US": "&6Chat Input",
+            "en_GB": "&6Chat Input",
+            "en_XX": "&6Chat Input",
+            "de_DE": "&6Chateingabe"
         },
         "CHAT.input.subtitle":
         {
