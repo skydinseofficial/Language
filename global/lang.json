@@ -664,10 +664,10 @@
         },
         "CHAT.input.subtitle":
         {
-            "en_US": "&e[seconds] &7Seconds left",
-            "en_GB": "&e[seconds] &7Seconds left",
-            "en_XX": "&e[seconds] &7Seconds left",
-            "de_DE": "&7Noch &e[seconds] &7Sekunden"
+            "en_US": "&e[seconds] &7[unit] left",
+            "en_GB": "&e[seconds] &7[unit] left",
+            "en_XX": "&e[seconds] &7[unit] left",
+            "de_DE": "&7Noch &e[seconds] &7[unit]"
         }
     }
 }
