@@ -71,6 +71,46 @@
         {
             "en_US": "&cYou must keep the item in your hand while entering the chat.",
             "de_DE": "&cDu musst das Item während der Chateingabe in der Hand halten."
+        },
+        "UNIT.days":
+        {
+            "en_US": "Days",
+            "de_DE": "Tagen"
+        },
+        "UNIT.day":
+        {
+            "en_US": "Day",
+            "de_DE": "Tag"
+        },
+        "UNIT.hours":
+        {
+            "en_US": "Hours",
+            "de_DE": "Stunden"
+        },
+        "UNIT.hour":
+        {
+            "en_US": "Hour",
+            "de_DE": "Stunde"
+        },
+        "UNIT.minutes":
+        {
+            "en_US": "Minutes",
+            "de_DE": "Minuten"
+        },
+        "UNIT.minute":
+        {
+            "en_US": "Minute",
+            "de_DE": "Minute"
+        },
+        "UNIT.seconds":
+        {
+            "en_US": "Seconds",
+            "de_DE": "Sekunden"
+        },
+        "UNIT.second":
+        {
+            "en_US": "Second",
+            "de_DE": "Sekunde"
         }
     }
 }
