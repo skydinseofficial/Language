@@ -654,6 +654,20 @@
             "en_GB": "Map",
             "en_XX": "Map",
             "de_DE": "Karte"
+        },
+        "CHAT.input.title":
+        {
+            "en_US": "Chat Input",
+            "en_GB": "Chat Input",
+            "en_XX": "Chat Input",
+            "de_DE": "Chateingabe"
+        },
+        "CHAT.input.subtitle":
+        {
+            "en_US": "&e[seconds] &7Seconds left",
+            "en_GB": "&e[seconds] &7Seconds left",
+            "en_XX": "&e[seconds] &7Seconds left",
+            "de_DE": "&7Noch &e[seconds] &7Sekunden"
         }
     }
 }
