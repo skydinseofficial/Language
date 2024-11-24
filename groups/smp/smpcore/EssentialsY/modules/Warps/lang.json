@@ -42,6 +42,16 @@
             "en_US": "&cThere is no warp with that abbreviation.",
             "de_DE": "&cEs gibt keinen Warp mit diesem Kürzel."
         },
+        "ITEM.chatinput.explanation.1":
+        {
+            "en_US": "&7Write an <#FFD84E>abbreviation &7for your <#FFD84E>new warp &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe ein <#FFD84E>Kürzel &7für deinen <#FFD84E>neuen Warp &7in den <#FFD84E>Chat&7."
+        },
+        "ITEM.chatinput.explanation.2":
+        {
+            "en_US": "&7Alternatively, you can write an abbreviation from an <#FFD84E>already existing warp &7of yours into the chat in order to <#FFD84E>extend it&7.",
+            "de_DE": "&7Alternativ kannst du ein Kürzel von einem <#FFD84E>bereits bestehenden Warp &7von dir in den Chat schreiben, um diesen zu <#FFD84E>verlängern&7."
+        },
         "ITEM.chatinput.hotbarslotswitched":
         {
             "en_US": "&cYou must keep the item in your hand while entering the chat.",
