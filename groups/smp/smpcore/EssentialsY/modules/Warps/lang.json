@@ -41,6 +41,11 @@
         {
             "en_US": "&cThere is no warp with that abbreviation.",
             "de_DE": "&cEs gibt keinen Warp mit diesem Kürzel."
+        },
+        "ITEM.chatinput.hotbarslotswitched":
+        {
+            "en_US": "&cYou must keep the item in your hand while entering the chat.",
+            "de_DE": "&cDu musst das Item während der Chateingabe in der Hand halten."
         }
     }
 }
