@@ -24,8 +24,8 @@
         },
         "GUI.edit.name.lore":
         {
-            "en_US": "&7Change the display name of the warp.\n&7Attention: This is not the abbreviation!\n&7The abbreviation cannot be changed.\n&7\n&7Current: [name]",
-            "de_DE": "&7Ändere den Anzeigenamen des Warps.\n&7Achtung: Dies ist nicht das Kürzel!\n&7Das Kürzel kann nicht geändert werden.\n&7\n&7Aktuell: [name]"
+            "en_US": "&7Change the display name of the warp.\n&7Attention: This is not the abbreviation!\n&7The abbreviation cannot be changed.\n&7\n&7Current: &6[name]",
+            "de_DE": "&7Ändere den Anzeigenamen des Warps.\n&7Achtung: Dies ist nicht das Kürzel!\n&7Das Kürzel kann nicht geändert werden.\n&7\n&7Aktuell: &6[name]"
         },
         "MSG.create.idalreadyexists":
         {
