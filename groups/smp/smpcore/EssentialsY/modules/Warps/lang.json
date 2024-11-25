@@ -62,6 +62,11 @@
             "en_US": "&cThere is no warp with that abbreviation.",
             "de_DE": "&cEs gibt keinen Warp mit diesem Kürzel."
         },
+        "MSG.rename.success":
+        {
+            "en_US": "&7The warp &6[abbreviation] is now displayed as: &f[name]",
+            "de_DE": "&7Der Warp &6[abbreviation] wird nun angezeigt als: &f[name]"
+        },
         "ITEM.chatinput.title":
         {
             "en_US": "<#FFD200>Create or extend warp:",
@@ -91,6 +96,11 @@
         {
             "en_US": "&cTime is up. Activate the item again.",
             "de_DE": "&cDie Zeit ist abgelaufen. Aktiviere das Item erneut."
+        },
+        "ITEM.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
         },
         "UNIT.days":
         {
