@@ -7,6 +7,11 @@
             "en_US": "Player Warps",
             "de_DE": "Spieler Warps"
         },
+        "GUI.edit.title":
+        {
+            "en_US": "Edit Warp [warp]",
+            "de_DE": "Warp [warp] &rbearbeiten"
+        },
         "GUI.main.warp.lore":
         {
             "en_US": "&7Abbreviation: &x&F&F&D&2&0&0[abbreviation]\n&7Created by: [prefix][owner]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Expires in: &x&F&F&D&2&0&0[expires]\n&7Visitors: &x&F&F&D&2&0&0[visitors]",
