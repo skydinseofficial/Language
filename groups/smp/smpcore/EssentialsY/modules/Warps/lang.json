@@ -147,6 +147,26 @@
             "en_US": "&7The warp &6[abbreviation] &7is now displayed as: &f[name]",
             "de_DE": "&7Der Warp &6[abbreviation] &7wird nun angezeigt als: &f[name]"
         },
+        "MSG.setdescription.title":
+        {
+            "en_US": "<#FFD200>Change Warp Description:",
+            "de_DE": "<#FFD200>Warpbeschreibung ändern:"
+        },
+        "MSG.setdescription.explanation.1":
+        {
+            "en_US": "&7Write in the chat how you want to <#FFD84E>describe the warp&7.",
+            "de_DE": "&7Schreibe in den Chat, wie du den <#FFD84E>Warp beschreiben &7willst."
+        },
+        "MSG.setdescription.toomanychars":
+        {
+            "en_US": "&cThe warp description cannot have more than [amount] characters.",
+            "de_DE": "&cDie Warpbeschreibung darf nicht mehr als [amount] Zeichen haben."
+        },
+        "MSG.setdescription.success":
+        {
+            "en_US": "&7The description of warp &6[abbreviation] &7is now: <#FFD200>[description]",
+            "de_DE": "&7Die Beschreibung des Warps &6[abbreviation] &7ist nun: <#FFD200>[description]"
+        },
         "ITEM.chatinput.title":
         {
             "en_US": "<#FFD200>Create or extend warp:",
