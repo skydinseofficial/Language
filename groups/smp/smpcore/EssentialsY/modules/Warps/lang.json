@@ -177,6 +177,11 @@
             "en_US": "&7The icon of warp &6[abbreviation] &7is now: <#FFD200>[icon]",
             "de_DE": "&7Das Icon des Warps &6[abbreviation] &7ist nun: <#FFD200>[icon]"
         },
+        "MSG.delete.success":
+        {
+            "en_US": "&7The warp &6[abbreviation] &7has been deleted.",
+            "de_DE": "&7Der Warp &6[abbreviation] &7wurde gelöscht."
+        },
         "ITEM.chatinput.title":
         {
             "en_US": "<#FFD200>Create or extend warp:",
