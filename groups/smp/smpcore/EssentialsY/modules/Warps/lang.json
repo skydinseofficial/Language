@@ -167,6 +167,16 @@
             "en_US": "&7The description of warp &6[abbreviation] &7is now: <#FFD200>[description]",
             "de_DE": "&7Die Beschreibung des Warps &6[abbreviation] &7ist nun: <#FFD200>[description]"
         },
+        "MSG.seticon.noiteminhand":
+        {
+            "en_US": "&cYou must have an item in your hand to set the warp icon to it.",
+            "de_DE": "&cDu musst ein Item in der Hand halten, um das Warp Icon darauf zu setzen."
+        },
+        "MSG.seticon.success":
+        {
+            "en_US": "&7The description of warp &6[abbreviation] &7is now: <#FFD200>[description]",
+            "de_DE": "&7Die Beschreibung des Warps &6[abbreviation] &7ist nun: <#FFD200>[description]"
+        },
         "ITEM.chatinput.title":
         {
             "en_US": "<#FFD200>Create or extend warp:",
