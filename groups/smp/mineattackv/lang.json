@@ -144,8 +144,8 @@
         },
         "PVP.disabling":
         {
-            "en_US": "&7Your &ePvP &7has been &cdisabled &7for the next &612 hours&7.",
-            "de_DE": "&7Dein &ePvP &7wurde nun für die nächsten &612 Stunden &cdeaktiviert&7."
+            "en_US": "&7Your &ePvP &7has been &cdisabled&7.",
+            "de_DE": "&7Dein &ePvP &7wurde nun &cdeaktiviert&7."
         },
         "PVP.disabling.permanent":
         {
