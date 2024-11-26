@@ -174,8 +174,8 @@
         },
         "MSG.seticon.success":
         {
-            "en_US": "&7The description of warp &6[abbreviation] &7is now: <#FFD200>[description]",
-            "de_DE": "&7Die Beschreibung des Warps &6[abbreviation] &7ist nun: <#FFD200>[description]"
+            "en_US": "&7The icon of warp &6[abbreviation] &7is now: <#FFD200>[icon]",
+            "de_DE": "&7Das Icon des Warps &6[abbreviation] &7ist nun: <#FFD200>[icon]"
         },
         "ITEM.chatinput.title":
         {
