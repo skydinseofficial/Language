@@ -32,6 +32,26 @@
             "en_US": "&6Teleport",
             "de_DE": "&6Teleportieren"
         },
+        "GUI.clickaction.teleport":
+        {
+            "en_US": "&8» <#F9BD31>Click to teleport",
+            "de_DE": "&8» <#F9BD31>Klicke zum Teleportieren"
+        },
+        "GUI.clickaction.teleport.left":
+        {
+            "en_US": "&8» <#F9BD31>Left Click to teleport",
+            "de_DE": "&8» <#F9BD31>Linksklicke zum Teleportieren"
+        },
+        "GUI.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "GUI.clickaction.edit.right":
+        {
+            "en_US": "&8» <#F9BD31>Right Click to edit",
+            "de_DE": "&8» <#F9BD31>Rechtsklicke zum Bearbeiten"
+        },
         "MSG.create.idalreadyexists":
         {
             "en_US": "&cA warp with this abbreviation already exists.",
