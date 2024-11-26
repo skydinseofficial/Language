@@ -82,6 +82,21 @@
             "en_US": "Reputation:",
             "de_DE": "Ruf:"
         },
+        "SCOREBOARD.pvp":
+        {
+            "en_US": "Your PvP:",
+            "de_DE": "Dein PvP:"
+        },
+        "SCOREBOARD.pvp.enabled":
+        {
+            "en_US": "&aON",
+            "de_DE": "&aAN"
+        },
+        "SCOREBOARD.pvp.disabled":
+        {
+            "en_US": "&cOFF",
+            "de_DE": "&cAUS"
+        },
         "SCOREBOARD.region":
         {
             "en_US": "Region:",
