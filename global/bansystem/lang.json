@@ -14,8 +14,8 @@
         },
         "MESSAGE.warn":
         {
-            "en_US": "&cYou were &lwarned &cby &s[name]&c!\n\n&7Reason: &s[reason]&7, Punish ID: &e<$[id]>&7. This warn will influence your future punishments.",
-            "de_DE": "&cDu wurdest von &s[name] &c&lgewarnt&c!\n\n&7Grund: &s[reason]&7, Punish-ID: &e<$[id]>&7. Dieser Warn wird deine zukünftigen Bestrafungen beeinflussen."
+            "en_US": "&cYou were &lwarned &cby &s[name]&c! &7Reason: &s[reason]&7, Punish ID: &e<$[id]>&7. This warn may influence your future punishments.",
+            "de_DE": "&cDu wurdest von &s[name] &c&lgewarnt&c! &7Grund: &s[reason]&7, Punish-ID: &e<$[id]>&7. Dieser Warn kann deine zukünftigen Bestrafungen beeinflussen."
         },
         "MESSAGE.kick_network":
         {
