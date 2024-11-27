@@ -691,6 +691,16 @@
         {
             "en_US": "&cYour description is still empty! &7Use &e</fn description> &e[text] &7to add text.",
             "de_DE": "&cDeine Beschreibung ist noch leer! &7Nutze &e</fn description> &e[text] &7um Text hinzuzufügen."
+        },
+        "NPCHOLO.title.warps":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lWARPS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lWARPS;&7(Ansehen)"
+        },
+        "NPCHOLO.title.help":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lHELP;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lHILFE;&7(Ansehen)"
         }
     }
 }
