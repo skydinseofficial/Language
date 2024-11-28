@@ -71,6 +71,11 @@
         {
             "en_US": "Other",
             "de_DE": "Andere"
+        },,
+        "CATEGORY.custom":
+        {
+            "en_US": "Custom",
+            "de_DE": "Custom"
         },
         "REASON.behavior.insulting":
         {
