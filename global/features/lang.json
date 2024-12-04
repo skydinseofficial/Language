@@ -52,6 +52,11 @@
             "en_US": "&6Party with up to 8 members",
             "de_DE": "&6Party mit bis zu 8 Mitgliedern"
         },
+        "INFOGUI.feature.sky.8":
+        {
+            "en_US": "&6Use &bcolors &6and other\n&d&l&nformatting &6in warp names",
+            "de_DE": "&6In Warpnamen &bFarben &6und weitere\n&d&l&nFormatierungen &6verwenden"
+        },
         "INFOGUI.feature.galaxy.0":
         {
             "en_US": "&bALL Features of <#FFFFFF>",
