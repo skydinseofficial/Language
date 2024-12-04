@@ -54,8 +54,8 @@
         },
         "INFOGUI.feature.sky.8":
         {
-            "en_US": "&6Use &bcolors &6and other\n&d&l&nformatting &6in warp names",
-            "de_DE": "&6In Warpnamen &bFarben &6und weitere\n&d&l&nFormatierungen &6verwenden"
+            "en_US": "&6Use &bcolors &6and other\n&d&l&nformatting&6 in warp names",
+            "de_DE": "&6In Warpnamen &bFarben &6und weitere\n&d&l&nFormatierungen&6 verwenden"
         },
         "INFOGUI.feature.galaxy.0":
         {
