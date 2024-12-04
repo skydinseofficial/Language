@@ -44,8 +44,8 @@
         },
         "INFOGUI.feature.sky.6":
         {
-            "en_US": "&6Night Vision &7(&e/nv&7)",
-            "de_DE": "&6Nachtsicht &7(&e/nv&7)"
+            "en_US": "&6Night Vision &7(&e/features&7)",
+            "de_DE": "&6Nachtsicht &7(&e/features&7)"
         },
         "INFOGUI.feature.sky.7":
         {
