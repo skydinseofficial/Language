@@ -172,6 +172,11 @@
             "en_US": "&7Round started! Connecting...",
             "de_DE": "&7Runde gestartet! Verbinde..."
         },
+        "GLOBAL.customround.nopermission":
+        {
+            "en_US": "&cYou need a higher rank to create a custom round.",
+            "de_DE": "&cDu benötigst einen höheren Rang, um eine eigene (custom) Runde zu erstellen."
+        },
         "GLOBAL.ashlyngui.main.title":
         {
             "en_US": "Select a Game",
