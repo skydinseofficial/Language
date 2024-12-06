@@ -29,30 +29,25 @@
         },
         "INFOGUI.feature.sky.3":
         {
-            "en_US": "&6Join full Rounds in Minigames",
-            "de_DE": "&6Volle Minigame Runden betreten"
-        },
-        "INFOGUI.feature.sky.4":
-        {
             "en_US": "&6Double Jump &7(&e/features&7)",
             "de_DE": "&6Doppelsprung &7(&e/features&7)"
         },
-        "INFOGUI.feature.sky.5":
+        "INFOGUI.feature.sky.4":
         {
             "en_US": "&6Save Armor as Cosmetics &7(&e/savearmor &7& &e/features&7)",
             "de_DE": "&6Rüstung als Kosmetik speichern &7(&e/savearmor &7& &e/features&7)"
         },
-        "INFOGUI.feature.sky.6":
+        "INFOGUI.feature.sky.5":
         {
             "en_US": "&6Night Vision &7(&e/features&7)",
             "de_DE": "&6Nachtsicht &7(&e/features&7)"
         },
-        "INFOGUI.feature.sky.7":
+        "INFOGUI.feature.sky.6":
         {
             "en_US": "&6Party with up to 8 members",
             "de_DE": "&6Party mit bis zu 8 Mitgliedern"
         },
-        "INFOGUI.feature.sky.8":
+        "INFOGUI.feature.sky.7":
         {
             "en_US": "&6Use &bcolors &6and other\n&d&l&nformatting&6 in warp names",
             "de_DE": "&6In Warpnamen &bFarben &6und weitere\n&d&l&nFormatierungen&6 verwenden"
@@ -69,8 +64,8 @@
         },
         "INFOGUI.feature.galaxy.2":
         {
-            "en_US": "&6Join full Servers &7(e.g. full MineAttack Spawns)",
-            "de_DE": "&6Volle Server betreten &7(z.B. volle MineAttack Spawns)"
+            "en_US": "&6Join full Rounds in Minigames",
+            "de_DE": "&6Volle Minigame Runden betreten"
         },
         "INFOGUI.feature.galaxy.3":
         {
@@ -129,43 +124,53 @@
         },
         "INFOGUI.feature.universe.2":
         {
+            "en_US": "&6Join full Servers &7(e.g. full MineAttack Spawns)",
+            "de_DE": "&6Volle Server betreten &7(z.B. volle MineAttack Spawns)"
+        },
+        "INFOGUI.feature.universe.3":
+        {
             "en_US": "&6Elytra Boost &7(&e/features&7)",
             "de_DE": "&6Elytra-Boost &7(&e/features&7)"
         },
-        "INFOGUI.feature.universe.3":
+        "INFOGUI.feature.universe.4":
         {
             "en_US": "&6Fly &7(&e/features&7)",
             "de_DE": "&6Fliegen &7(&e/features&7)"
         },
-        "INFOGUI.feature.universe.4":
+        "INFOGUI.feature.universe.5":
         {
             "en_US": "&6Change Scale &7(&e/features&7)",
             "de_DE": "&6Größe Verändern &7(&e/features&7)"
         },
-        "INFOGUI.feature.universe.5":
+        "INFOGUI.feature.universe.6":
         {
             "en_US": "&6Party with up to 32 members",
             "de_DE": "&6Party mit bis zu 32 Mitgliedern"
         },
-        "INFOGUI.feature.universe.6":
+        "INFOGUI.feature.universe.7":
         {
             "en_US": "&6Set party to public",
             "de_DE": "&6Party auf öffentlich stellen"
         },
-        "INFOGUI.feature.universe.7":
+        "INFOGUI.feature.universe.8":
         {
             "en_US": "&x&F&F&D&8&0&0Chat: &6Write in hex color\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
             "de_DE": "&x&F&F&D&8&0&0Chat: &6In hexadezimalen Farben schreiben\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
         },
-        "INFOGUI.feature.universe.8":
+        "INFOGUI.feature.universe.9":
         {
             "en_US": "&x&F&F&D&8&0&0Chat: &6Bold, Italic, Underlined, Strikethrough\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)",
             "de_DE": "&x&F&F&D&8&0&0Chat: &6Fett, Kursiv, Unterstrichen, Durchgestrichen\n&7(skydinse.net/wiki/minecraft-chat/colorcodes)"
         },
-        "INFOGUI.feature.universe.9":
+        "INFOGUI.feature.universe.10":
         {
-            "en_US": "&6Sign items 1x per day &7(&e/sign&7)",
-            "de_DE": "&6Items 1x pro Tag signieren &7(&e/sign&7)"
+            "en_US": "&6SMPs &7» &eSign items 1x per day &7(&e/sign&7)",
+            "de_DE": "&6SMPs &7» &eItem 1x pro Tag signieren &7(&e/sign&7)"
+        },
+        "INFOGUI.feature.universe.11":
+        {
+            "en_US": "&6Minigames &7» &eCreate Custom Rounds",
+            "de_DE": "&6Minigames &7» &ePrivate bzw. Custom Runden erstellen"
         },
         "GUI.main.title":
         {
