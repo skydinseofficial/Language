@@ -1,0 +1,31 @@
+{
+    "system": "esy-playershops",
+    "translations":
+    {
+        "ITEM.error.shoponblock":
+        {
+            "en_US": "&cA player shop must be placed on a block.",
+            "de_DE": "&cEin Spielershop muss auf einen Block platziert werden."
+        },
+        "ITEM.activated.title.1":
+        {
+            "en_US": "&aThe player shop has been created!",
+            "de_DE": "&aDer Spielershop wurde erstellt!"
+        },
+        "ITEM.activated.title.2":
+        {
+            "en_US": "<#FFD200>Setup player shop:",
+            "de_DE": "<#FFD200>Spielershop einrichten:"
+        },
+        "ITEM.activated.explanation.1":
+        {
+            "en_US": "&7Now take the <#FFD84E>item in your hand &7that you want to <#FFD84E>sell &7and <#FFD84E>click &7on the placed <#FFD84E>player shop&7.",
+            "de_DE": "&7Nehme nun das <#FFD84E>Item in die Hand&7, welches du <#FFD84E>verkaufen &7möchtest und <#FFD84E>klicke &7auf den platzierten <#FFD84E>Spielershop&7."
+        },
+        "ITEM.activated.explanation.2":
+        {
+            "en_US": "&7With a <#FFD84E>click &7again you can set <#FFD84E>buying or selling prices&7.",
+            "de_DE": "&7Mit einem <#FFD84E>erneuten Klick &7kannst du <#FFD84E>Ankaufs- oder Verkaufspreise &7festlegen."
+        }
+    }
+}
