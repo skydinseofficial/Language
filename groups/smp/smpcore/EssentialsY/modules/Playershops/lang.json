@@ -26,6 +26,11 @@
         {
             "en_US": "&7With a <#FFD84E>click &7again you can set <#FFD84E>buying or selling prices&7.",
             "de_DE": "&7Mit einem <#FFD84E>erneuten Klick &7kannst du <#FFD84E>Ankaufs- oder Verkaufspreise &7festlegen."
+        },
+        "SHOP.holo.noitem":
+        {
+            "en_US": "&cNo item listed!",
+            "de_DE": "&cKein Item eingestellt!"
         }
     }
 }
