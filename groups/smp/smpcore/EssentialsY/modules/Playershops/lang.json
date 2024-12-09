@@ -7,6 +7,11 @@
             "en_US": "&cA player shop must be placed on a block.",
             "de_DE": "&cEin Spielershop muss auf einen Block platziert werden."
         },
+        "ITEM.error.alreadyashophere":
+        {
+            "en_US": "&cThere is already a player shop on this block.",
+            "de_DE": "&cAuf diesem Block ist bereits ein Spielershop."
+        },
         "ITEM.activated.title.1":
         {
             "en_US": "&aThe player shop has been created!",
