@@ -37,6 +37,11 @@
             "en_US": "&cNo item listed!",
             "de_DE": "&cKein Item eingestellt!"
         },
+        "SHOP.holo.noprice":
+        {
+            "en_US": "&cNo price set!",
+            "de_DE": "&cKein Preis festgelegt!"
+        },
         "GUI.shop.title":
         {
             "en_US": "Edit Shop",
