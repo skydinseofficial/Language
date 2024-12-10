@@ -36,6 +36,11 @@
         {
             "en_US": "&cNo item listed!",
             "de_DE": "&cKein Item eingestellt!"
+        },
+        "GUI.shop.title":
+        {
+            "en_US": "Edit Shop",
+            "de_DE": "Shop bearbeiten"
         }
     }
 }
