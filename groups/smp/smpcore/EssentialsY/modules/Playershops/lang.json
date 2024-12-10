@@ -60,7 +60,7 @@
         "GUI.shop.storage.lore":
         {
             "en_US": "&7The <#FFD84E>storage &7must be filled with\n&7any number of items you <#FFD84E>want to sell&7.\n&7If you <#FFD84E>purchase&7, the <#FFD84E>purchased items\n&7also end up <#FFD84E>here in the storage&7.\n&7\n&7Buying and selling is possible at the same time.",
-            "de_DE": "&7Das <#FFD84E>Lager &7muss mit den Items,\n&7die du <#FFD84E>verkaufen &7möchtest, beliebig\n&7viel <#FFD84E>befüllt &7werden. Falls du\n<#FFD84E>ankaufst&7, landen die <#FFD84E>angekaufen Items\n&7ebenfalls <#FFD84E>hier im Lager&7.\n&7\nAn- und Verkauf ist zeitgleich möglich."
+            "de_DE": "&7Das <#FFD84E>Lager &7muss mit den Items,\n&7die du <#FFD84E>verkaufen &7möchtest, beliebig\n&7viel <#FFD84E>befüllt &7werden. Falls du\n<#FFD84E>ankaufst&7, landen die <#FFD84E>angekaufen Items\n&7ebenfalls <#FFD84E>hier im Lager&7.\n&7\n&7An- und Verkauf ist zeitgleich möglich."
         }
     }
 }
