@@ -41,6 +41,16 @@
         {
             "en_US": "Edit Shop",
             "de_DE": "Shop bearbeiten"
+        },
+        "GUI.shop.delete.title":
+        {
+            "en_US": "&4Delete Shop",
+            "de_DE": "&4Shop löschen"
+        },
+        "GUI.shop.delete.lore":
+        {
+            "en_US": "&cThe shop will be immediately and irrevocably\n&cdeleted. &7You get the <#FFD200>player shop item\n&7back!",
+            "de_DE": "&cDer Shop wird sofort und unwiderruflich\n&cgelöscht. &7Du erhältst das <#FFD200>Spielershop-Item\n&7zurück!"
         }
     }
 }
