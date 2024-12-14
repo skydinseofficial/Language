@@ -107,6 +107,26 @@
             "en_US": "<#FFD84E>What should the product be <#FFD84E>traded with&7?\n&7You can specify a <#FFD84E>currency &7or a <#FFD84E>item &7.",
             "de_DE": "&7INFO: Halte <#FFD84E>nichts &7in der Hand, um\n&7zur Währung &8([currency]&8) &7zu wechseln."
         },
+        "GUI.shop.currencystorage.title.item":
+        {
+            "en_US": "&6Storage for Consideration",
+            "de_DE": "&6Lager für Gegenleistung"
+        },
+        "GUI.shop.currencystorage.title.money":
+        {
+            "en_US": "&6Shop credit",
+            "de_DE": "&6Shopguthaben"
+        },
+        "GUI.shop.currencystorage.lore.item":
+        {
+            "en_US": "&7This is the storage for the consideration.\n&7If you buy, you must store <#FFD84E>e.g. diamonds%7.\n&7If you sell, for example, the <#FFD84E>earned\n<#FFD84E>diamonds &7will also appear here aswell.",
+            "de_DE": "&7Hier ist das Lager für die Gegenleistungen.\n&7Falls du ankaufst, muss du hier <#FFD84E>z.B. Diamanten\n<#FFD84E>einlagern. &7Wenn du verkaufst, werden z.B. die\n<#FFD84E>verdienten Diamanten &7ebenfalls hier erscheinen."
+        },
+        "GUI.shop.currencystorage.lore.money":
+        {
+            "en_US": "&7Deposit <#FFD84E>as much money &7here as the <#FFD84E>maximum\n<#FFD84E>you would like &7to print for your purchase.\n&7The money must be <#FFD84E>consciously &7paid into this\n&7player shop so that you don't immediately become poor\n&7if <#FFD84E>someone sells a lot of goods to you&7.",
+            "de_DE": "&7Zahle hier <#FFD84E>so viel Geld &7ein, <#FFD84E>wie &7du für\n&7deinen <#FFD84E>Ankauf maximal abdrücken &7möchtest.\n&7Das Geld muss hier in diesen Spielershop <#FFD84E>bewusst\n<#FFD84E>eingezahlt &7werden, damit man nicht von jetzt auf gleich\n&7arm wird, wenn <#FFD84E>jemand ganz viel Ware an dich verkauft&7."
+        },
         "GUI.storage.title":
         {
             "en_US": "Shop Storage",
