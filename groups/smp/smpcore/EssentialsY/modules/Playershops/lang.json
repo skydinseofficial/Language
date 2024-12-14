@@ -42,6 +42,11 @@
             "en_US": "&cNo price set!",
             "de_DE": "&cKein Preis festgelegt!"
         },
+        "GUI.clickaction.setcurrency":
+        {
+            "en_US": "&8» <#F9BD31>Click to set currency or item",
+            "de_DE": "&8» <#F9BD31>Klicke um auf Währung bzw. Item zu stellen"
+        },
         "GUI.shop.title":
         {
             "en_US": "Edit Shop",
@@ -86,6 +91,21 @@
         {
             "en_US": "&7Click here to set up weather you want\n&7to <#FFD84E>buy items&7.",
             "de_DE": "&7Klicke hier, um den <#FFD84E>Ankauf &7deines Shops\n<#FFD84E>einzurichten&7, wenn du einen möchtest."
+        },
+        "GUI.shop.currency.title":
+        {
+            "en_US": "&6Currency: [currency]",
+            "de_DE": "&6Währung: [currency]"
+        },
+        "GUI.shop.currency.lore.1":
+        {
+            "en_US": "<#FFD84E>What should the product be <#FFD84E>traded with&7?\n&7You can specify a <#FFD84E>currency &7or a <#FFD84E>item &7.\n&7\n&7Hold the item that you want as <#FFD84E>in return\n&7 in your hand.\n&7\n[clickaction]",
+            "de_DE": "<#FFD84E>Womit &7soll das Produkt <#FFD84E>gehandelt &7werden?\n&7Du kannst eine <#FFD84E>Währung &7oder ein <#FFD84E>Item &7angeben.\n&7\n&7Halte das Item, welches du als <#FFD84E>Gegenleistung\n&7möchtest in der Hand.\n&7\n[clickaction]"
+        },
+        "GUI.shop.currency.lore.2":
+        {
+            "en_US": "<#FFD84E>What should the product be <#FFD84E>traded with&7?\n&7You can specify a <#FFD84E>currency &7or a <#FFD84E>item &7.",
+            "de_DE": "&7INFO: Halte <#FFD84E>nichts &7in der Hand, um\n&7zur Währung &8([currency]&8) &7zu wechseln."
         },
         "GUI.storage.title":
         {
