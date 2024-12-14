@@ -67,6 +67,26 @@
             "en_US": "&7Elements in Storage: &x&F&F&D&2&0&0[elements]\n&7\n&7The <#FFD84E>storage &7must be filled with\n&7any number of items you <#FFD84E>want to sell&7.\n&7If you <#FFD84E>purchase&7, the <#FFD84E>purchased items\n&7also end up <#FFD84E>here in the storage&7.\n&7\n&7Buying and selling is possible at the same time.",
             "de_DE": "&7Elemente auf Lager: &x&F&F&D&2&0&0[elements]\n&7\n&7Das <#FFD84E>Lager &7muss mit den Items,\n&7die du <#FFD84E>verkaufen &7möchtest, beliebig\n&7viel <#FFD84E>befüllt &7werden. Falls du\n<#FFD84E>ankaufst&7, landen die <#FFD84E>angekaufen Items\n&7ebenfalls <#FFD84E>hier im Lager&7.\n&7\n&7An- und Verkauf ist zeitgleich möglich."
         },
+        "GUI.shop.sell.title":
+        {
+            "en_US": "&6Sell",
+            "de_DE": "&6Verkauf"
+        },
+        "GUI.shop.sell.lore":
+        {
+            "en_US": "&7Click here to set up weather you want\n&7to <#FFD84E>sell items&7.",
+            "de_DE": "&7Klicke hier, um den <#FFD84E>Verkauf &7deines Shops\n<#FFD84E>einzurichten&7, wenn du einen möchtest."
+        },
+        "GUI.shop.buy.title":
+        {
+            "en_US": "&6Buy",
+            "de_DE": "&6Ankauf"
+        },
+        "GUI.shop.buy.lore":
+        {
+            "en_US": "&7Click here to set up weather you want\n&7to <#FFD84E>buy items&7.",
+            "de_DE": "&7Klicke hier, um den <#FFD84E>Ankauf &7deines Shops\n<#FFD84E>einzurichten&7, wenn du einen möchtest."
+        },
         "GUI.storage.title":
         {
             "en_US": "Shop Storage",
