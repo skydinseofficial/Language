@@ -131,6 +131,11 @@
         {
             "en_US": "Shop Storage",
             "de_DE": "Shoplager"
+        },
+        "GUI.currencystorage.title":
+        {
+            "en_US": "Storage for Consideration",
+            "de_DE": "Lager für Gegenleistung"
         }
     }
 }
