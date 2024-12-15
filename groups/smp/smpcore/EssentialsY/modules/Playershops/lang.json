@@ -42,7 +42,7 @@
             "en_US": "&7Write the <#FFD84E>sales price &7into the <#FFD84E>Chat&7. &8([currency]&8)",
             "de_DE": "&7Schreibe den <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7. &8([currency]&8)"
         },
-        "MSG.chatinput.sellprice.explanation.money.1":
+        "MSG.chatinput.sellprice.explanation.money.2":
         {
             "en_US": "&7You can also specify <#FFD84E>two-digit decimal numbers&7.",
             "de_DE": "&7Du kannst auch <#FFD84E>zweistellige Kommazahlen &7angeben."
