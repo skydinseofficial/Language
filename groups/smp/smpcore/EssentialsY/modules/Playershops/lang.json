@@ -49,8 +49,8 @@
         },
         "MSG.chatinput.sellprice.explanation.item":
         {
-            "en_US": "&7Write in the chat <#FFD84E>for how many &7Items &8(&x&F&R&E&A&9&9[currency]&8) you would like to sell your <#FFD84E>item&7.",
-            "de_DE": "&7Schreibe in den Chat, <#FFD84E>für wie viele &7Items &8(&x&F&F&E&A&9&9[currency]&8) du deinen <#FFD84E>Gegenstand verkaufen &7möchtest."
+            "en_US": "&7Write in the chat <#FFD84E>for how many &7Items &8(&x&F&R&E&A&9&9[currency]&8) &7you would like to sell your <#FFD84E>item&7.",
+            "de_DE": "&7Schreibe in den Chat, <#FFD84E>für wie viele &7Items &8(&x&F&F&E&A&9&9[currency]&8) &7du deinen <#FFD84E>Gegenstand verkaufen &7möchtest."
         },
         "SHOP.holo.noitem":
         {
