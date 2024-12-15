@@ -34,7 +34,7 @@
         },
         "MSG.chatinput.sellprice.title":
         {
-            "en_US": "<#FFD200>Setup sell price:",
+            "en_US": "<#FFD200>Setup sales price:",
             "de_DE": "<#FFD200>Verkaufspreis festlegen:"
         },
         "MSG.chatinput.sellprice.explanation.money.1":
@@ -51,6 +51,21 @@
         {
             "en_US": "&7Write in the chat <#FFD84E>for how many &7Items &8(&x&F&R&E&A&9&9[currency]&8) &7you would like to sell your <#FFD84E>item&7.",
             "de_DE": "&7Schreibe in den Chat, <#FFD84E>für wie viele &7Items &8(&x&F&F&E&A&9&9[currency]&8) &7du deinen <#FFD84E>Gegenstand verkaufen &7möchtest."
+        },
+        "MSG.chatinput.buyprice.title":
+        {
+            "en_US": "<#FFD200>Setup purchase price:",
+            "de_DE": "<#FFD200>Ankaufspreis festlegen:"
+        },
+        "MSG.chatinput.buyprice.explanation.money.1":
+        {
+            "en_US": "&7Write the <#FFD84E>purchase price &7into the <#FFD84E>Chat&7. &8([currency]&8)",
+            "de_DE": "&7Schreibe den <#FFD84E>Ankaufspreis &7in den <#FFD84E>Chat&7. &8([currency]&8)"
+        }
+        "MSG.chatinput.buyprice.explanation.item":
+        {
+            "en_US": "&7Write in the chat <#FFD84E>for how many &7Items &8(&x&F&R&E&A&9&9[currency]&8) &7you would like to buy the <#FFD84E>item&7.",
+            "de_DE": "&7Schreibe in den Chat, <#FFD84E>für wie viele &7Items &8(&x&F&F&E&A&9&9[currency]&8) &7du den <#FFD84E>Gegenstand ankaufen &7möchtest."
         },
         "MSG.chatinput.timeisup":
         {
