@@ -32,6 +32,26 @@
             "en_US": "&7With a <#FFD84E>click &7again you can set <#FFD84E>buying or selling prices&7.",
             "de_DE": "&7Mit einem <#FFD84E>erneuten Klick &7kannst du <#FFD84E>Ankaufs- oder Verkaufspreise &7festlegen."
         },
+        "MSG.chatinput.sellprice.title":
+        {
+            "en_US": "<#FFD200>Setup sell price:",
+            "de_DE": "<#FFD200>Verkaufspreis festlegen:"
+        },
+        "MSG.chatinput.sellprice.explanation.money.1":
+        {
+            "en_US": "&7Write the <#FFD84E>sales price &7into the <#FFD84E>Chat&7. &8([currency]&8)",
+            "de_DE": "&7Schreibe den <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7. &8([currency]&8)"
+        },
+        "MSG.chatinput.sellprice.explanation.money.1":
+        {
+            "en_US": "&7You can also specify <#FFD84E>two-digit decimal numbers&7.",
+            "de_DE": "&7Du kannst auch <#FFD84E>zweistellige Kommazahlen &7angeben."
+        },
+        "MSG.chatinput.sellprice.explanation.item":
+        {
+            "en_US": "&7Write in the chat <#FFD84E>for how many &7Items &8(&x&F&R&E&A&9&9[currency]&8) you would like to sell your <#FFD84E>item&7.",
+            "de_DE": "&7Schreibe in den Chat, <#FFD84E>für wie viele &7Items &8(&x&F&F&E&A&9&9[currency]&8) du deinen <#FFD84E>Gegenstand verkaufen &7möchtest."
+        },
         "SHOP.holo.noitem":
         {
             "en_US": "&cNo item listed!",
