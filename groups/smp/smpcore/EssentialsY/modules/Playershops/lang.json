@@ -79,8 +79,8 @@
         },
         "GUI.shop.sell.lore":
         {
-            "en_US": "&7Click here to set up weather you want\n&7to <#FFD84E>sell items&7.",
-            "de_DE": "&7Klicke hier, um den <#FFD84E>Verkauf &7deines Shops\n<#FFD84E>einzurichten&7, wenn du einen möchtest."
+            "en_US": "&7Currently: [price]\n&7\n&7Click here to create a <#FFD84E>sale price&7. &7If\n&7you don't want a sale, but only a purchase,\n&7then enter <#FFD84E>0 &7in the chat.",
+            "de_DE": "&7Aktuell: [price]\n&7\n&7Klicke hier, um einen <#FFD84E>Verkaufspreis &7anzulegen.\n&7Wenn du keinen Verkauf, sondern z.B. nur Ankauf\n&7haben möchtest, dann gib im Chat <#FFD84E>0 &7an."
         },
         "GUI.shop.buy.title":
         {
@@ -89,8 +89,8 @@
         },
         "GUI.shop.buy.lore":
         {
-            "en_US": "&7Click here to set up weather you want\n&7to <#FFD84E>buy items&7.",
-            "de_DE": "&7Klicke hier, um den <#FFD84E>Ankauf &7deines Shops\n<#FFD84E>einzurichten&7, wenn du einen möchtest."
+            "en_US": "&7Currently: [price]\n&7\n&7Click here to create a <#FFD84E>purchase price&7. &7If\n&7you don't want a purchase, but only a sale,\n&7then enter <#FFD84E>0 &7in the chat.",
+            "de_DE": "&7Aktuell: [price]\n&7\n&7Klicke hier, um einen <#FFD84E>Ankaufspreis &7anzulegen.\n&7Wenn du keinen Ankauf, sondern z.B. nur Verkauf\n&7haben möchtest, dann gib im Chat <#FFD84E>0 &7an."
         },
         "GUI.shop.currency.title":
         {
