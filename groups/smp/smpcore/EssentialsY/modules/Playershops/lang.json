@@ -109,13 +109,13 @@
         },
         "GUI.shopcustomer.sell.title":
         {
-            "en_US": "&6Sell",
-            "de_DE": "&6Verkaufen"
+            "en_US": "Sell",
+            "de_DE": "Verkaufen"
         },
         "GUI.shopcustomer.buy.title":
         {
-            "en_US": "&6Buy",
-            "de_DE": "&6Kaufen"
+            "en_US": "Buy",
+            "de_DE": "Kaufen"
         },
         "GUI.shop.title":
         {
