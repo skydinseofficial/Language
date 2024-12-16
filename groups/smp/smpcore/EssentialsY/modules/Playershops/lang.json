@@ -82,6 +82,16 @@
             "en_US": "&cNo price set!",
             "de_DE": "&cKein Preis festgelegt!"
         },
+        "SHOP.holo.buy":
+        {
+            "en_US": "&7Buy&8: [price]",
+            "de_DE": "&7Kaufen&8: [price]"
+        },
+        "SHOP.holo.sell":
+        {
+            "en_US": "&7Sell&8: [price]",
+            "de_DE": "&7Verkaufen&8: [price]"
+        },
         "GUI.clickaction.setcurrency":
         {
             "en_US": "&8» <#F9BD31>Click to set currency or item",
