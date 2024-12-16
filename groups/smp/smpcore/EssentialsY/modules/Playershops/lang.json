@@ -162,6 +162,16 @@
             "en_US": "&7This is the consideration item.",
             "de_DE": "&7Dies ist das Item für die Gegenleistung."
         },
+        "GUI.shopcustomer.inreturnfor.title":
+        {
+            "en_US": "&6In Return For",
+            "de_DE": "&6Gegen"
+        },
+        "GUI.shopcustomer.inreturnfor.lore":
+        {
+            "en_US": "&8(&e[name]&7's Shop&8)",
+            "de_DE": "&8(&7Shop von &e[name]&8)"
+        },
         "GUI.shop.title":
         {
             "en_US": "Edit Shop",
