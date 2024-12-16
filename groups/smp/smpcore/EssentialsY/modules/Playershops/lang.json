@@ -82,6 +82,11 @@
             "en_US": "&cNo price set!",
             "de_DE": "&cKein Preis festgelegt!"
         },
+        "SHOP.holo.editing":
+        {
+            "en_US": "&cEditing...",
+            "de_DE": "&cBearbeiten..."
+        },
         "SHOP.holo.buy":
         {
             "en_US": "&7Buy&8: [price]",
