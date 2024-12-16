@@ -102,6 +102,21 @@
             "en_US": "&8» <#F9BD31>Click to set currency or item",
             "de_DE": "&8» <#F9BD31>Klicke um auf Währung bzw. Item zu stellen"
         },
+        "GUI.shopcustomer.title":
+        {
+            "en_US": "[name]'s Shop",
+            "de_DE": "Shop von [name]"
+        },
+        "GUI.shopcustomer.sell.title":
+        {
+            "en_US": "&6Sell",
+            "de_DE": "&6Verkaufen"
+        },
+        "GUI.shopcustomer.buy.title":
+        {
+            "en_US": "&6Buy",
+            "de_DE": "&6Kaufen"
+        },
         "GUI.shop.title":
         {
             "en_US": "Edit Shop",
