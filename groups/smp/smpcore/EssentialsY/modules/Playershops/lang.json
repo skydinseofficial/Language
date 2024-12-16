@@ -157,6 +157,11 @@
             "en_US": "&cThis shop does not sell.",
             "de_DE": "&cDieser Shop verkauft nicht."
         },
+        "GUI.shopcustomer.considerationitem.lore":
+        {
+            "en_US": "&7This is the consideration item.",
+            "de_DE": "&7Dies ist das Item für die Gegenleistung."
+        },
         "GUI.shop.title":
         {
             "en_US": "Edit Shop",
