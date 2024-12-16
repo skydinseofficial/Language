@@ -102,6 +102,16 @@
             "en_US": "&8» <#F9BD31>Click to set currency or item",
             "de_DE": "&8» <#F9BD31>Klicke um auf Währung bzw. Item zu stellen"
         },
+        "GUI.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "GUI.clickaction.sell":
+        {
+            "en_US": "&8» <#F9BD31>Click to sell",
+            "de_DE": "&8» <#F9BD31>Klicke zum Verkaufen"
+        },
         "GUI.shopcustomer.title":
         {
             "en_US": "[name]'s Shop",
@@ -112,10 +122,40 @@
             "en_US": "Sell",
             "de_DE": "Verkaufen"
         },
+        "GUI.shopcustomer.sell.lore.possible":
+        {
+            "en_US": "&7You receive: [price]",
+            "de_DE": "&7Du erhältst: [price]"
+        },
+        "GUI.shopcustomer.sell.lore.shopcantbuy":
+        {
+            "en_US": "&cThis shop can't buy anymore.",
+            "de_DE": "&cDieser Shop kann nicht mehr ankaufen."
+        },
+        "GUI.shopcustomer.sell.lore.nopurchase":
+        {
+            "en_US": "&cThis shop does not buy.",
+            "de_DE": "&cDieser Shop kauft nicht an."
+        },
         "GUI.shopcustomer.buy.title":
         {
             "en_US": "Buy",
             "de_DE": "Kaufen"
+        },
+        "GUI.shopcustomer.buy.lore.possible":
+        {
+            "en_US": "&7You pay: [price]",
+            "de_DE": "&7Du bezahlst: [price]"
+        },
+        "GUI.shopcustomer.buy.lore.shopcantsell":
+        {
+            "en_US": "&cThe item is sold out.",
+            "de_DE": "&cDas Item ist ausverkauft."
+        },
+        "GUI.shopcustomer.buy.lore.nosale":
+        {
+            "en_US": "&cThis shop does not sell.",
+            "de_DE": "&cDieser Shop verkauft nicht."
         },
         "GUI.shop.title":
         {
