@@ -114,8 +114,8 @@
         },
         "GUI.shopcustomer.title":
         {
-            "en_US": "[name]'s Shop",
-            "de_DE": "Shop von [name]"
+            "en_US": "Player Shop",
+            "de_DE": "Spielershop"
         },
         "GUI.shopcustomer.sell.title":
         {
