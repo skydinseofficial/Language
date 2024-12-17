@@ -7,6 +7,11 @@
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!"
         },
+        "functionnotavailable":
+        {
+            "en_US": "&cThis function is not available on this SMP.",
+            "de_DE": "&cDiese Funktion gibt es auf diesem SMP nicht."
+        },
         "higherrankneeded":
         {
             "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nshop.skydinse.net",
