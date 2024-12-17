@@ -279,8 +279,8 @@
         },
         "GUI.shop.currencystorage.lore.item":
         {
-            "en_US": "&7This is the storage for the consideration.\n&7If you buy, you must store <#FFD84E>e.g. diamonds%7.\n&7If you sell, for example, the <#FFD84E>earned\n<#FFD84E>diamonds &7will also appear here aswell.",
-            "de_DE": "&7Hier ist das Lager für die Gegenleistungen.\n&7Falls du ankaufst, muss du hier <#FFD84E>z.B. Diamanten\n<#FFD84E>einlagern. &7Wenn du verkaufst, werden z.B. die\n<#FFD84E>verdienten Diamanten &7ebenfalls hier erscheinen."
+            "en_US": "&7Elements in Storage: &x&F&F&D&2&0&0[elements]\n&7\n&7This is the storage for the consideration.\n&7If you buy, you must store <#FFD84E>e.g. diamonds%7.\n&7If you sell, for example, the <#FFD84E>earned\n<#FFD84E>diamonds &7will also appear here aswell.",
+            "de_DE": "&7Elemente auf Lager: &x&F&F&D&2&0&0[elements]\n&7\n&7Hier ist das Lager für die Gegenleistungen.\n&7Falls du ankaufst, muss du hier <#FFD84E>z.B. Diamanten\n<#FFD84E>einlagern. &7Wenn du verkaufst, werden z.B. die\n<#FFD84E>verdienten Diamanten &7ebenfalls hier erscheinen."
         },
         "GUI.shop.currencystorage.lore.money":
         {
