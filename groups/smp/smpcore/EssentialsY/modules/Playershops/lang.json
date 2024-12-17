@@ -72,6 +72,31 @@
             "en_US": "&cTime is up. Try it again.",
             "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
         },
+        "MSG.shopstatus.shopisbeingedited":
+        {
+            "en_US": "&cThis shop is currently being edited!",
+            "de_DE": "&cDieser Shop wird gerade bearbeitet!"
+        },
+        "MSG.shopstatus.sellitemnotininventory":
+        {
+            "en_US": "&cYou do not have the item you want to sell in your inventory.",
+            "de_DE": "&cDu hast das Item, welches du verkaufen möchtest, nicht im Inventar."
+        },
+        "MSG.shopstatus.cannotafford":
+        {
+            "en_US": "&cUnfortunately you cannot afford the item.",
+            "de_DE": "&cDu kannst dir das Item leider nicht leisten."
+        },
+        "MSG.shopstatus.notenoughspaceininventory":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "MSG.shopstatus.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut oder verbinde dich neu mit dem Server."
+        },
         "SHOP.holo.noitem":
         {
             "en_US": "&cNo item listed!",
