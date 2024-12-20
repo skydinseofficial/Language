@@ -701,6 +701,21 @@
         {
             "en_US": "&x&F&F&C&8&5&1&lHELP;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lHILFE;&7(Ansehen)"
+        },
+        "NPC.gui.buyplayershop.title":
+        {
+            "en_US": "Buy Player Shop",
+            "de_DE": "Spielershop kaufen"
+        },
+        "NPC.gui.buyplayershop.buy.title":
+        {
+            "en_US": "Buy 1x Player Shop",
+            "de_DE": "&a1x Spielershop kaufen"
+        },
+        "NPC.gui.buyplayershop.buy.lore":
+        {
+            "en_US": "&7Since hacks exist that allow you to look into\n&7hoppers that you don't actually have access to,\n&7cheaters can potentially destroy classic redstone\n&7shops and steal them. Please adopt this\n&7system to be on the safe side.\n&7\n&eBlooms are obtained through minigames, such as\n&e.g. BlockParty or &6/challenge &ehhere on MineAttack.",
+            "de_DE": "&7Da Hacks existieren, mit denen man in Trichter\n&7rein schauen kann, auf denen man eigentlich\n&7keinen Zugriff hat, können Cheater klassische\n&7Redstone-Shops unter Umständen kaputt machen\n&7und beklauen. Bitte nehmt daher dieses\n&7System an, um auf der Sicheren Seite zu sein.\n&7\n&eBlüten erhält man durch Minigames, wie\n&ez.B. BlockParty oder &6/challenge &ehier auf MineAttack."
         }
     }
 }
