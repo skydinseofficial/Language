@@ -372,5 +372,10 @@
             "en_US": "&7No description yet.",
             "de_DE": "&7Noch keine Beschreibung."
         },
+        "RECEIVER.msg.thanksforpurchase":
+        {
+            "en_US": "<#50FF00>Thank you &7for your <#FFD84E>purchase &7in our <#FFD84E>online shop&7! By doing so you <#FFD84E>support &7our <#FFD84E>work &7and the <#FFD84E>further existence &7of Skydinse.",
+            "de_DE": "<#50FF00>Vielen Dank &7für deinen <#FFD84E>Einkauf &7in unserem <#FFD84E>Onlineshop&7! Dadurch <#FFD84E>unterstützt &7du unsere <#FFD84E>Arbeit &7und das <#FFD84E>weitere Bestehen &7von Skydinse."
+        }
     }
 }
