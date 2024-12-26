@@ -67,6 +67,11 @@
             "en_US": "Spawn:",
             "de_DE": "Spawn:"
         },
+        "SCOREBOARD.world":
+        {
+            "en_US": "World:",
+            "de_DE": "Welt:"
+        },
         "SCOREBOARD.claim":
         {
             "en_US": "Claim:",
