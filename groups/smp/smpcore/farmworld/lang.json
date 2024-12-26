@@ -29,8 +29,8 @@
         },
         "global.guiextra.nextreset.desc.resetexplanation":
         {
-            "en_US": "&x&F&F&E&B&8&7All farm worlds are reset every Saturday at%nl%&x&F&F&E&B&8&79 p.m. The reset also ends the weekly end event.",
-            "de_DE": "&x&F&F&E&B&8&7Alle Farmwelten werden jeden Samstag um 21 Uhr zurückgesetzt.%nl%&x&F&F&E&B&8&7Der Reset beendet zugleich auch das wöchentliche Endevent."
+            "en_US": "&x&F&F&E&B&8&7All farm worlds are reset every Saturday at\n&x&F&F&E&B&8&79 p.m. The reset also ends the weekly end event.",
+            "de_DE": "&x&F&F&E&B&8&7Alle Farmwelten werden jeden Samstag um 21 Uhr zurückgesetzt.\n&x&F&F&E&B&8&7Der Reset beendet zugleich auch das wöchentliche Endevent."
         },
         "global.guiextra.nextreset.time.days":
         {
