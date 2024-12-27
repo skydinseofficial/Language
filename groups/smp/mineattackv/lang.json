@@ -36,7 +36,12 @@
         {
             "en_US": "&7With &e</claim trust> <name> &7you can give someone rights to your areas. (Building, opening chests, etc.)",
             "de_DE": "&7Mit &e</claim trust> <name> &7kannst du jemanden Rechte auf deine Gebiete geben. (Bauen, Truhen öffnen etc.)"
-        }
+        },
+        "HELP.tipbroadcast.7":
+        {
+            "en_US": "&7Can't find any resources anymore? Then teleport yourself now to the &afarming world portal &7using &e<\farmworld>&7!",
+            "de_DE": "&7Du findest keine Ressourcen mehr? Dann teleportiere dich jetzt mit &e<\farmwelt> &7zum &aFarmwelt-Portal&7!"
+        },
         "NIGHT_VISION.enable":
         {
             "en_US": "&7You have &aenabled &7night vision!",
