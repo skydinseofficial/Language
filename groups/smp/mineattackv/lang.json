@@ -39,8 +39,8 @@
         },
         "HELP.tipbroadcast.7":
         {
-            "en_US": "&7Can't find any resources anymore? Then teleport yourself now to the &afarming world portal &7using &e<\farmworld>&7!",
-            "de_DE": "&7Du findest keine Ressourcen mehr? Dann teleportiere dich jetzt mit &e<\farmwelt> &7zum &aFarmwelt-Portal&7!"
+            "en_US": "&7Can't find any resources anymore? Then teleport yourself now to the &afarming world portal &7using &e<|farmworld>&7!",
+            "de_DE": "&7Du findest keine Ressourcen mehr? Dann teleportiere dich jetzt mit &e<|farmwelt> &7zum &aFarmwelt-Portal&7!"
         },
         "NIGHT_VISION.enable":
         {
