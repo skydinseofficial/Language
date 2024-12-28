@@ -627,6 +627,13 @@
             "en_XX": "Back",
             "de_DE": "Zurück"
         },
+        "BUTTON.cancel":
+        {
+            "en_US": "Cancel",
+            "en_GB": "Cancel",
+            "en_XX": "Cancel",
+            "de_DE": "Abbrechen"
+        },
         "BUTTON.nextpage":
         {
             "en_US": "Next Page",
