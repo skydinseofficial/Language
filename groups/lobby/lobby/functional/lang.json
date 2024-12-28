@@ -16,8 +16,8 @@
         },
         "RANKSHOP.msg.success":
         {
-            "en_US": "You have now received the rank [rank] for (further) [duration].",
-            "de_DE": "Du hast nun den Rang [rank] für (weitere) [duration] erhalten."
+            "en_US": "&7You have now received the rank [rank] &7for (further) <#FFD200>[duration]&7.",
+            "de_DE": "&7Du hast nun den Rang [rank] &7für (weitere) <#FFD200>[duration] &7erhalten."
         },
         "RANKSHOP.gui.main.title":
         {
