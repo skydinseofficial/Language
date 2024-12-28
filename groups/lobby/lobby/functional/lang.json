@@ -24,6 +24,26 @@
             "en_US": "&7Buy rank for <#FFD200>[currency]&7.\n&7Duration: <#FFD200>[duration]",
             "de_DE": "&7Rang für <#FFD200>[currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]"
         },
+        "RANKSHOP.gui.main.features.title":
+        {
+            "en_US": "&6View Features",
+            "de_DE": "&6Vorteile ansehen"
+        },
+        "RANKSHOP.gui.main.features.lore":
+        {
+            "en_US": "&7Check out the benefits that the rank\n&7brings with it before you buy it.",
+            "de_DE": "&7Sieh dir erst die Vorteile an, die der\n&7Rang mit sich bringt, bevor du diesen\n&7kaufst."
+        },
+        "RANKSHOP.gui.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "RANKSHOP.gui.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
         "MINEATTACK.msg.dataalreadyloading":
         {
             "en_US": "&cYour data is already loading!",
