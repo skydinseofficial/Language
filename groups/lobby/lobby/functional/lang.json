@@ -14,6 +14,16 @@
             "de_DE": ";&7Dir macht es Spaß hier zu spielen und;&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?;&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um;&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
             "ko_KR": ";&7여기서 플레이하는 것을 <#EE82EE>즐기시나요?;&7당신의 <#EE82EE>영향력&7으로 저희를 <#EE82EE>지원하고 싶으신가요?;&7그렇다면 <#EE82EE>저희 디스코드에서 <#EE82EE>VIP&7가 되기 위해 <#EE82EE>신청하세요;&7및 <#EE82EE>독점적인 기능&7에 접근하세요.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
         },
+        "RANKSHOP.gui.main.title":
+        {
+            "en_US": "Buy Rank for Blooms",
+            "de_DE": "Rang für Blüten kaufen"
+        },
+        "RANKSHOP.gui.main.buy.lore":
+        {
+            "en_US": "&7Buy rank for [currency]&7.\n&7Duration: <#FFD200>[duration]",
+            "de_DE": "&7Rang für [currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]"
+        },
         "MINEATTACK.msg.dataalreadyloading":
         {
             "en_US": "&cYour data is already loading!",
