@@ -21,8 +21,8 @@
         },
         "RANKSHOP.gui.main.buy.lore":
         {
-            "en_US": "&7Buy rank for [currency]&7.\n&7Duration: <#FFD200>[duration]",
-            "de_DE": "&7Rang für [currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]"
+            "en_US": "&7Buy rank for <#FFD200>[currency]&7.\n&7Duration: <#FFD200>[duration]",
+            "de_DE": "&7Rang für <#FFD200>[currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]"
         },
         "MINEATTACK.msg.dataalreadyloading":
         {
