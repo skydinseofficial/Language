@@ -102,6 +102,11 @@
             "en_US": "&cAn unexpected error occurred. Please try again or rejoin.",
             "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut oder verbinde dich neu mit dem Server."
         },
+        "MSG.editshop.delete.toomanyitems":
+        {
+            "en_US": "&cThere are too many items in the storages to delete this shop!",
+            "de_DE": "&cEs sind zu viele Items in den Lagern, um den Shop jetzt zu löschen!"
+        },
         "SHOP.holo.noitem":
         {
             "en_US": "&cNo item listed!",
