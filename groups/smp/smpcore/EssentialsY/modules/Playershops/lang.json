@@ -107,6 +107,11 @@
             "en_US": "&cThere are too many items in the storages to delete this shop!",
             "de_DE": "&cEs sind zu viele Items in den Lagern, um den Shop jetzt zu löschen!"
         },
+        "MSG.editshop.currency.toomanyelementsincurrencystorage":
+        {
+            "en_US": "&cThere are too many items in the currency storage to switch to money as currency!",
+            "de_DE": "&cEs sind zu viele Items im Lager für Gegenleistungen, um den Shop jetzt auf Geldeinheit umzustellen!"
+        },
         "SHOP.holo.noitem":
         {
             "en_US": "&cNo item listed!",
