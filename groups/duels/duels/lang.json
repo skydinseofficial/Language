@@ -82,10 +82,10 @@
             "en_US": "Wins:",
             "de_DE": "Siege:"
         },
-        "scoreboard.stats.loses":
+        "scoreboard.stats.playedgames":
         {
-            "en_US": "Loses:",
-            "de_DE": "Niederlagen:"
+            "en_US": "Games:",
+            "de_DE": "Spiele:"
         },
         "partyqueue.onlypartyleadercanexecute":
         {
