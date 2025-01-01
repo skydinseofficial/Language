@@ -17,6 +17,11 @@
             "en_US": "Map:",
             "de_DE": "Karte:"
         },
+        "ANCHOR.scoreboard.category.anchorsdestroyed":
+        {
+            "en_US": "Anchors destroyed",
+            "de_DE": "Anker zerstört"
+        },
         "ANCHOR.item.stick":
         {
             "en_US": "Stick",
