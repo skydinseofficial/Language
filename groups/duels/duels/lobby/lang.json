@@ -256,6 +256,26 @@
         {
             "en_US": "&7You &cleft &7the &6Kit Editor &7area!",
             "de_DE": "&7Du hast den &6Kit Editor&7-Bereich &cverlassen&7!"
+        },
+        "KIT.editor.gui.main.title":
+        {
+            "en_US": "Your Kits",
+            "de_DE": "Deine Kits"
+        },
+        "KIT.editor.gui.main.createkit.title":
+        {
+            "en_US": "Create a new Kit",
+            "de_DE": "Ein neues Kit erstellen"
+        },
+        "KIT.editor.gui.main.kit.lore":
+        {
+            "en_US": "&7Creation date: &x&F&F&D&2&0&0[date_creation]\n&7Modification date: &x&F&F&D&2&0&0[date_edit]",
+            "de_DE": "&7Erstellungsdatum: &x&F&F&D&2&0&0[date_creation]\n&7Änderungsdatum: &x&F&F&D&2&0&0[date_edit]"
+        },
+        "KIT.editor.gui.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
         }
     }
 }
