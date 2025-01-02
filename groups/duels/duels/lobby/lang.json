@@ -246,6 +246,16 @@
         {
             "en_US": "&7You got challanged by &6[player]&7.",
             "de_DE": "&7Du wurdest von &6[player] &7herausgefordert."
+        },
+        "KIT.editor.join":
+        {
+            "en_US": "&7You &aentered the &6Kit Editor &7area!",
+            "de_DE": "&7Du hast den &6Kit Editor&7-Bereich &abetreten&7!"
+        },
+        "KIT.editor.leave":
+        {
+            "en_US": "&7You &cleft &7the &6Kit Editor &7area!",
+            "de_DE": "&7Du hast den &6Kit Editor&7-Bereich &cverlassen&7!"
         }
     }
 }
