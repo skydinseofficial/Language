@@ -336,6 +336,41 @@
         {
             "en_US": "&7The kit &e[kit] &7has been created &asuccessfully&7!",
             "de_DE": "&7Das Kit &e[kit] &7wurde &aerfolgreich &7erstellt!"
+        },
+        "KIT.editor.scoreboard.title":
+        {
+            "en_US": "Kit",
+            "de_DE": "Kit"
+        },
+        "KIT.editor.scoreboard.name":
+        {
+            "en_US": "Name",
+            "de_DE": "Name"
+        },
+        "KIT.editor.scoreboard.players":
+        {
+            "en_US": "Players",
+            "de_DE": "Spieler"
+        },
+        "KIT.editor.scoreboard.status":
+        {
+            "en_US": "Status",
+            "de_DE": "Status"
+        },
+        "KIT.editor.scoreboard.status.0":
+        {
+            "en_US": "<#FF0A00>Blocked",
+            "de_DE": "<#FF0A00>Gesperrt"
+        },
+        "KIT.editor.scoreboard.status.1":
+        {
+            "en_US": "Private",
+            "de_DE": "Privat"
+        },
+        "KIT.editor.scoreboard.status.2":
+        {
+            "en_US": "<#50FF00>Public",
+            "de_DE": "<#50FF00>Öffentlich"
         }
     }
 }
