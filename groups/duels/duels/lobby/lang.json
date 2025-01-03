@@ -276,6 +276,21 @@
         {
             "en_US": "&8» <#F9BD31>Click to edit",
             "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "KIT.editor.chatinput.createkit.title":
+        {
+            "en_US": "<#FFD200>Create a Kit:",
+            "de_DE": "<#FFD200>Kit erstellen:"
+        },
+        "KIT.editor.chatinput.createkit.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>designation &7for your <#FFD84E>kit &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe eine <#FFD84E>Bezeichnung &7für dein <#FFD84E>Kit &7in den <#FFD84E>Chat&7."
+        },
+        "KIT.editor.chatinput.createkit.explanation.2":
+        {
+            "en_US": "<#FF7F7F>Special characters, formattings or spaces are not allowed.",
+            "de_DE": "<#FF7F7F>Sonderzeichen, Formattierungen oder Leerzeichen sind nicht erlaubt."
         }
     }
 }
