@@ -344,18 +344,18 @@
         },
         "KIT.editor.scoreboard.name":
         {
-            "en_US": "Name",
-            "de_DE": "Name"
+            "en_US": "Name:",
+            "de_DE": "Name:"
         },
         "KIT.editor.scoreboard.players":
         {
-            "en_US": "Players",
-            "de_DE": "Spieler"
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
         },
         "KIT.editor.scoreboard.status":
         {
-            "en_US": "Status",
-            "de_DE": "Status"
+            "en_US": "Status:",
+            "de_DE": "Status:"
         },
         "KIT.editor.scoreboard.status.0":
         {
