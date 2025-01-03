@@ -277,6 +277,31 @@
             "en_US": "&8» <#F9BD31>Click to edit",
             "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
         },
+        "KIT.editor.gui.createkit.title":
+        {
+            "en_US": "Create new Kit?",
+            "de_DE": "Neues Kit erstellen?"
+        },
+        "KIT.editor.gui.createkit.yes.title":
+        {
+            "en_US": "<#46FF00>YES",
+            "de_DE": "<#46FF00>JA"
+        },
+        "KIT.editor.gui.createkit.no.title":
+        {
+            "en_US": "<#FF0A00>NO",
+            "de_DE": "<#FF0A00>NEIN"
+        },
+        "KIT.editor.gui.clickaction.create":
+        {
+            "en_US": "&8» <#F9BD31>Click to create",
+            "de_DE": "&8» <#F9BD31>Klicke zum Erstellen"
+        },
+        "KIT.editor.gui.clickaction.cancel":
+        {
+            "en_US": "&8» <#F9BD31>Click to cancel",
+            "de_DE": "&8» <#F9BD31>Klicke zum Abbrechen"
+        },
         "KIT.editor.chatinput.createkit.title":
         {
             "en_US": "<#FFD200>Create a Kit:",
@@ -291,6 +316,11 @@
         {
             "en_US": "<#FF7F7F>Special characters, formattings or spaces are not allowed.",
             "de_DE": "<#FF7F7F>Sonderzeichen, Formattierungen oder Leerzeichen sind nicht erlaubt."
+        },
+        "KIT.editor.msg.createkit.kitalreadyexists":
+        {
+            "en_US": "&cA kit with this designation already exists!",
+            "de_DE": "&cEin Kit mit dieser Bezeichnung existiert bereits!"
         }
     }
 }
