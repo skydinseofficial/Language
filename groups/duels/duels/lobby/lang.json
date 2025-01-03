@@ -326,6 +326,11 @@
         {
             "en_US": "&cA kit with this designation already exists!",
             "de_DE": "&cEin Kit mit dieser Bezeichnung existiert bereits!"
+        },
+        "KIT.editor.msg.createkit.success":
+        {
+            "en_US": "&7The kit &e[kit] &7has been created &asuccessfully&7!",
+            "de_DE": "&7Das Kit &e[kit] &7wurde &aerfolgreich &7erstellt!"
         }
     }
 }
