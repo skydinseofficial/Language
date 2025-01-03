@@ -30,6 +30,11 @@
             "en_US": "&6Queue with party",
             "de_DE": "&6Warteschlange mit Party betreten"
         },
+        "NPCHOLO.title.yourkits":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lYOUR KITS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lDEINE KITS;&7(Ansehen)"
+        },
         "GUI.general.back":
         {
             "en_US": "&cBack",
