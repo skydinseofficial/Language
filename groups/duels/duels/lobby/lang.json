@@ -317,6 +317,11 @@
             "en_US": "<#FF7F7F>Special characters, formattings or spaces are not allowed.",
             "de_DE": "<#FF7F7F>Sonderzeichen, Formattierungen oder Leerzeichen sind nicht erlaubt."
         },
+        "KIT.editor.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
         "KIT.editor.msg.createkit.kitalreadyexists":
         {
             "en_US": "&cA kit with this designation already exists!",
