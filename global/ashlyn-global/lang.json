@@ -596,6 +596,46 @@
         {
             "en_US": "Winners",
             "de_DE": "Gewinner"
+        },
+        "QUEUE.scoreboard.category.winners":
+        {
+            "en_US": "Winners",
+            "de_DE": "Gewinner"
+        },
+        "QUEUE.bossbar.joining":
+        {
+            "en_US": "&7Joining Queue...",
+            "de_DE": "&7Warteschlange wird betreten..."
+        },
+        "QUEUE.bossbar.waitingforopponent":
+        {
+            "en_US": "&7Mode: &6[mode] &8» &7Map: &6[map] &8| &cWaiting for opponent... &7(&a[time]&7)",
+            "de_DE": "&7Modus: &6[mode] &8» &7Karte: &6[map] &8| &cWarten auf Gegner... &7(&a[time]&7)"
+        },
+        "QUEUE.bossbar.waitingforserver":
+        {
+            "en_US": "&7Mode: &6[mode] &8» &7Map: &6[map] &8| &cWaiting for server... &7(&a[time]&7)",
+            "de_DE": "&7Modus: &6[mode] &8» &7Karte: &6[map] &8| &cWarten auf Server... &7(&a[time]&7)"
+        },
+        "QUEUE.bossbar.random":
+        {
+            "en_US": "Random",
+            "de_DE": "Zufall"
+        },
+        "QUEUE.msg.opponentleft":
+        {
+            "en_US": "&cYour opponent has left the match! &7You got requeued.",
+            "de_DE": "&cDein Gegner hat das Match verlassen! &7Du wurdest erneut zur Warteschlange hinzugefügt."
+        },
+        "QUEUE.msg.waitingforserver":
+        {
+            "en_US": "&7Waiting for server...",
+            "de_DE": "&7Warten auf Server..."
+        },
+        "QUEUE.item.leavequeue":
+        {
+            "en_US": "&cLeave Queue",
+            "de_DE": "&cWarteschlange verlassen"
         }
     }
 }
