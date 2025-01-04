@@ -56,6 +56,16 @@
         {
             "en_US": "&cYou reached the build limit!",
             "de_DE": "&cDu hast das Baulimit erreicht!"
+        },
+        "GLOBAL.item.requeue":
+        {
+            "en_US": "&6Join the Queue",
+            "de_DE": "&6Warteschlange betreten"
+        },
+        "GLOBAL.item.revenge":
+        {
+            "en_US": "&6Revenge",
+            "de_DE": "&6Revanche"
         }
     }
 }
