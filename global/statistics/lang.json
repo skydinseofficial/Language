@@ -231,6 +231,16 @@
             "en_US": "Anchors destroyed",
             "de_DE": "Anker zerstört"
         },
+        "GUI.category.duels.damage":
+        {
+            "en_US": "Damage granted",
+            "de_DE": "Schaden erteilt"
+        },
+        "GUI.category.duels.receiveddamage":
+        {
+            "en_US": "Suffered damage",
+            "de_DE": "Schaden erlitten"
+        },
         "GUI.category.mineattackv.deaths":
         {
             "en_US": "Deaths",
