@@ -718,6 +718,26 @@
         {
             "en_US": "&cThere are no registered spawns!",
             "de_DE": "&cEs gibt keine registrierten Spawns!"
+        },
+        "SEASONS.msg.noseason":
+        {
+            "en_US": "&7On &e[group]&7, &cno Season &7is currently running.",
+            "de_DE": "&7Auf &e[group] &7läuft derzeit &ckeine Season&7."
+        },
+        "SEASONS.msg.currentseason":
+        {
+            "en_US": "&7On &e[group]&7, &6Season [season] &7is currently running.",
+            "de_DE": "&7Auf &e[group] &7läuft derzeit &6Season [season]&7."
+        },
+        "SEASONS.msg.list.season":
+        {
+            "en_US": "<+tip:'&7Created by &e[player]',text:'&8[<#FFD200>Season [season]&8] &7Start: &e[start]'>",
+            "de_DE": "<+tip:'&7Erstellt von &e[player]',text:'&8[<#FFD200>Season [season]&8] &7Start: &e[start]'>"
+        },
+        "SEASONS.msg.list.noseasons":
+        {
+            "en_US": "&cThis server group does not have seasons!",
+            "de_DE": "&cDiese Servergruppe hat keine Seasons!"
         }
     }
 }
