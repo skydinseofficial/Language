@@ -1,0 +1,51 @@
+{
+    "system": "esy-enderchests",
+    "translations":
+    {
+        "GUI.main.title":
+        {
+            "en_US": "Player Warps",
+            "de_DE": "Spieler Warps"
+        },
+        "GUI.edit.title":
+        {
+            "en_US": "Edit Warp [warp]",
+            "de_DE": "Warp [warp] &rbearbeiten"
+        },
+        "CHEST.1":
+        {
+            "en_US": "Regular Enderchest",
+            "de_DE": "Reguläre Endertruhe"
+        },
+        "CHEST.2":
+        {
+            "en_US": "&bExtra Enderchest 1",
+            "de_DE": "&bExtra Endertruhe 1"
+        },
+        "CHEST.3":
+        {
+            "en_US": "&9Extra Enderchest 2",
+            "de_DE": "&9Extra Endertruhe 2"
+        },
+        "CHEST.4":
+        {
+            "en_US": "&dExtra Enderchest 3",
+            "de_DE": "&dExtra Endertruhe 3"
+        },
+        "MSG.playeronotherserver":
+        {
+            "en_US": "&cAttention! &e[player] &7is currently on server &6[server]&7. To update safely, open the Ender Chest(s) on the same server.",
+            "de_DE": "&cAchtung! &e[player] &7ist derzeit auf Server &6[server]&7. Zur sicheren Aktualisierung, öffne die Endertruhe(n) auf dem selben Server."
+        },
+        "MSG.error.detailed":
+        {
+            "en_US": "&cAn error occurred: &e[error]",
+            "de_DE": "&cEin Fehler ist aufgetreten: &e[error]"
+        },
+        "MSG.changessaved":
+        {
+            "en_US": "&7Changes have been saved!",
+            "de_DE": "&7Änderungen wurden gespeichert!"
+        }
+    }
+}
