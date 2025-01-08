@@ -327,6 +327,11 @@
             "en_US": "&cThis region is not accessable right now! &7(Chunk of VAR1&7)",
             "de_DE": "&cDieses Gebiet ist derzeit nicht betretbar! &7(Chunk von VAR1&7)"
         },
+        "regionhandling.flyfeaturenotallowedhere":
+        {
+            "en_US": "&cYou can only activate flight mode on chunks that you own or on chunks where you are trusted.",
+            "de_DE": "&cDu kannst den Flugmodus nur auf Chunks aktivieren, die dir gehören oder auf Chunks, wo du vertraut bist."
+        },
         "tools.claimtoolalreadyinuse":
         {
             "en_US": "&cYou are already using the claimtool. You can see the chunk limits above you.",
