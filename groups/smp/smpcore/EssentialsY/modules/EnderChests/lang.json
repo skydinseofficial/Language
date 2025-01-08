@@ -7,10 +7,20 @@
             "en_US": "Select an Ender Chest",
             "de_DE": "Wähle eine Endertruhe"
         },
-        "GUI.edit.title":
+        "GUI.main.chest.lore.higherrank":
         {
-            "en_US": "Edit Warp [warp]",
-            "de_DE": "Warp [warp] &rbearbeiten"
+            "en_US": "&cYou don't have permission to use\n&cthis Ender Chest.",
+            "de_DE": "&cDu hast keine Berechtigung, um\n&cdiese Endertruhe zu nutzen."
+        },
+        "GUI.main.chest.lore.higherrank.specified":
+        {
+            "en_US": "&cTo use this Ender Chest, you need\n&cat least the [rank] rank&c.",
+            "de_DE": "&cUm diese Endertruhe nutzen zu können,\n&cbenötigst du mindestens den [rank]-Rang&c."
+        },
+        "GUI.actiondescription.click2open":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to open",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Öffnen"
         },
         "CHEST.1":
         {
