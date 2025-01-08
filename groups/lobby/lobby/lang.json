@@ -905,10 +905,10 @@
         },
         "NAVIGATOR.button.projects":
         {
-            "en_US": "&cMineAttack IV\" # \"&cProjects",
-            "de_DE": "&cMineAttack IV\" # \"&cProjekte",
-            "tr_TR": "&cMineAttack IV\" # \"&cProjeler",
-            "ko_KR": "&cMineAttack IV\" # \"&c프로젝트"
+            "en_US": "&cMineAttack V\" # \"&cProjects",
+            "de_DE": "&cMineAttack V\" # \"&cProjekte",
+            "tr_TR": "&cMineAttack V\" # \"&cProjeler",
+            "ko_KR": "&cMineAttack V\" # \"&c프로젝트"
         },
         "NAVIGATOR.button.game_blockparty":
         {
