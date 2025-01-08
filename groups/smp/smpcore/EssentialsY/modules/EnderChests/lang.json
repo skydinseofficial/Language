@@ -14,23 +14,23 @@
         },
         "CHEST.1":
         {
-            "en_US": "&7Regular Enderchest",
-            "de_DE": "&7Reguläre Endertruhe"
+            "en_US": "&7Enderchest 1",
+            "de_DE": "&7Endertruhe 1"
         },
         "CHEST.2":
         {
-            "en_US": "&bExtra Enderchest 1",
-            "de_DE": "&bExtra Endertruhe 1"
+            "en_US": "&bEnderchest 2",
+            "de_DE": "&bEndertruhe 2"
         },
         "CHEST.3":
         {
-            "en_US": "&9Extra Enderchest 2",
-            "de_DE": "&9Extra Endertruhe 2"
+            "en_US": "&9Enderchest 3",
+            "de_DE": "&9Endertruhe 3"
         },
         "CHEST.4":
         {
-            "en_US": "&dExtra Enderchest 3",
-            "de_DE": "&dExtra Endertruhe 3"
+            "en_US": "&dEnderchest 4",
+            "de_DE": "&dEndertruhe 4"
         },
         "MSG.playeronotherserver":
         {
