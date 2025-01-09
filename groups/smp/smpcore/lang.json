@@ -32,6 +32,11 @@
             "en_US": "&cThis spawn does not exist!",
             "de_DE": "&cDieser Spawn existiert nicht!"
         },
+        "newplayer":
+        {
+            "en_US": "[player] &7is new on &6[smp]&7! &x&F&F&D&8&0&0#[amount]",
+            "de_DE": "[player] &7ist neu auf &6[smp]&7! &x&F&F&D&8&0&0#[amount]"
+        },
         "deathmessage.1":
         {
             "en_US": "VAR1 &7died.",
