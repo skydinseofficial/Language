@@ -731,8 +731,8 @@
         },
         "SEASONS.msg.list.season":
         {
-            "en_US": "<+tip:'&7Created by &e[player]',text:'&8[<#FFD200>Season [season]&8] &7Start: &e[start]'>",
-            "de_DE": "<+tip:'&7Erstellt von &e[player]',text:'&8[<#FFD200>Season [season]&8] &7Start: &e[start]'>"
+            "en_US": "<+tip:'&7Created by &e[player]',text:'&8[&x&F&F&D&2&0&0Season [season]&8] &7Start: &e[start]'>",
+            "de_DE": "<+tip:'&7Erstellt von &e[player]',text:'&8[&x&F&F&D&2&0&0Season [season]&8] &7Start: &e[start]'>"
         },
         "SEASONS.msg.list.noseasons":
         {
