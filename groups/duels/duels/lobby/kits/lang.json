@@ -124,8 +124,8 @@
         },
         "KIT.gui.main.title":
         {
-            "en_US": "Public Kits ([amount])",
-            "de_DE": "Öffentliche Kits ([amount])"
+            "en_US": "Public Kits ([amount]&r)",
+            "de_DE": "Öffentliche Kits ([amount]&r)"
         },
         "KIT.gui.main.title.loading":
         {
