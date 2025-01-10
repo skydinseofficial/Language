@@ -738,6 +738,16 @@
         {
             "en_US": "&cThis server group does not have seasons!",
             "de_DE": "&cDiese Servergruppe hat keine Seasons!"
+        },
+        "SEASONS.msg.create.alreadyyoungerseason":
+        {
+            "en_US": "&cA younger season has already been registered! The next season must take place after that.",
+            "de_DE": "&cEs ist bereits eine jüngere Season eingetragen! Die nächste Season muss danach statt finden."
+        },
+        "SEASONS.msg.create.success":
+        {
+            "en_US": "&7You have set the start of &6Season [season] &7for &e[group] &7to <#FFD200>[start]&7.",
+            "de_DE": "&7Du hast den Start der &6Season [season] &7für &e[group] &7auf den <#FFD200>[start] &7festgelegt."
         }
     }
 }
