@@ -739,6 +739,11 @@
             "en_US": "&cThis server group does not have seasons!",
             "de_DE": "&cDiese Servergruppe hat keine Seasons!"
         },
+        "SEASONS.msg.create.invalidinput":
+        {
+            "en_US": "&cInvalid input.",
+            "de_DE": "&cFehlerhafte Eingabe."
+        },
         "SEASONS.msg.create.alreadyyoungerseason":
         {
             "en_US": "&cA younger season has already been registered! The next season must take place after that.",
