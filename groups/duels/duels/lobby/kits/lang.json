@@ -1,0 +1,136 @@
+{
+    "system": "duels-kits",
+    "translations":
+    {
+        "KIT.editor.join":
+        {
+            "en_US": "&7You &aentered the &6Kit Editor &7area!",
+            "de_DE": "&7Du hast den &6Kit Editor&7-Bereich &abetreten&7!"
+        },
+        "KIT.editor.leave":
+        {
+            "en_US": "&7You &cleft &7the &6Kit Editor &7area!",
+            "de_DE": "&7Du hast den &6Kit Editor&7-Bereich &cverlassen&7!"
+        },
+        "KIT.editor.gui.main.title":
+        {
+            "en_US": "Your Kits",
+            "de_DE": "Deine Kits"
+        },
+        "KIT.editor.gui.main.createkit.title":
+        {
+            "en_US": "Create a new Kit",
+            "de_DE": "Ein neues Kit erstellen"
+        },
+        "KIT.editor.gui.main.kit.lore":
+        {
+            "en_US": "&7Creation date: &x&F&F&D&2&0&0[date_creation]\n&7Modification date: &x&F&F&D&2&0&0[date_edit]",
+            "de_DE": "&7Erstellungsdatum: &x&F&F&D&2&0&0[date_creation]\n&7Änderungsdatum: &x&F&F&D&2&0&0[date_edit]"
+        },
+        "KIT.editor.gui.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "KIT.editor.gui.createkit.title":
+        {
+            "en_US": "Create new Kit?",
+            "de_DE": "Neues Kit erstellen?"
+        },
+        "KIT.editor.gui.createkit.yes.title":
+        {
+            "en_US": "<#46FF00>YES",
+            "de_DE": "<#46FF00>JA"
+        },
+        "KIT.editor.gui.createkit.no.title":
+        {
+            "en_US": "<#FF0A00>NO",
+            "de_DE": "<#FF0A00>NEIN"
+        },
+        "KIT.editor.gui.clickaction.create":
+        {
+            "en_US": "&8» <#F9BD31>Click to create",
+            "de_DE": "&8» <#F9BD31>Klicke zum Erstellen"
+        },
+        "KIT.editor.gui.clickaction.cancel":
+        {
+            "en_US": "&8» <#F9BD31>Click to cancel",
+            "de_DE": "&8» <#F9BD31>Klicke zum Abbrechen"
+        },
+        "KIT.editor.chatinput.createkit.title":
+        {
+            "en_US": "<#FFD200>Create a Kit:",
+            "de_DE": "<#FFD200>Kit erstellen:"
+        },
+        "KIT.editor.chatinput.createkit.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>designation &7for your <#FFD84E>kit &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe eine <#FFD84E>Bezeichnung &7für dein <#FFD84E>Kit &7in den <#FFD84E>Chat&7."
+        },
+        "KIT.editor.chatinput.createkit.explanation.2":
+        {
+            "en_US": "<#FF7F7F>Special characters, formattings or spaces are not allowed.",
+            "de_DE": "<#FF7F7F>Sonderzeichen, Formattierungen oder Leerzeichen sind nicht erlaubt."
+        },
+        "KIT.editor.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "KIT.editor.msg.createkit.kitalreadyexists":
+        {
+            "en_US": "&cA kit with this designation already exists!",
+            "de_DE": "&cEin Kit mit dieser Bezeichnung existiert bereits!"
+        },
+        "KIT.editor.msg.createkit.success":
+        {
+            "en_US": "&7The kit &e[kit] &7has been created &asuccessfully&7!",
+            "de_DE": "&7Das Kit &e[kit] &7wurde &aerfolgreich &7erstellt!"
+        },
+        "KIT.editor.scoreboard.title":
+        {
+            "en_US": "Kit",
+            "de_DE": "Kit"
+        },
+        "KIT.editor.scoreboard.name":
+        {
+            "en_US": "Name:",
+            "de_DE": "Name:"
+        },
+        "KIT.editor.scoreboard.players":
+        {
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
+        },
+        "KIT.editor.scoreboard.status":
+        {
+            "en_US": "Status:",
+            "de_DE": "Status:"
+        },
+        "KIT.editor.scoreboard.status.0":
+        {
+            "en_US": "<#FF0A00>Blocked",
+            "de_DE": "<#FF0A00>Gesperrt"
+        },
+        "KIT.editor.scoreboard.status.1":
+        {
+            "en_US": "Private",
+            "de_DE": "Privat"
+        },
+        "KIT.editor.scoreboard.status.2":
+        {
+            "en_US": "<#50FF00>Public",
+            "de_DE": "<#50FF00>Öffentlich"
+        },
+        "KIT.gui.main.title":
+        {
+            "en_US": "Public Kits ([amount])",
+            "de_DE": "Öffentliche Kits ([amount])"
+        },
+        "KIT.gui.main.title.loading":
+        {
+            "en_US": "&cLoading...",
+            "de_DE": "&cLaden..."
+        }
+    }
+}
