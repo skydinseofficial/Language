@@ -136,6 +136,11 @@
         {
             "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
             "de_DE": "&7Ersteller: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Favorisierungen: &x&F&F&D&2&0&0[favorites]"
+        },
+        "EXH.popularest.thisweek":
+        {
+            "en_US": "&eThis Week\n&6Popularest Kit #[no]\n&d[kit] &7by\n[player]",
+            "de_DE": "&eDiese Woche\n&6Beliebteste Kit #[no]\n&d[kit] &7von\n[player]"
         }
     }
 }
