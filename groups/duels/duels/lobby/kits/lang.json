@@ -141,6 +141,11 @@
         {
             "en_US": "&eThis Week;&6Popularest Kit #[no];&d[kit] &7by;[player]",
             "de_DE": "&eDiese Woche;&6Beliebteste Kit #[no];&d[kit] &7von;[player]"
+        },
+        "EXH.nokitavailable":
+        {
+            "en_US": "&cNo Kit;&cavailable",
+            "de_DE": "&cKein Kit;&cverfügbar"
         }
     }
 }
