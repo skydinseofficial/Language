@@ -139,8 +139,8 @@
         },
         "EXH.popularest.thisweek":
         {
-            "en_US": "&eThis Week\n&6Popularest Kit #[no]\n&d[kit] &7by\n[player]",
-            "de_DE": "&eDiese Woche\n&6Beliebteste Kit #[no]\n&d[kit] &7von\n[player]"
+            "en_US": "&eThis Week;&6Popularest Kit #[no];&d[kit] &7by;[player]",
+            "de_DE": "&eDiese Woche;&6Beliebteste Kit #[no];&d[kit] &7von;[player]"
         }
     }
 }
