@@ -171,6 +171,11 @@
         {
             "en_US": "&7You &cleft &7the &6Kit FFA &7area!",
             "de_DE": "&7Du hast den &6Kit FFA&7-Bereich &cverlassen&7!"
+        },
+        "KIT.ffa.msg.nokitselected":
+        {
+            "en_US": "&cYou don't have any kit selected!",
+            "de_DE": "&cDu hast kein Kit ausgewählt!"
         }
     }
 }
