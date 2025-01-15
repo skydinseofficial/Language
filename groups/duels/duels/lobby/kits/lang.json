@@ -161,6 +161,16 @@
         {
             "en_US": "&cNo Kit;&cavailable",
             "de_DE": "&cKein Kit;&cverfügbar"
+        },
+        "KIT.ffa.join":
+        {
+            "en_US": "&7You &aentered the &6Kit FFA &7area!",
+            "de_DE": "&7Du hast den &6Kit FFA&7-Bereich &abetreten&7!"
+        },
+        "KIT.ffa.leave":
+        {
+            "en_US": "&7You &cleft &7the &6Kit FFA &7area!",
+            "de_DE": "&7Du hast den &6Kit FFA&7-Bereich &cverlassen&7!"
         }
     }
 }
