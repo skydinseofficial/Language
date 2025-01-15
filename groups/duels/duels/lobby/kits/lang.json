@@ -191,6 +191,11 @@
         {
             "en_US": "K/D Today:",
             "de_DE": "K/D Heute:"
+        },
+        "KIT.ffa.scoreboard.title.topplayers":
+        {
+            "en_US": "Top Players",
+            "de_DE": "Top Spieler"
         }
     }
 }
