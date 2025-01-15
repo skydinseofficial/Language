@@ -184,13 +184,13 @@
         },
         "KIT.ffa.scoreboard.killstreak":
         {
-            "en_US": "Kit:",
-            "de_DE": "Kit:"
+            "en_US": "Kill Streak:",
+            "de_DE": "Killstreak:"
         },
         "KIT.ffa.scoreboard.kd":
         {
             "en_US": "K/D Today:",
-            "de_DE": "K/D Today:"
+            "de_DE": "K/D Heute:"
         }
     }
 }
