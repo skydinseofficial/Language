@@ -139,8 +139,13 @@
         },
         "EXH.popularest.thisweek":
         {
-            "en_US": "&eThis Week;&6Popularest Kit #[no];&d[kit] &7by;[player]",
-            "de_DE": "&eDiese Woche;&6Beliebteste Kit #[no];&d[kit] &7von;[player]"
+            "en_US": "&6&oThis Week;&x&F&F&D&2&0&0Most Popular Kit #[no];&e[kit] &7by;[player]",
+            "de_DE": "&6&oDiese Woche;&x&F&F&D&2&0&0Beliebtestes Kit #[no];&e[kit] &7von;[player]"
+        },
+        "EXH.popularest.thisseason":
+        {
+            "en_US": "&6&oThis Season;&x&F&F&D&2&0&0Most Popular Kit #[no];&e[kit] &7by;[player]",
+            "de_DE": "&6&oDiese Season;&x&F&F&D&2&0&0Beliebtestes Kit #[no];&e[kit] &7von;[player]"
         },
         "EXH.nokitavailable":
         {
