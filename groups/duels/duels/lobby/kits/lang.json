@@ -147,6 +147,16 @@
             "en_US": "&6&oThis Season;&x&F&F&D&2&0&0Most Popular Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7by;[player]",
             "de_DE": "&6&oDiese Season;&x&F&F&D&2&0&0Beliebtestes Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7von;[player]"
         },
+        "EXH.mostplayed.thisweek":
+        {
+            "en_US": "&6&oThis Week;&x&F&F&D&2&0&0Most Played Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7by;[player]",
+            "de_DE": "&6&oDiese Woche;&x&F&F&D&2&0&0Meist gespieltes Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7von;[player]"
+        },
+        "EXH.mostplayed.thisseason":
+        {
+            "en_US": "&6&oThis Season;&x&F&F&D&2&0&0Most Played Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7by;[player]",
+            "de_DE": "&6&oDiese Season;&x&F&F&D&2&0&0Meist gespieltes Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7von;[player]"
+        },
         "EXH.nokitavailable":
         {
             "en_US": "&cNo Kit;&cavailable",
