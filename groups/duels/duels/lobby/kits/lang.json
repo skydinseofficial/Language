@@ -196,6 +196,11 @@
         {
             "en_US": "Top Players",
             "de_DE": "Top Spieler"
+        },
+        "KIT.ffa.bossbar.combat":
+        {
+            "en_US": "&8[&x&F&F&0&F&0&0&lCOMBAT&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]",
+            "de_DE": "&8[&x&F&F&0&F&0&0&lKAMPF&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]"
         }
     }
 }
