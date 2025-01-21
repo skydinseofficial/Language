@@ -24,8 +24,8 @@
         },
         "SERVER.ashlyn.item.joinnew":
         {
-            "en_US": "&aFind new Game",
-            "de_DE": "&aNeues Spiel suchen"
+            "en_US": "&bFind new Game",
+            "de_DE": "&bNeues Spiel suchen"
         },
         "SERVER.ashlyn.item.teleporter":
         {
