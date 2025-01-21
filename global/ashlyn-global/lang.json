@@ -522,10 +522,10 @@
             "en_US": "&cThe countdown has been paused!",
             "de_DE": "&cDer Countdown wurde pausiert!"
         },
-        "MINIGAMEBASICS.msg.countdown.startinggame":
+        "MINIGAMEBASICS.msg.findnewgame":
         {
-            "en_US": "&7The game is starting...",
-            "de_DE": "&7Das Spiel startet..."
+            "en_US": "&7Searching for a new game...",
+            "de_DE": "&7Suche nach einem neuen Spiel..."
         },
         "MINIGAMEBASICS.msg.ingame.playergoteliminated":
         {
