@@ -32,6 +32,11 @@
             "en_US": "Game lenght (minutes)",
             "de_DE": "Spiellänge (Minuten)"
         },
+        "GUI.customsettings.main.setting.interactables":
+        {
+            "en_US": "Interactables",
+            "de_DE": "Interagierbare Objekte"
+        },
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
