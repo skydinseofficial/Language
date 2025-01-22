@@ -112,6 +112,11 @@
             "en_US": "&cYou need at least [price] Coins to buy this.",
             "de_DE": "&cDu benötigst mindestens [price] Münzen, um das zu kaufen."
         },
+        "MSG.success.potion.BOUGHT":
+        {
+            "en_US": "&dYou bought a Mystery Potion! &7&oDrink it to see what it does...",
+            "de_DE": "&dDu hast einen Mysteriösen Trank gekauft! &7&oTrinke ihn, um zu sehen, was er macht..."
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
