@@ -117,6 +117,11 @@
             "en_US": "&dYou bought a Mystery Potion! &7&oDrink it to see what it does...",
             "de_DE": "&dDu hast einen Mysteriösen Trank gekauft! &7&oTrinke ihn, um zu sehen, was er macht..."
         },
+        "MSG.error.potion.no.SLOT":
+        {
+            "en_US": "&cYou already have a Potion. &7&oDrink it first!",
+            "de_DE": "&cDu hast bereits einen Trank. &7&oTrinke ihn zuerst!"
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
