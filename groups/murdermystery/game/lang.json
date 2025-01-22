@@ -141,6 +141,11 @@
         {
             "en_US": "&bOne-shot Zapper",
             "de_DE": "&bEin-Schuss Zapper"
+        },
+        "ITEM.ingame.mystery.POTION":
+        {
+            "en_US": "&dMystery Potion",
+            "de_DE": "&dMysteriöser Trank"
         }
     }
 }
