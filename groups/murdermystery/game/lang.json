@@ -14,7 +14,7 @@
         },
         "GUI.customsettings.main.setting.coin-spawn-rate":
         {
-            "en_US": "Coin spawn rate (seconds)",
+            "en_US": "Coin Spawn Rate (seconds)",
             "de_DE": "Münzen-Spawnrate (Sekunden)"
         },
         "GUI.customsettings.main.setting.sheriff-bow-coins":
@@ -24,18 +24,23 @@
         },
         "GUI.customsettings.main.setting.sheriffamount":
         {
-            "en_US": "Amound of Sheriffs",
+            "en_US": "Amount of Sheriffs",
             "de_DE": "Sheriff-Anzahl"
         },
         "GUI.customsettings.main.setting.ingametime":
         {
-            "en_US": "Game lenght (minutes)",
+            "en_US": "Game Lenght (minutes)",
             "de_DE": "Spiellänge (Minuten)"
         },
         "GUI.customsettings.main.setting.interactables":
         {
             "en_US": "Interactables",
             "de_DE": "Interagierbare Objekte"
+        },
+        "GUI.customsettings.main.setting.potion-price":
+        {
+            "en_US": "Potion Price",
+            "de_DE": "Trank-Preis"
         },
         "TEXT.role.INNOCENT":
         {
