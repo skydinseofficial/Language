@@ -107,6 +107,11 @@
             "en_US": "&cZapper cooling down",
             "de_DE": "&cZapper lädt neu"
         },
+        "MSG.error.too.expensive":
+        {
+            "en_US": "&cYou need at least [price] Coins to buy this.",
+            "de_DE": "&cDu benötigst mindestens [price] Münzen, um das zu kaufen."
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]    [innocents]",
