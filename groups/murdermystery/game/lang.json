@@ -42,6 +42,11 @@
             "en_US": "Potion Price",
             "de_DE": "Trank-Preis"
         },
+        "GUI.customsettings.main.setting.potion-bad-effects":
+        {
+            "en_US": "Bad Mystery Potion Effects",
+            "de_DE": "Schlechte Effekte bei Mysteriösem Trank"
+        },
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
