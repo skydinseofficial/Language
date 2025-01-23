@@ -290,6 +290,11 @@
         {
             "en_US": "Extraordinary Changes (Shop, Support)",
             "de_DE": "Außergew. Veränderungen (Shop, Support)"
+        },
+        "EXH.holo.title":
+        {
+            "en_US": "Top [stats]",
+            "de_DE": "Top [stats]"
         }
     }
 }
