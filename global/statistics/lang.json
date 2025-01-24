@@ -206,6 +206,11 @@
             "en_US": "&6Anchor:",
             "de_DE": "&6Anker:"
         },
+        "GUI.stats.title.duels.kit":
+        {
+            "en_US": "&6Kit:",
+            "de_DE": "&6Kit:"
+        },
         "GUI.category.duels.kills":
         {
             "en_US": "Kills",
