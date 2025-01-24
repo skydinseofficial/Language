@@ -211,6 +211,16 @@
             "en_US": "&6Kit:",
             "de_DE": "&6Kit:"
         },
+        "GUI.stats.title.duels.mace":
+        {
+            "en_US": "&6Mace:",
+            "de_DE": "&6Mace:"
+        },
+        "GUI.stats.title.duels.sumo":
+        {
+            "en_US": "&6Sumo:",
+            "de_DE": "&6Sumo:"
+        },
         "GUI.category.duels.kills":
         {
             "en_US": "Kills",
@@ -250,6 +260,26 @@
         {
             "en_US": "Suffered damage",
             "de_DE": "Schaden erlitten"
+        },
+        "GUI.category.duels.thrownwindcharges":
+        {
+            "en_US": "Thrown Windcharges",
+            "de_DE": "Geworfene Windcharges"
+        },
+        "GUI.category.duels.distancefallen":
+        {
+            "en_US": "Distance fallen",
+            "de_DE": "Distance gefallen"
+        },
+        "GUI.category.duels.hits":
+        {
+            "en_US": "Hits",
+            "de_DE": "Treffer"
+        },
+        "GUI.category.duels.receivedhits":
+        {
+            "en_US": "Received Hits",
+            "de_DE": "Erhaltene Treffer"
         },
         "GUI.category.mineattackv.deaths":
         {
