@@ -281,36 +281,6 @@
             "en_US": "Jumps",
             "de_DE": "Sprünge"
         },
-        "GUI.category.duels.kills":
-        {
-            "en_US": "Kills",
-            "de_DE": "Kills"
-        },
-        "GUI.category.duels.deaths":
-        {
-            "en_US": "Deaths",
-            "de_DE": "Tode"
-        },
-        "GUI.category.duels.blocksplaced":
-        {
-            "en_US": "Blocks placed",
-            "de_DE": "Blöcke platziert"
-        },
-        "GUI.category.duels.blocksbreaked":
-        {
-            "en_US": "Blocks breaked",
-            "de_DE": "Blöcke zerstört"
-        },
-        "GUI.category.duels.glowstonehit":
-        {
-            "en_US": "Glowstone hit",
-            "de_DE": "Glowstone getroffen"
-        },
-        "GUI.category.duels.anchorsdestroyed":
-        {
-            "en_US": "Anchors destroyed",
-            "de_DE": "Anker zerstört"
-        },
         "GUI.category.global.blossoms":
         {
             "en_US": "Blooms Balance",
