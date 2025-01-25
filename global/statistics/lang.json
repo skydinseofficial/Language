@@ -335,6 +335,11 @@
         {
             "en_US": "Top [stats]",
             "de_DE": "Top [stats]"
+        },
+        "EXH.ast.title":
+        {
+            "en_US": "&x&F&D&C&8&2&C&l#1 [period]\n&x&F&F&E&4&7&0[player]\n&7[statistic]: &x&F&F&D&2&0&0[value]",
+            "de_DE": "&x&F&D&C&8&2&C&l#1 [period]\n&x&F&F&E&4&7&0[player]\n&7[statistic]: &x&F&F&D&2&0&0[value]"
         }
     }
 }
