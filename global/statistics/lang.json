@@ -340,6 +340,26 @@
         {
             "en_US": "&x&F&D&C&8&2&C&l#1 [period]\n&x&F&F&E&4&7&0[player]\n&7[statistic]: &x&F&F&D&2&0&0[value]",
             "de_DE": "&x&F&D&C&8&2&C&l#1 [period]\n&x&F&F&E&4&7&0[player]\n&7[statistic]: &x&F&F&D&2&0&0[value]"
+        },
+        "EXH.period.season":
+        {
+            "en_US": "Season",
+            "de_DE": "Season"
+        },
+        "EXH.period.month":
+        {
+            "en_US": "Month",
+            "de_DE": "Monat"
+        },
+        "EXH.period.week":
+        {
+            "en_US": "Week",
+            "de_DE": "Woche"
+        },
+        "EXH.period.day":
+        {
+            "en_US": "Day",
+            "de_DE": "Tag"
         }
     }
 }
