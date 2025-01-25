@@ -341,6 +341,11 @@
             "en_US": "&x&F&D&C&8&2&C&l#1 [period];&x&F&F&E&4&7&0[player];&7[statistic]: &x&F&F&D&2&0&0[value]",
             "de_DE": "&x&F&D&C&8&2&C&l#1 [period];&x&F&F&E&4&7&0[player];&7[statistic]: &x&F&F&D&2&0&0[value]"
         },
+        "EXH.period.alltime":
+        {
+            "en_US": "Alltime",
+            "de_DE": "Alltime"
+        },
         "EXH.period.season":
         {
             "en_US": "Season",
