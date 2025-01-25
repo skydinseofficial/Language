@@ -129,18 +129,18 @@
         },
         "ACTIONBAR.ingame.INNOCENT":
         {
-            "en_US": "[role]    [xp]    [coins]    [innocents]",
-            "de_DE": "[role]    [xp]    [coins]    [innocents]"
+            "en_US": "[role]    [xp]    [coins]",
+            "de_DE": "[role]    [xp]    [coins]"
         },
         "ACTIONBAR.ingame.SHERIFF":
         {
-            "en_US": "[role]    [xp]    [coins]    [zapper]    [innocents]",
-            "de_DE": "[role]    [xp]    [coins]    [zapper]    [innocents]"
+            "en_US": "[role]    [xp]    [coins]    [zapper]",
+            "de_DE": "[role]    [xp]    [coins]    [zapper]"
         },
         "ACTIONBAR.ingame.MURDERER":
         {
-            "en_US": "[role]    [xp]    [coins]    [kills]    [innocents]",
-            "de_DE": "[role]    [xp]    [coins]    [kills]    [innocents]"
+            "en_US": "[role]    [xp]    [coins]    [kills]",
+            "de_DE": "[role]    [xp]    [coins]    [kills]"
         },
         "ITEM.ingame.SWORD":
         {
