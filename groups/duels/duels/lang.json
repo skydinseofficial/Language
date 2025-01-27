@@ -101,6 +101,11 @@
         {
             "en_US": "Choose a game",
             "de_DE": "Wähle ein Spiel"
+        },
+        "GAMEGUI.gui.clickaction.click2view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
         }
     }
 }
