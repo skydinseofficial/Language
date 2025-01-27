@@ -97,15 +97,65 @@
             "en_US": "&cThis feature is only at a party member count of 2 players available.",
             "de_DE": "&cDiese Funktion ist nur bei einer Partymitgliederzahl von 2 Spielern verfügbar."
         },
-        "GAMEGUI.gui.title.gameselection":
+        "GAMEGUI.gui.gameselection.title":
         {
             "en_US": "Choose a game",
             "de_DE": "Wähle ein Spiel"
+        },
+        "GAMEGUI.gui.game.title":
+        {
+            "en_US": "Queue",
+            "de_DE": "Warteschlange"
+        },
+        "GAMEGUI.gui.game.title.modefilter":
+        {
+            "en_US": "Queue » [mode]",
+            "de_DE": "Warteschlange » [mode]"
+        },
+        "GAMEGUI.gui.game.mode.lore":
+        {
+            "en_US": "&7Players in queue: &x&F&F&D&2&0&0[queue]%nl%&7Players online: &a[players]",
+            "de_DE": "&7Spieler in der Warteschlange: &x&F&F&D&2&0&0[queue]%nl%&7Spieler online: &a[players]"
+        },
+        "GAMEGUI.gui.game.joinqueue.name":
+        {
+            "en_US": "&6Join Queue",
+            "de_DE": "&6Warteschlange betreten"
+        },
+        "GAMEGUI.gui.game.joinqueue.lore":
+        {
+            "en_US": "&7Mode: &x&F&F&D&2&0&0[mode]",
+            "de_DE": "&7Modus: &x&F&F&D&2&0&0[mode]"
+        },
+        "GAMEGUI.gui.game.joinqueue.everymode":
+        {
+            "en_US": "Every Mode",
+            "de_DE": "Jeder Modus"
+        },
+        "GAMEGUI.gui.game.createcustom.name":
+        {
+            "en_US": "&x&F&F&0&0&2&ECreate a Custom Round!",
+            "de_DE": "&x&F&F&0&0&2&EErstelle eine Custom Runde!"
+        },
+        "GAMEGUI.gui.game.createcustom.lore.nomodeselected":
+        {
+            "en_US": "&cNo mode selected!%nl%&x&F&F&7&F&7&FFirst, you need to select a mode on the top.",
+            "de_DE": "&cKeine Variante ausgewählt!%nl%&x&F&F&7&F&7&FDu musst erst eine Variante oben auswählen."
+        },
+        "GAMEGUI.gui.game.joinqueue.lore":
+        {
+            "en_US": "&7Mode: &x&F&F&D&2&0&0[mode]",
+            "de_DE": "&7Modus: &x&F&F&D&2&0&0[mode]"
         },
         "GAMEGUI.gui.clickaction.click2view":
         {
             "en_US": "&8» <#F9BD31>Click to view",
             "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
+        "GAMEGUI.gui.clickaction.click2select":
+        {
+            "en_US": "&8» <#F9BD31>Click to select",
+            "de_DE": "&8» <#F9BD31>Klicke zum Auswählen"
         }
     }
 }
