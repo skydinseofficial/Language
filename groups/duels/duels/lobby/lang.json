@@ -83,9 +83,9 @@
         },
         "GUI.settings.challange.lore":
         {
-            "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to &6Challange &7you.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine &6Kampanfrage &7schicken können.\n\n&8» <#face06>Klicke zum ändern",
-            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver.\n\n&8» <#face06>Değiştirmek için bas"
+            "en_US": "\n&7Mode: [mode]\n\n&7Toggle, which players are allowed\n&7to <#FFD84E>Challange &7you.",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Entscheide, welche Spieler dir\n&7eine <#FFD84E>Kampanfrage &7schicken können.",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuların sana kampanya talebi\n&7gönderebileceğine karar ver."
         },
         "GUI.settings.visibility":
         {
@@ -95,9 +95,9 @@
         },
         "GUI.settings.visibility.lore":
         {
-            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to &6see&7.\n\n&8» <#face06>Click to change",
-            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler du &6sehen &7kannst.\n\n&8» <#face06>Klicke zum ändern",
-            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları &6görebileceğini &7belirle.\n\n&8» <#face06>Değiştirmek için bas"
+            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to <#FFD84E>see&7.",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler du <#FFD84E>sehen &7kannst.",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları <#FFD84E>görebileceğini &7belirle."
         },
         "GUI.settings.fly":
         {
@@ -110,6 +110,11 @@
             "en_US": "\n&7Mode: [mode]\n\n&7Toggle your &6flight &7mode.\n\n&8» <#face06>Click to change",
             "de_DE": "\n&7Modus: [mode]\n\n&7Aktiviere oder deaktiviere das &6Fliegen&7.\n\n&8» <#face06>Klicke zum ändern",
             "tr_TR": "\n&7Modu: [mode]\n\n&6Uçmayı &7etkinleştir veya devre dışı bırak.\n\n&8» <#face06>Değiştirmek için bas"
+        },
+        "GUI.generic.click2change":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to change",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Ändern"
         },
         "GUI.generic.noperm.lore":
         {
