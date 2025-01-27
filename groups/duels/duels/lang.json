@@ -96,6 +96,11 @@
         {
             "en_US": "&cThis feature is only at a party member count of 2 players available.",
             "de_DE": "&cDiese Funktion ist nur bei einer Partymitgliederzahl von 2 Spielern verfügbar."
+        },
+        "GAMEGUI.gui.title.gameselection":
+        {
+            "en_US": "Choose a game",
+            "de_DE": "Wähle ein Spiel"
         }
     }
 }
