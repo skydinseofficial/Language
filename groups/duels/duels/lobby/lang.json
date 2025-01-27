@@ -25,6 +25,16 @@
             "en_US": "&6Level Rewards",
             "de_DE": "&6Levelbelohnungen"
         },
+        "ITEM.inventory":
+        {
+            "en_US": "&6Inventory",
+            "de_DE": "&6Inventar"
+        },
+        "ITEM.stats":
+        {
+            "en_US": "&6Your Statistics",
+            "de_DE": "&6Deine Statistiken"
+        },
         "ITEM.partyqueue":
         {
             "en_US": "&6Queue with party",
