@@ -147,6 +147,21 @@
             "en_US": "&7Mode: &x&F&F&D&2&0&0[mode]",
             "de_DE": "&7Modus: &x&F&F&D&2&0&0[mode]"
         },
+        "GAMEGUI.gui.game.inqueue.name":
+        {
+            "en_US": "&cLeave Queue",
+            "de_DE": "&cWarteschlange verlassen"
+        },
+        "GAMEGUI.gui.game.inqueue.lore":
+        {
+            "en_US": "&7You are currently in the queue.",
+            "de_DE": "&7Du befindest dich derzeit in der\n&7Warteschlange."
+        },
+        "GAMEGUI.gui.clickaction.click2leave":
+        {
+            "en_US": "&8» <#F9BD31>Click to leave",
+            "de_DE": "&8» <#F9BD31>Klicke zum Verlassen"
+        },
         "GAMEGUI.gui.clickaction.click2view":
         {
             "en_US": "&8» <#F9BD31>Click to view",
