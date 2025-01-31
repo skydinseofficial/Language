@@ -45,6 +45,16 @@
             "en_US": "&x&F&F&C&8&5&1&lYOUR KITS;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lDEINE KITS;&7(Ansehen)"
         },
+        "NPCHOLO.title.kiteditor":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lKIT EDITOR;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lKIT EDITOR;&7(Ansehen)"
+        },
+        "NPCHOLO.title.kitffa":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lKIT FFA;&7(Teleport)",
+            "de_DE": "&x&F&F&C&8&5&1&lKIT FFA;&7(Teleportieren)"
+        },
         "GUI.general.back":
         {
             "en_US": "&cBack",
