@@ -162,6 +162,21 @@
             "en_US": "Daily Kits",
             "de_DE": "Tageskits"
         },
+        "KIT.gui.main.order":
+        {
+            "en_US": "&6Order: &e[order]",
+            "de_DE": "&6Sortiere: &e[order]"
+        },
+        "KIT.gui.main.order.type.asc":
+        {
+            "en_US": "Ascending",
+            "de_DE": "Aufsteigend"
+        },
+        "KIT.gui.main.order.type.desc":
+        {
+            "en_US": "Descending",
+            "de_DE": "Absteigend"
+        },
         "KIT.gui.main.kit.lore":
         {
             "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
