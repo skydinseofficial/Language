@@ -132,10 +132,20 @@
             "en_US": "&cLoading...",
             "de_DE": "&cLaden..."
         },
+        "KIT.gui.main.generic.clickaction.click2switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Umschalten"
+        },
         "KIT.gui.main.generic.kitoftheday":
         {
             "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ",
             "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs"
+        },
+        "KIT.gui.main.sorting":
+        {
+            "en_US": "&6Show: &e[filter]",
+            "de_DE": "&6Zeige: &e[filter]"
         },
         "KIT.gui.main.sorting.type.allkits":
         {
