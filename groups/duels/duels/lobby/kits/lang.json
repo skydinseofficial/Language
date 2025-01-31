@@ -177,6 +177,26 @@
             "en_US": "Descending",
             "de_DE": "Absteigend"
         },
+        "KIT.gui.main.orderby":
+        {
+            "en_US": "&6Order by: &e[orderby]",
+            "de_DE": "&6Sortiere nach: &e[orderby]"
+        },
+        "KIT.gui.main.orderby.type.favorites":
+        {
+            "en_US": "Popularity",
+            "de_DE": "Beliebtheit"
+        },
+        "KIT.gui.main.orderby.type.mostplayed":
+        {
+            "en_US": "Most Players",
+            "de_DE": "Meiste Spieler"
+        },
+        "KIT.gui.main.orderby.type.date":
+        {
+            "en_US": "Release Date",
+            "de_DE": "Veröffentlichungsdatum"
+        },
         "KIT.gui.main.kit.lore":
         {
             "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
