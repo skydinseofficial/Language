@@ -142,22 +142,22 @@
             "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ",
             "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs"
         },
-        "KIT.gui.main.sorting":
+        "KIT.gui.main.filter":
         {
             "en_US": "&6Show: &e[filter]",
             "de_DE": "&6Zeige: &e[filter]"
         },
-        "KIT.gui.main.sorting.type.allkits":
+        "KIT.gui.main.filter.type.allkits":
         {
             "en_US": "All Kits",
             "de_DE": "Alle Kits"
         },
-        "KIT.gui.main.sorting.type.favoritekits":
+        "KIT.gui.main.filter.type.favoritekits":
         {
             "en_US": "Your favorite Kits",
             "de_DE": "Deine Favoriten"
         },
-        "KIT.gui.main.sorting.type.kitoftheday":
+        "KIT.gui.main.filter.type.kitoftheday":
         {
             "en_US": "Daily Kits",
             "de_DE": "Tageskits"
