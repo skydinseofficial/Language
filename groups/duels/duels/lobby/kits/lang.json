@@ -204,8 +204,8 @@
         },
         "KIT.gui.main.kit.lore.kitoftheday":
         {
-            "en_US": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n     <#BAB6FF>[date]",
-            "de_DE": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n      <#BAB6FF>[date]"
+            "en_US": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n        <#BAB6FF>[date]",
+            "de_DE": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n         <#BAB6FF>[date]"
         },
         "EXH.popularest.thisweek":
         {
