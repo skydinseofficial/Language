@@ -141,6 +141,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to open",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Öffnen"
         },
+        "GUI.generic.click2view":
+        {
+            "en_US": "&8» &x&F&9&B&D&3&1Click to view",
+            "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Ansehen"
+        },
         "GUI.generic.noperm.lore":
         {
             "en_US": "\n&cYou are lacking permission!\n\n&7Rank needed: [rank]\n\n&8» <#face06>Alright!",
