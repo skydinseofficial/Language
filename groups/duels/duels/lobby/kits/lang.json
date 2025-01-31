@@ -137,6 +137,21 @@
             "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ",
             "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs"
         },
+        "KIT.gui.main.sorting.type.allkits":
+        {
+            "en_US": "All Kits",
+            "de_DE": "Alle Kits"
+        },
+        "KIT.gui.main.sorting.type.favoritekits":
+        {
+            "en_US": "Your favorite Kits",
+            "de_DE": "Deine Favoriten"
+        },
+        "KIT.gui.main.sorting.type.kitoftheday":
+        {
+            "en_US": "Daily Kits",
+            "de_DE": "Tageskits"
+        },
         "KIT.gui.main.kit.lore":
         {
             "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
@@ -144,8 +159,8 @@
         },
         "KIT.gui.main.kit.lore.kitoftheday":
         {
-            "en_US": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n <#BAB6FF>[date]",
-            "de_DE": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n <#BAB6FF>[date]"
+            "en_US": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n    <#BAB6FF>[date]",
+            "de_DE": "   <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n    <#BAB6FF>[date]"
         },
         "EXH.popularest.thisweek":
         {
