@@ -132,6 +132,11 @@
             "en_US": "&cLoading...",
             "de_DE": "&cLaden..."
         },
+        "KIT.gui.main.generic.kitoftheday":
+        {
+            "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ",
+            "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs"
+        },
         "KIT.gui.main.kit.lore":
         {
             "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
