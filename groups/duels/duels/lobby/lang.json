@@ -297,6 +297,46 @@
             "en_US": "&7You got challanged by &6[player]&7.",
             "de_DE": "&7Du wurdest von &6[player] &7herausgefordert."
         },
+        "CHALLENGE.msg.targetcannotreceive":
+        {
+            "en_US": "&cThis player cannot currently be challenged.",
+            "de_DE": "&cDieser Spieler kann derzeit nicht herausgefordert werden."
+        },
+        "CHALLENGE.msg.targetoffline":
+        {
+            "en_US": "&cThe target player is not here anymore.",
+            "de_DE": "&cDer Zielspieler ist nicht mehr hier."
+        },
+        "CHALLENGE.msg.cannotchallenge":
+        {
+            "en_US": "&cYou cannot currently challange players.",
+            "de_DE": "&cDu kannst aktuell keine Spieler herausfordern."
+        },
+        "CHALLENGE.msg.requestsent":
+        {
+            "en_US": "&7You challenged [player]&7!",
+            "de_DE": "&7Du hast [player] &7herausgefordert!"
+        },
+        "CHALLENGE.msg.incomingchallenge.1":
+        {
+            "en_US": "[player] &7challenged you!",
+            "de_DE": "[player] &7hat dich herausgefordert!"
+        },
+        "CHALLENGE.msg.incomingchallenge.2":
+        {
+            "en_US": "&7Mode: &x&F&F&D&2&0&0[mode] &8| &7Map: &x&F&F&D&2&0&0[map]",
+            "de_DE": "&7Modus: &x&F&F&D&2&0&0[mode] &8| &7Karte: &x&F&F&D&2&0&0[map]"
+        },
+        "CHALLENGE.msg.incomingchallenge.2.kit":
+        {
+            "en_US": "&7Mode: &x&F&F&D&2&0&0[mode] &8| &7Map: &x&F&F&D&2&0&0[map] &8| &7Kit: &x&F&F&D&2&0&0[kit]",
+            "de_DE": "&7Modus: &x&F&F&D&2&0&0[mode] &8| &7Karte: &x&F&F&D&2&0&0[map] &8| &7Kit: &x&F&F&D&2&0&0[kit]"
+        },
+        "CHALLENGE.msg.incomingchallenge.3":
+        {
+            "en_US": "<|tip:'&7» Click to accept «',value:'challenge [player]',text:'&x&6&9&F&F&0&0[/challenge [player]]'>",
+            "de_DE": "<|tip:'&7» Klicke zum Akzeptieren «',value:'challenge [player]',text:'&x&6&9&F&F&0&0[/challenge [player]]'>"
+        },
         "KIT.editor.join":
         {
             "en_US": "&7You &aentered the &6Kit Editor &7area!",
