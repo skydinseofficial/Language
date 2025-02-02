@@ -337,6 +337,26 @@
             "en_US": "<|tip:'&7» Click to accept «',value:'challenge [player]',text:'&x&6&9&F&F&0&0[/challenge [player]]'>",
             "de_DE": "<|tip:'&7» Klicke zum Akzeptieren «',value:'challenge [player]',text:'&x&6&9&F&F&0&0[/challenge [player]]'>"
         },
+        "CHALLENGE.msg.pleasetypeaname":
+        {
+            "en_US": "&cPlease type a player name.",
+            "de_DE": "&cBitte gebe einen Spielernamen an."
+        },
+        "CHALLENGE.msg.challengeaccepted.1":
+        {
+            "en_US": "&7You accepted [player]&7's challenge!",
+            "de_DE": "&7Du hast die Herausforderung von [player] &7angenommen!"
+        },
+        "CHALLENGE.msg.challengeaccepted.2":
+        {
+            "en_US": "&7Looking for a server...",
+            "de_DE": "&7Es wird nach einem Server gesucht..."
+        },
+        "CHALLENGE.msg.challengegotaccepted":
+        {
+            "en_US": "[player] &7has accepted your challenge!",
+            "de_DE": "[player] &7hat deine Herausforderung angenommen!"
+        },
         "KIT.editor.join":
         {
             "en_US": "&7You &aentered the &6Kit Editor &7area!",
