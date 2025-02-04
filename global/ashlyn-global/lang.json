@@ -627,6 +627,16 @@
             "en_US": "&cYour opponent has left the match! &7You got requeued.",
             "de_DE": "&cDein Gegner hat das Match verlassen! &7Du wurdest erneut zur Warteschlange hinzugefügt."
         },
+        "QUEUE.msg.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! &7You've been removed from the queue.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! &7Du wurdest aus der Warteschlange entfernt."
+        },
+        "QUEUE.msg.nopermission":
+        {
+            "en_US": "&cYou don't have the permission to use this command.",
+            "de_DE": "&cDu hast nicht die Berechtigung, diesen Befehl zu verwenden."
+        },
         "QUEUE.msg.waitingforserver":
         {
             "en_US": "&7Waiting for server...",
