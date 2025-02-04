@@ -609,13 +609,13 @@
         },
         "QUEUE.bossbar.waitingforopponent":
         {
-            "en_US": "&7Mode: &6[mode] &8» &7Map: &6[map] &8| &cWaiting for opponent... &7(&a[time]&7)",
-            "de_DE": "&7Modus: &6[mode] &8» &7Karte: &6[map] &8| &cWarten auf Gegner... &7(&a[time]&7)"
+            "en_US": "&cWaiting for opponent... &7(&a[time]&7)",
+            "de_DE": "&cWarten auf Gegner... &7(&a[time]&7)"
         },
         "QUEUE.bossbar.waitingforserver":
         {
-            "en_US": "&7Mode: &6[mode] &8» &7Map: &6[map] &8| &cWaiting for server... &7(&a[time]&7)",
-            "de_DE": "&7Modus: &6[mode] &8» &7Karte: &6[map] &8| &cWarten auf Server... &7(&a[time]&7)"
+            "en_US": "&cWaiting for server... &7(&a[time]&7)",
+            "de_DE": "&cWarten auf Server... &7(&a[time]&7)"
         },
         "QUEUE.bossbar.random":
         {
