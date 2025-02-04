@@ -647,6 +647,21 @@
             "en_US": "&7Waiting for server...",
             "de_DE": "&7Warten auf Server..."
         },
+        "QUEUE.extra.mode":
+        {
+            "en_US": "&7Mode: &6[value]",
+            "de_DE": "&7Modus: &6[value]"
+        },
+        "QUEUE.extra.map":
+        {
+            "en_US": "&7Map: &6[value]",
+            "de_DE": "&7Karte: &6[value]"
+        },
+        "QUEUE.extra.kit":
+        {
+            "en_US": "&7Kit: &6[value]",
+            "de_DE": "&7Kit: &6[value]"
+        },
         "QUEUE.item.leavequeue":
         {
             "en_US": "&cLeave Queue",
