@@ -637,6 +637,11 @@
             "en_US": "&cYou don't have the permission to use this command.",
             "de_DE": "&cDu hast nicht die Berechtigung, diesen Befehl zu verwenden."
         },
+        "QUEUE.msg.queuereset":
+        {
+            "en_US": "&x&F&F&0&0&0&0ATTENTION: &7The &6Duels Queue &7has just been reset by [player]&7!",
+            "de_DE": "&x&F&F&0&0&0&0ACHTUNG: &7Die &6Duels Warteschlange &7wurde soeben von [player] &7zurückgesetzt!"
+        },
         "QUEUE.msg.waitingforserver":
         {
             "en_US": "&7Waiting for server...",
