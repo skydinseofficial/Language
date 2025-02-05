@@ -17,6 +17,11 @@
             "en_US": "Map:",
             "de_DE": "Karte:"
         },
+        "KIT.scoreboard.category.health":
+        {
+            "en_US": "Health",
+            "de_DE": "Gesundheit"
+        },
         "ANCHOR.scoreboard.category.anchorsdestroyed":
         {
             "en_US": "Anchors destroyed",
@@ -56,6 +61,11 @@
         {
             "en_US": "&cYou reached the build limit!",
             "de_DE": "&cDu hast das Baulimit erreicht!"
+        },
+        "SUMO.scoreboard.category.health":
+        {
+            "en_US": "Health",
+            "de_DE": "Gesundheit"
         },
         "GLOBAL.item.requeue":
         {
