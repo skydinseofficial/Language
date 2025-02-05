@@ -86,6 +86,11 @@
         {
             "en_US": "&cYou haven't played.",
             "de_DE": "&cDu hast nicht gespielt."
+        },
+        "GLOBAL.msg.alreadysentrevengerequest":
+        {
+            "en_US": "&cYou've already challenged someone.",
+            "de_DE": "&cDu hast bereits jemanden herausgefordert."
         }
     }
 }
