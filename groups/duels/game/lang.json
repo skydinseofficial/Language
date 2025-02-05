@@ -67,6 +67,11 @@
             "en_US": "Health",
             "de_DE": "Gesundheit"
         },
+        "SUMO.scoreboard.line.hits":
+        {
+            "en_US": "Hits",
+            "de_DE": "Treffer"
+        },
         "GLOBAL.item.requeue":
         {
             "en_US": "&6Join the Queue",
