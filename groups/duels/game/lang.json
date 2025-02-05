@@ -76,6 +76,16 @@
         {
             "en_US": "&6Revenge",
             "de_DE": "&6Revanche"
+        },
+        "GLOBAL.msg.opponentnothere":
+        {
+            "en_US": "&cYour opponent is not here anymore.",
+            "de_DE": "&cDein Gegner ist nicht mehr hier."
+        },
+        "GLOBAL.msg.youhaventplayed":
+        {
+            "en_US": "&cYou haven't played.",
+            "de_DE": "&cDu hast nicht gespielt."
         }
     }
 }
