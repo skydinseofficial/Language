@@ -62,12 +62,7 @@
             "en_US": "&cYou reached the build limit!",
             "de_DE": "&cDu hast das Baulimit erreicht!"
         },
-        "SUMO.scoreboard.category.health":
-        {
-            "en_US": "Health",
-            "de_DE": "Gesundheit"
-        },
-        "SUMO.scoreboard.line.hits":
+        "SUMO.scoreboard.category.hits":
         {
             "en_US": "Hits",
             "de_DE": "Treffer"
