@@ -67,6 +67,11 @@
             "en_US": "Hits",
             "de_DE": "Treffer"
         },
+        "MACE.scoreboard.category.health":
+        {
+            "en_US": "Health",
+            "de_DE": "Gesundheit"
+        },
         "GLOBAL.item.requeue":
         {
             "en_US": "&6Join the Queue",
