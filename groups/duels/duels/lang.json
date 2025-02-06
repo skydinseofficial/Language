@@ -72,6 +72,11 @@
             "en_US": "Sumo",
             "de_DE": "Sumo"
         },
+        "mode.display.mace":
+        {
+            "en_US": "Mace",
+            "de_DE": "Mace"
+        },
         "scoreboard.stats.level":
         {
             "en_US": "Level:",
