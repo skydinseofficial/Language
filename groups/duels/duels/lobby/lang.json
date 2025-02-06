@@ -50,6 +50,11 @@
             "en_US": "&x&F&F&C&8&5&1&lYOUR KITS;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lDEINE KITS;&7(Ansehen)"
         },
+        "NPCHOLO.title.kitsettings":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lKIT SETTINGS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lKIT EINSTELLUNGEN;&7(Ansehen)"
+        },
         "NPCHOLO.title.kiteditor":
         {
             "en_US": "&x&F&F&C&8&5&1&lKIT EDITOR;&7(View)",
