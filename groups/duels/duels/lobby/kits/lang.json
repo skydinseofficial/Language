@@ -42,6 +42,11 @@
             "en_US": "&8» <#F9BD31>Click to switch",
             "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
         },
+        "KIT.editor.gui.clickaction.update":
+        {
+            "en_US": "&8» <#F9BD31>Click to update",
+            "de_DE": "&8» <#F9BD31>Klicke zum Aktualisieren"
+        },
         "KIT.editor.gui.clickaction.edit":
         {
             "en_US": "&8» <#F9BD31>Click to edit",
@@ -101,6 +106,16 @@
         {
             "en_US": "&7Everyone can play your kit.",
             "de_DE": "&7Jeder kann dein Kit spielen."
+        },
+        "KIT.editor.gui.settings.kiticon":
+        {
+            "en_US": "&6Kit Icon",
+            "de_DE": "&6Kit Icon"
+        },
+        "KIT.editor.gui.settings.kiticon.lore":
+        {
+            "en_US": "&cClick to change the kit icon to the\n&7item in your hand.",
+            "de_DE": "&7Klicke, um das Kit Symbol zu dem Item\n&7in deiner Hand zu ändern."
         },
         "KIT.editor.chatinput.createkit.title":
         {
