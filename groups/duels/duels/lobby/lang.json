@@ -65,6 +65,11 @@
             "en_US": "&x&F&F&C&8&5&1&lKIT FFA;&7(Teleport)",
             "de_DE": "&x&F&F&C&8&5&1&lKIT FFA;&7(Teleportieren)"
         },
+        "NPCHOLO.title.queuerandom":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lRANDOM QUEUE;&7(Join)",
+            "de_DE": "&x&F&F&C&8&5&1&lZUFALLS WARTESCHLANGE;&7(Betreten)"
+        },
         "GUI.general.back":
         {
             "en_US": "&cBack",
