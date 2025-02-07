@@ -17,6 +17,11 @@
             "en_US": "Your Kits",
             "de_DE": "Deine Kits"
         },
+        "KIT.editor.gui.settings.title":
+        {
+            "en_US": "Kit Settings",
+            "de_DE": "Kit-Einstellungen"
+        },
         "KIT.editor.gui.main.createkit.title":
         {
             "en_US": "Create a new Kit",
@@ -26,6 +31,16 @@
         {
             "en_US": "&7Creation date: &x&F&F&D&2&0&0[date_creation]\n&7Modification date: &x&F&F&D&2&0&0[date_edit]",
             "de_DE": "&7Erstellungsdatum: &x&F&F&D&2&0&0[date_creation]\n&7Änderungsdatum: &x&F&F&D&2&0&0[date_edit]"
+        },
+        "KIT.editor.gui.clickaction.delete":
+        {
+            "en_US": "&8» <#F9BD31>Click to delete",
+            "de_DE": "&8» <#F9BD31>Klicke zum Löschen"
+        },
+        "KIT.editor.gui.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
         },
         "KIT.editor.gui.clickaction.edit":
         {
@@ -57,6 +72,36 @@
             "en_US": "&8» <#F9BD31>Click to cancel",
             "de_DE": "&8» <#F9BD31>Klicke zum Abbrechen"
         },
+        "KIT.editor.gui.settings.deletekit":
+        {
+            "en_US": "&4Delete Kit",
+            "de_DE": "&4Kit löschen"
+        },
+        "KIT.editor.gui.settings.deletekit.lore":
+        {
+            "en_US": "&cDelete your kit immediately and irrevocably.",
+            "de_DE": "&cLösche dein Kit sofort und unwiderruflich."
+        },
+        "KIT.editor.gui.settings.kitstatus":
+        {
+            "en_US": "&7Kit Status: &x&F&F&D&4&0&0[status]",
+            "de_DE": "&7Kit Status: &x&F&F&D&4&0&0[status]"
+        },
+        "KIT.editor.gui.settings.kitstatus.lore.0":
+        {
+            "en_US": "&cYour kit is currently blocked!\n&ePlease contact support.",
+            "de_DE": "&cDein Kit ist derzeit gesperrt!\n&eWende dich bitte an den Support."
+        },
+        "KIT.editor.gui.settings.kitstatus.lore.1":
+        {
+            "en_US": "&7Only you can currently play your kit.",
+            "de_DE": "&7Nur du kannst dein Kit derzeit spielen."
+        },
+        "KIT.editor.gui.settings.kitstatus.lore.2":
+        {
+            "en_US": "&7Everyone can play your kit.",
+            "de_DE": "&7Jeder kann dein Kit spielen."
+        },
         "KIT.editor.chatinput.createkit.title":
         {
             "en_US": "<#FFD200>Create a Kit:",
@@ -76,6 +121,21 @@
         {
             "en_US": "&cTime is up. Try it again.",
             "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "KIT.editor.msg.settings.notediting":
+        {
+            "en_US": "&cYou are currently not editing a kit.",
+            "de_DE": "&cDu bearbeitest derzeit kein Kit."
+        },
+        "KIT.editor.msg.settings.kitdeleted":
+        {
+            "en_US": "&7The kit &x&F&F&D&4&0&0[kit] &7has been &cdeleted&7.",
+            "de_DE": "&7Das Kit &x&F&F&D&4&0&0[kit] &7wurde &cgelöscht&7."
+        },
+        "KIT.editor.msg.settings.kitdeleteerror":
+        {
+            "en_US": "&cThe kit could not be deleted.",
+            "de_DE": "&cDas Kit konnte nicht gelöscht werden."
         },
         "KIT.editor.msg.createkit.kitalreadyexists":
         {
