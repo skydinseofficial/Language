@@ -107,6 +107,11 @@
             "en_US": "&7Your &6challenge &7has been &aaccepted&7!",
             "de_DE": "&7Deine &6Herausforderung &7wurde &aangenommen&7!"
         },
+        "GLOBAL.msg.challengesent":
+        {
+            "en_US": "&7You have challenged your opponent to a &6rematch&7.",
+            "de_DE": "&7Du hast deinen Gegner zu einer &6Revanche &7herausgefordert."
+        },
         "GLOBAL.msg.opponentleft":
         {
             "en_US": "&cYour opponent left the game early. &7The game will end immediately...",
