@@ -147,6 +147,11 @@
             "en_US": "&7The kit &x&F&F&D&4&0&0[kit] &7has been &cdeleted&7.",
             "de_DE": "&7Das Kit &x&F&F&D&4&0&0[kit] &7wurde &cgelöscht&7."
         },
+        "KIT.editor.msg.settings.maxkitsreached":
+        {
+            "en_US": "&cYou have reached the kit limit!",
+            "de_DE": "&cDu hast das Kitlimit erreicht!"
+        },
         "KIT.editor.msg.settings.kitdeleteerror":
         {
             "en_US": "&cThe kit could not be deleted.",
