@@ -152,6 +152,16 @@
             "en_US": "&cThe kit could not be deleted.",
             "de_DE": "&cDas Kit konnte nicht gelöscht werden."
         },
+        "KIT.editor.msg.settings.kiticonupdated":
+        {
+            "en_US": "&7The icon for kit &x&F&F&D&4&0&0[kit] &7has been updated.",
+            "de_DE": "&7Das Symbol für das Kit &x&F&F&D&4&0&0[kit] &7wurde geändert."
+        },
+        "KIT.editor.msg.settings.kiticonupdateerror":
+        {
+            "en_US": "&cThe kit icon could not be updated.",
+            "de_DE": "&cDas Kit-Symbol konnte nicht aktualisiert werden."
+        },
         "KIT.editor.msg.createkit.kitalreadyexists":
         {
             "en_US": "&cA kit with this designation already exists!",
