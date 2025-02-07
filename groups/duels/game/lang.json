@@ -96,6 +96,21 @@
         {
             "en_US": "&cYou've already challenged someone.",
             "de_DE": "&cDu hast bereits jemanden herausgefordert."
+        },
+        "GLOBAL.msg.challengereceive":
+        {
+            "en_US": "&7You have been challenged to a &6rematch&7. &fClick the &eSword &fto accept.",
+            "de_DE": "&7Du wurdest zu einer &6Revanche &7herausgefordert. &fKlicke das &eSchwert &fzum annehmen."
+        },
+        "GLOBAL.msg.challengeaccepted":
+        {
+            "en_US": "&7Your &6challenge &7has been &aaccepted&7!",
+            "de_DE": "&7Deine &6Herausforderung &7wurde &aangenommen&7!"
+        },
+        "GLOBAL.msg.opponentleft":
+        {
+            "en_US": "&cYour opponent left the game early. &7The game will end immediately...",
+            "de_DE": "&cDein Gegner hat das Spiel frühzeitig verlassen. &7Das Spiel wird sofort beendet..."
         }
     }
 }
