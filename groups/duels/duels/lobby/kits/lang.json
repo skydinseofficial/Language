@@ -162,6 +162,16 @@
             "en_US": "&cThe kit icon could not be updated.",
             "de_DE": "&cDas Kit-Symbol konnte nicht aktualisiert werden."
         },
+        "KIT.editor.msg.settings.nowpublic":
+        {
+            "en_US": "&7Your kit is <#50FF00>public &7as soon as you leave the &6Kit editor&7.",
+            "de_DE": "&7Dein Kit ist <#50FF00>öffentlich&7, sobald du den &6Kit-Editor &7verlässt."
+        },
+        "KIT.editor.msg.settings.nowprivate":
+        {
+            "en_US": "&7Your kit is <#FF2F00>private &7as soon as you leave the &6Kit editor&7.",
+            "de_DE": "&7Dein Kit ist <#FF2F00>privat&7, sobald du den &6Kit-Editor &7verlässt."
+        },
         "KIT.editor.msg.createkit.kitalreadyexists":
         {
             "en_US": "&cA kit with this designation already exists!",
