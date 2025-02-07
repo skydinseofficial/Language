@@ -177,6 +177,11 @@
             "en_US": "&7The kit &x&F&F&D&4&0&0[kit] &7is now &cblocked&7.",
             "de_DE": "&7Das Kit &x&F&F&D&4&0&0[kit] &7ist nun &cgesperrt&7."
         },
+        "KIT.editor.msg.settings.statuserror":
+        {
+            "en_US": "&cThe status could not be changed.",
+            "de_DE": "&cDer Status konnte nicht geändert werden."
+        },
         "KIT.editor.msg.createkit.kitalreadyexists":
         {
             "en_US": "&cA kit with this designation already exists!",
