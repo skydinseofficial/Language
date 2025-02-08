@@ -317,6 +317,11 @@
             "en_US": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n        <#BAB6FF>[date]",
             "de_DE": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n         <#BAB6FF>[date]"
         },
+        "EXH.daily":
+        {
+            "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ;&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7by;[player]",
+            "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs;&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7von;[player]"
+        },
         "EXH.popularest.thisweek":
         {
             "en_US": "&6&oThis Week;&x&F&F&D&2&0&0Most Popular Kit #[no];&e[kit] &8(&7[favs] &x&8&F&F&F&0&0⚑&8) &7by;[player]",
