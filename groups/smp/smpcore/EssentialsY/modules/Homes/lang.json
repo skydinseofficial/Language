@@ -45,6 +45,51 @@
         {
             "en_US": "&cThis home does not exist.",
             "de_DE": "&cDieser Home existiert nicht."
+        },
+        "MSG.rename.title":
+        {
+            "en_US": "<#FFD200>Rename your Home:",
+            "de_DE": "<#FFD200>Ändere den Home-Namen:"
+        },
+        "MSG.rename.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>new name &7for your <#FFD84E>home &7'<#FFD200>[home]&7' &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>neuen Namen &7für dein <#FFD84E>Home &7'<#FFD200>[home]&7' &7in den <#FFD84E>Chat&7."
+        },
+        "MSG.rename.explanation.2":
+        {
+            "en_US": "<#FF7F7F>Special characters or spaces are not allowed.",
+            "de_DE": "<#FF7F7F>Sonderzeichen oder Leerzeichen sind nicht erlaubt."
+        },
+        "MSG.setdescription.title":
+        {
+            "en_US": "<#FFD200>Describe your Home:",
+            "de_DE": "<#FFD200>Beschreibe dein Home:"
+        },
+        "MSG.setdescription.explanation.1":
+        {
+            "en_US": "&7Write in the chat how you want to <#FFD84E>describe your home &7'<#FFD200>[home]&7'.",
+            "de_DE": "&7Schreibe in den Chat, wie du dein <#FFD84E>Home &7'<#FFD200>[home]&7' beschreiben &7willst."
+        },
+        "MSG.seticon.noiteminhand":
+        {
+            "en_US": "&cYou must have an item in your hand to set the warp icon to it.",
+            "de_DE": "&cDu musst ein Item in der Hand halten, um das Warp Icon darauf zu setzen."
+        },
+        "MSG.seticon.success":
+        {
+            "en_US": "&7The icon of home &6[home] &7is now: <#FFD200>[icon]",
+            "de_DE": "&7Das Icon des Homes &6[home] &7ist nun: <#FFD200>[icon]"
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
         }
     }
 }
