@@ -61,6 +61,11 @@
             "en_US": "<#FF7F7F>Special characters or spaces are not allowed.",
             "de_DE": "<#FF7F7F>Sonderzeichen oder Leerzeichen sind nicht erlaubt."
         },
+        "MSG.rename.success":
+        {
+            "en_US": "&7The home &6[oldname] &7is now called &x&F&F&D&2&0&0[newname]&7.",
+            "de_DE": "&7Der Home &6[oldname] &7heißt nun &x&F&F&D&2&0&0[newname]&7."
+        },
         "MSG.setdescription.title":
         {
             "en_US": "<#FFD200>Describe your Home:",
