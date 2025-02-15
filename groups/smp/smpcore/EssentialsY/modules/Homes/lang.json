@@ -190,6 +190,11 @@
         {
             "en_US": "&cTime is up. Try it again.",
             "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.edit.homenotloaded":
+        {
+            "en_US": "&cThis home does not exist or is not loaded.",
+            "de_DE": "&cDieser Home existiert nicht oder ist nicht geladen."
         }
     }
 }
