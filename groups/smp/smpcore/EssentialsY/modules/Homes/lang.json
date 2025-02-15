@@ -250,6 +250,11 @@
         {
             "en_US": "&cThis home does not exist or is not loaded.",
             "de_DE": "&cDieser Home existiert nicht oder ist nicht geladen."
+        },
+        "MSG.viewother.targetplayernotfound":
+        {
+            "en_US": "&cThis player is not registered.",
+            "de_DE": "&cDieser Spieler ist nicht registriert."
         }
     }
 }
