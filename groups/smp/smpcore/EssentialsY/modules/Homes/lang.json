@@ -13,8 +13,8 @@
         },
         "GUI.edit.title":
         {
-            "en_US": "Edit Home [warp]",
-            "de_DE": "Home [warp] &rbearbeiten"
+            "en_US": "Edit Home [home]",
+            "de_DE": "Home [home] &rbearbeiten"
         },
         "GUI.main.home.lore":
         {
