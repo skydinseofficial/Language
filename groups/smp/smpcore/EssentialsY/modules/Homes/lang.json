@@ -76,6 +76,16 @@
             "en_US": "&7Write in the chat how you want to <#FFD84E>describe your home &7'<#FFD200>[home]&7'.",
             "de_DE": "&7Schreibe in den Chat, wie du dein <#FFD84E>Home &7'<#FFD200>[home]&7' beschreiben &7willst."
         },
+        "MSG.setdescription.toomanychars":
+        {
+            "en_US": "&cThe home description cannot have more than [amount] characters.",
+            "de_DE": "&cDie Homebeschreibung darf nicht mehr als [amount] Zeichen haben."
+        },
+        "MSG.setdescription.success":
+        {
+            "en_US": "&7The description of home &6[abbreviation] &7is now: <#FFD200>[description]",
+            "de_DE": "&7Die Beschreibung des Homes &6[abbreviation] &7ist nun: <#FFD200>[description]"
+        },
         "MSG.seticon.noiteminhand":
         {
             "en_US": "&cYou must have an item in your hand to set the warp icon to it.",
