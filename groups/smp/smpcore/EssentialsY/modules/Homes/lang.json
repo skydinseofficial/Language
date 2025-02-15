@@ -11,6 +11,11 @@
             "en_US": "[player]'s Homes",
             "de_DE": "[player]'s Homes"
         },
+        "GUI.edit.title":
+        {
+            "en_US": "Edit Home [warp]",
+            "de_DE": "Home [warp] &rbearbeiten"
+        },
         "GUI.main.home.lore":
         {
             "en_US": "&7Creation date: &x&F&F&D&2&0&0[date]\n&7Description: &x&F&F&D&2&0&0[description]",
@@ -40,6 +45,56 @@
         {
             "en_US": "&7Create a home for &x&F&F&D&8&4&Esomeone else&7.",
             "de_DE": "&7Erstelle ein Home für &x&F&F&D&8&4&Ejemand anderes&7."
+        },
+        "GUI.edit.name.title":
+        {
+            "en_US": "&6Change Name",
+            "de_DE": "&6Namen ändern"
+        },
+        "GUI.edit.name.lore":
+        {
+            "en_US": "&7Change the display name of the home.\n&7\n&7Current: &6[name]",
+            "de_DE": "&7Ändere den Anzeigenamen des Homes.\n&7\n&7Aktuell: &6[name]"
+        },
+        "GUI.edit.description.title":
+        {
+            "en_US": "&6Change Description",
+            "de_DE": "&6Beschreibung ändern"
+        },
+        "GUI.edit.description.lore":
+        {
+            "en_US": "&7Change the description of the home.\n&7Briefly explain what you find here.\n&7No color and formatting codes possible.\n&7\n&7Current: &6[description]",
+            "de_DE": "&7Ändere die Beschreibung des Homes.\n&7Erkläre kurz, was man hier findet.\n&7Keine Farb- und Formatierungscodes möglich.\n&7\n&7Aktuell: &6[description]"
+        },
+        "GUI.edit.icon.title":
+        {
+            "en_US": "&6Change Icon",
+            "de_DE": "&6Icon ändern"
+        },
+        "GUI.edit.icon.lore":
+        {
+            "en_US": "&7Change the icon from the home to the\n&7item you are currently holding.\n&7\n&7Current: &6[icon]",
+            "de_DE": "&7Ändere das Icon vom Home zu dem\n&7Item, welches du gerade in der Hand hältst.\n&7\n&7Aktuell: &6[icon]"
+        },
+        "GUI.edit.delete.title":
+        {
+            "en_US": "&4Delete home directly and irrevocably",
+            "de_DE": "&4Home direkt unwiderruflich löschen"
+        },
+        "GUI.edit.delete.lore":
+        {
+            "en_US": "&cThe home will be immediately and irrevocably\n&cdeleted.",
+            "de_DE": "&cDer Home wird sofort und unwiderruflich\n&cgelöscht."
+        },
+        "GUI.edit.teleport.title":
+        {
+            "en_US": "&6Teleport",
+            "de_DE": "&6Teleportieren"
+        },
+        "GUI.edit.teleport.lore":
+        {
+            "en_US": "&7Teleport to the home.",
+            "de_DE": "&7Teleportiere dich zum Home."
         },
         "GUI.clickaction.create":
         {
