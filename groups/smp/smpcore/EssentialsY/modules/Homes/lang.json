@@ -16,6 +16,41 @@
             "en_US": "&7Creation date: &x&F&F&D&2&0&0[date]\n&7Description: &x&F&F&D&2&0&0[description]",
             "de_DE": "&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Beschreibung: &x&F&F&D&2&0&0[description]"
         },
+        "GUI.main.createhome":
+        {
+            "en_US": "Create Home",
+            "de_DE": "Home erstellen"
+        },
+        "GUI.main.createhome.lore":
+        {
+            "en_US": "&7You can create &x&F&F&D&2&0&0[amount] &7more &x&F&F&D&2&0&0homes&7.",
+            "de_DE": "&7Du kannst noch &x&F&F&D&2&0&0[amount] Homes &7erstellen."
+        },
+        "GUI.main.createhome.lore.higherrankneeded":
+        {
+            "en_US": "&7Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang,\n&7um noch &x&F&F&D&8&4&Emehr Homes &7zu erstellen.\n&7\n&7Besuche: &x&F&F&D&2&0&0&nshop.skydinse.net",
+            "de_DE": "&7Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang,\n&7um noch &x&F&F&D&8&4&Emehr Homes &7zu erstellen.\n&7\n&7Besuche: &x&F&F&D&2&0&0&nshop.skydinse.net"
+        },
+        "GUI.main.createhome.lore.notallowedother":
+        {
+            "en_US": "&cYou do not have permission to create a\n&chome for others.",
+            "de_DE": "&cDu bist nicht berechtigt, für andere ein\n&cHome zu erstellen."
+        },
+        "GUI.main.createhome.lore.createother":
+        {
+            "en_US": "&cCreate a home for someone else.",
+            "de_DE": "&cErstelle ein Home für jemand anderes."
+        },
+        "GUI.clickaction.create":
+        {
+            "en_US": "&8» <#F9BD31>Click to create",
+            "de_DE": "&8» <#F9BD31>Klicke zum Erstellen"
+        },
+        "GUI.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
         "GUI.clickaction.teleport":
         {
             "en_US": "&8» <#F9BD31>Click to teleport",
