@@ -116,6 +116,11 @@
             "en_US": "&cYou have reached your limit of [amount] homes! &x&F&F&D&2&0&0You may need a higher rank.",
             "de_DE": "&cDu hast dein Home-Limit von [amount] erreicht! &x&F&F&D&2&0&0Möglicherweise benötigst du einen höheren Rang."
         },
+        "MSG.create.success":
+        {
+            "en_US": "&7Your home &6[home] &7was &asuccessfully &7created!",
+            "de_DE": "&7Dein Home &6[home] &7wurde &aerfolgreich &7erstellt!"
+        },
         "MSG.teleport.homedoesnotexist":
         {
             "en_US": "&cThis home does not exist.",
