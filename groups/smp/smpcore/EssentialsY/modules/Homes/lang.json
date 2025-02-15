@@ -38,8 +38,8 @@
         },
         "GUI.main.createhome.lore.createother":
         {
-            "en_US": "&cCreate a home for someone else.",
-            "de_DE": "&cErstelle ein Home für jemand anderes."
+            "en_US": "&7Create a home for &x&F&F&D&8&4&Esomeone else&7.",
+            "de_DE": "&7Erstelle ein Home für &x&F&F&D&8&4&Ejemand anderes&7."
         },
         "GUI.clickaction.create":
         {
