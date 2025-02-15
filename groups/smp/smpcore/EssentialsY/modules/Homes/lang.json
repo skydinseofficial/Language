@@ -4,17 +4,42 @@
     {
         "GUI.main.title":
         {
+            "en_US": "Your Homes",
+            "de_DE": "Deine Homes"
+        },
+        "GUI.main.title.viewother": {
             "en_US": "[player]'s Homes",
             "de_DE": "[player]'s Homes"
         },
-        "GUI.main.title.loading": {
-            "en_US": "[player]'s Homes &c(Loading...)",
-            "de_DE": "[player]'s Homes &c(Lade...)"
-        },
-        "GUI.main.item.firstpage":
+        "GUI.main.home.lore":
         {
-            "en_US": "&7First Page",
-            "de_DE": "&7Erste Seite"
+            "en_US": "&7Creation date: &x&F&F&D&2&0&0[date]\n&7Description: &x&F&F&D&2&0&0[description]",
+            "de_DE": "&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Beschreibung: &x&F&F&D&2&0&0[description]"
+        },
+        "GUI.clickaction.teleport":
+        {
+            "en_US": "&8» <#F9BD31>Click to teleport",
+            "de_DE": "&8» <#F9BD31>Klicke zum Teleportieren"
+        },
+        "GUI.clickaction.teleport.left":
+        {
+            "en_US": "&8» <#F9BD31>Left Click to teleport",
+            "de_DE": "&8» <#F9BD31>Linksklicke zum Teleportieren"
+        },
+        "GUI.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "GUI.clickaction.edit.right":
+        {
+            "en_US": "&8» <#F9BD31>Right Click to edit",
+            "de_DE": "&8» <#F9BD31>Rechtsklicke zum Bearbeiten"
+        },
+        "GUI.clickaction.delete":
+        {
+            "en_US": "&8» <#F9BD31>Click to delete",
+            "de_DE": "&8» <#F9BD31>Klicke zum Löschen"
         },
         "MSG.general.datanotloaded":
         {
@@ -83,8 +108,8 @@
         },
         "MSG.setdescription.success":
         {
-            "en_US": "&7The description of home &6[abbreviation] &7is now: <#FFD200>[description]",
-            "de_DE": "&7Die Beschreibung des Homes &6[abbreviation] &7ist nun: <#FFD200>[description]"
+            "en_US": "&7The description of home &6[home] &7is now: <#FFD200>[description]",
+            "de_DE": "&7Die Beschreibung des Homes &6[home] &7ist nun: <#FFD200>[description]"
         },
         "MSG.seticon.noiteminhand":
         {
