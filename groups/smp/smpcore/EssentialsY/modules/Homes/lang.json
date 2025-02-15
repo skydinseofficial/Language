@@ -81,6 +81,11 @@
             "en_US": "&7The icon of home &6[home] &7is now: <#FFD200>[icon]",
             "de_DE": "&7Das Icon des Homes &6[home] &7ist nun: <#FFD200>[icon]"
         },
+        "MSG.delete.success":
+        {
+            "en_US": "&7The home &6[home] &7has been deleted.",
+            "de_DE": "&7Der Home &6[home] &7wurde gelöscht."
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
