@@ -27,6 +27,16 @@
             "en_US": "&cPlease enter either a unix timestamp in seconds or 'stop'.",
             "de_DE": "&cBitte gebe entweder eine Unix-Zeit in Sekunden oder 'stop' an."
         },
+        "MAINTENANCE.broadcast.maintenanceplaned":
+        {
+            "en_US": "[player] &7has just scheduled maintenance for &x&F&F&D&2&0&0[time]&7.",
+            "de_DE": "[player] &7hat soeben Wartungsarbeiten auf &x&F&F&D&2&0&0[time] &7angesetzt."
+        },
+        "MAINTENANCE.broadcast.maintenancecancelled":
+        {
+            "en_US": "[player] &7has canceled the planned maintenance work.",
+            "de_DE": "[player] &7hat die geplanten Wartungsarbeiten abgebrochen."
+        },
         "MAINTENANCE.word":
         {
             "en_US": "Maintenance",
