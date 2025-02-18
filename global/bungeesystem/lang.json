@@ -17,6 +17,21 @@
             "en_US": "&cATTENTION! The network is restarting in &6VAR1 seconds&c! &7This process might take up to 10 minutes!",
             "de_DE": "&cACHTUNG! Das Netzwerk startet in &6VAR1 Sekunden &cneu! &7Dieser Prozess kann bis zu 10 Minuten dauern!"
         },
+        "MAINTENANCE.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this.",
+            "de_DE": "&cDazu hast du keine Berechtigung."
+        },
+        "MAINTENANCE.invalidinput":
+        {
+            "en_US": "&cPlease enter either a unix timestamp in seconds or 'stop'.",
+            "de_DE": "&cBitte gebe entweder eine Unix-Zeit in Sekunden oder 'stop' an."
+        },
+        "MAINTENANCE.word":
+        {
+            "en_US": "Maintenance",
+            "de_DE": "Wartungsarbeiten"
+        },
         "MSG.not_online":
         {
             "en_US": "is not online!",
