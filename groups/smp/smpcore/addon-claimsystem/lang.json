@@ -162,6 +162,11 @@
             "en_US": "&cYou can't claim this chunk on this server.",
             "de_DE": "&cDu kannst diesen Chunk nicht auf diesem Server beanspruchen."
         },
+        "actions.invalidinput":
+        {
+            "en_US": "&cYour input is not valid.",
+            "de_DE": "&cDeine Eingabe ist nicht valide."
+        },
         "actions.claimcreated":
         {
             "en_US": "&aYour claim has been created successfully! &7This Chunk is now protected.",
@@ -176,33 +181,53 @@
         {
             "en_US": "&aThis claim has been &cdeleted&a! &7It is not protected anymore.",
             "de_DE": "&aDieses Claim wurde &cgelöscht&a! &7Es ist nun nicht mehr geschützt."
-        }
-        "actions.trust.all.alreadytrusted":
+        },
+        "actions.trust.all.alreadytrusted.player":
         {
             "en_US": "&cThis player is already trusted everywhere!",
             "de_DE": "&cDieser Spieler ist bereits überall getrustet!"
         },
-        "actions.untrust.all.nottrusted":
+        "actions.trust.all.alreadytrusted.faction":
+        {
+            "en_US": "&cThis faction is already trusted everywhere!",
+            "de_DE": "&cDiese Fraktion ist bereits überall getrustet!"
+        },
+        "actions.untrust.all.nottrusted.player":
         {
             "en_US": "&cThis player is not trusted everywhere!",
             "de_DE": "&cDieser Spieler ist nicht überall getrustet!"
         },
-        "actions.trust.all.success":
+        "actions.untrust.all.nottrusted.faction":
+        {
+            "en_US": "&cThis faction is not trusted everywhere!",
+            "de_DE": "&cDiese Fraktion ist nicht überall getrustet!"
+        },
+        "actions.trust.all.success.player":
         {
             "en_US": "&eVAR1 &7is now trusted in all your chunks.",
             "de_DE": "&eVAR1 &7ist nun in allen deinen Chunks vertraut."
         },
-        "actions.trust.all.successtarget":
+        "actions.trust.all.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is now trusted in all your chunks.",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun in allen deinen Chunks vertraut."
+        },
+        "actions.trust.all.successtarget.player":
         {
             "en_US": "&7You are now trusted in all chunks of &eVAR1&7.",
             "de_DE": "&7Du bist nun in allen Chunks von &eVAR1 &7vertraut."
         },
-        "actions.untrust.all.success":
+        "actions.untrust.all.success.player":
         {
             "en_US": "&eVAR1 &7is no more trusted everywhere. &7(But maybe in some chunks)",
             "de_DE": "&eVAR1 &7ist nun nicht mehr in allen Chunks vertraut. &7(Aber vielleicht in manchen Chunks)"
         },
-        "actions.untrust.all.successtarget":
+        "actions.untrust.all.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is no more trusted everywhere. &7(But maybe in some chunks)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun nicht mehr in allen Chunks vertraut. &7(Aber vielleicht in manchen Chunks)"
+        },
+        "actions.untrust.all.successtarget.player":
         {
             "en_US": "&7You are not trusted in all chunks of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7vertraut."
