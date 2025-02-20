@@ -231,33 +231,53 @@
         {
             "en_US": "&7You are not trusted in all chunks of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7vertraut."
-        }
-        "actions.trust.only.alreadytrusted":
+        },
+        "actions.trust.only.alreadytrusted.player":
         {
             "en_US": "&cThis player is already trusted on this chunk!",
             "de_DE": "&cDieser Spieler ist bereits auf diesem Chunk getrustet!"
         },
-        "actions.untrust.only.nottrusted":
+        "actions.trust.only.alreadytrusted.faction":
+        {
+            "en_US": "&cThis faction is already trusted on this chunk!",
+            "de_DE": "&cDiese Fraktion ist bereits auf diesem Chunk getrustet!"
+        },
+        "actions.untrust.only.nottrusted.player":
         {
             "en_US": "&cThis player is not trusted on this chunk!",
             "de_DE": "&cDieser Spieler ist nicht auf diesem Chunk getrustet!"
         },
-        "actions.trust.only.success":
+        "actions.untrust.only.nottrusted.faction":
+        {
+            "en_US": "&cThis faction is not trusted on this chunk!",
+            "de_DE": "&cDiese Fraktion ist nicht auf diesem Chunk getrustet!"
+        },
+        "actions.trust.only.success.player":
         {
             "en_US": "&eVAR1 &7is now trusted in this chunk. (&6VAR2&7)",
             "de_DE": "&eVAR1 &7ist nun in diesem Chunk vertraut. (&6VAR2&7)"
         },
-        "actions.trust.only.successtarget":
+        "actions.trust.only.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is now trusted in this chunk. (&6VAR2&7)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun in diesem Chunk vertraut. (&6VAR2&7)"
+        },
+        "actions.trust.only.successtarget.player":
         {
             "en_US": "&7You are now trusted in chunk &6VAR1 &7of &eVAR2&7.",
             "de_DE": "&7Du bist nun beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
         },
-        "actions.untrust.only.success":
+        "actions.untrust.only.success.player":
         {
             "en_US": "&eVAR1 &7is no more trusted in this chunk. (&6VAR2&7)",
             "de_DE": "&eVAR1 &7ist nun nicht mehr in diesem Chunk vertraut. (&6VAR2&7)"
         },
-        "actions.untrust.only.successtarget":
+        "actions.untrust.only.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is no more trusted in this chunk. (&6VAR2&7)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun nicht mehr in diesem Chunk vertraut. (&6VAR2&7)"
+        },
+        "actions.untrust.only.successtarget.player":
         {
             "en_US": "&7You are not trusted in chunk &6VAR1 &7of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
