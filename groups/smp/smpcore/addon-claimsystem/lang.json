@@ -281,63 +281,103 @@
         {
             "en_US": "&7You are not trusted in chunk &6VAR1 &7of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7vertraut."
-        }
-        "actions.ban.all.alreadybanned":
+        },
+        "actions.ban.all.alreadybanned.player":
         {
             "en_US": "&cThis player is already banned everywhere!",
             "de_DE": "&cDieser Spieler ist bereits überall gebannt!"
         },
-        "actions.unban.all.notbanned":
+        "actions.ban.all.alreadybanned.faction":
+        {
+            "en_US": "&cThis faction is already banned everywhere!",
+            "de_DE": "&cDiese Fraktion ist bereits überall gebannt!"
+        },
+        "actions.unban.all.notbanned.player":
         {
             "en_US": "&cThis player is not banned everywhere!",
             "de_DE": "&cDieser Spieler ist nicht überall gebannt!"
         },
-        "actions.ban.all.success":
+        "actions.unban.all.notbanned.faction":
+        {
+            "en_US": "&cThis faction is not banned everywhere!",
+            "de_DE": "&cDiese Fraktion ist nicht überall gebannt!"
+        },
+        "actions.ban.all.success.player":
         {
             "en_US": "&eVAR1 &7is now banned in all your chunks.",
             "de_DE": "&eVAR1 &7ist nun in allen deinen Chunks gebannt."
         },
-        "actions.ban.all.successtarget":
+        "actions.ban.all.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is now banned in all your chunks.",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun in allen deinen Chunks gebannt."
+        },
+        "actions.ban.all.successtarget.player":
         {
             "en_US": "&7You are now banned in all chunks of &eVAR1&7.",
             "de_DE": "&7Du bist nun in allen Chunks von &eVAR1 &7gebannt."
         },
-        "actions.unban.all.success":
+        "actions.unban.all.success.player":
         {
             "en_US": "&eVAR1 &7is no more banned everywhere. &7(But maybe in some chunks)",
             "de_DE": "&eVAR1 &7ist nun nicht mehr in allen Chunks gebannt. &7(Aber vielleicht in manchen Chunks)"
         },
-        "actions.unban.all.successtarget":
+        "actions.unban.all.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is no more banned everywhere. &7(But maybe in some chunks)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun nicht mehr in allen Chunks gebannt. &7(Aber vielleicht in manchen Chunks)"
+        },
+        "actions.unban.all.successtarget.player":
         {
             "en_US": "&7You are not banned in all chunks of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr bei allen Chunks von &eVAR1 &7gebannt."
-        }
-        "actions.ban.only.alreadybanned":
+        },
+        "actions.ban.only.alreadybanned.player":
         {
             "en_US": "&cThis player is already banned in this Chunk!",
             "de_DE": "&cDieser Spieler ist bereits in diesem Chunk gebannt!"
         },
-        "actions.unban.only.notbanned":
+        "actions.ban.only.alreadybanned.faction":
+        {
+            "en_US": "&cThis faction is already banned in this Chunk!",
+            "de_DE": "&cDiese Fraktion ist bereits in diesem Chunk gebannt!"
+        },
+        "actions.unban.only.notbanned.player":
         {
             "en_US": "&cThis player is not banned in this chunk!",
             "de_DE": "&cDieser Spieler ist nicht in diesem Chunk gebannt!"
         },
-        "actions.ban.only.success":
+        "actions.unban.only.notbanned.faction":
+        {
+            "en_US": "&cThis faction is not banned in this chunk!",
+            "de_DE": "&cDiese Fraktion ist nicht in diesem Chunk gebannt!"
+        },
+        "actions.ban.only.success.player":
         {
             "en_US": "&eVAR1 &7is now banned in this chunk. (&6VAR2&7)",
             "de_DE": "&eVAR1 &7ist nun in diesem Chunk gebannt. (&6VAR2&7)"
         },
-        "actions.ban.only.successtarget":
+        "actions.ban.only.success.faction":
+        {
+            "en_US": "&7The faction &eVAR1 &7is now banned in this chunk. (&6VAR2&7)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun in diesem Chunk gebannt. (&6VAR2&7)"
+        },
+        "actions.ban.only.successtarget.player":
         {
             "en_US": "&7You are now banned in chunk &6VAR1 &7of &eVAR2&7.",
             "de_DE": "&7Du bist nun beim Chunk &6VAR1 &7von &eVAR2 &7gebannt."
         },
-        "actions.unban.only.success":
+        "actions.unban.only.success.player":
         {
             "en_US": "&eVAR1 &7is no more banned in this chunk. (&6VAR2&7)",
             "de_DE": "&eVAR1 &7ist nun nicht mehr in diesem Chunk gebannt. (&6VAR2&7)"
         },
-        "actions.unban.only.successtarget":
+        "actions.unban.only.success.player":
+        {
+            "en_US": "&7The faction &eVAR1 &7is no more banned in this chunk. (&6VAR2&7)",
+            "de_DE": "&7Die Fraktion &eVAR1 &7ist nun nicht mehr in diesem Chunk gebannt. (&6VAR2&7)"
+        },
+        "actions.unban.only.successtarget.player":
         {
             "en_US": "&7You are not banned in chunk &6VAR1 &7of &eVAR2 &7anymore.",
             "de_DE": "&7Du bist nun nicht mehr beim Chunk &6VAR1 &7von &eVAR2 &7gebannt."
@@ -362,10 +402,15 @@
             "en_US": "&x&6&C&F&F&2&DEntering &earea &7of VAR1",
             "de_DE": "&x&6&C&F&F&2&DBetrete &eGebiet &7von VAR1"
         },
-        "regionhandling.banned":
+        "regionhandling.banned.player":
         {
             "en_US": "&cYou are banned from this region! &7(Chunk of VAR1&7)",
             "de_DE": "&cDu bist von diesem Gebiet gebannt! &7(Chunk von VAR1&7)"
+        },
+        "regionhandling.banned.faction":
+        {
+            "en_US": "&cYour faction is banned from this region! &7(Chunk of VAR1&7)",
+            "de_DE": "&cDeine Fraktion ist von diesem Gebiet gebannt! &7(Chunk von VAR1&7)"
         },
         "regionhandling.notaccessable":
         {
