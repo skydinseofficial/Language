@@ -372,7 +372,7 @@
             "en_US": "&eVAR1 &7is no more banned in this chunk. (&6VAR2&7)",
             "de_DE": "&eVAR1 &7ist nun nicht mehr in diesem Chunk gebannt. (&6VAR2&7)"
         },
-        "actions.unban.only.success.player":
+        "actions.unban.only.success.faction":
         {
             "en_US": "&7The faction &eVAR1 &7is no more banned in this chunk. (&6VAR2&7)",
             "de_DE": "&7Die Fraktion &eVAR1 &7ist nun nicht mehr in diesem Chunk gebannt. (&6VAR2&7)"
