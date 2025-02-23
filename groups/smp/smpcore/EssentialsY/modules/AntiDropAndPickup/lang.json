@@ -26,11 +26,31 @@
             "de_DE": "&cDiese:r Spieler:in ist nicht auf CityBuild!",
             "de_XX": "&cDieser Spielteilnehmer befindet sich zum aktuellen Zeitpunkt nicht auf StadtBau!"
         },
-        "tpohere_offline":
+        "antidrop_on":
         {
-            "en_US": "&cThis player is currently not online!",
-            "de_DE": "&cDiese:r Spieler:in ist offline!",
-            "de_XX": "&cDieser NPC chillt bei der Konkurrenz!"
+            "en_US": "&cYou are in the Anti-Drop mode.",
+            "de_DE": "&cDein Antidrop-Modus ist an."
+        },
+        "antipickup_on":
+        {
+            "en_US": "&cYou are in the Anti-Pickup mode.",
+            "de_DE": "&cDein Antipickup-Modus ist an."
+        },"antidrop/pickup_enabled":
+        {
+            "en_US": "&7You have &aactivated &7your &6[mode]",
+            "de_DE": "&7Du hast deinen &6[mode] &aaktiviert"
+        },"antidrop/pickup_disabled":
+        {
+            "en_US": "&7You have &cdisabled &7your &6[mode]",
+            "de_DE": "&7Du hast deinen &6[mode] &cdeaktiviert"
+        },"antidrop":
+        {
+            "en_US": "Anti-Drop mode",
+            "de_DE": "Antidrop-Modus"
+        },"antipickup":
+        {
+            "en_US": "Anti-Pickup mode",
+            "de_DE": "Antipickup-Modus"
         }
     }
 }
