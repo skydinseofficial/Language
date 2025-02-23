@@ -35,19 +35,23 @@
         {
             "en_US": "&cYou are in the Anti-Pickup mode.",
             "de_DE": "&cDein Antipickup-Modus ist an."
-        },"antidrop/pickup_enabled":
+        },
+        "antidrop/pickup_enabled":
         {
             "en_US": "&7You have &aactivated &7your &6[mode]",
             "de_DE": "&7Du hast deinen &6[mode] &aaktiviert"
-        },"antidrop/pickup_disabled":
+        },
+        "antidrop/pickup_disabled":
         {
             "en_US": "&7You have &cdisabled &7your &6[mode]",
             "de_DE": "&7Du hast deinen &6[mode] &cdeaktiviert"
-        },"antidrop":
+        },
+        "antidrop":
         {
             "en_US": "Anti-Drop mode",
             "de_DE": "Antidrop-Modus"
-        },"antipickup":
+        },
+        "antipickup":
         {
             "en_US": "Anti-Pickup mode",
             "de_DE": "Antipickup-Modus"
