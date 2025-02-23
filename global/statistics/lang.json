@@ -351,6 +351,11 @@
             "en_US": "Jumps",
             "de_DE": "Sprünge"
         },
+        "GUI.category.global.onlinetime":
+        {
+            "en_US": "Online Time",
+            "de_DE": "Onlinezeit"
+        },
         "GUI.category.global.blossoms":
         {
             "en_US": "Blooms Balance",
