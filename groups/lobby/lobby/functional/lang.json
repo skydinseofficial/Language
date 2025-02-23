@@ -29,7 +29,7 @@
         {
             "en_US": "&7Buy rank for <#FFD200>[currency]&7.\n&7Duration: <#FFD200>[duration]",
             "de_DE": "&7Rang für <#FFD200>[currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]",
-            "tr_TR": "&7Rütbe <#FFD200>[currency] &7al.\n&7Sürüm: <#FFD200>[duration]"
+            "tr_TR": "&7Rütbe <#FFD200>[currency] &7ile al.\n&7Sürüm: <#FFD200>[duration]"
         },
         "RANKSHOP.gui.main.buy.lore.premiumonly":
         {
