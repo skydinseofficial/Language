@@ -171,6 +171,41 @@
         {
             "en_US": "Reputation:",
             "de_DE": "Ruf:"
+        },
+        "trials.nopermission":
+        {
+            "en_US": "&cYou don't have the permission for this.",
+            "de_DE": "&cDazu hast du nicht die Berechtigung."
+        },
+        "trials.command.pos1":
+        {
+            "en_US": "&7The first position has been set.",
+            "de_DE": "&7Die erste Position wurde gesetzt."
+        },
+        "trials.command.pos2":
+        {
+            "en_US": "&7The second position has been set.",
+            "de_DE": "&7Die zweite Position wurde gesetzt."
+        },
+        "trials.command.posnotset":
+        {
+            "en_US": "&cNot all positions are set!",
+            "de_DE": "&cEs sind nicht alle positionen gesetzt!"
+        },
+        "trials.create.finished":
+        {
+            "en_US": "&7The trial &6[trial] &7has been created &asuccessfully&7!",
+            "de_DE": "&7Der neue Trial &6[trial] &7wurde &aerfolgreich &7erstellt!"
+        },
+        "trials.create.schematicempty":
+        {
+            "en_US": "&cSchematic is empty.",
+            "de_DE": "&cDie Schematic ist leer."
+        },
+        "trials.create.noidordisplay":
+        {
+            "en_US": "&cID or display is not specified.",
+            "de_DE": "&cID oder Display ist nicht angegeben."
         }
     }
 }
