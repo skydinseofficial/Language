@@ -206,6 +206,16 @@
         {
             "en_US": "&cID or display is not specified.",
             "de_DE": "&cID oder Display ist nicht angegeben."
+        },
+        "trials.opening.nowopening":
+        {
+            "en_US": "[trial] &7now opens!",
+            "de_DE": "[trial] &7wird nun geöffnet!"
+        },
+        "trials.opening.youreceived":
+        {
+            "en_US": "&7You received the following:",
+            "de_DE": "&7Du hast folgendes erhalten:"
         }
     }
 }
