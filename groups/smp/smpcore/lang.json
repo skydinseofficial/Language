@@ -217,6 +217,11 @@
             "en_US": "&cThe item in your hand could not be recognized.",
             "de_DE": "&cDas Item in deiner Hand konnte nicht erkannt werden."
         },
+        "trials.command.itemcategoryneeded":
+        {
+            "en_US": "&cPlease enter an item category.",
+            "de_DE": "&cBitte gebe eine Categorie für das Item an."
+        },
         "trials.command.itemadded":
         {
             "en_US": "&7The item has been added.",
