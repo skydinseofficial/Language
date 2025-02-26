@@ -226,6 +226,11 @@
         {
             "en_US": "&cA Trial is already opening near you!",
             "de_DE": "&cIn deiner Nähe wird bereits ein Trial geöffnet!"
+        },
+        "trials.opening.notenoughspace":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
         }
     }
 }
