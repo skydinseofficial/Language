@@ -222,6 +222,11 @@
             "en_US": "&7The item has been added.",
             "de_DE": "&7Das Item wurde hinzugefügt."
         },
+        "trials.command.itemremoved":
+        {
+            "en_US": "&7The item has been removed.",
+            "de_DE": "&7Das Item wurde entfernt."
+        },
         "trials.create.finished":
         {
             "en_US": "&7The trial &6[trial] &7has been created &asuccessfully&7!",
