@@ -216,6 +216,16 @@
         {
             "en_US": "&7You received the following:",
             "de_DE": "&7Du hast folgendes erhalten:"
+        },
+        "trials.opening.alreadyopening":
+        {
+            "en_US": "&cYou are already opening a Trial!",
+            "de_DE": "&cDu öffnest bereits ein Trial!"
+        },
+        "trials.opening.alreadyopeningnear":
+        {
+            "en_US": "&cA Trial is already opening near you!",
+            "de_DE": "&cIn deiner Nähe wird bereits ein Trial geöffnet!"
         }
     }
 }
