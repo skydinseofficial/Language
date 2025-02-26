@@ -192,6 +192,36 @@
             "en_US": "&cNot all positions are set!",
             "de_DE": "&cEs sind nicht alle positionen gesetzt!"
         },
+        "trials.command.trialdoesnotexist":
+        {
+            "en_US": "&cThis Trial does not exist.",
+            "de_DE": "&cDieser Trial existiert nicht."
+        },
+        "trials.command.idnotgiven":
+        {
+            "en_US": "&cPlease type an ID.",
+            "de_DE": "&cBitte gebe eine ID an."
+        },
+        "trials.command.itemalreadywithid":
+        {
+            "en_US": "&cThere is already an item with this ID for this trial.",
+            "de_DE": "&cEs gibt zu diesem Trial bereits ein Item mit dieser ID."
+        },
+        "trials.command.noitemwithid":
+        {
+            "en_US": "&cThere is no item with this ID for this trial.",
+            "de_DE": "&cEs gibt zu diesem Trial kein Item mit dieser ID."
+        },
+        "trials.command.itemnotrecognized":
+        {
+            "en_US": "&cThe item in your hand could not be recognized.",
+            "de_DE": "&cDas Item in deiner Hand konnte nicht erkannt werden."
+        },
+        "trials.command.itemadded":
+        {
+            "en_US": "&7The item has been added.",
+            "de_DE": "&7Das Item wurde hinzugefügt."
+        },
         "trials.create.finished":
         {
             "en_US": "&7The trial &6[trial] &7has been created &asuccessfully&7!",
