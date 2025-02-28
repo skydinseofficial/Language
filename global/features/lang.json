@@ -376,6 +376,51 @@
         {
             "en_US": "<#50FF00>Thank you &7for your <#FFD84E>purchase &7in our <#FFD84E>online shop&7! By doing so you <#FFD84E>support &7our <#FFD84E>work &7and the <#FFD84E>further existence &7of Skydinse.",
             "de_DE": "<#50FF00>Vielen Dank &7für deinen <#FFD84E>Einkauf &7in unserem <#FFD84E>Onlineshop&7! Dadurch <#FFD84E>unterstützt &7du unsere <#FFD84E>Arbeit &7und das <#FFD84E>weitere Bestehen &7von Skydinse."
+        },
+        "REWARDS.msg.rewardcollected":
+        {
+            "en_US": "&7You collected your <#FFD84E>reward&7!",
+            "de_DE": "&7Du hast deine <#FFD84E>Belohnung &7abgeholt!"
+        },
+        "REWARDS.msg.inventoryspaceneeded":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "REWARDS.gui.main.title":
+        {
+            "en_US": "Your Rewards",
+            "de_DE": "Deine Belohnungen"
+        },
+        "REWARDS.gui.main.title.viewother":
+        {
+            "en_US": "[player]'s Rewards",
+            "de_DE": "[player]'s Belohnungen"
+        },
+        "REWARDS.gui.main.rewardlore":
+        {
+            "en_US": "&7Date of receipt: &x&F&F&D&2&0&0[date]",
+            "de_DE": "&7Datum des Erhalts: &x&F&F&D&2&0&0[date]"
+        },
+        "REWARDS.gui.main.click2collect":
+        {
+            "en_US": "&8» <#F9BD31>Click to collect",
+            "de_DE": "&8» <#F9BD31>Klicke zum Einsammeln"
+        },
+        "REWARDS.gui.main.notcollectablehere":
+        {
+            "en_US": "<#FF2B1C>ɴᴏᴛ ᴄᴏʟʟᴇᴄᴛᴀʙʟᴇ ʜᴇʀᴇ",
+            "de_DE": "<#FF2B1C>ʜɪᴇʀ ɴɪᴄʜᴛ ᴇɪɴsᴀᴍᴍᴇʟʙᴀʀ"
+        },
+        "REWARDS.gui.main.reward.vote":
+        {
+            "en_US": "&6Vote Reward",
+            "de_DE": "&6Vote Belohnung"
+        },
+        "REWARDS.gui.main.reward.vote.lore":
+        {
+            "en_US": "&7You received this reward package by voting\n&71x for our server. You can usually redeem\n&7it on all SMPs or in the lobby.\n&7Depending on this, you will receive\n&7different rewards.",
+            "de_DE": "&7Dieses Belohnungspaket hast du durch 1x\n&7für unseren Server voten erhalten. Du kannst\n&7es idR. auf allen SMPs oder in der Lobby\n&7einlösen. Je nach dem erhältst du andere\n&7Belohnungen."
         }
     }
 }
