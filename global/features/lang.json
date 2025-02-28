@@ -392,6 +392,26 @@
             "en_US": "&cThis player is not registered.",
             "de_DE": "&cDieser Spieler ist nicht registriert."
         },
+        "REWARDS.msg.justreceivedreward":
+        {
+            "en_US": "&7You just received a <#FFD84E>reward&7: [reward]",
+            "de_DE": "&7Du hast soeben eine <#FFD84E>Belohnung &7erhalten: [reward]"
+        },
+        "REWARDS.msg.viewrewards":
+        {
+            "en_US": "&7To view your rewards, use &e&n<\rewards>&7.",
+            "de_DE": "&7Um deine Belohnungen anzusehen, nutze &e&n<\belohnungen>&7."
+        },
+        "REWARDS.msg.remainingreward":
+        {
+            "en_US": "&7You still have <#FFD200>an &7open <#FFD84E>reward&7.",
+            "de_DE": "&7Du hast noch <#FFD200>eine &7offene <#FFD84E>Belohnung&7."
+        },
+        "REWARDS.msg.remainingrewards":
+        {
+            "en_US": "&7You still have <#FFD200>[amount] &7open <#FFD84E>rewards&7.",
+            "de_DE": "&7Du hast noch <#FFD200>[amount] &7offene <#FFD84E>Belohnungen&7."
+        },
         "REWARDS.gui.main.title":
         {
             "en_US": "Your Rewards",
