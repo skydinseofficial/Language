@@ -387,6 +387,11 @@
             "en_US": "&cYou don't have enough space in your inventory.",
             "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
         },
+        "REWARDS.msg.targetnotfound":
+        {
+            "en_US": "&cThis player is not registered.",
+            "de_DE": "&cDieser Spieler ist nicht registriert."
+        },
         "REWARDS.gui.main.title":
         {
             "en_US": "Your Rewards",
