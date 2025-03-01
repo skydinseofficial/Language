@@ -722,6 +722,11 @@
             "en_US": "&x&F&F&C&8&5&1&lTRIAL TRADER;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lTRIAL TRADER;&7(Ansehen)"
         },
+        "NPCHOLO.title.blockparty":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lBLOCK PARTY;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lBLOCK PARTY;&7(Ansehen)"
+        },
         "NPC.gui.buyplayershop.title":
         {
             "en_US": "Buy Player Shop",
