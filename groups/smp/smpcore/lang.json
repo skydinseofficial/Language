@@ -271,6 +271,56 @@
         {
             "en_US": "&cYou don't have enough space in your inventory.",
             "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "trialtrader.gui.main.title":
+        {
+            "en_US": "Trial Trader",
+            "de_DE": "Trial-Händler"
+        },
+        "trialtrader.gui.main.trial.lore":
+        {
+            "en_US": "Receive 1x [trial]\n&7\n&7Cost: [costs]",
+            "de_DE": "Erhalte 1x [trial]\n&7\n&7Kosten: [costs]"
+        },
+        "trialtrader.gui.click2buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "trialtrader.gui.notenoughblooms":
+        {
+            "en_US": "<#FF2B1C>ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴇɴᴏᴜɢʜ ʙʟᴏᴏᴍs",
+            "de_DE": "<#FF2B1C>ᴅᴜ ʜᴀsᴛ ɴɪᴄʜᴛ ɢᴇɴᴜɢ ʙʟüᴛᴇɴ"
+        },
+        "trialtrader.msg.notenoughspace":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "trialtrader.msg.notenoughblooms.1":
+        {
+            "en_US": "&cYou don't have enough blooms.",
+            "de_DE": "&cDu hast nicht genügend Blüten."
+        },
+        "trialtrader.msg.notenoughblooms.2":
+        {
+            "en_US": "[blooms] &7can be obtained by <#FFD84E>playing minigames &7such as Duels and BlockParty, <#FFD84E>participating &7in <#FFD84E>events &7or by collecting your <#FFD84E>vote reward &8[&e<|vote>&8] &7in the <#FFD84E>lobby&7.",
+            "de_DE": "[blooms] &7erhältst du, indem du <#FFD84E>Minigames &7wie Duels und BlockParty <#FFD84E>spielst&7, bei <#FFD84E>Events teilnimmst &7oder wenn du deine <#FFD84E>Vote-Belohnung &8[&e<|vote>&8] &7in der <#FFD84E>Lobby &7abholst."
+        },
+        "trialtrader.msg.notenoughblooms.3":
+        {
+            "en_US": "<#FFFFB6>That's not going fast enough for you? &7In the <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7you <#FFD84E>immediately &7get <#FFD84E>Blooms &7and you can even <#FFD84E>support us&7!",
+            "de_DE": "<#FFFFB6>Das geht dir nicht schnell genug? &7Im <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7gelangst du <#FFD84E>sofort &7an <#FFD84E>Blüten &7und kannst uns dabei sogar <#FFD84E>unterstützen&7!"
+        },
+        "trialtrader.msg.unkownerror":
+        {
+            "en_US": "&cAn unexpected error occurred. Please try again or report the error to support.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es nochmal oder melde den Fehler beim Support."
+        },
+        "trialtrader.msg.successfullybought":
+        {
+            "en_US": "&cYou have &asuccessfully &7purchased 1x [trial]&7!",
+            "de_DE": "&7Du hast &aerfolgreich &71x [trial] &7gekauft!"
         }
     }
 }
