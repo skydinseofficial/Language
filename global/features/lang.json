@@ -446,6 +446,11 @@
         {
             "en_US": "&7You received this reward package by voting\n&71x for our server. You can usually redeem\n&7it on all SMPs or in the lobby.\n&7Depending on this, you will receive\n&7different rewards.",
             "de_DE": "&7Dieses Belohnungspaket hast du durch 1x\n&7für unseren Server voten erhalten. Du kannst\n&7es idR. auf allen SMPs oder in der Lobby\n&7einlösen. Je nach dem erhältst du andere\n&7Belohnungen."
+        },
+        "VOTE.msg.votelink":
+        {
+            "en_US": "&7You can use the following <#FFD84E>link &7to <#FFD84E>vote &7for our server to receive <#FFD84E>great rewards&7:",
+            "de_DE": "&7Unter folgendem <#FFD84E>Link &7kannst du für unseren Server <#FFD84E>abstimmen&7, um <#FFD84E>tolle Belohnungen &7zu erhalten:"
         }
     }
 }
