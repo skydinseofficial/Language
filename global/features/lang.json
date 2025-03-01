@@ -399,8 +399,8 @@
         },
         "REWARDS.msg.viewrewards":
         {
-            "en_US": "&7To view your rewards, use &e&n<\rewards>&7.",
-            "de_DE": "&7Um deine Belohnungen anzusehen, nutze &e&n<\belohnungen>&7."
+            "en_US": "&7To view your rewards, use &e&n<|rewards>&7.",
+            "de_DE": "&7Um deine Belohnungen anzusehen, nutze &e&n<|belohnungen>&7."
         },
         "REWARDS.msg.remainingreward":
         {
