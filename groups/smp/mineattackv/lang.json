@@ -712,6 +712,16 @@
             "en_US": "&x&F&F&C&8&5&1&lHELP;&7(View)",
             "de_DE": "&x&F&F&C&8&5&1&lHILFE;&7(Ansehen)"
         },
+        "NPCHOLO.title.ec":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lENDER CHEST;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lENDERTRUHE;&7(Ansehen)"
+        },
+        "NPCHOLO.title.trialtrader":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lTRIAL TRADER;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lTRIAL TRADER;&7(Ansehen)"
+        },
         "NPC.gui.buyplayershop.title":
         {
             "en_US": "Buy Player Shop",
