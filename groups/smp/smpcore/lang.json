@@ -279,8 +279,8 @@
         },
         "trialtrader.gui.main.trial.lore":
         {
-            "en_US": "Receive 1x [trial]\n&7\n&7Cost: [costs]",
-            "de_DE": "Erhalte 1x [trial]\n&7\n&7Kosten: [costs]"
+            "en_US": "&7Receive 1x [trial]\n&7Right click the received item to\n&7open the Trial.\n&7\n&7Cost: [costs]",
+            "de_DE": "&7Erhalte 1x [trial]\n&7Rechtsklicke das erhaltene Item, um das\n&7Trial zu öffnen.\n&7\n&7Kosten: [costs]"
         },
         "trialtrader.gui.click2buy":
         {
