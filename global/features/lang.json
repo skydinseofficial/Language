@@ -451,6 +451,11 @@
         {
             "en_US": "&7You can use the following <#FFD84E>link &7to <#FFD84E>vote &7for our server to receive <#FFD84E>great rewards&7:",
             "de_DE": "&7Unter folgendem <#FFD84E>Link &7kannst du für unseren Server <#FFD84E>abstimmen&7, um <#FFD84E>tolle Belohnungen &7zu erhalten:"
+        },
+        "VOTE.msg.playervoted":
+        {
+            "en_US": "[player] <#FFD84E>voted &7for the server and received a <#FFD84E>reward&7! &8[&x&F&F&D&2&0&0&n<|vote>&8]",
+            "de_DE": "[player] &7hat für den Server <#FFD84E>abgestimmt &7und eine <#FFD84E>Belohnung &7erhalten! &8[&x&F&F&D&2&0&0&n<|vote>&8]"
         }
     }
 }
