@@ -272,6 +272,16 @@
             "en_US": "&cYou don't have enough space in your inventory.",
             "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
         },
+        "trials.broadcast.trialall.1":
+        {
+            "en_US": "&x&B&E&3&3&F&F&lTRIAL ALL&7: [player] &7has thrown a round! &8[[trial]&8]",
+            "de_DE": "&x&B&E&3&3&F&F&lTRIAL ALL&7: [player] &7hat eine Runde geschmissen! &8[[trial]&8]"
+        },
+        "trials.broadcast.trialall.2":
+        {
+            "en_US": "&7Take a look in your <#FFD84E>gift inventory&7: &e&n<|rewards>",
+            "de_DE": "&7Schau in dein <#FFD84E>Geschenkeinventar&7: &e&n<|belohnungen>"
+        },
         "trialtrader.gui.main.title":
         {
             "en_US": "Trial Trader",
