@@ -442,6 +442,11 @@
             "en_US": "&6Vote Reward",
             "de_DE": "&6Vote Belohnung"
         },
+        "REWARDS.gui.main.reward.trialall":
+        {
+            "en_US": "&6Trial All",
+            "de_DE": "&6Trial All"
+        },
         "REWARDS.gui.main.reward.vote.lore":
         {
             "en_US": "&7You received this reward package by voting\n&71x for our server. You can usually redeem\n&7it on all SMPs or in the lobby.\n&7Depending on this, you will receive\n&7different rewards.",
