@@ -187,6 +187,11 @@
             "en_US": "Reputation:",
             "de_DE": "Ruf:"
         },
+        "scoreboard.faction":
+        {
+            "en_US": "Faction:",
+            "de_DE": "Fraktion:"
+        },
         "trials.nopermission":
         {
             "en_US": "&cYou don't have the permission for this.",
