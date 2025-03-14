@@ -132,6 +132,11 @@
             "en_US": "End",
             "de_DE": "Ende"
         },
+        "worldalias.world":
+        {
+            "en_US": "World",
+            "de_DE": "Welt"
+        },
         "cmd.back.teleportingyou":
         {
             "en_US": "&7You will be teleported to your last death location...",
