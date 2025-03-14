@@ -162,6 +162,16 @@
             "en_US": "Money:",
             "de_DE": "Geld:"
         },
+        "scoreboard.time":
+        {
+            "en_US": "Lifetime:",
+            "de_DE": "Lebenszeit:"
+        },
+        "scoreboard.region":
+        {
+            "en_US": "Region:",
+            "de_DE": "Region:"
+        },
         "scoreboard.world":
         {
             "en_US": "World:",
