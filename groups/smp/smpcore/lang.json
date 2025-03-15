@@ -192,6 +192,16 @@
             "en_US": "Faction:",
             "de_DE": "Fraktion:"
         },
+        "serverlogic.bordernear":
+        {
+            "en_US": "Server border in [amount] blocks!",
+            "de_DE": "Serverborder in [amount] Blöcken!"
+        },
+        "serverlogic.cantinteractnearborder":
+        {
+            "en_US": "&cYou cannot interact with the world near a server border.",
+            "de_DE": "&cDu kannst in der Nähe einer Serverborder nicht mit der Welt interagieren."
+        },
         "trials.nopermission":
         {
             "en_US": "&cYou don't have the permission for this.",
