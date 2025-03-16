@@ -12,10 +12,15 @@
             "en_US": "&cYou can't afford that item!",
             "de_DE": "&cDu kannst dir das Item nicht leisten!"
         },
-        "ITEM.help.use":
+        "GUI.main.title":
         {
-            "en_US": "&7To create the player shop, break the block on which the shop sould be placed.",
-            "de_DE": "&7Um den Spielershop zu erstellen, baue den Block ab, auf dem der Shop platziert werden soll."
+            "en_US": "Auction House",
+            "de_DE": "Auktionshaus"
+        },
+        "GUI.main.item.lore":
+        {
+            "en_US": "&7Seller: [seller]\n&7Price: &x&F&F&D&2&0&0[price]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
+            "de_DE": "&7Verkäufer: [seller]\n&7Preis: &x&F&F&D&2&0&0[price]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
         }
     }
 }
