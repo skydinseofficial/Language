@@ -27,6 +27,11 @@
             "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
             "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
         },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
+            "de_DE": "&7Nutze &e&n<|ah>&7 oder &e&n</ah sell (preis)>"
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
