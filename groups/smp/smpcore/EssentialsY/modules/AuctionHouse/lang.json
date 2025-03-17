@@ -12,6 +12,16 @@
             "en_US": "&cYou can't afford that item!",
             "de_DE": "&cDu kannst dir das Item nicht leisten!"
         },
+        "WORD.item":
+        {
+            "en_US": "Item",
+            "de_DE": "Item"
+        },
+        "WORD.items":
+        {
+            "en_US": "Items",
+            "de_DE": "Items"
+        },
         "GUI.main.title":
         {
             "en_US": "Auction House",
@@ -26,6 +36,21 @@
         {
             "en_US": "&7Seller: [seller]\n&7Price: &x&F&F&D&2&0&0[price]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Verkäufer: [seller]\n&7Preis: &x&F&F&D&2&0&0[price]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
+        "GUI.main.createauction":
+        {
+            "en_US": "Add Item",
+            "de_DE": "Item hinzufügen"
+        },
+        "GUI.main.createauction.lore":
+        {
+            "en_US": "&7List an <#FFD84E>item &7for <#FFD84E>sale&7.\n\n&7You currently have [items] &7listed.",
+            "de_DE": "&7Stelle ein <#FFD84E>Item &7zum <#FFD84E>Verkauf &7ein.\n\n&7Du hast derzeit [items] &7eingestellt."
+        },
+        "GUI.clickaction.additem":
+        {
+            "en_US": "&8» <#F9BD31>Click to add item",
+            "de_DE": "&8» <#F9BD31>Klicke zum Hinzufügen"
         },
         "GUI.clickaction.delete":
         {
