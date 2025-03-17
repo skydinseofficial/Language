@@ -12,6 +12,21 @@
             "en_US": "&cYou can't afford that item!",
             "de_DE": "&cDu kannst dir das Item nicht leisten!"
         },
+        "MSG.error.invalidprice":
+        {
+            "en_US": "&cInvalid price! &7Please note the format.",
+            "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.error.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
@@ -29,13 +44,18 @@
         },
         "MSG.create.explanation.1":
         {
-            "en_US": "&7Write an <#FFD84E>abbreviation &7for your <#FFD84E>new warp &7in the <#FFD84E>chat&7.",
-            "de_DE": "&7Schreibe einen <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7, um das <#FFD84E>Item in deiner Hand &7zum Verkauf freizugeben.."
+            "en_US": "&7Write a <#FFD84E>sale price &7in the <#FFD84E>chat &7to release the <#FFD84E>item in your hand &7for sale.",
+            "de_DE": "&7Schreibe einen <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7, um das <#FFD84E>Item in deiner Hand &7zum Verkauf freizugeben."
         },
-        "MSG.create.explanation.2":
+        "MSG.create.explanation.2.money":
         {
-            "en_US": "&7Alternatively, you can write an abbreviation from an <#FFD84E>already existing warp &7of yours into the chat in order to <#FFD84E>extend it&7.",
-            "de_DE": "&7Alternativ kannst du ein Kürzel von einem <#FFD84E>bereits bestehenden Warp &7von dir in den Chat schreiben, um diesen zu <#FFD84E>verlängern&7."
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
         },
         "WORD.item":
         {
