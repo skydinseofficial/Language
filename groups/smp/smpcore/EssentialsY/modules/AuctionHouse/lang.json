@@ -44,8 +44,8 @@
         },
         "GUI.main.createauction.lore":
         {
-            "en_US": "&7List an <#FFD84E>item &7for <#FFD84E>sale&7.\n\n&7You currently have [items] &7listed.\n\n&7&oTip: Use &x&D&8&D&8&D&8/ah sell &7<&x&D&8&D&8&D&8price&7>",
-            "de_DE": "&7Stelle ein <#FFD84E>Item &7zum <#FFD84E>Verkauf &7ein.\n\n&7Du hast derzeit [items] &7eingestellt.\n\n&7&oTipp: Nutze &x&D&8&D&8&D&8/ah sell &7<&x&D&8&D&8&D&8preis&7>"
+            "en_US": "&7List an <#FFD84E>item &7for <#FFD84E>sale&7.\n\n&7You currently have [items] &7listed.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/ah sell <price>",
+            "de_DE": "&7Stelle ein <#FFD84E>Item &7zum <#FFD84E>Verkauf &7ein.\n\n&7Du hast derzeit [items] &7eingestellt.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/ah sell <preis>"
         },
         "GUI.clickaction.additem":
         {
