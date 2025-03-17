@@ -12,6 +12,31 @@
             "en_US": "&cYou can't afford that item!",
             "de_DE": "&cDu kannst dir das Item nicht leisten!"
         },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Release item for sale:",
+            "de_DE": "<#FFD200>Item zum Verkauf freigeben:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write an <#FFD84E>abbreviation &7for your <#FFD84E>new warp &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7, um das <#FFD84E>Item in deiner Hand &7zum Verkauf freizugeben.."
+        },
+        "MSG.create.explanation.2":
+        {
+            "en_US": "&7Alternatively, you can write an abbreviation from an <#FFD84E>already existing warp &7of yours into the chat in order to <#FFD84E>extend it&7.",
+            "de_DE": "&7Alternativ kannst du ein Kürzel von einem <#FFD84E>bereits bestehenden Warp &7von dir in den Chat schreiben, um diesen zu <#FFD84E>verlängern&7."
+        },
         "WORD.item":
         {
             "en_US": "Item",
