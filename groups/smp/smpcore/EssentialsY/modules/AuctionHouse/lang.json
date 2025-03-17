@@ -17,10 +17,35 @@
             "en_US": "Auction House",
             "de_DE": "Auktionshaus"
         },
+        "GUI.edit.title":
+        {
+            "en_US": "Manage Auction",
+            "de_DE": "Auktion bearbeiten"
+        },
         "GUI.main.item.lore":
         {
             "en_US": "&7Seller: [seller]\n&7Price: &x&F&F&D&2&0&0[price]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Verkäufer: [seller]\n&7Preis: &x&F&F&D&2&0&0[price]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
+        "GUI.clickaction.delete":
+        {
+            "en_US": "&8» <#F9BD31>Click to delete",
+            "de_DE": "&8» <#F9BD31>Klicke zum Löschen"
+        },
+        "GUI.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "GUI.clickaction.left.buy":
+        {
+            "en_US": "&8» <#F9BD31>Left click to buy",
+            "de_DE": "&8» <#F9BD31>Links-Klicke zum Kaufen"
+        }
+        "GUI.clickaction.right.moreoptions":
+        {
+            "en_US": "&8» <#F9BD31>Right click for more options",
+            "de_DE": "&8» <#F9BD31>Rechts-Klicke für weitere Optionen"
         }
     }
 }
