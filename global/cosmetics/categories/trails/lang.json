@@ -1,0 +1,11 @@
+{
+    "system": "cosmetics-trails",
+    "translations":
+    {
+        "ITEM.EndSignal":
+        {
+            "en_US": "&6End Signal",
+            "de_DE": "&6Endersignal"
+        }
+    }
+}
