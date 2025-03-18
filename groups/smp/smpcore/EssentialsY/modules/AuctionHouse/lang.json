@@ -12,6 +12,11 @@
             "en_US": "&cYou can't afford that item!",
             "de_DE": "&cDu kannst dir das Item nicht leisten!"
         },
+        "MSG.error.transactionerror":
+        {
+            "en_US": "&cA transaction error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
+        },
         "MSG.error.invalidprice":
         {
             "en_US": "&cInvalid price! &7Please note the format.",
@@ -31,6 +36,11 @@
         {
             "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
             "de_DE": "&7Nutze &e&n<|ah>&7 oder &e&n</ah sell (preis)>"
+        },
+        "MSG.success.itembought":
+        {
+            "en_US": "&7You bought [item]&7 from [player]&7 for [price]&7!",
+            "de_DE": "&7Du hast [item]&7 von [player]&7 für [price]&7 gekauft!"
         },
         "MSG.chatinput.timeisup":
         {
