@@ -131,6 +131,16 @@
         {
             "en_US": "&7Get a small or even a large sweet%nl%&7partner.",
             "de_DE": "&7Schaffe dir einen kleinen oder sogar%nl%&7großen Lebensgefährten an."
+        },
+        "GUI.category.trials.title":
+        {
+            "en_US": "Trials",
+            "de_DE": "Spuren"
+        },
+        "GUI.category.trials.description":
+        {
+            "en_US": "&7Leave some trails behind%nl%&7your steps.",
+            "de_DE": "&7Hinterlasse ein paar Spuren%nl%&7hinter deinen Schritten."
         }
     }
 }
