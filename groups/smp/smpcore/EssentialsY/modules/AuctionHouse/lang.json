@@ -97,6 +97,41 @@
             "en_US": "&7List an <#FFD84E>item &7for <#FFD84E>sale&7.\n\n&7You currently have [items] &7listed.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/ah sell <price>",
             "de_DE": "&7Stelle ein <#FFD84E>Item &7zum <#FFD84E>Verkauf &7ein.\n\n&7Du hast derzeit [items] &7eingestellt.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/ah sell <preis>"
         },
+        "GUI.edit.revokeandwarn":
+        {
+            "en_US": "&6Revoke Item and warn Player",
+            "de_DE": "&6Item zurückziehen und Spieler verwarnen"
+        },
+        "GUI.edit.revokeandwarn.lore":
+        {
+            "en_US": "&7The seller receives the item back and\n&7receives a warning along with the item.\n\n&x&F&2&F&2&F&2&oCases: Inappropriate item name/content, etc.",
+            "de_DE": "&7Der Verkäufer erhält das Item zurück und\n&7erhält mit dem Item eine Verwarnung.\n\n&x&F&2&F&2&F&2&oFälle: Unangebrachter Itemname/Inhalt, etc."
+        },
+        "GUI.edit.forcesell":
+        {
+            "en_US": "&6Force the Item to be sold",
+            "de_DE": "&6Item gezwungenermaßen verkaufen"
+        },
+        "GUI.edit.forcesell.lore":
+        {
+            "en_US": "&7You buy the item, but without a reduction in money.\n&7For the seller, it appears as if it were\n&7a normal sale. The person receives the money.\n\n&x&F&2&F&2&F&2&oCases: Discreetly remove item from circulation",
+            "de_DE": "&7Du kaufst das Item, doch ohne Geldminderung.\n&7Für den Verkäufer wirkt es, als wäre es\n&7ein normaler Verkauf. Die Person bekommt\n&7das Geld.\n\n&x&F&2&F&2&F&2&oFälle: Item unauffällig aus dem Umlauf nehmen"
+        },
+        "GUI.edit.delete":
+        {
+            "en_US": "&cDelete item irrevocably",
+            "de_DE": "&cItem unwiderruflich löschen"
+        },
+        "GUI.edit.delete.lore":
+        {
+            "en_US": "&7The item will be immediately removed from the\n&7auction house. The seller will not be notified\n&7and will not receive any money.\n\n&x&F&2&F&2&F&2&oCases: Remove item from circulation",
+            "de_DE": "&7Das Item wird sofort aus dem Auktionshaus\n&7entfernt. Der Verkäufer wird nicht benachrichtigt\n&7und bekommt auch kein Geld.\n\n&x&F&2&F&2&F&2&oFälle: Item aus dem Umlauf nehmen"
+        },
+        "GUI.clickaction.execute":
+        {
+            "en_US": "&8» <#F9BD31>Click to execute",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ausführen"
+        },
         "GUI.clickaction.additem":
         {
             "en_US": "&8» <#F9BD31>Click to add item",
