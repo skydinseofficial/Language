@@ -24,8 +24,13 @@
         },
         "ITEM.Dust":
         {
-            "en_US": "&8Dust",
-            "de_DE": "&8Staub"
+            "en_US": "&7Dust",
+            "de_DE": "&7Staub"
+        },
+        "ITEM.Lucky":
+        {
+            "en_US": "&aLucky",
+            "de_DE": "&aGlückspilz"
         }
     }
 }
