@@ -21,6 +21,11 @@
         {
             "en_US": "&3Sculk Soul",
             "de_DE": "&3Sculkseele"
+        },
+        "ITEM.Dust":
+        {
+            "en_US": "&8Dust",
+            "de_DE": "&8Staub"
         }
     }
 }
