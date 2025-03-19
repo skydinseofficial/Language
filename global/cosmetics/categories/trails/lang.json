@@ -36,6 +36,11 @@
         {
             "en_US": "&4Inferno",
             "de_DE": "&4Inferno"
+        },
+        "ITEM.Aquatic":
+        {
+            "en_US": "&bAquatic",
+            "de_DE": "&bAquatic"
         }
     }
 }
