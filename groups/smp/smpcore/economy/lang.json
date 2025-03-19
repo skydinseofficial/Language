@@ -196,6 +196,11 @@
         {
             "en_US": "&7You collected &6[earnings] earnings &7and made [balance] [currencyicon]&7!",
             "de_DE": "&7Du hast &6[earnings] Verdienste &7eingesammelt und [balance] [currencyicon] &7gemacht!"
+        },
+        "earnings.msg.collecterror":
+        {
+            "en_US": "&cA transaction error occurred while collecting earnings. Please report this error to the team immediately!",
+            "de_DE": "&cBeim Sammeln des Verdienstes ist ein Transaktionsfehler aufgetreten. Bitte melde diesen Fehler umgehend beim Team!"
         }
     }
 }
