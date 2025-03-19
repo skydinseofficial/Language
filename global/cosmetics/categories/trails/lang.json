@@ -16,6 +16,11 @@
         {
             "en_US": "&cHearts",
             "de_DE": "&cHerzen"
+        },
+        "ITEM.SculkSoul":
+        {
+            "en_US": "&3Sculk Soul",
+            "de_DE": "&3Sculkseele"
         }
     }
 }
