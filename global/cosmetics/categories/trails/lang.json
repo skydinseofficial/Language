@@ -31,6 +31,11 @@
         {
             "en_US": "&aLucky",
             "de_DE": "&aGlückspilz"
+        },
+        "ITEM.Inferno":
+        {
+            "en_US": "&4Inferno",
+            "de_DE": "&4Inferno"
         }
     }
 }
