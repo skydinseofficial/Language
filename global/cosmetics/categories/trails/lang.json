@@ -7,6 +7,11 @@
             "en_US": "&6End Signal",
             "de_DE": "&6Endersignal"
         },
+        "ITEM.Smoke":
+        {
+            "en_US": "&6Smoke",
+            "de_DE": "&6Rauch"
+        },
         "ITEM.Hearts":
         {
             "en_US": "&6Hearts",
