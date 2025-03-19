@@ -97,6 +97,31 @@
             "en_US": "&7Seller: [seller]\n&7Price: &x&F&F&D&2&0&0[price]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Verkäufer: [seller]\n&7Preis: &x&F&F&D&2&0&0[price]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
         },
+        "GUI.main.sorting":
+        {
+            "en_US": "&7Sorting:",
+            "de_DE": "&7Sortierung:"
+        },
+        "GUI.main.sorting.highestprice":
+        {
+            "en_US": "Highest Price",
+            "de_DE": "Höchster Preis"
+        },
+        "GUI.main.sorting.lowestprice":
+        {
+            "en_US": "Lowest Price",
+            "de_DE": "Niedrigster Preis"
+        },
+        "GUI.main.sorting.lastlisted":
+        {
+            "en_US": "Last Listed",
+            "de_DE": "Zuletzt Hinzugefügt"
+        },
+        "GUI.main.sorting.recentlylisted":
+        {
+            "en_US": "Recently Listed",
+            "de_DE": "Kürzlich Hinzugefügt"
+        },
         "GUI.main.createauction":
         {
             "en_US": "Add Item",
@@ -136,6 +161,11 @@
         {
             "en_US": "&7The item will be immediately removed from the\n&7auction house. The seller will not be notified\n&7and will not receive any money.\n\n&x&F&2&F&2&F&2&oCases: Remove item from circulation",
             "de_DE": "&7Das Item wird sofort aus dem Auktionshaus\n&7entfernt. Der Verkäufer wird nicht benachrichtigt\n&7und bekommt auch kein Geld.\n\n&x&F&2&F&2&F&2&oFälle: Item aus dem Umlauf nehmen"
+        },
+        "GUI.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
         },
         "GUI.clickaction.execute":
         {
