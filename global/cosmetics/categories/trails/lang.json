@@ -6,6 +6,11 @@
         {
             "en_US": "&6End Signal",
             "de_DE": "&6Endersignal"
+        },
+        "ITEM.Hearts":
+        {
+            "en_US": "&6Hearts",
+            "de_DE": "&6Herzen"
         }
     }
 }
