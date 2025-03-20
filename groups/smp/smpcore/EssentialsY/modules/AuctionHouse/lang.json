@@ -32,6 +32,11 @@
             "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
             "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
         },
+        "MSG.error.itemhastobeinhand":
+        {
+            "en_US": "&cYou must have the item you want to sell in your hand.",
+            "de_DE": "&cDu musst das Item, welches du verkaufen möchtest, in der Hand halten."
+        },
         "MSG.info.commandusage":
         {
             "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
