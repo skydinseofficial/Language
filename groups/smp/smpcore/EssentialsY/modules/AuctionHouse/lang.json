@@ -97,6 +97,21 @@
             "en_US": "[player]&r's Auctions",
             "de_DE": "[player]&r's Auktionen"
         },
+        "GUI.yourauctions.markallasread":
+        {
+            "en_US": "&6Mark all sold items as read",
+            "de_DE": "&6Alle verkaufen Items als gelesen markieren"
+        },
+        "GUI.yourauctions.markallasread.lore":
+        {
+            "en_US": "&7All recently sold items are marked as\n&7read and therefore no longer displayed here.\n\n&7You can collect your earnings with &e&n/earnings&7.\n\n&7Unread sales: [sales]",
+            "de_DE": "&7Alle kürzlich verkauften Items werden als\n&7gelesen markiert und hier somit nicht weiter\n&7angezeigt.\n\n&7Deinen Verdienst kannst du mit &e&n/earnings\n&7abholen.\n\n&7Ungelesene Verkäufe: [sales]"
+        },
+        "GUI.yourauctions.markallasread.lore.nounreadsales":
+        {
+            "en_US": "&x&F&F&2&B&1None",
+            "de_DE": "&x&F&F&2&B&1CKeine"
+        },
         "GUI.yourauctions.item.lore":
         {
             "en_US": "&7Price: &x&F&F&D&2&0&0[price]\n&7Releasing date: &x&F&F&D&2&0&0[release]\n&7Status: [status]",
