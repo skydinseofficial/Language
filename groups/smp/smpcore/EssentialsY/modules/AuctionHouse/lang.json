@@ -109,8 +109,8 @@
         },
         "GUI.yourauctions.markallasread.lore.nounreadsales":
         {
-            "en_US": "&x&F&F&2&B&1None",
-            "de_DE": "&x&F&F&2&B&1CKeine"
+            "en_US": "&x&F&F&2&B&1&CNone",
+            "de_DE": "&x&F&F&2&B&1&CKeine"
         },
         "GUI.yourauctions.item.lore":
         {
