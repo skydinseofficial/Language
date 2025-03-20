@@ -42,6 +42,11 @@
             "en_US": "&7You bought [item]&7 from [player]&7 for [price]&7!",
             "de_DE": "&7Du hast [item]&7 von [player]&7 für [price]&7 gekauft!"
         },
+        "MSG.success.itemboughttarget":
+        {
+            "en_US": "&7[player]&7 just bought your auction &8([item]&8) for [price]&7!",
+            "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) für [price]&7 gekauft!"
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
