@@ -44,8 +44,8 @@
         },
         "MSG.success.itemboughttarget":
         {
-            "en_US": "&7[player]&7 just bought your auction &8([item]&8) for [price]&7!",
-            "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) für [price]&7 gekauft!"
+            "en_US": "&7[player]&7 just bought your auction &8([item]&8) &7for [price]&7!",
+            "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) &7für [price]&7 gekauft!"
         },
         "MSG.chatinput.timeisup":
         {
