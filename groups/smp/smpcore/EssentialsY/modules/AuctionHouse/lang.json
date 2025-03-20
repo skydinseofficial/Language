@@ -92,10 +92,60 @@
             "en_US": "Manage Auction",
             "de_DE": "Auktion bearbeiten"
         },
+        "GUI.yourauctions.title":
+        {
+            "en_US": "Your Auctions",
+            "de_DE": "Deine Auktionen"
+        },
+        "GUI.yourauctions.item.lore":
+        {
+            "en_US": "&7Price: &x&F&F&D&2&0&0[price]\n&7Releasing date: &x&F&F&D&2&0&0[release]\n&7Status: [status]",
+            "de_DE": "&7Preis: &x&F&F&D&2&0&0[price]\n&7Einstellungsdatum: &x&F&F&D&2&0&0[release]\n&7Status: [status]"
+        },
+        "GUI.yourauctions.item.extralore.sold":
+        {
+            "en_US": "&7Buyer: [buyer]\n&7Date of sale: &x&F&F&D&2&0&0[saledate]\n\n&7The item has been sold!\n&7Check your earnings with &e&n/earnings&7!",
+            "de_DE": "&7Käufer: [buyer]\n&7Verkaufsdatum: &x&F&F&D&2&0&0[saledate]\n\n&7Das Item wurde verkauft!\n&7Schau in deine Verdienste mit &e&n/earnings&7!"
+        },
+        "GUI.yourauctions.item.extralore.expired":
+        {
+            "en_US": "\n\n&7The auction expired!\n&7You can collect the item again.",
+            "de_DE": "\n\n&7Die Auktion ist abgelaufen!\n&7Du kannst das Item wieder einsammeln."
+        },
+        "GUI.yourauctions.item.extralore.revokeandwarn":
+        {
+            "en_US": "&7Team member: [teammember]\n\n&7Your auction has been deleted!\n&7The item may have an inappropriate name\n&7or the auction may violate other rules.\n&7This is a warning! If you have any questions,\n&7please contact the team.\n\n&7You can collect the item again.",
+            "de_DE": "&7Teammitglied: [teammember]\n\n&7Deine Auktion wurde gelöscht!\n&7Möglicherweise hat das Item einen unangebrachten\n&7Namen oder die Auktion verstößt gegen sonstige\n&7Regeln. Dies ist eine Verwarnung!\n&7Falls du Rückfragen hast, melde dich beim Team.\n\n&7Du kannst das Item wieder einsammeln."
+        },
+        "GUI.yourauctions.item.lore.status.waitingforsale":
+        {
+            "en_US": "&x&F&F&D&2&0&0Waiting for sale...",
+            "de_DE": "&x&F&F&D&2&0&0Warten auf Verkauf..."
+        },
+        "GUI.yourauctions.item.lore.status.sold":
+        {
+            "en_US": "&x&5&0&F&F&0&0SOLD!",
+            "de_DE": "&x&5&0&F&F&0&0VERKAUFT!"
+        },
+        "GUI.yourauctions.item.lore.status.expired":
+        {
+            "en_US": "&x&F&F&1&E&0&0EXPIRED!",
+            "de_DE": "&x&F&F&1&E&0&0AUSGELAUFEN!"
+        },
+        "GUI.yourauctions.item.lore.status.revokeandwarn":
+        {
+            "en_US": "&x&F&F&0&0&0&0Deleted and warned by the team!",
+            "de_DE": "&x&F&F&0&0&0&0Vom Team gelöscht und verwarnt!"
+        },
         "GUI.main.item.lore":
         {
             "en_US": "&7Seller: [seller]\n&7Price: &x&F&F&D&2&0&0[price]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Verkäufer: [seller]\n&7Preis: &x&F&F&D&2&0&0[price]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
+        "GUI.main.yourauctions":
+        {
+            "en_US": "&6Your Auctions",
+            "de_DE": "&6Deine Auktionen"
         },
         "GUI.main.sorting":
         {
@@ -161,6 +211,21 @@
         {
             "en_US": "&7The item will be immediately removed from the\n&7auction house. The seller will not be notified\n&7and will not receive any money.\n\n&x&F&2&F&2&F&2&oCases: Remove item from circulation",
             "de_DE": "&7Das Item wird sofort aus dem Auktionshaus\n&7entfernt. Der Verkäufer wird nicht benachrichtigt\n&7und bekommt auch kein Geld.\n\n&x&F&2&F&2&F&2&oFälle: Item aus dem Umlauf nehmen"
+        },
+        "GUI.clickaction.markasread":
+        {
+            "en_US": "&8» <#F9BD31>Click to mark as read",
+            "de_DE": "&8» <#F9BD31>Klicke, um als gelesen zu markieren"
+        },
+        "GUI.clickaction.collect":
+        {
+            "en_US": "&8» <#F9BD31>Click to collect",
+            "de_DE": "&8» <#F9BD31>Klicke zum Einsammeln"
+        },
+        "GUI.clickaction.revokeauction":
+        {
+            "en_US": "&8» <#F9BD31>Click to revoke auction",
+            "de_DE": "&8» <#F9BD31>Klicke, um die Auktion zurückzuziehen"
         },
         "GUI.clickaction.switch":
         {
