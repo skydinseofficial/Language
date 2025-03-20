@@ -47,6 +47,11 @@
             "en_US": "&7[player]&7 just bought your auction &8([item]&8) &7for [price]&7!",
             "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) &7für [price]&7 gekauft!"
         },
+        "MSG.success.revokeandwarn":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lWARNING: &7Your auction &8([item]&8) &7has just been withdrawn by a team member. You can reclaim the item, but beware of potential rule violations!",
+            "de_DE": "&x&F&F&0&0&0&0&lVERWARNUNG: &7Deine Auktion &8([item]&8) &7wurde soeben von einem Teammitglied zurückgezogen. Du kannst das Item wieder einsammeln, achte allerdings auf potentielle Regelverstöße!"
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
