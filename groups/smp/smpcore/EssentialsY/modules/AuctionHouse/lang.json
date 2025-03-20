@@ -42,6 +42,11 @@
             "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
             "de_DE": "&7Nutze &e&n<|ah>&7 oder &e&n</ah sell (preis)>"
         },
+        "MSG.success.itemreleased":
+        {
+            "en_US": "&7You have just released [item]&7 for sale for &x&F&F&D&2&0&0[price]&7!",
+            "de_DE": "&7Du hast soeben [item]&7 für &x&F&F&D&2&0&0[price]&7 zum Verkauf freigegeben!"
+        },
         "MSG.success.itembought":
         {
             "en_US": "&7You bought [item]&7 from [player]&7 for [price]&7!",
