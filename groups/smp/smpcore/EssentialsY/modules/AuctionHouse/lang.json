@@ -97,6 +97,16 @@
             "en_US": "[player]&r's Auctions",
             "de_DE": "[player]&r's Auktionen"
         },
+        "GUI.yourauctions.viewearnings":
+        {
+            "en_US": "&6View Earnings",
+            "de_DE": "&6Verdienste ansehen"
+        },
+        "GUI.yourauctions.viewearnings.lore":
+        {
+            "en_US": "&7Collect your general earnings!",
+            "de_DE": "&7Hol' dir deine allgemeinen Verdienste ab!"
+        },
         "GUI.yourauctions.markallasread":
         {
             "en_US": "&6Mark all sold items as read",
@@ -226,6 +236,11 @@
         {
             "en_US": "&7The item will be immediately removed from the\n&7auction house. The seller will not be notified\n&7and will not receive any money.\n\n&x&F&2&F&2&F&2&oCases: Remove item from circulation",
             "de_DE": "&7Das Item wird sofort aus dem Auktionshaus\n&7entfernt. Der Verkäufer wird nicht benachrichtigt\n&7und bekommt auch kein Geld.\n\n&x&F&2&F&2&F&2&oFälle: Item aus dem Umlauf nehmen"
+        },
+        "GUI.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
         },
         "GUI.clickaction.markasread":
         {
