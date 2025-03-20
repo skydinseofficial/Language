@@ -94,8 +94,8 @@
         },
         "GUI.yourauctions.title":
         {
-            "en_US": "Your Auctions",
-            "de_DE": "Deine Auktionen"
+            "en_US": "[player]'s Auctions",
+            "de_DE": "[player]'s Auktionen"
         },
         "GUI.yourauctions.item.lore":
         {
