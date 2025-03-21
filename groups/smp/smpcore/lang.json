@@ -137,6 +137,11 @@
             "en_US": "World",
             "de_DE": "Welt"
         },
+        "rtp.gui.main.title":
+        {
+            "en_US": "Random Teleport",
+            "de_DE": "Random Teleport"
+        },
         "cmd.back.teleportingyou":
         {
             "en_US": "&7You will be teleported to your last death location...",
