@@ -144,6 +144,26 @@
             "ru_RU": "Язык",
             "tr_TR": "Dil",
             "ko_KO": "언어"
+        },
+        "ACTIONBAR.hiddenzones.hidden":
+        {
+            "en_US": "&x&F&F&1&4&0&0You are currently hidden &7&o(Hidden Zones)",
+            "de_DE": "&x&F&F&1&4&0&0Du bist gerade versteckt &7&o(Versteckzone)"
+        },
+        "ACTIONBAR.hiddenzones.shown":
+        {
+            "en_US": "&x&2&6&D&C&1&DYou are visible again &7&o(Hidden Zones)",
+            "de_DE": "&x&2&6&D&C&1&DDu bist wieder sichtbar &7&o(Versteckzone)"
+        },
+        "ACTIONBAR.hiddenzones.item":
+        {
+            "en_US": "&x&F&F&1&4&0&0To ensure that anyone can see what's in here",
+            "de_DE": "&x&2&6&D&C&1&DUm eine Sichtblockierung zu verhindern"
+        },
+        "ACTIONBAR.hiddenzones.vanished":
+        {
+            "en_US": "",
+            "de_DE": ""
         }
     }
 }
