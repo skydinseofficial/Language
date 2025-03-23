@@ -172,6 +172,41 @@
             "en_US": "&eVAR1 &ccould not be teleported to his/her last death location!",
             "de_DE": "&eVAR1 &ckonnte nicht an seinen/ihren letzten Todesort teleportiert werden!"
         },
+        "settings.gui.main.title":
+        {
+            "en_US": "Settings",
+            "de_DE": "Einstellungen"
+        },
+        "settings.gui.main.status":
+        {
+            "en_US": "Status: [status]",
+            "de_DE": "Status: [status]"
+        },
+        "settings.gui.main.status.1":
+        {
+            "en_US": "&x&4&C&F&F&0&0&lENABLED",
+            "de_DE": "&x&4&C&F&F&0&0&lAKTIVIERT"
+        },
+        "settings.gui.main.status.0":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lDISABLED",
+            "de_DE": "&x&F&F&0&0&0&0&lDEAKTIVIERT"
+        },
+        "settings.gui.main.setting.deathmessages":
+        {
+            "en_US": "Death Messages",
+            "de_DE": "Todesnachrichten"
+        },
+        "settings.gui.main.setting.moneyanimation":
+        {
+            "en_US": "Money Animations",
+            "de_DE": "Geldanimationen"
+        },
+        "settings.gui.main.setting.playerjoinleavemsg":
+        {
+            "en_US": "Player Join/Leave Messages",
+            "de_DE": "Spieler Join-/Leave-Nachrichten"
+        },
         "scoreboard.money":
         {
             "en_US": "Money:",
