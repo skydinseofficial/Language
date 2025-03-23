@@ -141,6 +141,16 @@
         {
             "en_US": "&7Leave some trails behind%nl%&7your steps.",
             "de_DE": "&7Hinterlasse ein paar Spuren%nl%&7hinter deinen Schritten."
+        },
+        "GUI.category.offhand.title":
+        {
+            "en_US": "Offhand Item",
+            "de_DE": "Hand-Item"
+        },
+        "GUI.category.offhand.description":
+        {
+            "en_US": "&7Show your cool custom Items%nl%&7to the players.",
+            "de_DE": "&7Zeige allen anderen deine%nl%&7coolen Custom Items."
         }
     }
 }
