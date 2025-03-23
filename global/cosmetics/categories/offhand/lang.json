@@ -6,6 +6,11 @@
         {
             "en_US": "&cAxe",
             "de_DE": "&6Axt"
+        },
+        "ITEM.Clapperboard":
+        {
+            "en_US": "&aClapperboard",
+            "de_DE": "&aFilmklappe"
         }
     }
 }
