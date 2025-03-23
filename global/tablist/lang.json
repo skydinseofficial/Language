@@ -30,11 +30,11 @@
             "de_XX": "&7Aktuelle Welt",
             "tr_TR": "&7Dünya"
         },
-        "blooms":
+        "players":
         {
-            "en_US": "Blooms",
-            "de_DE": "Blüten",
-            "tr_TR": "Çiçek"
+            "en_US": "Players",
+            "de_DE": "Spieler",
+            "tr_TR": "Oyuncular"
         }
     }
 }
