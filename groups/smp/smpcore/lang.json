@@ -184,8 +184,8 @@
         },
         "settings.gui.main.status":
         {
-            "en_US": "Status: [status]",
-            "de_DE": "Status: [status]"
+            "en_US": "&7Status: [status]",
+            "de_DE": "&7Status: [status]"
         },
         "settings.gui.main.status.1":
         {
