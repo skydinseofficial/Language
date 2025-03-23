@@ -1,0 +1,11 @@
+{
+    "system": "cosmetics-offhand",
+    "translations":
+    {
+        "ITEM.Axe":
+        {
+            "en_US": "&cAxe",
+            "de_DE": "&6Axt"
+        }
+    }
+}
