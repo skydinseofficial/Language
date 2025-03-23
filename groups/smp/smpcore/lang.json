@@ -177,6 +177,11 @@
             "en_US": "Settings",
             "de_DE": "Einstellungen"
         },
+        "settings.gui.main.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
+        },
         "settings.gui.main.status":
         {
             "en_US": "Status: [status]",
