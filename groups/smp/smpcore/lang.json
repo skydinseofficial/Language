@@ -37,50 +37,60 @@
             "en_US": "[player] &7is new on &6[smp]&7! &x&F&F&D&8&0&0#[amount]",
             "de_DE": "[player] &7ist neu auf &6[smp]&7! &x&F&F&D&8&0&0#[amount]"
         },
+        "deathmessage.word.damage":
+        {
+            "en_US": "Damage",
+            "de_DE": "Schaden"
+        },
+        "deathmessage.attacker.1":
+        {
+            "en_US": "[victim]&7 was killed by [attacker]&7.",
+            "de_DE": "[victim]&7 wurde von [attacker]&7 getötet."
+        },
         "deathmessage.1":
         {
-            "en_US": "VAR1 &7died.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "en_US": "[victim] &7died.",
+            "de_DE": "[victim] &7ist gestorben."
         },
         "deathmessage.2":
         {
-            "en_US": "VAR1 &7passed away.",
-            "de_DE": "VAR1 &7ist von uns gegangen."
+            "en_US": "[victim] &7passed away.",
+            "de_DE": "[victim] &7ist von uns gegangen."
         },
         "deathmessage.3":
         {
-            "en_US": "VAR1 &7is pushing up daisies.",
-            "de_DE": "VAR1 &7liegt jetzt unter der Erde."
+            "en_US": "[victim] &7is pushing up daisies.",
+            "de_DE": "[victim] &7liegt jetzt unter der Erde."
         },
         "deathmessage.4":
         {
-            "en_US": "VAR1 &7went to heaven.",
-            "de_DE": "VAR1 &7ist in den Himmel gegangen."
+            "en_US": "[victim] &7went to heaven.",
+            "de_DE": "[victim] &7ist in den Himmel gegangen."
         },
         "deathmessage.5":
         {
-            "en_US": "VAR1 &7is leaving this mortal coil.",
-            "de_DE": "VAR1 &7hat diese irdische Welt verlassen."
+            "en_US": "[victim] &7is leaving this mortal coil.",
+            "de_DE": "[victim] &7hat diese irdische Welt verlassen."
         },
         "deathmessage.6":
         {
-            "en_US": "VAR1 &7went to a better place.",
-            "de_DE": "VAR1 &7ist an einen besseren Ort gegangen."
+            "en_US": "[victim] &7went to a better place.",
+            "de_DE": "[victim] &7ist an einen besseren Ort gegangen."
         },
         "deathmessage.7":
         {
-            "en_US": "VAR1 &7moved over.",
-            "de_DE": "VAR1 &7hat das Zeitliche gesegnet."
+            "en_US": "[victim] &7moved over.",
+            "de_DE": "[victim] &7hat das Zeitliche gesegnet."
         },
         "deathmessage.8":
         {
-            "en_US": "VAR1 &7is not with us anymore.",
-            "de_DE": "VAR1 &7ist nicht mehr unter uns."
+            "en_US": "[victim] &7is not with us anymore.",
+            "de_DE": "[victim] &7ist nicht mehr unter uns."
         },
         "deathmessage.9":
         {
-            "en_US": "VAR1 &7went west.",
-            "de_DE": "VAR1 &7ist gestorben."
+            "en_US": "[victim] &7went west.",
+            "de_DE": "[victim] &7ist gestorben."
         },
         "youdied.world":
         {
