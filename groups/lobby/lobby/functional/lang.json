@@ -158,7 +158,7 @@
         "ACTIONBAR.hiddenzones.item":
         {
             "en_US": "&x&F&F&1&4&0&0To ensure that anyone can see what's in here",
-            "de_DE": "&x&2&6&D&C&1&DUm eine Sichtblockierung zu verhindern"
+            "de_DE": "&x&F&F&1&4&0&0Um eine Sichtblockierung zu verhindern"
         },
         "ACTIONBAR.hiddenzones.vanished":
         {
