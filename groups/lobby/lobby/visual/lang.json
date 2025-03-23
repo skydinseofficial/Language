@@ -37,6 +37,11 @@
         {
             "en_US": "&x&E&D&2&1&E&2&lNETWORK FEATURES;<#EFC3CF>Network wide <#FF00DC>Voice Chat <#EFC3CF>Support: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Support;<#EFC3CF>Big <#FF00DC>Community & Streamer <#EFC3CF>Events",
             "de_DE": "&x&E&D&2&1&E&2&lNETZWERK FEATURES;<#EFC3CF>Netzwerkweite <#FF00DC>Voice Chat <#EFC3CF>Unterstützung: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Unterstützung;<#EFC3CF>Große <#FF00DC>Community & Streamer <#EFC3CF>Events"
+        },
+        "MSG.joinbanner":
+        {
+            "en_US": "%nl%𝕸%nl%&7Welcome",
+            "de_DE": ""
         }
     }
 }
