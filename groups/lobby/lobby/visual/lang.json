@@ -40,7 +40,7 @@
         },
         "MSG.joinbanner":
         {
-            "en_US": "%nl%𝕸%nl%&7Welcome",
+            "en_US": "\n𝕸%nl%&7Welcome",
             "de_DE": ""
         }
     }
