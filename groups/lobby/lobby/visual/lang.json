@@ -40,7 +40,7 @@
         },
         "MSG.joinbanner":
         {
-            "en_US": "\n    𝕸\n\n&7\n\n&7Welcome to &fSkydinse, &6[player]",
+            "en_US": "[n]𝕸[n][n][n][n][n]&7Welcome to &fSkydinse, &6[player]",
             "de_DE": ""
         }
     }
