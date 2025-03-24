@@ -117,6 +117,11 @@
             "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]\n&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
             "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]\n&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
         },
+        "GUI.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
+        },
         "GUI.clickaction.view":
         {
             "en_US": "&8» <#F9BD31>Click to view",
