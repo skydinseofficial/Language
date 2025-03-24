@@ -1,0 +1,126 @@
+{
+    "system": "esy-sellgui",
+    "translations":
+    {
+        "MSG.error.invalidprice":
+        {
+            "en_US": "&cInvalid price! &7Please note the format.",
+            "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.error.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
+        "MSG.error.itemhastobeinhand":
+        {
+            "en_US": "&cYou must hold the item for which you want to set the worth in your hand.",
+            "de_DE": "&cDu musst das Item, für welches du den Wert festlegen möchtest, in der Hand halten."
+        },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|worth>&7 or &e&n</worth set (price)>",
+            "de_DE": "&7Nutze &e&n<|worth>&7 oder &e&n</worth set (preis)>"
+        },
+        "MSG.success.worthset":
+        {
+            "en_US": "&7You have just set the value of &6[item] &7to &x&F&F&D&2&0&0[price] &7!",
+            "de_DE": "&7Du hast soeben den Wert von &6[item] &7auf &x&F&F&D&2&0&0[price] &7gesetzt!"
+        },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Define new worth:",
+            "de_DE": "<#FFD200>Neuen Wert definieren:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>positive amount &7in the <#FFD84E>chat &7to assign a worth to the <#FFD84E>item in your hand&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>positiven Betrag &7in den <#FFD84E>Chat&7, um dem <#FFD84E>Item in deiner Hand &7einen Wert zuzuschreiben."
+        },
+        "MSG.create.explanation.2.money":
+        {
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        },
+        "WORD.item":
+        {
+            "en_US": "Item",
+            "de_DE": "Item"
+        },
+        "WORD.items":
+        {
+            "en_US": "Items",
+            "de_DE": "Items"
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Worth List",
+            "de_DE": "Werteliste"
+        },
+        "GUI.main.sorting":
+        {
+            "en_US": "&7Sorting:",
+            "de_DE": "&7Sortierung:"
+        },
+        "GUI.main.sorting.highestprice":
+        {
+            "en_US": "Highest Price",
+            "de_DE": "Höchster Preis"
+        },
+        "GUI.main.sorting.lowestprice":
+        {
+            "en_US": "Lowest Price",
+            "de_DE": "Niedrigster Preis"
+        },
+        "GUI.main.sorting.lastupdated":
+        {
+            "en_US": "Last Updated",
+            "de_DE": "Zuletzt Aktualisiert"
+        },
+        "GUI.main.sorting.recentlyupdated":
+        {
+            "en_US": "Recently Updated",
+            "de_DE": "Kürzlich Aktualisiert"
+        },
+        "GUI.main.createworth":
+        {
+            "en_US": "Define worth for item",
+            "de_DE": "Wert für Item definieren"
+        },
+        "GUI.main.createworth.lore":
+        {
+            "en_US": "&7List an <#FFD84E>item &7for <#FFD84E>sale&7.\n\n&7You currently have [items] &7listed.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/ah sell <price>",
+            "de_DE": "&7Stelle ein <#FFD84E>Item &7zum <#FFD84E>Verkauf &7ein.\n\n&7Du hast derzeit [items] &7eingestellt.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/ah sell <preis>"
+        },
+        "GUI.main.object.lore":
+        {
+            "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]\n&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
+            "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]\n&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
+        },
+        "GUI.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        }
+    }
+}
