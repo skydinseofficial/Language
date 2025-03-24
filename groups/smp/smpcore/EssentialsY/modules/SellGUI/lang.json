@@ -121,6 +121,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to view",
             "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
+        "GUI.clickaction.update":
+        {
+            "en_US": "&8» <#F9BD31>Click to update",
+            "de_DE": "&8» <#F9BD31>Klicke zum Aktualisieren"
         }
     }
 }
