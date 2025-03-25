@@ -82,6 +82,11 @@
             "en_US": "Worth List",
             "de_DE": "Werteliste"
         },
+        "GUI.sell.title":
+        {
+            "en_US": "Sell Items",
+            "de_DE": "Items verkaufen"
+        },
         "GUI.main.sorting":
         {
             "en_US": "&7Sorting:",
