@@ -39,8 +39,8 @@
         },
         "MSG.success.sold":
         {
-            "en_US": "&7You have sold &6[amount] &7items worth &x&F&F&D&2&0&0[price]&7!",
-            "de_DE": "&7Du hast &6[amount] &7Items im Wert von &x&F&F&D&2&0&0[price] &7verkauft!"
+            "en_US": "&7You have sold &6[amount] &7items worth [price]&7!",
+            "de_DE": "&7Du hast &6[amount] &7Items im Wert von [price] &7verkauft!"
         },
         "MSG.chatinput.timeisup":
         {
