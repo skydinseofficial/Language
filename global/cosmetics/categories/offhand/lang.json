@@ -11,6 +11,11 @@
         {
             "en_US": "&aClapperboard",
             "de_DE": "&aFilmklappe"
+        },
+        "ITEM.Present":
+        {
+            "en_US": "&x&F&F&8&6&0&0&lPresent",
+            "de_DE": "&x&F&F&8&6&0&0&lGeschenk"
         }
     }
 }
