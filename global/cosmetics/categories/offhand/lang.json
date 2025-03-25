@@ -4,18 +4,18 @@
     {
         "ITEM.Axe":
         {
-            "en_US": "&c&lAxe",
-            "de_DE": "&c&lAxt"
+            "en_US": "&cAxe",
+            "de_DE": "&cAxt"
         },
         "ITEM.Clapperboard":
         {
-            "en_US": "&a&lClapperboard",
-            "de_DE": "&a&lFilmklappe"
+            "en_US": "&dClapperboard",
+            "de_DE": "&dFilmklappe"
         },
         "ITEM.Present":
         {
-            "en_US": "&x&F&F&8&6&0&0&lPresent",
-            "de_DE": "&x&F&F&8&6&0&0&lGeschenk"
+            "en_US": "&x&F&F&8&6&0&0Present",
+            "de_DE": "&x&F&F&8&6&0&0Geschenk"
         }
     }
 }
