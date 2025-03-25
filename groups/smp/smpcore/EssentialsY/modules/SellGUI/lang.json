@@ -37,6 +37,11 @@
             "en_US": "&7You have just set the value of &6[item] &7to &x&F&F&D&2&0&0[price] &7!",
             "de_DE": "&7Du hast soeben den Wert von &6[item] &7auf &x&F&F&D&2&0&0[price] &7gesetzt!"
         },
+        "MSG.success.sold":
+        {
+            "en_US": "&7You have sold &6[amount] &7items worth &x&F&F&D&2&0&0[price]&7!",
+            "de_DE": "&7Du hast &6[amount] &7Items im Wert von &x&F&F&D&2&0&0[price] &7verkauft!"
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
