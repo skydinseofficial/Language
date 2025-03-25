@@ -4,13 +4,13 @@
     {
         "ITEM.Axe":
         {
-            "en_US": "&cAxe",
-            "de_DE": "&cAxt"
+            "en_US": "&c&lAxe",
+            "de_DE": "&c&lAxt"
         },
         "ITEM.Clapperboard":
         {
-            "en_US": "&aClapperboard",
-            "de_DE": "&aFilmklappe"
+            "en_US": "&a&lClapperboard",
+            "de_DE": "&a&lFilmklappe"
         },
         "ITEM.Present":
         {
