@@ -1111,7 +1111,7 @@
         "NETWORKSTATS.title":
         {
             "en_US": "Network-Statistics",
-            "de_DE": "&x&F&F&8&6&0&0&lN&x&F&E&8&B&0&9&le&x&F&D&9&1&1&1&lt&x&F&D&9&6&1&A&lz&x&F&C&9&B&2&2&lw&x&F&B&A&0&2&B&le&x&F&A&A&6&3&4&lr&x&F&9&A&B&3&C&lk&x&F&8&B&0&4&5&l-&x&F&8&B&5&4&D&lS&x&F&7&B&B&5&6&lt&x&F&6&C&0&5&E&la&x&F&5&C&5&6&7&lt&x&F&5&B&A&5&A&li&x&F&5&A&E&4&E&ls&x&F&5&A&3&4&1&lt&x&F&5&9&7&3&4&li&x&F&5&8&C&2&7&lk&x&F&5&8&0&1&B&le&x&F&5&7&5&0&E&ln",
+            "de_DE": "Netzwerk-Statistiken",
             "tr_TR": "Sunucu istatistikleri",
             "ko_KR": "네트워크 통계"
         },
