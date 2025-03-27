@@ -451,37 +451,39 @@
             "tr_TR": "&7Bu özelliği kullanmak için en az  rütbesine sahip olman gerekir.",
             "ko_KR": "&7이 기능을 사용하려면 최소  랭크 이상이 필요합니다."
         },
-        "SETTINGS.playerhider.desc":
+        "SETTINGS.playerhider":
         {
-            "en_US": "&7The playerhider allows you to hide\n&7all or certain players from you.",
-            "de_DE": "&7Mit diesem Tool kannst du alle oder\n&7bestimmte Spieler:innen vor dir verstecken.",
-            "pt_BR": "&7Com esta ferramenta, podes esconder todos ou\n&7apenas jogadores específicos à tua frente.",
-            "tr_TR": "&7Bu araç ile tüm veya belirli\n&7oyuncuları sizden gizleyebilirsin.",
-            "ko_KR": "&7이 도구를 사용하면 모든 플레이어나\n&7특정 플레이어를 숨길 수 있습니다."
+            "en_US": "&6Player visibility",
+            "de_DE": "&6Spielersichtbarkeit",
+            "tr_TR": "&6Oyuncu görünürlüğü"
+        },
+        "SETTINGS.playerhider.lore":
+        {
+            "en_US": "\n&7Mode: [mode]\n\n&7Choose, which players you are\n&7able to <#FFD84E>see&7.",
+            "de_DE": "\n&7Modus: [mode]\n\n&7Lege fest, welche\n&7Spieler du <#FFD84E>sehen &7kannst.",
+            "tr_TR": "\n&7Modu: [mode]\n\n&7Hangi oyuncuları <#FFD84E>görebileceğini &7belirle."
         },
         "SETTINGS.playerhider.name.all":
         {
-            "en_US": "Visibility: &aeveryone",
-            "de_DE": "Sichtbarkeit: &aalle",
-            "pt_BR": "Visibilidade: &atodos",
-            "tr_TR": "Görünürlük: &aherkes",
-            "ko_KR": "표시: &a모두"
+            "en_US": "&aeverybody",
+            "de_DE": "&aalle",
+            "pt_BR": "&atodos",
+            "tr_TR": "&aherkez",
+            "ko_KR": "&a모두"
         },
-        "SETTINGS.playerhider.name.vip":
+        "SETTINGS.playerhider.name.partyorfriends":
         {
-            "en_US": "Visibility: &5VIP",
-            "de_DE": "Sichtbarkeit: &5VIP",
-            "pt_BR": "Visibilidade: &5VIP",
-            "tr_TR": "Görünürlük: &5VIP",
-            "ko_KR": "표시: &5VIP"
+            "en_US": "&6Friends/Party",
+            "de_DE": "&6Freunde/Party",
+            "tr_TR": "&6Arkadaşlar/Parti"
         },
         "SETTINGS.playerhider.name.nobody":
         {
-            "en_US": "Visibility: &cnobody",
-            "de_DE": "Sichtbarkeit: &cniemand",
-            "pt_BR": "Visibilidade: &cninguém",
-            "tr_TR": "Görünürlük: &ckimse",
-            "ko_KR": "표시: &c없음"
+            "en_US": "&cnobody",
+            "de_DE": "&cniemand",
+            "pt_BR": "&cninguém",
+            "tr_TR": "&ckimse",
+            "ko_KR": "&c없음"
         },
         "HOLO.discord.line1":
         {
