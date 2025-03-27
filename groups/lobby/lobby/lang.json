@@ -1110,9 +1110,9 @@
         },
         "NETWORKSTATS.title":
         {
-            "en_US": "Network-Statistics",
+            "en_US": "NETWORK STATISTICS",
             "de_DE": "NETZERK-STATISTIKEN",
-            "tr_TR": "Sunucu istatistikleri",
+            "tr_TR": "SUNUCU İSTATİSTİKLERİ",
             "ko_KR": "네트워크 통계"
         },
         "NETWORKSTATS.registeredplayers":
@@ -1171,50 +1171,41 @@
             "tr_TR": "online",
             "ko_KR": "온라인"
         },
-        "COINMIGRATION.alreadymigratedordatanotloaded":
-        {
-            "en_US": "&cYou've already migrated your Coins into Blooms or your data is not loaded!",
-            "de_DE": "&cDu hast bereits deine Coins in Blüten umgewandelt oder deine Daten sind nicht geladen!"
-        },
-        "COINMIGRATION.anerroroccurred":
-        {
-            "en_US": "&cAn error occurred. Please try again!",
-            "de_DE": "&cEin Fehler ist aufgetreten. Bitte versuche es erneut!"
-        },
-        "COINMIGRATION.nocoinstomigrate":
-        {
-            "en_US": "&cYou don't have any Coins to migrate!",
-            "de_DE": "&cDu hast keine Coins zum migrieren!"
-        },
         "HALLOWEEN.portalshardfound":
         {
             "en_US": "&cPortal shard found",
-            "de_DE": "&cPortalsplitter Gefunden"
+            "de_DE": "&cPortalsplitter Gefunden",
+            "tr_TR": "&cPortal parçası bulundu"
         },
         "HALLOWEEN.youfound":
         {
             "en_US": "&7You found a portal shard!",
-            "de_DE": "&7Du hast einen Portalsplitter gefunden!"
+            "de_DE": "&7Du hast einen Portalsplitter gefunden!",
+            "tr_TR": "&7Bir portal parçası buldun"
         },
         "HALLOWEEN.progress":
         {
             "en_US": "&5Progress &c»",
-            "de_DE": "&5Fortschritt &c»"
+            "de_DE": "&5Fortschritt &c»",
+            "tr_TR": "&5İlerleme &c»"
         },
         "HALLOWEEN.alreadyfound":
         {
             "en_US": "&cYou already found this portal shard!",
-            "de_DE": "&cDu hast diesen Portalsplitter bereits gefunden!"
+            "de_DE": "&cDu hast diesen Portalsplitter bereits gefunden!",
+            "tr_TR": "&cBu portal parçasını zaten buldun!"
         },
         "HALLOWEEN.foundeverything":
         {
             "en_US": "&dYou have found all &5portal shards&d! &aFor this you will receive the &bSky rank &afor (+)14 days!",
-            "de_DE": "&dDu hast alle &5Portalsplitter &dgefunden! &aSomit erhältst du den &bSky-Rang &afür (+)14 Tage!"
+            "de_DE": "&dDu hast alle &5Portalsplitter &dgefunden! &aSomit erhältst du den &bSky-Rang &afür (+)14 Tage!",
+            "tr_TR": "&dTüm &5portal parçalarını &dbuldun! &aSky rütbesini &a(+)14 gün boyunca kazandın!"
         },
         "HALLOWEEN.yourcurrentprogess":
         {
             "en_US": "&7Your current progress in the &csearch game &7is:",
-            "de_DE": "&7Dein derzeitiger Fortschritt beim &cSuchspiel &7liegt bei:"
+            "de_DE": "&7Dein derzeitiger Fortschritt beim &cSuchspiel &7liegt bei:",
+            "tr_TR": "&cArama oyunundaki &7mevcut ilerlemenin:"
         }
     }
 }
