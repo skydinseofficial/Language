@@ -1,0 +1,21 @@
+{
+    "system": "cosmetics-minime",
+    "translations":
+    {
+        "ITEM.MiniMe":
+        {
+            "en_US": "&6Mini Me",
+            "de_DE": "&6Mini Me"
+        },
+        "ITEM.Upgrade-SmpGeneratorEarn":
+        {
+            "en_US": "&7Upgrade: &x&F&F&D&2&0&0Auto Collect Generators (SMPs)",
+            "de_DE": "&7Upgrade: &x&F&F&D&2&0&0Generatoren autom. leeren (SMPs)"
+        },
+        "ITEM.Upgrade-SmpAutoSellGroundItems":
+        {
+            "en_US": "&7Upgrade: &x&F&F&D&2&0&0Auto Sell Ground Items (SMPs)",
+            "de_DE": "&7Upgrade: &x&F&F&D&2&0&0Boden-Items autom. verkaufen (SMPs)"
+        }
+    }
+}
