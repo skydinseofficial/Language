@@ -188,7 +188,7 @@
         "VOTEGUI.item.streak.lore":
         {
             "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
-            "de_DE": "\n<##99AAB5>Aktuell: &60 Flammen\n\n<##99AAB5>Vote jeden Tag, um &6coole Belohnungen <##99AAB5>zu erhalten.\n<##99AAB5>Deine Belohnung wird automatisch in\n<##99AAB5>deinem &6Belohnungsinvantar <##99AAB5>erscheinen.\n\n&8» &6Klicke zum Fortfahren"
+            "de_DE": "\n&7Aktuell: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Klicke zum Fortfahren"
         },
         "MSG.votegui.vote":
         {
