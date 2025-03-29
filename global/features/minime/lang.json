@@ -12,10 +12,20 @@
             "en_US": "Mini Me",
             "de_DE": "Mini Me"
         },
-        "ITEM.Upgrade-SmpAutoSellGroundItems":
+        "GUI.main.game.lore":
         {
-            "en_US": "&7Upgrade: &x&F&F&D&2&0&0Auto Sell Ground Items (SMPs)",
-            "de_DE": "&7Upgrade: &x&F&F&D&2&0&0Boden-Items autom. verkaufen (SMPs)"
+            "en_US": "&7Show my abilities for this game mode.",
+            "de_DE": "&7Zeige meine Fähigkeiten für diesen\n&7Spielmodus an."
+        },
+        "GUI.main.game.lore.alreadyshowing":
+        {
+            "en_US": "&8» <#55FA00>Selected",
+            "de_DE": "&8» <#55FA00>Ausgewählt"
+        }
+        "GUI.clickaction.show":
+        {
+            "en_US": "&8» <#F9BD31>Click to show",
+            "de_DE": "&8» <#F9BD31>Klicke zum Anzeigen"
         }
     }
 }
