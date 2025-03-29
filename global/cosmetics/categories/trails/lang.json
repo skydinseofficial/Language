@@ -12,10 +12,10 @@
             "en_US": "&7Smoke",
             "de_DE": "&7Rauch"
         },
-        "ITEM.Hearts":
+        "ITEM.Love":
         {
-            "en_US": "&cHearts",
-            "de_DE": "&cHerzen"
+            "en_US": "&cLove",
+            "de_DE": "&cLiebe"
         },
         "ITEM.SculkSoul":
         {
