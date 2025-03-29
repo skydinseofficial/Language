@@ -187,8 +187,8 @@
         },
         "VOTEGUI.item.streak.lore":
         {
-            "en_US": "\n&7Streak: &x&F&F&7&8&0&00 Flames\n\n&7Vote every day to get some &6cool rewards &7.\n&7Your Reward will be added automatically to\n&7your &6Rewards Interface &7.\n\n&8» <##face06>View rewards",
-            "de_DE": "\n&7Serie: &x&F&F&7&8&0&00 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» <##face06>Belohnungen ansehen"
+            "en_US": "\n&7Streak: &60 Flames\n\n&7Vote every day to get some &6cool rewards &7.\n&7Your Reward will be added automatically to\n&7your &6Rewards Interface &7.\n\n&8» &6View rewards",
+            "de_DE": "\n&7Serie: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
         },
         "VOTEGUI.item.rewards.name":
         {
@@ -197,8 +197,8 @@
         },
         "VOTEGUI.item.rewards.lore":
         {
-            "en_US": "\n&7Rewards: <##face06>[rewards]\n\n&7Press me to open your <##face06>Rewards Interface &7.\n&7Your <##face06>Rewards &7are located here.\n\n&8» <##face06>Open Reward Interface",
-            "de_DE": "\n&7Belohnungen: <##face06>[rewards]\n\n&7Klicke mich, um dein <##face06>Belohnungsinventar &7zu öffnen.\n&7Deine <##face06>Belohnungen &7befinden sich hier.\n\n&8» <##face06>Belohnungensinventar Öffnen"
+            "en_US": "\n&7Rewards: <##FFD200>[rewards]\n\n&7Press me to open your <##FFD84E>Rewards Interface &7.\n&7Your <##FFD84E>Rewards &7are located here.\n\n&8» <##F9BD31>Open Reward Interface",
+            "de_DE": "\n&7Belohnungen: <##FFD200>[rewards]\n\n&7Klicke mich, um dein <##FFD84E>Belohnungsinventar &7zu öffnen.\n&7Deine <##FFD84E>Belohnungen &7befinden sich hier.\n\n&8» <##F9BD31>Belohnungensinventar Öffnen"
         },
         "MSG.votegui.vote":
         {
