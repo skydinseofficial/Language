@@ -1,0 +1,21 @@
+{
+    "system": "features-minime",
+    "translations":
+    {
+        "MSG.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this.",
+            "de_DE": "&cDazu hast du keine Berechtigung."
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Mini Me",
+            "de_DE": "Mini Me"
+        },
+        "ITEM.Upgrade-SmpAutoSellGroundItems":
+        {
+            "en_US": "&7Upgrade: &x&F&F&D&2&0&0Auto Sell Ground Items (SMPs)",
+            "de_DE": "&7Upgrade: &x&F&F&D&2&0&0Boden-Items autom. verkaufen (SMPs)"
+        }
+    }
+}
