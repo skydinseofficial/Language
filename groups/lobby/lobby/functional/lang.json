@@ -164,6 +164,11 @@
         {
             "en_US": "",
             "de_DE": ""
+        },
+        "GUI.votegui.title":
+        {
+            "en_US": "Vote for <!skydinse>",
+            "de_DE": "Vote Menü"
         }
     }
 }
