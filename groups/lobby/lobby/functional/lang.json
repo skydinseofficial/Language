@@ -190,6 +190,16 @@
             "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
             "de_DE": "\n&7Aktuell: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
         },
+        "VOTEGUI.item.rewards.name":
+        {
+            "en_US": "<##D04BD9>Vote Streak",
+            "de_DE": "<##E0A824>Belohnungen"
+        },
+        "VOTEGUI.item.rewards.lore":
+        {
+            "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
+            "de_DE": "\n&7Aktuell: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
+        },
         "MSG.votegui.vote":
         {
             "en_US": "<##D04BD9>Vote for Skydinse",
