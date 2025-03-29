@@ -182,13 +182,13 @@
         },
         "VOTEGUI.item.streak.name":
         {
-            "en_US": "<##D04BD9>Your Vote Streak",
-            "de_DE": "<##D04BD9>Vote Serie"
+            "en_US": "<##D04BD9>Vote Streak",
+            "de_DE": "&x&F&F&7&8&0&0Vote Serie"
         },
         "VOTEGUI.item.streak.lore":
         {
             "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
-            "de_DE": "\n&7Aktuell: <##face06>0 &6Flammen\n\n&7Dies wird einen <##E57BEC>Link &7in deinen Chat senden.\n<##E57BEC>Klicke &7ihn an, um die <##E57BEC>Vote Seite &7in deinem \n&7Browser zu öffnen.\n\n&8» <##E57BEC>Klicke zum Fortfahren"
+            "de_DE": "\n<##99AAB5>Aktuell: <##FF7800>0 Flammen\n\n&7Dies wird einen <##E57BEC>Link &7in deinen Chat senden.\n<##E57BEC>Klicke &7ihn an, um die <##E57BEC>Vote Seite &7in deinem \n&7Browser zu öffnen.\n\n&8» <##E57BEC>Klicke zum Fortfahren"
         },
         "MSG.votegui.vote":
         {
