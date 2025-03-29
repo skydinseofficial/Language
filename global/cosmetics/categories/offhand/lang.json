@@ -15,7 +15,14 @@
         "ITEM.Present":
         {
             "en_US": "&x&F&F&8&6&0&0Present",
-            "de_DE": "&x&F&F&8&6&0&0Geschenk"
+            "de_DE": "&x&F&F&8&6&0&0Geschenk",
+            "tr_TR": "Hediye"
+        },
+        "ITEM.lp.green":
+        {
+            "en_US": "&aGreen LP",
+            "de_DE": "&aGrüne Schallplatte",
+            "tr_TR": "&aBir Zamanlar... 2 - Plak"
         }
     }
 }
