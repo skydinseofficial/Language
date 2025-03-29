@@ -167,8 +167,8 @@
         },
         "GUI.votegui.title":
         {
-            "en_US": "<!vote for skydinse>",
-            "de_DE": "<!vote für skydinse>"
+            "en_US": "Vote for Skydinse",
+            "de_DE": "Vote für Skydinse"
         }
     }
 }
