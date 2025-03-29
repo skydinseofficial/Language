@@ -39,8 +39,8 @@
         },
         "GUI.buy.yes.title":
         {
-            "en_US": "&x&4&C&F&F&0&0YES",
-            "de_DE": "&x&4&C&F&F&0&0JA"
+            "en_US": "&x&4&C&F&F&0&0&lYES",
+            "de_DE": "&x&4&C&F&F&0&0&lJA"
         },
         "GUI.buy.no.title":
         {
