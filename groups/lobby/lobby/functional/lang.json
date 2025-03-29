@@ -188,7 +188,7 @@
         "MSG.votegui.clickme":
         {
             "en_US": "<##D04BD9>Vote for Skydinse",
-            "de_DE": "<##face06>klicke mich"
+            "de_DE": "klicke mich"
         }
     }
 }
