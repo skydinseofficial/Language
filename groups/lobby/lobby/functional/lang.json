@@ -167,7 +167,7 @@
         },
         "GUI.votegui.title":
         {
-            "en_US": "Vote for Skydinsesss",
+            "en_US": "Vote for Skydinses",
             "de_DE": "Vote für Skydinse"
         },
         "VOTEGUI.item.vote.name":
@@ -177,7 +177,7 @@
         },
         "VOTEGUI.item.vote.lore":
         {
-            "en_US": "<##861876>Vote for Skydinse",
+            "en_US": "%nl%%nl%&7This will send a <##face05>link &7in%nl%your chat. <##face05>Click &7it to open%nl%the <##face05>Vote Page &7in your browser.",
             "de_DE": "<##861876>Für Skydinse abstimmen"
         }
     }
