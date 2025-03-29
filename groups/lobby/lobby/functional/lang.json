@@ -187,8 +187,8 @@
         },
         "VOTEGUI.item.streak.lore":
         {
-            "en_US": "\n&7Streak: &60 Flames\n\n&7Vote every day to get some &6cool rewards &7.\n&7Your Reward will be added automatically to\n&7your &6Rewards Interface &7.\n\n&8» &6View rewards",
-            "de_DE": "\n&7Serie: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
+            "en_US": "\n&7Streak: &60 Flames\n\n&7Vote every day to get some &6cool rewards &7.\n&7Your Reward will be added automatically to\n&7your &6Rewards Interface &7.\n\n&8» <##face06>View rewards",
+            "de_DE": "\n&7Serie: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» <##face06>Belohnungen ansehen"
         },
         "VOTEGUI.item.rewards.name":
         {
