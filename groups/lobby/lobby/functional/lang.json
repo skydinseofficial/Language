@@ -183,7 +183,7 @@
         "MSG.votegui.vote":
         {
             "en_US": "<##D04BD9>Vote for Skydinse",
-            "de_DE": "&7Um für &6Skydinse &7abzustimmen, <@value:'https://minecraft-server.eu/server/index/218D6/SKYDINSENET-Der-gr%C3%B6%C3%9Fte-Community-Craftattack-Vote-Belohnungen',text:'&nklicke mich'>!"
+            "de_DE": "&7Um für &6Skydinse &7abzustimmen, [link]&r&7!"
         }
     }
 }
