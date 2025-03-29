@@ -12,6 +12,11 @@
             "en_US": "Mini Me",
             "de_DE": "Mini Me"
         },
+        "GUI.buy.title":
+        {
+            "en_US": "Buy Mini Me?",
+            "de_DE": "Mini Me kaufen?"
+        },
         "GUI.main.game.lore":
         {
             "en_US": "&7Show my abilities for this game mode.",
@@ -21,11 +26,46 @@
         {
             "en_US": "&8» <#55FA00>Selected",
             "de_DE": "&8» <#55FA00>Ausgewählt"
-        }
+        },
+        "GUI.buy.minime.title":
+        {
+            "en_US": "&6Buy your own Mini Me",
+            "de_DE": "&6Dein eigenes Mini Me kaufen"
+        },
+        "GUI.buy.minime.lore":
+        {
+            "en_US": "&7This friend and helper is always at your side\n&7and can support you with some skills\n&7depending on the game mode!",
+            "de_DE": "&7Dieser Freund und Helfer steht dir jederzeit\n&7zur Seite und kann dich je nach Spielmodus\n&7mit einigen Fähigkeiten unterstützen!"
+        },
+        "GUI.buy.yes.title":
+        {
+            "en_US": "&x&4&C&F&F&0&0YES",
+            "de_DE": "&x&4&C&F&F&0&0JA"
+        },
+        "GUI.buy.no.title":
+        {
+            "en_US": "&x&4&C&F&F&0&0&lNO",
+            "de_DE": "&x&F&F&0&0&0&0&lNEIN"
+        },
+        "GUI.display.price":
+        {
+            "en_US": "&7Price: [price]",
+            "de_DE": "&7Preis: [price]"
+        },
         "GUI.clickaction.show":
         {
             "en_US": "&8» <#F9BD31>Click to show",
             "de_DE": "&8» <#F9BD31>Klicke zum Anzeigen"
+        },
+        "GUI.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "GUI.clickaction.cancel":
+        {
+            "en_US": "&8» <#F9BD31>Click to cancel",
+            "de_DE": "&8» <#F9BD31>Klicke zum Abbrechen"
         }
     }
 }
