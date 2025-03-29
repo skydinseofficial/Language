@@ -183,7 +183,7 @@
         "MSG.votegui.vote":
         {
             "en_US": "<##D04BD9>Vote for Skydinse",
-            "de_DE": "&7Um für <##D04BD9>Skydinse &7abzustimmen, [link]&r&7!"
+            "de_DE": "<##EDB0F1>Um für <##D04BD9>Skydinse <##EDB0F1>abzustimmen, [link]&r<##EDB0F1>!"
         },
         "MSG.votegui.clickme":
         {
