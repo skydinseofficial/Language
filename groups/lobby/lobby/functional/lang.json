@@ -167,8 +167,18 @@
         },
         "GUI.votegui.title":
         {
-            "en_US": "Vote for Skydinse",
+            "en_US": "Vote for Skydinsesss",
             "de_DE": "Vote für Skydinse"
+        },
+        "VOTEGUI.item.vote.name":
+        {
+            "en_US": "<##861876>Vote for Skydinse",
+            "de_DE": "<##861876>Für Skydinse abstimmen"
+        },
+        "VOTEGUI.item.vote.lore":
+        {
+            "en_US": "<##861876>Vote for Skydinse",
+            "de_DE": "<##861876>Für Skydinse abstimmen"
         }
     }
 }
