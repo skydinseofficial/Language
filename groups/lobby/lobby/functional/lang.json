@@ -177,7 +177,7 @@
         },
         "VOTEGUI.item.vote.lore":
         {
-            "en_US": "\n&7Voted Today: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <#face05>Click to continue",
+            "en_US": "\n&7Voted Today: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <#face06>Click to continue",
             "de_DE": "<##861876>Für Skydinse abstimmen"
         }
     }
