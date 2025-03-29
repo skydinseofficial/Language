@@ -34,8 +34,8 @@
         },
         "GUI.buy.minime.lore":
         {
-            "en_US": "&7This friend and helper is always at your side\n&7and can support you with some skills\n&7depending on the game mode!",
-            "de_DE": "&7Dieser Freund und Helfer steht dir jederzeit\n&7zur Seite und kann dich je nach Spielmodus\n&7mit einigen Fähigkeiten unterstützen!"
+            "en_US": "&7This friend and helper is always &x&F&F&D&8&4&Eat your side\n&7and can &x&F&F&D&8&4&Esupport &7you with some &x&F&F&D&8&4&Eskills\n&7depending on the &x&F&F&D&8&4&Egame mode&7!",
+            "de_DE": "&7Dieser Freund und Helfer &x&F&F&D&8&4&Esteht &7dir jederzeit\n&x&F&F&D&8&4&Ezur Seite und kann dich je nach &x&F&F&D&8&4&ESpielmodus\n&7mit einigen &x&F&F&D&8&4&EFähigkeiten unterstützen&7!"
         },
         "GUI.buy.yes.title":
         {
@@ -49,8 +49,8 @@
         },
         "GUI.display.price":
         {
-            "en_US": "&7Price: [price]",
-            "de_DE": "&7Preis: [price]"
+            "en_US": "&7Price: &x&F&F&D&2&0&0[price]",
+            "de_DE": "&7Preis: &x&F&F&D&2&0&0[price]"
         },
         "GUI.clickaction.show":
         {
