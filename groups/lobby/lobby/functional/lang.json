@@ -172,8 +172,8 @@
         },
         "VOTEGUI.item.vote.name":
         {
-            "en_US": "<##AF13BA>Vote for Skydinse",
-            "de_DE": "<##AF13BA>Für Skydinse abstimmen"
+            "en_US": "<##D04BD9>Vote for Skydinse",
+            "de_DE": "<##D04BD9>Für Skydinse abstimmen"
         },
         "VOTEGUI.item.vote.lore":
         {
