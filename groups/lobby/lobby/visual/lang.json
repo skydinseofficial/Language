@@ -1,26 +1,7 @@
 {
-    "system": "lobby-visual",
+    "system": "lobby-functional",
     "translations":
     {
-        "BOSSBAR.bar.1":
-        {
-            "en_US": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServer Network",
-            "de_DE": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&lServernetzwerk",
-            "ko_KR": "<#FF8F00>&lS<#FF9A05>&lK<#FFA60A>&lY<#FFB10F>&lD<#FFBC14>&lI<#FFC719>&lN<#FFC719>&lS<#FFBC14>&lE<#FFB10F>&l.<#FFA60A>&lN<#FF9A05>&lE<#FF8F00>&lT &7&l✖ <#FFD500>&l네트워크"
-        },
-        "BOSSBAR.bar.2":
-        {
-            "en_US": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ᴠɪsɪᴛ ᴏᴜʀ ɴᴇᴡ sᴘᴀᴡɴ!",
-            "de_DE": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>ʙᴇsᴜᴄʜᴇ ᴜɴsᴇʀᴇɴ ɴᴇᴜᴇɴ sᴘᴀᴡɴ!",
-            "ko_KR": "<#00ACFF>&lL<#06BDEB>&lO<#0BCDD7>&lB<#11DEC2>&lB<#16EEAE>&lY <#1CFF9A>&lU<#16EEAE>&lP<#11DEC2>&lD<#0BCDD7>&lA<#06BDEB>&lT<#00ACFF>&lE &8♦ <#A0E0FF>새로운 스폰을 방문하세요!"
-        },
-        "BOSSBAR.bar.3":
-        {
-            "en_US": "<#7289da>&l/DISCORD &8♦ <#99aab5>ᴊᴏɪɴ ᴏᴜʀ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ ᴛᴏ ʙᴇ ᴜᴘ ᴛᴏ ᴅᴀᴛᴇ!",
-            "de_DE": "<#7289da>&l/DISCORD &8♦ <#99aab5>ᴛʀɪᴛᴛ ᴜɴsᴇʀᴇᴍ ᴅɪsᴄᴏʀᴅ sᴇʀᴠᴇʀ ʙᴇɪ!",
-            "tr_TR": "<#7289da>&l/DISCORD &8♦ <#99aab5><!Discord'umuza katıl>!",
-            "ko_KR": "<#7289da>&l/DISCORD &8♦ <#99aab5>디스코드 서버에 참여하여 최신 정보를 받아보세요!"
-        },
         "HOLO.discord":
         {
             "en_US": "&x&7&2&8&9&D&A&lDISCORD SERVER;&7Join our Discord Server to;&7get the newest &finformation &7about;&7the &fnetwork&7, &fgiveaways&7, &fevents &7and &fmore&7!;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
@@ -33,25 +14,166 @@
             "de_DE": ";&7Dir macht es Spaß hier zu spielen und;&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?;&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um;&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
             "ko_KR": ";&7여기서 플레이하는 것을 <#EE82EE>즐기시나요?;&7당신의 <#EE82EE>영향력&7으로 저희를 <#EE82EE>지원하고 싶으신가요?;&7그렇다면 <#EE82EE>저희 디스코드에서 <#EE82EE>VIP&7가 되기 위해 <#EE82EE>신청하세요;&7및 <#EE82EE>독점적인 기능&7에 접근하세요.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
         },
-        "HOLO.universerank":
+        "RANKSHOP.msg.success":
         {
-            "en_US": ";&7Do you <#EE82EE>enjoy &7playing here and;&7want to unlock <#EE82EE>cool features&7?;&7Then take a look at our <#EE82EE>Universe Rank&7!;;&8&l● <#EE82EE>32 <#EFC3CF>Party Members;&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs];&8&l● <#EE82EE>40 <#EFC3CF>Homes &7[SMPs];&x&2&6&D&C&1&D&l✔ <#EFC3CF>Create <#EE82EE>Private Games;&x&2&6&D&C&1&D&l✔ <#EFC3CF>Join <#EE82EE>full servers;&x&2&6&D&C&1&D&l✔ <#EE82EE>Public <#EFC3CF>Parties;;<#EE82EE>&l↓ <#EFC3CF>Many more <#EE82EE>&l↓;<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
-            "de_DE": ";&7Du spielst <#EE82EE>gerne &7hier und;&7möchtest <#EE82EE>coole neue Features &7freischalten?;&7Dann ist der <#EE82EE>Universe Rang &7genau für dich!;;&8&l● <#EE82EE>32 <#EFC3CF>Party Mitglieder;&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs];&8&l● <#EE82EE>40 <#EFC3CF>Homes &7[SMPs];&x&2&6&D&C&1&D&l✔ <#EFC3CF>Erstelle <#EE82EE>Private Spiele;&x&2&6&D&C&1&D&l✔ <#EFC3CF>Betrete <#EE82EE>volle Server;&x&2&6&D&C&1&D&l✔ <#EE82EE>Öffentliche <#EFC3CF>Partys;;<#EE82EE>&l↓ <#EFC3CF>Und noch mehr <#EE82EE>&l↓;<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
-        "HOLO.networkfeatures":
-        {
-            "en_US": "&x&E&D&2&1&E&2&lNETWORK FEATURES;<#EFC3CF>Network wide <#FF00DC>Voice Chat <#EFC3CF>Support: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Support;<#EFC3CF>Big <#FF00DC>Community & Streamer <#EFC3CF>Events",
-            "de_DE": "&x&E&D&2&1&E&2&lNETZWERK FEATURES;<#EFC3CF>Netzwerkweite <#FF00DC>Voice Chat <#EFC3CF>Unterstützung: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Unterstützung;<#EFC3CF>Große <#FF00DC>Community & Streamer <#EFC3CF>Events"
+            "en_US": "&7You have now received the rank [rank] &7for (further) <#FFD200>[duration]&7.",
+            "de_DE": "&7Du hast nun den Rang [rank] &7für (weitere) <#FFD200>[duration] &7erhalten."
         },
-        "HOLO.networkstats":
+        "RANKSHOP.gui.main.title":
         {
-            "en_US": "Stats Holo",
-            "de_DE": "Stats Holo"
+            "en_US": "Buy Rank for Blooms",
+            "de_DE": "Rang für Blüten kaufen",
+            "tr_TR": "Rütbe çiçekle al"
         },
-        "MSG.joinbanner":
+        "RANKSHOP.gui.main.buy.lore":
         {
-            "en_US": "[n]𝕸[n][n][n][n]                                           &6⭐ <##face05>[website][n]                                    &x&2&6&D&C&1&D⚗ &a[store][n]                                 &9🛡 <##7289da>[discord][n][n]",
-            "de_DE": "[n]𝕸[n][n][n][n]                                        &6⭐ <##face05>[website][n]                                 &x&2&6&D&C&1&D⚗ &a[store][n]                              &9🛡 <##7289da>[discord][n][n]",
-            "tr_TR": "[n]𝕸[n][n][n][n]                                        &6⭐ <##face05>[website][n]                                 &x&2&6&D&C&1&D⚗ &a[store][n]                              &9🛡 <##7289da>[discord][n][n]"
+            "en_US": "&7Buy rank for <#FFD200>[currency]&7.\n&7Duration: <#FFD200>[duration]",
+            "de_DE": "&7Rang für <#FFD200>[currency] &7kaufen.\n&7Laufzeit: <#FFD200>[duration]",
+            "tr_TR": "&7Rütbe <#FFD200>[currency] &7ile al.\n&7Sürüm: <#FFD200>[duration]"
+        },
+        "RANKSHOP.gui.main.buy.lore.premiumonly":
+        {
+            "en_US": "&7This rank is only available in\n&7our <#FFD200>online shop&7.",
+            "de_DE": "&7Dieser Rang ist ausschließlich in unserem\n<#FFD200>Online-Shop &7erhältlich.",
+            "tr_TR": "&8» <#F9BD31>Bu Rütbe sadece\n<#FFD200>Sayfamızda &7almaktır"
+        },
+        "RANKSHOP.gui.main.features.title":
+        {
+            "en_US": "&6View Features",
+            "de_DE": "&6Vorteile ansehen",
+            "tr_TR": "&8» <#F9BD31>Avantajları gör"
+        },
+        "RANKSHOP.gui.main.features.lore":
+        {
+            "en_US": "&7Check out the benefits that the rank\n&7brings with it before you buy it.",
+            "de_DE": "&7Sieh dir erst die Vorteile an, die der\n&7Rang mit sich bringt, bevor du diesen\n&7kaufst."
+        },
+        "RANKSHOP.gui.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen",
+            "tr_TR": "&8» <#F9BD31>Almak için bas"
+        },
+        "RANKSHOP.gui.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen",
+            "tr_TR": "&8» <#F9BD31>Bakmak için bas"
+        },
+        "RANKSHOP.gui.clickaction.visit":
+        {
+            "en_US": "&8» <#F9BD31>Click to visit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Besuchen",
+            "tr_TR": "&8» <#F9BD31>Ziyaret etmek için bas"
+        },
+        "MINEATTACK.msg.dataalreadyloading":
+        {
+            "en_US": "&cYour data is already loading!",
+            "de_DE": "&cDeine Daten laden bereits!"
+        },
+        "MINEATTACK.msg.youarenowregistered":
+        {
+            "en_US": "&7You are now &aregistered&7!",
+            "de_DE": "&7Du bist nun &aangemeldet&7!"
+        },
+        "MINEATTACK.msg.alreadyregistered":
+        {
+            "en_US": "&7You are already registered and have completed the survey. See you on <#FFD84E>October 26th, 2024 &7from <#FFD84E>4 p.m.&7!",
+            "de_DE": "&7Du bist bereits angemeldet und hast die Umfrage beendet. Wir sehen uns am <#FFD84E>26.10.2024 &7ab <#FFD84E>16 Uhr&7!"
+        },
+        "MINEATTACK.msg.survey.title":
+        {
+            "en_US": "<#4E94FF>Survey",
+            "de_DE": "<#4E94FF>Umfrage"
+        },
+        "MINEATTACK.msg.survey.subtitle":
+        {
+            "en_US": "<#FFC800>Question",
+            "de_DE": "<#FFC800>Frage"
+        },
+        "MINEATTACK.msg.survey.1":
+        {
+            "en_US": "<#FFC800>Question 1/7: &7Have you ever participated in a <#FFD84E>Skydinse MineAttack &7project?",
+            "de_DE": "<#FFC800>Frage 1/7: &7Warst du schonmal bei einem der <#FFD84E>Skydinse MineAttack &7Projekte dabei?"
+        },
+        "MINEATTACK.msg.survey.2":
+        {
+            "en_US": "<#FFC800>Question 2/7: &7Will you take part in the <#FFD84E>start &7(<#FFD84E>October 26, 2024 &7at <#FFD84E>4 p.m.&7)?",
+            "de_DE": "<#FFC800>Frage 2/7: &7Wirst du am <#FFD84E>Start &7(<#FFD84E>26.10.2024 &7um <#FFD84E>16 Uhr&7) teilnehmen?"
+        },
+        "MINEATTACK.msg.survey.3":
+        {
+            "en_US": "<#FFC800>Question 3/7: &7Du you prefer a specific <#FFD84E>amount of participants&7?",
+            "de_DE": "<#FFC800>Frage 3/7: &7Bevorzugst du lieber eine bestimmte <#FFD84E>Teilnehmerzahl&7?"
+        },
+        "MINEATTACK.msg.survey.4":
+        {
+            "en_US": "<#FFC800>Question 4/7: &7Would you help building a <#FFD84E>shopping district&7?",
+            "de_DE": "<#FFC800>Frage 4/7: &7Würdest du mithelfen, einen <#FFD84E>Shoppingdistrict &7zu bauen?"
+        },
+        "MINEATTACK.msg.survey.5":
+        {
+            "en_US": "<#FFC800>Question 5/7: &7What's your opinion on <#FFD84E>PvP&7?",
+            "de_DE": "<#FFC800>Frage 5/7: &7Was ist deine Meinung zum <#FFD84E>PvP&7?"
+        },
+        "MINEATTACK.msg.survey.6":
+        {
+            "en_US": "<#FFC800>Question 6/7: &7Are you a <#FFD84E>Content Creator&7? And if so, maybe you will also stream <#FFD84E>Skydinse MineAttack V &7or <#FFD84E>produce Videos&7? &7(<#FFD84E>TIPP: &7You can apply for VIP rank on our <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'>&7!)",
+            "de_DE": "<#FFC800>Frage 6/7: &7Bist du ein <#FFD84E>Content Creator&7? Und wenn ja, wirst du vielleicht auch <#FFD84E>Skydinse MineAttack V streamen &7bzw. davon <#FFD84E>Videos produzieren&7? &7(<#FFD84E>TIPP: &7Du kannst dich auf unserem <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7für den VIP-Rang bewerben!)"
+        },
+        "MINEATTACK.msg.survey.7":
+        {
+            "en_US": "<#FFC800>Question 7/7: &7Would you like to <#FFD84E>form a team &7and <#FFD84E>haven't found anyone yet&7? You don't want to miss any <#FFD84E>events &7or <#FFD84E>news&7? Then join our <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7to be a <#FFD84E>part of our community&7!",
+            "de_DE": "<#FFC800>Frage 7/7: &7Möchtest du ein <#FFD84E>Team bilden &7und hast noch niemanden gefunden? Oder möchtest du keine <#FFD84E>Events &7und <#FFD84E>Neuigkeiten &7verpassen? Dann tritt ebenfalls unserem <@value:'https://skyd.link/dc',text:'&x&7&2&8&9&d&a&nDiscord Server'> &7bei und werde <#FFD84E>Teil unserer Community&7!"
+        },
+        "SETTINGS.language.title":
+        {
+            "en_US": "Language",
+            "en_GB": "Language",
+            "en_XX": "Tongue",
+            "de_DE": "Sprache",
+            "de_AT": "Sprache",
+            "de_XX": "Sprāhe",
+            "nl_NL": "Taal",
+            "pt_BR": "Língua",
+            "pt_PT": "Língua",
+            "es_ES": "Idioma",
+            "es_MX": "Idioma",
+            "fr_FR": "Langue",
+            "pl_PL": "Język",
+            "ru_RU": "Язык",
+            "tr_TR": "Dil",
+            "ko_KO": "언어"
+        },
+        "ACTIONBAR.hiddenzones.hidden":
+        {
+            "en_US": "&x&F&F&1&4&0&0You are currently hidden &7&o(Hidden Zones)",
+            "de_DE": "&x&F&F&1&4&0&0Du bist gerade versteckt &7&o(Versteckzone)"
+        },
+        "ACTIONBAR.hiddenzones.shown":
+        {
+            "en_US": "&x&2&6&D&C&1&DYou are visible again &7&o(Hidden Zones)",
+            "de_DE": "&x&2&6&D&C&1&DDu bist wieder sichtbar &7&o(Versteckzone)"
+        },
+        "ACTIONBAR.hiddenzones.item":
+        {
+            "en_US": "&x&F&F&1&4&0&0To ensure that anyone can see what's in here",
+            "de_DE": "&x&F&F&1&4&0&0Um eine Sichtblockierung zu verhindern"
+        },
+        "ACTIONBAR.hiddenzones.vanished":
+        {
+            "en_US": "",
+            "de_DE": ""
+        },
+        "GUI.votegui.title":
+        {
+            "en_US": "Vote for Skydinse",
+            "de_DE": "Vote für Skydinse"
+        },
+        "ITEM.votegui.vote.name":
+        {
+            "en_US": "<##861876>Vote for Skydinse",
+            "de_DE": "<##861876>Für Skydinse abstimmen"
         }
     }
 }
