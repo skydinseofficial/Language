@@ -170,7 +170,7 @@
             "en_US": "Vote for Skydinse",
             "de_DE": "Vote für Skydinse"
         },
-        "ITEM.votegui.vote.name":
+        "VOTEGUI.item.vote.name":
         {
             "en_US": "<##861876>Vote for Skydinse",
             "de_DE": "<##861876>Für Skydinse abstimmen"
