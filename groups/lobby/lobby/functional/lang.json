@@ -182,37 +182,37 @@
         },
         "VOTEGUI.item.streak.name":
         {
-            "en_US": "<##D04BD9>Vote Streak",
+            "en_US": "&x&F&F&7&8&0&0Vote Streak",
             "de_DE": "&x&F&F&7&8&0&0Vote Serie"
         },
         "VOTEGUI.item.streak.lore":
         {
-            "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
-            "de_DE": "\n&7Aktuell: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
+            "en_US": "\n&7Streak: &60 Flames\n\n&7Vote every day to get some &6cool rewards &7.\n&7Your Reward will be added automatically to\n&7your &6Rewards Interface &7.\n\n&8» &6View rewards",
+            "de_DE": "\n&7Serie: &60 Flammen\n\n&7Vote jeden Tag, um &6coole Belohnungen &7zu erhalten.\n&7Deine Belohnung wird automatisch in\n&7deinem &6Belohnungsinvantar &7erscheinen.\n\n&8» &6Belohnungen ansehen"
         },
         "VOTEGUI.item.rewards.name":
         {
-            "en_US": "<##D04BD9>Vote Streak",
+            "en_US": "<##D04BD9>Rewards",
             "de_DE": "<##E0A824>Belohnungen"
         },
         "VOTEGUI.item.rewards.lore":
         {
-            "en_US": "\n&7Currently: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <##E57BEC>Click to continue",
-            "de_DE": "\n&7Aktuell: <##face06>[rewards]\n\n&7Klicke mich, um dein <##face06>Belohnungsinventar &7zu öffnen.\n&7Deine <##face06>Belohnungen &7befinden sich hier.\n\n&8» <##face06>Belohnungensinventar Öffnen"
+            "en_US": "\n&7Rewards: <##face06>[rewards]\n\n&7Press me to open your <##face06>Rewards Interface &7.\n&7Your <##face06>Rewards &7are located here.\n\n&8» <##face06>Open Reward Interface",
+            "de_DE": "\n&7Belohnungen: <##face06>[rewards]\n\n&7Klicke mich, um dein <##face06>Belohnungsinventar &7zu öffnen.\n&7Deine <##face06>Belohnungen &7befinden sich hier.\n\n&8» <##face06>Belohnungensinventar Öffnen"
         },
         "MSG.votegui.vote":
         {
-            "en_US": "<##D04BD9>Vote for Skydinse",
+            "en_US": "<##EDB0F1>To vote for <##D04BD9>Skydinse <##EDB0F1>, [link]&r<##EDB0F1>!",
             "de_DE": "<##EDB0F1>Um für <##D04BD9>Skydinse <##EDB0F1>abzustimmen, [link]&r<##EDB0F1>!"
         },
         "MSG.votegui.clickme":
         {
-            "en_US": "<##D04BD9>Vote for Skydinse",
+            "en_US": "click me",
             "de_DE": "klicke mich"
         },
         "MSG.votegui.rewards":
         {
-            "en_US": "<##D04BD9>Vote for Skydinse",
+            "en_US": "<##EDB0F1>You can see all <##D04BD9>rewards <##EDB0F1>at, [link]&r<##EDB0F1>!",
             "de_DE": "<##EDB0F1>Du findest alle <##D04BD9>Belohnungen <##EDB0F1>unter, [link]&r<##EDB0F1>!"
         }
     }
