@@ -178,7 +178,7 @@
         "VOTEGUI.item.vote.lore":
         {
             "en_US": "\n&7Voted Today: &8loading...\n\n&7This will send a <##E57BEC>link &7in\n&7your chat. <##E57BEC>Click &7it to open\n&7the <##E57BEC>Vote Page &7in your browser.\n\n&8» <#face06>Click to continue",
-            "de_DE": "<##861876>Für Skydinse abstimmen"
+            "de_DE": "\n&7Bereits abgestimmt: &8laden...\n\n&7Dies wird einen <##E57BEC>Link &7in deinen Chat senden.\n<##E57BEC>Klicke &7ihn an, um die <##E57BEC>Vote Seite &7in deinem \nBrowser zu öffnen.\n\n&8» <#face06>Klicke zum Fortfahren"
         }
     }
 }
