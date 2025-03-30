@@ -27,6 +27,26 @@
             "en_US": "&8» <#55FA00>Selected",
             "de_DE": "&8» <#55FA00>Ausgewählt"
         },
+        "GUI.main.status.title.enabled":
+        {
+            "en_US": "&x&4&C&F&F&0&0&lENABLED",
+            "de_DE": "&x&4&C&F&F&0&0&lAKTIVIERT"
+        },
+        "GUI.main.status.title.disabled":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lDISABLED",
+            "de_DE": "&x&F&F&0&0&0&0&lDEAKTIVIERT"
+        },
+        "GUI.main.status.lore.enabled":
+        {
+            "en_US": "&7I'm currently accompanying you\n&7wherever I can.",
+            "de_DE": "&7Derzeit begleite ich dich überall, wo\n&7es geht."
+        },
+        "GUI.main.status.lore.disabled":
+        {
+            "en_US": "&7Currently I'm sleeping...",
+            "de_DE": "&7Aktuell schlafe ich..."
+        },
         "GUI.buy.minime.title":
         {
             "en_US": "&6Buy your own Mini Me",
@@ -44,7 +64,7 @@
         },
         "GUI.buy.no.title":
         {
-            "en_US": "&x&4&C&F&F&0&0&lNO",
+            "en_US": "&x&F&F&0&0&0&0&lNO",
             "de_DE": "&x&F&F&0&0&0&0&lNEIN"
         },
         "GUI.display.price":
@@ -66,6 +86,16 @@
         {
             "en_US": "&8» <#F9BD31>Click to cancel",
             "de_DE": "&8» <#F9BD31>Klicke zum Abbrechen"
+        },
+        "GUI.clickaction.disable":
+        {
+            "en_US": "&8» <#F9BD31>Click to disable",
+            "de_DE": "&8» <#F9BD31>Klicke zum Deaktivieren"
+        },
+        "GUI.clickaction.enable":
+        {
+            "en_US": "&8» <#F9BD31>Click to enable",
+            "de_DE": "&8» <#F9BD31>Klicke zum Aktivieren"
         }
     }
 }
