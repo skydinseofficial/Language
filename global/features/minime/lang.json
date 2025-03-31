@@ -96,6 +96,36 @@
         {
             "en_US": "&8» <#F9BD31>Click to enable",
             "de_DE": "&8» <#F9BD31>Klicke zum Aktivieren"
+        },
+        "ABILITY.backpack":
+        {
+            "en_US": "Backpack",
+            "de_DE": "Rucksack"
+        },
+        "ABILITY.backpack.description":
+        {
+            "en_US": "&7I always carry a chest with me\n&7that you can access immediately.",
+            "de_DE": "&7Ich trage immer eine Truhe mit mir\n&7auf die du sofort zugreifen kannst."
+        },
+        "ABILITY.smpgeneratorearn":
+        {
+            "en_US": "Harvest generators",
+            "de_DE": "Generatoren ernten"
+        },
+        "ABILITY.smpgeneratorearn.description":
+        {
+            "en_US": "&7I automatically harvest your generators\n&7near you, sell the items, and give\n&7you the XP!",
+            "de_DE": "&7Ich ernte automatisch deine generatoren in\n&7deiner Nähe, verkaufe die Items und gebe\n&7dir die XP!"
+        },
+        "ABILITY.smpautosellgrounditems":
+        {
+            "en_US": "Sell Ground Items",
+            "de_DE": "Items auf dem Boden verkaufen"
+        },
+        "ABILITY.smpautosellgrounditems.description":
+        {
+            "en_US": "&7I automatically harvest your generators\n&7near you, sell the items, and give\n&7you the XP!",
+            "de_DE": "&7Alle Items, die ich in deiner Nähe auf\n&7dem Boden finde, verkaufe ich sofort.\n&7Dies vereinfacht das Farmen!"
         }
     }
 }
