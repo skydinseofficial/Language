@@ -124,7 +124,7 @@
         },
         "ABILITY.smpautosellgrounditems.description":
         {
-            "en_US": "&7I automatically harvest your generators\n&7near you, sell the items, and give\n&7you the XP!",
+            "en_US": "&7I will immediately sell any items\n&7I find on the ground near you.\n&7This makes farming easier!",
             "de_DE": "&7Alle Items, die ich in deiner Nähe auf\n&7dem Boden finde, verkaufe ich sofort.\n&7Dies vereinfacht das Farmen!"
         }
     }
