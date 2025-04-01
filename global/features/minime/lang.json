@@ -72,6 +72,26 @@
             "en_US": "&7Price: &x&F&F&D&2&0&0[price]",
             "de_DE": "&7Preis: &x&F&F&D&2&0&0[price]"
         },
+        "GUI.display.status":
+        {
+            "en_US": "&7Status: [status]",
+            "de_DE": "&7Status: [status]"
+        },
+        "GUI.display.status.notpurchased":
+        {
+            "en_US": "&x&F&C&2&A&1&CNot purchased!",
+            "de_DE": "&x&F&C&2&A&1&CNicht gekauft!"
+        },
+        "GUI.display.status.active":
+        {
+            "en_US": "&x&6&E&F&F&0&0Active",
+            "de_DE": "&x&6&E&F&F&0&0Aktiv"
+        },
+        "GUI.display.status.inactive":
+        {
+            "en_US": "&x&F&F&D&2&0&0Inactive",
+            "de_DE": "&x&F&F&D&2&0&0Inaktiv"
+        },
         "GUI.clickaction.show":
         {
             "en_US": "&8» <#F9BD31>Click to show",
@@ -106,6 +126,11 @@
         {
             "en_US": "&7I always carry a chest with me\n&7that you can access immediately.",
             "de_DE": "&7Ich trage immer eine Truhe mit mir\n&7auf die du sofort zugreifen kannst."
+        },
+        "ABILITY.backpack.disablerequirement":
+        {
+            "en_US": "&7The &x&F&F&D&8&4&Ebackpack &7must be &x&F&F&D&8&4&Eempty &7to\n&x&F&F&D&8&4&Edeactivate &7it.",
+            "de_DE": "&7Der &x&F&F&D&8&4&ERucksack &7muss &x&F&F&D&8&4&Eleer &7sein, um ihn\n&7zu &x&F&F&D&8&4&Edeaktivieren&7."
         },
         "ABILITY.smpgeneratorearn":
         {
