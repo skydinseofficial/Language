@@ -1,31 +1,7 @@
 {
-    "system": "esy-basics",
+    "system": "esy-antidropandpickup",
     "translations":
     {
-        "trashgui_title":
-        {
-            "en_US": "Trash can",
-            "de_DE": "Mülleimer",
-            "de_XX": "Drachenschanze"
-        },
-        "trashgui_exit":
-        {
-            "en_US": "&aYour rubbish has been returned.",
-            "de_DE": "&aDein Müll wurde abgegeben.",
-            "de_XX": "&aDu hast deinen Müll in der Drachenschanze abgeladen."
-        },
-        "tpohere_success":
-        {
-            "en_US": "&aThe player &e[player] &ahas been teleported to you!",
-            "de_DE": "&aSpieler:in &e[player] &awurde zu dir teleportiert!",
-            "de_XX": "&aDer Player &e[player] &awurde zu dir gerizzt!"
-        },
-        "tpohere_nocb":
-        {
-            "en_US": "&cThis player is not on CityBuild!",
-            "de_DE": "&cDiese:r Spieler:in ist nicht auf CityBuild!",
-            "de_XX": "&cDieser Spielteilnehmer befindet sich zum aktuellen Zeitpunkt nicht auf StadtBau!"
-        },
         "antidrop_on":
         {
             "en_US": "&cYou are in the Anti-Drop mode.",
@@ -36,12 +12,12 @@
             "en_US": "&cYou are in the Anti-Pickup mode.",
             "de_DE": "&cDein Antipickup-Modus ist an."
         },
-        "antidrop/pickup_enabled":
+        "antidroporpickup_enabled":
         {
             "en_US": "&7You have &aactivated &7your &6[mode]",
             "de_DE": "&7Du hast deinen &6[mode] &aaktiviert"
         },
-        "antidrop/pickup_disabled":
+        "antidroporpickup_disabled":
         {
             "en_US": "&7You have &cdisabled &7your &6[mode]",
             "de_DE": "&7Du hast deinen &6[mode] &cdeaktiviert"
