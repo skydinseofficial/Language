@@ -17,6 +17,11 @@
             "en_US": "Buy Mini Me?",
             "de_DE": "Mini Me kaufen?"
         },
+        "GUI.buyability.title":
+        {
+            "en_US": "Unlock Ability?",
+            "de_DE": "Fähigkeit freischalten?"
+        },
         "GUI.main.game.lore":
         {
             "en_US": "&7Show my abilities for this game mode.",
