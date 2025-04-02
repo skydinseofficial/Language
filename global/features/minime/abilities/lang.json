@@ -1,0 +1,21 @@
+{
+    "system": "minime-abilities",
+    "translations":
+    {
+        "MSG.playeronotherserver":
+        {
+            "en_US": "&cAttention! &e[player] &7is currently on server &6[server]&7. To update safely, perform this action on the same server.",
+            "de_DE": "&cAchtung! &e[player] &7ist derzeit auf Server &6[server]&7. Zur sicheren Aktualisierung, führe diese Aktion auf dem selben Server aus."
+        },
+        "MSG.error.detailed":
+        {
+            "en_US": "&cAn error occurred: &e[error]",
+            "de_DE": "&cEin Fehler ist aufgetreten: &e[error]"
+        },
+        "MSG.changessaved":
+        {
+            "en_US": "&7Changes have been saved!",
+            "de_DE": "&7Änderungen wurden gespeichert!"
+        }
+    }
+}
