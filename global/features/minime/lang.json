@@ -9,8 +9,8 @@
         },
         "MSG.minimeunlocked":
         {
-            "en_US": "Hey [player], I'm your &x&F&F&D&8&4&Elittle spitting image&7, happy to &x&F&F&D&8&4&Estand by your side &7and &x&F&F&D&8&4&Esupport you &7wherever I can. Use &e&n<|minime>&7 to unlock my &x&F&F&D&8&4&Eabilities&7!",
-            "de_DE": "Hey [player], ich bin dein &x&F&F&D&8&4&Ekleines Ebenbild&7, stehe dir gerne &x&F&F&D&8&4&Ebei Seite &7und &x&F&F&D&8&4&Eunterstütze dich &7da, wo ich kann. Nutze &e&n<|minime>&7, um meine &x&F&F&D&8&4&EFähigkeiten freizuschalten&7!"
+            "en_US": "&7Hey [player]&7, I'm your &x&F&F&D&8&4&Elittle spitting image&7, happy to &x&F&F&D&8&4&Estand by your side &7and &x&F&F&D&8&4&Esupport you &7wherever I can. Use &e&n<|minime>&7 to unlock my &x&F&F&D&8&4&Eabilities&7!",
+            "de_DE": "&7Hey [player]&7, ich bin dein &x&F&F&D&8&4&Ekleines Ebenbild&7, stehe dir gerne &x&F&F&D&8&4&Ebei Seite &7und &x&F&F&D&8&4&Eunterstütze dich &7da, wo ich kann. Nutze &e&n<|minime>&7, um meine &x&F&F&D&8&4&EFähigkeiten freizuschalten&7!"
         },
         "GUI.main.title":
         {
