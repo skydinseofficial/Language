@@ -184,8 +184,8 @@
         },
         "ABILITY.enchanting":
         {
-            "en_US": "Mobile Cartography Table",
-            "de_DE": "Mobiler Kartentisch"
+            "en_US": "Mobile Enchanting Table",
+            "de_DE": "Mobiler Zaubertisch"
         },
         "ABILITY.enchanting.description":
         {
