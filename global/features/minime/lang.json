@@ -7,6 +7,11 @@
             "en_US": "&cYou don't have permission for this.",
             "de_DE": "&cDazu hast du keine Berechtigung."
         },
+        "MSG.notenoughblooms":
+        {
+            "en_US": "&cYou don't have enough blooms!",
+            "de_DE": "&cDu hast nicht genügend Blüten."
+        },
         "MSG.minimeunlocked":
         {
             "en_US": "&7Hey [player]&7, I'm your &x&F&F&D&8&4&Elittle spitting image&7, happy to &x&F&F&D&8&4&Estand by your side &7and &x&F&F&D&8&4&Esupport you &7wherever I can. Use &e&n<|minime>&7 to unlock my &x&F&F&D&8&4&Eabilities&7!",
