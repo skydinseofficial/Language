@@ -142,6 +142,86 @@
             "en_US": "&7The &x&F&F&D&8&4&Ebackpack &7must be &x&F&F&D&8&4&Eempty &7to\n&x&F&F&D&8&4&Edeactivate &7it.",
             "de_DE": "&7Der &x&F&F&D&8&4&ERucksack &7muss &x&F&F&D&8&4&Eleer &7sein, um ihn\n&7zu &x&F&F&D&8&4&Edeaktivieren&7."
         },
+        "ABILITY.crafting":
+        {
+            "en_US": "Mobile Crafting Table",
+            "de_DE": "Mobile Werkbank"
+        },
+        "ABILITY.crafting.description":
+        {
+            "en_US": "&7I carry a workbench with me at all times.\n&7When activated, click me to access it.",
+            "de_DE": "&7Ich trage zu jeder Zeit eine Werkbank mit\n&7mir. Wenn aktiviert, klicke mich, um auf sie\n&7zuzugreifen."
+        },
+        "ABILITY.anvil":
+        {
+            "en_US": "Mobile Anvil",
+            "de_DE": "Mobiler Amboss"
+        },
+        "ABILITY.anvil.description":
+        {
+            "en_US": "&7I even always have a heavy anvil ready for\n&7you. If activated, click me to access it.",
+            "de_DE": "&7Selbst einen schweren Amboss habe ich immer\n&7für dich parat. Wenn aktiviert, klicke mich,\n&7um auf ihn zuzugreifen."
+        },
+        "ABILITY.cartography":
+        {
+            "en_US": "Mobile Cartography Table",
+            "de_DE": "Mobiler Kartentisch"
+        },
+        "ABILITY.cartography.description":
+        {
+            "en_US": "&7I can also carry a cartography table with\n&7me. If activated, click me to access it.",
+            "de_DE": "&7Auch einen Kartentisch kann ich bei mir\n&7tragen. Wenn aktiviert, klicke mich, um\n&7auf ihn zuzugreifen."
+        },
+        "ABILITY.enchanting":
+        {
+            "en_US": "Mobile Cartography Table",
+            "de_DE": "Mobiler Kartentisch"
+        },
+        "ABILITY.enchanting.description":
+        {
+            "en_US": "&7For quick enchantments, a mobile enchanting\n&7table is useful. However, for the best possible\n&7results, you should have bookshelves nearby.",
+            "de_DE": "&7Für schnelle Verzauberungen ist ein mobiler\n&7Zaubertisch praktisch. Allerdings solltest du\n&7für das best mögliche Ergebnis bei\n&7Benutzung Bücherregale in deiner Nähe haben."
+        },
+        "ABILITY.grindstone":
+        {
+            "en_US": "Mobile Grindstone",
+            "de_DE": "Mobiler Schleifstein"
+        },
+        "ABILITY.grindstone.description":
+        {
+            "en_US": "&7Have a grindstone available at all times.\n&7When enabled, click me to access it.",
+            "de_DE": "&7Einen Schleifstein jederzeit zur Verfügung haben.\n&7Wenn aktiviert, klicke mich, um auf ihn zuzugreifen."
+        },
+        "ABILITY.loom":
+        {
+            "en_US": "Mobile Loom",
+            "de_DE": "Mobiler Webstuhl"
+        },
+        "ABILITY.loom.description":
+        {
+            "en_US": "&7Get creative anytime with the mobile loom.\n&7When enabled, click me to access it.",
+            "de_DE": "&7Mit dem mobilen Webstuhl jederzeit kreativ\n&7werden. Wenn aktiviert, klicke mich, um auf\n&7ihn zuzugreifen."
+        },
+        "ABILITY.smithing":
+        {
+            "en_US": "Mobile Smithing Table",
+            "de_DE": "Mobiler Schmiedetisch"
+        },
+        "ABILITY.smithing.description":
+        {
+            "en_US": "&7With me, you can upgrade your equipment\n&7at any time. When activated, click me to\n&7access the smithing table.",
+            "de_DE": "&7Mit mir kannst du deine Ausrüstung zu\n&7jedem Zeitpunkt aufwerten. Wenn aktiviert, klicke\n&7mich, um auf den Schmiedetisch zuzugreifen."
+        },
+        "ABILITY.stonecutter":
+        {
+            "en_US": "Mobile Stonecutter",
+            "de_DE": "Mobile Steinsäge"
+        },
+        "ABILITY.stonecutter.description":
+        {
+            "en_US": "&7Have a stonecutter available at all times.\n&7When activated, click me to access it.",
+            "de_DE": "&7Eine Steinsäge jederzeit zur Verfügung haben.\n&7Wenn aktiviert, klicke mich, um auf sie zuzugreifen."
+        },
         "ABILITY.smpgeneratorearn":
         {
             "en_US": "Harvest generators",
