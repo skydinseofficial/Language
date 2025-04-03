@@ -17,6 +17,11 @@
             "en_US": "Mini Me",
             "de_DE": "Mini Me"
         },
+        "GUI.abilities.title":
+        {
+            "en_US": "My current skills",
+            "de_DE": "Meine derzeitigen Fähigkeiten"
+        },
         "GUI.buy.title":
         {
             "en_US": "Buy Mini Me?",
@@ -126,6 +131,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to enable",
             "de_DE": "&8» <#F9BD31>Klicke zum Aktivieren"
+        },
+        "GUI.clickaction.open":
+        {
+            "en_US": "&8» <#F9BD31>Click to open",
+            "de_DE": "&8» <#F9BD31>Klicke zum Öffnen"
         },
         "ABILITY.backpack":
         {
