@@ -73,6 +73,51 @@
         {
             "en_US": "&cPlease do not spam chat messages!",
             "de_DE": "&cBitte spamme keine Chatnachrichten!"
+        },
+        "FILTER.cmd.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this.",
+            "de_DE": "&cDazu hast du keine Berechtigung."
+        },
+        "FILTER.cmd.violationcantbelessthanzero":
+        {
+            "en_US": "&cThe violation points can't be less than 0.",
+            "de_DE": "&cDie Strafpunkte können nicht unter 0 sein."
+        },
+        "FILTER.cmd.parameternotset":
+        {
+            "en_US": "&cA parameter is not set.",
+            "de_DE": "&cEin Parameter ist nicht gesetzt."
+        },
+        "FILTER.cmd.details":
+        {
+            "en_US": "&7Details about pattern &x&F&F&D&2&0&0[pattern]&7:",
+            "de_DE": "&7Details über Muster &x&F&F&D&2&0&0[pattern]&7:"
+        },
+        "FILTER.cmd.details.regex":
+        {
+            "en_US": "&7Regex:",
+            "de_DE": "&7Regex:"
+        },
+        "FILTER.cmd.details.violationpoints":
+        {
+            "en_US": "&7Violation Points:",
+            "de_DE": "&7Strafpunkte:"
+        },
+        "FILTER.cmd.patterndoesnotexist":
+        {
+            "en_US": "&cThere is no pattern with this ID.",
+            "de_DE": "&cEs existiert kein Muster mit dieser ID."
+        },
+        "FILTER.broadcast.patterndefined":
+        {
+            "en_US": "[player] &7just (re-)defined the pattern &8[<+tip:'&e[regex]\n&7Violation Points: &c[violation]',text:'&x&F&F&D&2&0&0[pattern]'>&8]&7.",
+            "de_DE": "[player] &7hat soeben das Muster &8[<+tip:'&e[regex]\n&7Violation Points: &c[violation]',text:'&x&F&F&D&2&0&0[pattern]'>&8] &7(neu) definiert."
+        },
+        "FILTER.broadcast.patterndeleted":
+        {
+            "en_US": "[player] &7just deleted the pattern &8[&x&F&F&D&2&0&0[pattern]&8]&7.",
+            "de_DE": "[player] &7hat soeben das Muster &8[&x&F&F&D&2&0&0[pattern]&8] &7gelöscht."
         }
     }
 }
