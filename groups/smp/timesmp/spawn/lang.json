@@ -1,0 +1,16 @@
+{
+    "system": "timesmp-spawn",
+    "translations":
+    {
+        "HOLO.welcome":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lSTATISTICS;&7(View)",
+            "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN;&7(Ansehen)"
+        },
+        "HOLO.afkarea":
+        {
+            "en_US": "&x&F&F&1&4&1&0ᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
+            "de_DE": "&x&F&F&1&4&1&0ᴀғᴋ ʙᴇʀᴇɪᴄʜ\n&7Stehe hier afk, um regelmäßig\n&7Belohnungen zu erhalten!\n&7Deine Zeit bleibt stehen."
+        }
+    }
+}
