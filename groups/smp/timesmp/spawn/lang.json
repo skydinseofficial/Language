@@ -22,6 +22,11 @@
             "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted today?\n&7Get rewards with &f/vote&7!",
             "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
         },
+        "HOLO.earnings":
+        {
+            "en_US": "&x&0&0&D&D&6&5&nᴇᴀʀɴɪɴɢs\n&7&7Come by regularly and\n&7collect your earnings!",
+            "de_DE": "&x&0&0&D&D&6&5&nᴠᴇʀᴅɪᴇɴsᴛᴇ\n&7Komm regelmäßig vorbei und\n&7hol' deine Verdienste ab!"
+        },
         "HOLO.joinworld":
         {
             "en_US": "&x&0&0&A&3&F&F&nᴊᴏɪɴ ᴡᴏʀʟᴅ\n&7Enter the world via\n&fRandom Teleport",
