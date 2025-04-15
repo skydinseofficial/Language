@@ -21,6 +21,11 @@
         {
             "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted today?\n&7Get rewards with &f/vote&7!",
             "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
+        },
+        "HOLO.joinworld":
+        {
+            "en_US": "&x&0&0&A&3&F&F&nᴊᴏɪɴ ᴡᴏʀʟᴅ\n&7Enter the world via\n&fRandom Teleport",
+            "de_DE": "&x&0&0&A&3&F&F&nᴡᴇʟᴛ ʙᴇᴛʀᴇᴛᴇɴ\n&7Betrete die Welt via\n&fRandom Teleport"
         }
     }
 }
