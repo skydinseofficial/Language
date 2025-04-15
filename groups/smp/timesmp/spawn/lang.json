@@ -19,8 +19,8 @@
         },
         "HOLO.vote":
         {
-            "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted for us today?\n&7Get rewards with &f/vote&7!",
-            "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon für uns gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
+            "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted today?\n&7Get rewards with &f/vote&7!",
+            "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
         }
     }
 }
