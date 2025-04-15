@@ -24,8 +24,13 @@
         },
         "HOLO.earnings":
         {
-            "en_US": "&x&0&0&D&D&6&5&nᴇᴀʀɴɪɴɢs\n&7&7Come by regularly and\n&7collect your earnings!",
+            "en_US": "&x&0&0&D&D&6&5&nᴇᴀʀɴɪɴɢs\n&7Come by regularly and\n&7collect your earnings!",
             "de_DE": "&x&0&0&D&D&6&5&nᴠᴇʀᴅɪᴇɴsᴛᴇ\n&7Komm regelmäßig vorbei und\n&7hol' deine Verdienste ab!"
+        },
+        "HOLO.trialtrader":
+        {
+            "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7all kinds of trials!",
+            "de_DE": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7Bei mir kommst du an\n&7alle möglichen Trials!"
         },
         "HOLO.joinworld":
         {
