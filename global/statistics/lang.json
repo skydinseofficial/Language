@@ -351,6 +351,16 @@
             "en_US": "Jumps",
             "de_DE": "Sprünge"
         },
+        "GUI.category.timesmp.time":
+        {
+            "en_US": "Time balance",
+            "de_DE": "Zeitbilanz"
+        },
+        "GUI.category.timesmp.totalearned":
+        {
+            "en_US": "Time earned",
+            "de_DE": "Verdiente Zeit"
+        },
         "GUI.category.global.onlinetime":
         {
             "en_US": "Online Time",
