@@ -11,6 +11,11 @@
         {
             "en_US": "&x&F&F&1&4&1&0&nᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
             "de_DE": "&x&F&F&1&4&1&0&nᴀғᴋ ʙᴇʀᴇɪᴄʜ\n&7Stehe hier afk, um regelmäßig\n&7Belohnungen zu erhalten!\n&7Deine Zeit bleibt stehen."
+        },
+        "HOLO.help":
+        {
+            "en_US": "&x&5&9&F&F&2&1&nʜᴇʟᴘ\n&7How do I play the game?\n&7Get help with &f/tutotial&7!",
+            "de_DE": "&x&5&9&F&F&2&1&nʜɪʟғᴇ\n&7Wie funktioniert das Spiel?\n&7Mit &f/tutotial &7erhältst du Hilfe!"
         }
     }
 }
