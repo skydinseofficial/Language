@@ -16,6 +16,11 @@
         {
             "en_US": "&x&5&9&F&F&2&1&nʜᴇʟᴘ\n&7How do I play the game?\n&7Get help with &f/tutotial&7!",
             "de_DE": "&x&5&9&F&F&2&1&nʜɪʟғᴇ\n&7Wie funktioniert das Spiel?\n&7Mit &f/tutotial &7erhältst du Hilfe!"
+        },
+        "HOLO.vote":
+        {
+            "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted for us today?\n&7Get rewards with &f/vote&7!",
+            "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon für uns gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
         }
     }
 }
