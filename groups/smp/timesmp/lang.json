@@ -1,0 +1,16 @@
+{
+    "system": "timesmp",
+    "translations":
+    {
+        "SCOREBOARD.kills":
+        {
+            "en_US": "Kills:",
+            "de_DE": "Kills:"
+        },
+        "SCOREBOARD.deaths":
+        {
+            "en_US": "Deaths:",
+            "de_DE": "Tode:"
+        }
+    }
+}
