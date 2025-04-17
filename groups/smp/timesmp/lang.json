@@ -11,6 +11,11 @@
         {
             "en_US": "Deaths:",
             "de_DE": "Tode:"
+        },
+        "SCOREBOARD.tokens":
+        {
+            "en_US": "Tokens:",
+            "de_DE": "Tokens:"
         }
     }
 }
