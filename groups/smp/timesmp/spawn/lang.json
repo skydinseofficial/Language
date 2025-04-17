@@ -46,6 +46,16 @@
         {
             "en_US": "&x&F&F&0&0&5&4&nᴀᴅᴠᴀɴᴄᴇᴅ ғғᴀ\n&7Mace & Crystal enabled\n&8[&fJOIN&8]",
             "de_DE": "&x&F&F&0&0&5&4&nᴀᴅᴠᴀɴᴄᴇᴅ ғғᴀ\n&7Mace & Crystal aktiviert\n&8[&fBEITRETEN&8]"
+        },
+        "HOLO.earntokens.bigtitle":
+        {
+            "en_US": "&x&F&F&0&0&B&2&nᴇᴀʀɴ ᴛᴏᴋᴇɴs\n&7Mace & Crystal enabled\n&8[&fJOIN&8]",
+            "de_DE": "&x&F&F&0&0&B&2&nᴛᴏᴋᴇɴs ᴠᴇʀᴅɪᴇɴᴇɴ\n&7Mace & Crystal aktiviert\n&8[&fBEITRETEN&8]"
+        },
+        "HOLO.earntokens":
+        {
+            "en_US": "&7Join a &fDuels queue &7or play &fother minigames\n&7to earn &ftokens quickly&7!",
+            "de_DE": "&7Tritt einer &fDuels Warteschlange &7bei oder spiele\n&fandere Minigames&7, um &fschnell an Tokens &7zu gelangen!"
         }
     }
 }
