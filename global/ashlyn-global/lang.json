@@ -746,6 +746,91 @@
         {
             "en_US": "&8» <#F9BD31>Click to select",
             "de_DE": "&8» <#F9BD31>Klicke zum Auswählen"
+        },
+        "KITGUI.gui.main.title":
+        {
+            "en_US": "Public Kits ([amount]&r) Page [page]",
+            "de_DE": "Öffentliche Kits ([amount]&r) Seite [page]"
+        },
+        "KITGUI.gui.main.title.loading":
+        {
+            "en_US": "&cLoading...",
+            "de_DE": "&cLaden..."
+        },
+        "KITGUI.gui.main.generic.clickaction.click2switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Umschalten"
+        },
+        "KITGUI.gui.main.generic.kitoftheday":
+        {
+            "en_US": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ",
+            "de_DE": "<gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs"
+        },
+        "KITGUI.gui.main.filter":
+        {
+            "en_US": "&6Show: &e[filter]",
+            "de_DE": "&6Zeige: &e[filter]"
+        },
+        "KITGUI.gui.main.filter.type.allkits":
+        {
+            "en_US": "All Kits",
+            "de_DE": "Alle Kits"
+        },
+        "KITGUI.gui.main.filter.type.favoritekits":
+        {
+            "en_US": "Your favorite Kits",
+            "de_DE": "Deine Favoriten"
+        },
+        "KITGUI.gui.main.filter.type.kitoftheday":
+        {
+            "en_US": "Daily Kits",
+            "de_DE": "Tageskits"
+        },
+        "KITGUI.gui.main.order":
+        {
+            "en_US": "&6Order: &e[order]",
+            "de_DE": "&6Sortiere: &e[order]"
+        },
+        "KITGUI.gui.main.order.type.asc":
+        {
+            "en_US": "Ascending",
+            "de_DE": "Aufsteigend"
+        },
+        "KITGUI.gui.main.order.type.desc":
+        {
+            "en_US": "Descending",
+            "de_DE": "Absteigend"
+        },
+        "KITGUI.gui.main.orderby":
+        {
+            "en_US": "&6Order by: &e[orderby]",
+            "de_DE": "&6Sortiere nach: &e[orderby]"
+        },
+        "KITGUI.gui.main.orderby.type.favorites":
+        {
+            "en_US": "Popularity",
+            "de_DE": "Beliebtheit"
+        },
+        "KITGUI.gui.main.orderby.type.mostplayed":
+        {
+            "en_US": "Most Players",
+            "de_DE": "Meiste Spieler"
+        },
+        "KITGUI.gui.main.orderby.type.date":
+        {
+            "en_US": "Release Date",
+            "de_DE": "Veröffentlichungsdatum"
+        },
+        "KITGUI.gui.main.kit.lore":
+        {
+            "en_US": "&7Creator: &x&F&F&D&2&0&0[creator]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Favorites: &x&F&F&D&2&0&0[favorites]",
+            "de_DE": "&7Ersteller: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Favorisierungen: &x&F&F&D&2&0&0[favorites]"
+        },
+        "KITGUI.gui.main.kit.lore.kitoftheday":
+        {
+            "en_US": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ\n        <#BAB6FF>[date]",
+            "de_DE": "      <gradient:#00B6FF:#BAB6FF>ᴋɪᴛ ᴅᴇs ᴛᴀɢᴇs\n         <#BAB6FF>[date]"
         }
     }
 }
