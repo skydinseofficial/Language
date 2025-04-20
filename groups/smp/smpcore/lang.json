@@ -217,6 +217,11 @@
             "en_US": "Money:",
             "de_DE": "Geld:"
         },
+        "scoreboard.time":
+        {
+            "en_US": "Time:",
+            "de_DE": "Zeit:"
+        },
         "scoreboard.lifetime":
         {
             "en_US": "Lifetime:",
