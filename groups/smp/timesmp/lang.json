@@ -16,6 +16,36 @@
         {
             "en_US": "Tokens:",
             "de_DE": "Tokens:"
+        },
+        "FFA.modeswitch.broadcast.pending":
+        {
+            "en_US": "&7In &6[time] &7the FFA mode changes to <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
+            "de_DE": "&7In &6[time] &7wechselt der FFA-Modus auf <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
+        },
+        "FFA.modeswitch.broadcast":
+        {
+            "en_US": "&7The FFA mode is now <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
+            "de_DE": "&7Der FFA-Modus ist nun <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
+        },
+        "FFA.mode.timesteal.description":
+        {
+            "en_US": "&7If you die in an FFA area,\nyou lose some of your time,\n&7but not your inventory.",
+            "de_DE": "&7Stirbst du in einem FFA-Bereich,\nverlierst du einen Teil deiner Zeit,\n&7allerdings nicht dein Inventar."
+        },
+        "FFA.mode.timesteal.characteristics":
+        {
+            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot",
+            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot"
+        },
+        "FFA.mode.deathmatch.description":
+        {
+            "en_US": "&7When you die, you lose your\n&7inventory and part of your time\n&7as usual.",
+            "de_DE": "&7Wenn du stirbst verlierst du\n&7wie gewohnt dein Inventar und\n&7einen Teil deiner Zeit."
+        },
+        "FFA.mode.deathmatch.characteristics":
+        {
+            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot",
+            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot"
         }
     }
 }
