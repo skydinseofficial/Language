@@ -34,8 +34,8 @@
         },
         "FFA.mode.timesteal.characteristics":
         {
-            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Play fast & gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot\n&8- &7No Bounties",
-            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell spielen & Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot\n&8- &7Keine Kopfgelder"
+            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Play fast & gain time quickly\n&8- &7No loot lost\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot\n&8- &7No Bounties",
+            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell spielen & Zeit gewinnen\n&8- &7Kein Loot verlieren\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot\n&8- &7Keine Kopfgelder"
         },
         "FFA.mode.deathmatch.description":
         {
