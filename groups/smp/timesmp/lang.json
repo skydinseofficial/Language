@@ -46,6 +46,11 @@
         {
             "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Get enemy loot quickly\n&8- &7Bounties activated\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7High risk\n&8- &7Your own inventory can be lost",
             "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell gegnerischen Loot bekommen\n&8- &7Kopfgelder aktiviert\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Hohes Risiko\n&8- &7Eigenes Inventar kann verloren gehen"
+        },
+        "FFA.holo.currentmode":
+        {
+            "en_US": "&7Current mode: &x&F&F&D&2&0&0[mode]\n[description]\n\n&7Next mode: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)",
+            "de_DE": "&7Aktueller Modus: &x&F&F&D&2&0&0[mode]\n[description]\n\n&7Nächster Modus: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)"
         }
     }
 }
