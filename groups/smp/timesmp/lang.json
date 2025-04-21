@@ -40,7 +40,7 @@
         "FFA.mode.deathmatch.description":
         {
             "en_US": "&7When you die, you lose your\n&7inventory and part of your time\n&7as usual.",
-            "de_DE": "&7Wenn du stirbst verlierst du\n&7wie gewohnt dein Inventar und\n&7einen Teil deiner Zeit."
+            "de_DE": "&7Wenn du stirbst, verlierst du\n&7wie gewohnt dein Inventar und\n&7einen Teil deiner Zeit."
         },
         "FFA.mode.deathmatch.characteristics":
         {
@@ -49,8 +49,8 @@
         },
         "FFA.holo.currentmode":
         {
-            "en_US": "&7Current mode: &x&F&F&D&2&0&0[mode]\n[description]\n\n&7Next mode: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)",
-            "de_DE": "&7Aktueller Modus: &x&F&F&D&2&0&0[mode]\n[description]\n\n&7Nächster Modus: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)"
+            "en_US": "&7Current mode: &x&F&F&D&2&0&0&n[mode]\n\n[description]\n\n&7Next mode: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)",
+            "de_DE": "&7Aktueller Modus: &x&F&F&D&2&0&0&n[mode]\n\n[description]\n\n&7Nächster Modus: &x&F&F&E&C&9&B[nextmode] &8(&6[time]&8)"
         }
     }
 }
