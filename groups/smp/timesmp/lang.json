@@ -20,7 +20,7 @@
         "FFA.modeswitch.broadcast.pending":
         {
             "en_US": "&7In &6[time] &7the FFA mode changes to <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
-            "de_DE": "&7In &6[time] &7wechselt der FFA-Modus auf <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
+            "de_DE": "&7In &6[time] &7wechselt der FFA-Modus zu <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
         },
         "FFA.modeswitch.broadcast":
         {
