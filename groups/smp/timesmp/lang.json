@@ -24,8 +24,8 @@
         },
         "FFA.modeswitch.broadcast":
         {
-            "en_US": "&7The FFA mode is now <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
-            "de_DE": "&7Der FFA-Modus ist nun <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
+            "en_US": "&x&F&F&0&0&0&0ATTENTION: &7The FFA mode is now <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
+            "de_DE": "&x&F&F&0&0&0&0ACHTUNG: &7Der FFA-Modus ist nun <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!"
         },
         "FFA.mode.timesteal.description":
         {
@@ -34,8 +34,8 @@
         },
         "FFA.mode.timesteal.characteristics":
         {
-            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot",
-            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot"
+            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot\n&8- &7No Bounties",
+            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot\n&8- &7Keine Kopfgelder"
         },
         "FFA.mode.deathmatch.description":
         {
@@ -44,8 +44,8 @@
         },
         "FFA.mode.deathmatch.characteristics":
         {
-            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Gain time quickly\n&8- &7No loot lost\n&8- &7Play again immediately after death\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7No enemy loot",
-            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell Zeit gewinnen\n&8- &7Kein Loot verlieren\n&8- &7Nach Tod sofort wieder spielen\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Kein gegnerischer Loot"
+            "en_US": "&x&4&C&E&1&0&0Advantages:\n&8- &7Get enemy loot quickly\n&8- &7Bounties activated\n\n&x&F&F&0&C&0&0Disadvantages:\n&8- &7High risk\n&8- &7Your own inventory can be lost",
+            "de_DE": "&x&4&C&E&1&0&0Vorteile:\n&8- &7Schnell gegnerischen Loot bekommen\n&8- &7Kopfgelder aktiviert\n\n&x&F&F&0&C&0&0Nachteile:\n&8- &7Hohes Risiko\n&8- &7Eigenes Inventar kann verloren gehen"
         }
     }
 }
