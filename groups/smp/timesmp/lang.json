@@ -86,6 +86,16 @@
         {
             "en_US": "&x&F&F&D&2&0&0+1 Token",
             "de_DE": "&x&F&F&D&2&0&0+1 Token"
+        },
+        "AFK.title.join":
+        {
+            "en_US": "&x&F&F&1&4&1&0ᴀғᴋ ᴀʀᴇᴀ",
+            "de_DE": "&x&F&F&1&4&1&0ᴀғᴋ ʙᴇʀᴇɪᴄʜ"
+        },
+        "AFK.subtitle.join":
+        {
+            "en_US": "&7Time stops, every 2 minutes +1 token",
+            "de_DE": "&7Zeit bleibt stehen, alle 2 Minuten +1 Token"
         }
     }
 }
