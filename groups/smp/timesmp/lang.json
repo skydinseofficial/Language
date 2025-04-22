@@ -71,6 +71,11 @@
         {
             "en_US": "&7You &cleft &7the &6AFK &7area!",
             "de_DE": "&7Du hast den &6AFK&7-Bereich &cverlassen&7!"
+        },
+        "AFK.arena.title":
+        {
+            "en_US": "AFK Area",
+            "de_DE": "AFK-Bereich"
         }
     }
 }
