@@ -262,6 +262,11 @@
             "en_US": "&cYou cannot interact with the world near a server border.",
             "de_DE": "&cDu kannst in der Nähe einer Serverborder nicht mit der Welt interagieren."
         },
+        "combat.bossbar":
+        {
+            "en_US": "&8[&x&F&F&0&F&0&0&lCOMBAT&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]",
+            "de_DE": "&8[&x&F&F&0&F&0&0&lKAMPF&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]"
+        },
         "trials.nopermission":
         {
             "en_US": "&cYou don't have the permission for this.",
