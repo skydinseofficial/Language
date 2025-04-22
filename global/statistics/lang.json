@@ -326,6 +326,16 @@
             "en_US": "Time earned",
             "de_DE": "Verdiente Zeit"
         },
+        "GUI.category.timesmp.totalearnedsell":
+        {
+            "en_US": "Time through /sell",
+            "de_DE": "Zeit durch /sell"
+        },
+        "GUI.category.timesmp.totalearnedauction":
+        {
+            "en_US": "Time through auctions",
+            "de_DE": "Zeit durch Auktionen"
+        },
         "GUI.category.timesmp.deaths":
         {
             "en_US": "Deaths",
