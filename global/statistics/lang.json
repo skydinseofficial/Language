@@ -281,41 +281,6 @@
             "en_US": "Received Hits",
             "de_DE": "Erhaltene Treffer"
         },
-        "GUI.category.mineattackv.deaths":
-        {
-            "en_US": "Deaths",
-            "de_DE": "Tode"
-        },
-        "GUI.category.mineattackv.mobskilled":
-        {
-            "en_US": "Mobs killed",
-            "de_DE": "Mobs getötet"
-        },
-        "GUI.category.mineattackv.animalskilled":
-        {
-            "en_US": "Animals killed",
-            "de_DE": "Tiere getötet"
-        },
-        "GUI.category.mineattackv.blocksplaced":
-        {
-            "en_US": "Blocks placed",
-            "de_DE": "Blöcke platziert"
-        },
-        "GUI.category.mineattackv.blocksbreaked":
-        {
-            "en_US": "Blocks destroyed",
-            "de_DE": "Blöcke abgebaut"
-        },
-        "GUI.category.mineattackv.distancemoved":
-        {
-            "en_US": "Blocks walked",
-            "de_DE": "Blöcke gelaufen"
-        },
-        "GUI.category.mineattackv.jumps":
-        {
-            "en_US": "Jumps",
-            "de_DE": "Sprünge"
-        },
         "GUI.category.mineattackvpro.deaths":
         {
             "en_US": "Deaths",
@@ -360,6 +325,46 @@
         {
             "en_US": "Time earned",
             "de_DE": "Verdiente Zeit"
+        },
+        "GUI.category.timesmp.deaths":
+        {
+            "en_US": "Deaths",
+            "de_DE": "Tode"
+        },
+        "GUI.category.timesmp.kills":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills"
+        },
+        "GUI.category.timesmp.mobskilled":
+        {
+            "en_US": "Mobs killed",
+            "de_DE": "Mobs getötet"
+        },
+        "GUI.category.timesmp.animalskilled":
+        {
+            "en_US": "Animals killed",
+            "de_DE": "Tiere getötet"
+        },
+        "GUI.category.timesmp.blocksplaced":
+        {
+            "en_US": "Blocks placed",
+            "de_DE": "Blöcke platziert"
+        },
+        "GUI.category.timesmp.blocksbreaked":
+        {
+            "en_US": "Blocks destroyed",
+            "de_DE": "Blöcke abgebaut"
+        },
+        "GUI.category.timesmp.distancemoved":
+        {
+            "en_US": "Blocks walked",
+            "de_DE": "Blöcke gelaufen"
+        },
+        "GUI.category.timesmp.jumps":
+        {
+            "en_US": "Jumps",
+            "de_DE": "Sprünge"
         },
         "GUI.category.global.onlinetime":
         {
