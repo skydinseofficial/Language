@@ -81,6 +81,11 @@
         {
             "en_US": "&x&5&4&D&9&F&FFreezed",
             "de_DE": "&x&5&4&D&9&F&FEingefroren"
+        },
+        "AFK.title.nexttoken":
+        {
+            "en_US": "&x&F&F&D&2&0&0+1 Token",
+            "de_DE": "&x&F&F&D&2&0&0+1 Token"
         }
     }
 }
