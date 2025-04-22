@@ -72,10 +72,15 @@
             "en_US": "&7You &cleft &7the &6AFK &7area!",
             "de_DE": "&7Du hast den &6AFK&7-Bereich &cverlassen&7!"
         },
-        "AFK.arena.title":
+        "AFK.scoreboard.area":
         {
             "en_US": "AFK Area",
             "de_DE": "AFK-Bereich"
+        },
+        "AFK.scoreboard.timefreezed":
+        {
+            "en_US": "&x&5&4&D&9&F&FFreezed",
+            "de_DE": "&x&5&4&D&9&F&FEingefroren"
         }
     }
 }
