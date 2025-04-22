@@ -267,6 +267,16 @@
             "en_US": "&8[&x&F&F&0&F&0&0&lCOMBAT&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]",
             "de_DE": "&8[&x&F&F&0&F&0&0&lKAMPF&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]"
         },
+        "combat.money.lost":
+        {
+            "en_US": "&7You have lost [amount] [currencyicon]&7!",
+            "de_DE": "&7Du hast [amount] [currencyicon] &7verloren!"
+        },
+        "combat.money.gained":
+        {
+            "en_US": "&7You gained [amount] [currencyicon]&7!",
+            "de_DE": "&7Du hast [amount] [currencyicon] &7erhalten!"
+        },
         "trials.nopermission":
         {
             "en_US": "&cYou don't have the permission for this.",
