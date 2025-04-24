@@ -393,8 +393,8 @@
         },
         "GUI.category.timesmp.afktime":
         {
-            "en_US": "Time in the AFK area",
-            "de_DE": "Zeit im AFK-Bereich"
+            "en_US": "AFK time",
+            "de_DE": "AFK-Zeit"
         },
         "GUI.category.timesmp.ffa_classic_timesteal_kills":
         {
