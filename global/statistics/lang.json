@@ -396,6 +396,46 @@
             "en_US": "Time in the AFK area",
             "de_DE": "Zeit im AFK-Bereich"
         },
+        "GUI.category.timesmp.ffa_classic_timesteal_kills":
+        {
+            "en_US": "Classic FFA (Timesteal) Kills",
+            "de_DE": "Classic FFA (Timesteal) Kills"
+        },
+        "GUI.category.timesmp.ffa_classic_timesteal_deaths":
+        {
+            "en_US": "Classic FFA (Timesteal) Deaths",
+            "de_DE": "Classic FFA (Timesteal) Tode"
+        },
+        "GUI.category.timesmp.ffa_classic_deathmatch_kills":
+        {
+            "en_US": "Classic FFA (Deathmatch) Kills",
+            "de_DE": "Classic FFA (Deathmatch) Kills"
+        },
+        "GUI.category.timesmp.ffa_classic_deathmatch_deaths":
+        {
+            "en_US": "Classic FFA (Deathmatch) Deaths",
+            "de_DE": "Classic FFA (Deathmatch) Tode"
+        },
+        "GUI.category.timesmp.ffa_advanced_timesteal_kills":
+        {
+            "en_US": "Advanced FFA (Timesteal) Kills",
+            "de_DE": "Advanced FFA (Timesteal) Kills"
+        },
+        "GUI.category.timesmp.ffa_advanced_timesteal_deaths":
+        {
+            "en_US": "Advanced FFA (Timesteal) Deaths",
+            "de_DE": "Advanced FFA (Timesteal) Tode"
+        },
+        "GUI.category.timesmp.ffa_advanced_deathmatch_kills":
+        {
+            "en_US": "Advanced FFA (Deathmatch) Kills",
+            "de_DE": "Advanced FFA (Deathmatch) Kills"
+        },
+        "GUI.category.timesmp.ffa_advanced_deathmatch_deaths":
+        {
+            "en_US": "Advanced FFA (Deathmatch) Deaths",
+            "de_DE": "Advanced FFA (Deathmatch) Tode"
+        },
         "GUI.category.global.onlinetime":
         {
             "en_US": "Online Time",
