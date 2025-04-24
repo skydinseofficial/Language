@@ -76,6 +76,11 @@
             "en_US": "&6Economy:",
             "de_DE": "&6Wirtschaft:"
         },
+        "GUI.stats.title.advanced":
+        {
+            "en_US": "&6Advanced:",
+            "de_DE": "&6Fortgeschritten:"
+        },
         "GUI.stats.title.blooms":
         {
             "en_US": "&6Blooms:",
@@ -375,6 +380,21 @@
         {
             "en_US": "Jumps",
             "de_DE": "Sprünge"
+        },
+        "GUI.category.timesmp.tokens":
+        {
+            "en_US": "Token balance",
+            "de_DE": "Tokenbilanz"
+        },
+        "GUI.category.timesmp.tokensearned":
+        {
+            "en_US": "Tokens earned",
+            "de_DE": "Verdiente Tokens"
+        },
+        "GUI.category.timesmp.afktime":
+        {
+            "en_US": "Time in the AFK area",
+            "de_DE": "Zeit im AFK-Bereich"
         },
         "GUI.category.global.onlinetime":
         {
