@@ -114,8 +114,8 @@
         },
         "GUI.main.addbounty.lore":
         {
-            "en_US": "&7You can <#FFD84E>only win &7the <#FFD84E>entire bounty &7from a person if you have <#FFD84E>placed a bounty &7on <#FFD84E>that person yourself&7.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/bounty add <player> <value>",
-            "de_DE": "&7Nur wenn du <#FFD84E>selbst &7auf eine <#FFD84E>Person Kopfgeld gesetzt &7hast, kannst du <#FFD84E>von dieser &7das <#FFD84E>gesamte Kopfgeld gewinnen&7.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/bounty add <spieler> <wert>"
+            "en_US": "&7You can <#FFD84E>only win &7the <#FFD84E>entire bounty\n&7from a person if you have <#FFD84E>placed a bounty\n&7on <#FFD84E>that person yourself&7.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/bounty add <player> <value>",
+            "de_DE": "&7Nur wenn du <#FFD84E>selbst &7auf eine <#FFD84E>Person\n<#FFD84E>Kopfgeld gesetzt &7hast, kannst du <#FFD84E>von\n<#FFD84E>dieser &7das <#FFD84E>gesamte Kopfgeld gewinnen&7.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/bounty add <spieler> <wert>"
         },
         "GUI.main.yourbounty":
         {
