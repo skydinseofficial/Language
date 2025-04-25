@@ -181,6 +181,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to mark as read",
             "de_DE": "&8» <#F9BD31>Klicke, um als gelesen zu markieren"
+        },
+        "GUI.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
         }
     }
 }
