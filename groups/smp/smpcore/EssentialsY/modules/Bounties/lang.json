@@ -1,0 +1,186 @@
+{
+    "system": "esy-bounties",
+    "translations":
+    {
+        "MSG.error.transactionerror":
+        {
+            "en_US": "&cA transaction error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
+        },
+        "MSG.error.invalidvalue":
+        {
+            "en_US": "&cInvalid value! &7Please note the format.",
+            "de_DE": "&cUngültiger Wert! &7Bitte achte auf das Format."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
+            "de_DE": "&7Nutze &e&n<|ah>&7 oder &e&n</ah sell (preis)>"
+        },
+        "MSG.success.bountyset":
+        {
+            "en_US": "&7You have just released a bounty of &x&F&F&D&2&0&0[value]&7 on [target]&7!",
+            "de_DE": "&7Du hast soeben ein Kopfgeld von &x&F&F&D&2&0&0[value]&7 auf [target]&7 freigegeben!"
+        },
+        "MSG.broadcast.bountyset":
+        {
+            "en_US": "[player]&7 has released a bounty of &x&F&F&D&2&0&0[value]&7 on [target]&7!",
+            "de_DE": "[player]&7 hat ein Kopfgeld von &x&F&F&D&2&0&0[value]&7 auf [target]&7 freigegeben!"
+        },
+        "MSG.info.bountypayout":
+        {
+            "en_US": "&7You have received &x&F&F&D&2&0&0[percent]% &7of [target]&7's bounty! &8([amount]&8)",
+            "de_DE": "&7Du hast &x&F&F&D&2&0&0[percent]% &7von [target]&7's Kopfgeld erhalten! &8([amount]&8)"
+        },
+        "MSG.broadcast.bountypayout":
+        {
+            "en_US": "&7[synonym]! [target]&7 was killed with a bounty of &x&F&F&D&2&0&0[value]&7!",
+            "de_DE": "&7[synonym]! [target]&7 wurde mit einem Kopfgeld von &x&F&F&D&2&0&0[value]&7 getötet!"
+        },
+        "MSG.broadcast.bountypayout.synonym.1":
+        {
+            "en_US": "Unbelievable",
+            "de_DE": "Unglaublich"
+        },
+        "MSG.broadcast.bountypayout.synonym.2":
+        {
+            "en_US": "Amazing",
+            "de_DE": "Erstaunlich"
+        },
+        "MSG.broadcast.bountypayout.synonym.3":
+        {
+            "en_US": "Mind-blowing",
+            "de_DE": "Beeindruckend"
+        },
+        "MSG.broadcast.bountypayout.synonym.4":
+        {
+            "en_US": "Stunning",
+            "de_DE": "Atemberaubend"
+        },
+        "MSG.broadcast.bountypayout.synonym.5":
+        {
+            "en_US": "Incredible",
+            "de_DE": "Fantastisch"
+        },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Release item for sale:",
+            "de_DE": "<#FFD200>Item zum Verkauf freigeben:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>sale price &7in the <#FFD84E>chat &7to release the <#FFD84E>item in your hand &7for sale.",
+            "de_DE": "&7Schreibe einen <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7, um das <#FFD84E>Item in deiner Hand &7zum Verkauf freizugeben."
+        },
+        "MSG.create.explanation.2.money":
+        {
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Bounties",
+            "de_DE": "Kopfgelder"
+        },
+        "GUI.main.target.lore":
+        {
+            "en_US": "&7Total bounty: [amount]\n&7Bounty giver: &x&F&F&D&2&0&0[persons]\n&7Open since: &x&F&F&D&2&0&0[timestamp]",
+            "de_DE": "&7Gesamtes Kopfgeld: [amount]\n&7Kopfgeldgeber: &x&F&F&D&2&0&0[persons]\n&7Offen seit: &x&F&F&D&2&0&0[timestamp]"
+        },
+        "GUI.main.addbounty":
+        {
+            "en_US": "Add Bounty",
+            "de_DE": "Kopfgeld hinzufügen"
+        },
+        "GUI.main.addbounty.lore":
+        {
+            "en_US": "&7You can <#FFD84E>only win &7the <#FFD84E>entire bounty &7from a person if you have <#FFD84E>placed a bounty &7on <#FFD84E>that person yourself&7.\n\n&7&oTip: Use &x&F&2&F&2&F&2&o/bounty add <player> <value>",
+            "de_DE": "&7Nur wenn du <#FFD84E>selbst &7auf eine <#FFD84E>Person Kopfgeld gesetzt &7hast, kannst du <#FFD84E>von dieser &7das <#FFD84E>gesamte Kopfgeld gewinnen&7.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/bounty add <spieler> <wert>"
+        },
+        "GUI.main.yourbounty":
+        {
+            "en_US": "&7Your Bounty: &x&F&F&D&2&0&0[value]",
+            "de_DE": "&7Dein Kopfgeld: &x&F&F&D&2&0&0[value]"
+        },
+        "GUI.main.yourbounty.lore.nobounty":
+        {
+            "en_US": "&7There is currently no bounty on\n&7your head.",
+            "de_DE": "&7Auf dich ist derzeit kein Kopfgeld\n&7ausgesetzt."
+        },
+        "GUI.main.yourbounty.lore":
+        {
+            "en_US": "&7You currently have a bounty of\n&7[persons] on your head:",
+            "de_DE": "&7Du bist derzeit einem Kopfgeld von\n&7[persons] ausgesetzt:"
+        },
+        "GUI.main.yourbounty.lore.1person":
+        {
+            "en_US": "one person",
+            "de_DE": "einer Person"
+        },
+        "GUI.main.yourbounty.lore.manypersons":
+        {
+            "en_US": "[amount] persons",
+            "de_DE": "[amount] Personen"
+        },
+        "GUI.main.yourbounty.lore.morepersons":
+        {
+            "en_US": "&7&oand [amount] more...",
+            "de_DE": "&7&ound [amount] weitere..."
+        },
+        "GUI.main.sorting":
+        {
+            "en_US": "&7Sorting:",
+            "de_DE": "&7Sortierung:"
+        },
+        "GUI.main.sorting.highestvalue":
+        {
+            "en_US": "Highest Bounty",
+            "de_DE": "Höchstes Kopfgeld"
+        },
+        "GUI.main.sorting.lowestvalue":
+        {
+            "en_US": "Lowest Bounty",
+            "de_DE": "Niedrigstes Kopfgeld"
+        },
+        "GUI.main.sorting.firstset":
+        {
+            "en_US": "Longest-running bounty",
+            "de_DE": "Am längsten laufendes Kopfgeld"
+        },
+        "GUI.main.sorting.recentlyset":
+        {
+            "en_US": "Newest Bounty",
+            "de_DE": "Neues Kopfgeld"
+        },
+        "GUI.clickaction.addbounty":
+        {
+            "en_US": "&8» <#F9BD31>Click to add bounty",
+            "de_DE": "&8» <#F9BD31>Klicke, um Kopfgeld hinzuzufügen"
+        },
+        "GUI.clickaction.markasread":
+        {
+            "en_US": "&8» <#F9BD31>Click to mark as read",
+            "de_DE": "&8» <#F9BD31>Klicke, um als gelesen zu markieren"
+        }
+    }
+}
