@@ -79,8 +79,8 @@
         },
         "HOLO.sellminime":
         {
-            "en_US": "&eTip: &fUse /antipickup while farming, so\n&fyour Minime collects and sells everything.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Your Minime can collect items on the\n&7ground for you and sell them immediately\n&7These end up in: &f/earnings",
-            "de_DE": "&eTipp: &fNutze /antipickup während du farmst,\n&fdamit dein Minime alles sammelt und verkauft.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Dein Minime kann Items auf dem\n&7Boden für dich sammeln und sofort\n&7verkaufen! Diese landen in: &f/verdienste"
+            "en_US": "&eTip: &fUse /antipickup while farming,\n&fso your Minime collects and sells\n&feverything.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Your Minime can collect items on the\n&7ground for you and sell them immediately\n&7These end up in: &f/earnings",
+            "de_DE": "&eTipp: &fNutze /antipickup während du\n&ffarmst, damit dein Minime alles\n&fsammelt und verkauft.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Dein Minime kann Items auf dem\n&7Boden für dich sammeln und sofort\n&7verkaufen! Diese landen in: &f/verdienste"
         },
     }
 }
