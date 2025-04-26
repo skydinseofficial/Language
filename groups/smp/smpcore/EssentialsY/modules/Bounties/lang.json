@@ -104,8 +104,8 @@
         },
         "GUI.main.target.lore":
         {
-            "en_US": "&7Total bounty: [amount]\n&7Bounty giver: &x&F&F&D&2&0&0[persons]\n&7Open since: &x&F&F&D&2&0&0[timestamp]",
-            "de_DE": "&7Gesamtes Kopfgeld: [amount]\n&7Kopfgeldgeber: &x&F&F&D&2&0&0[persons]\n&7Offen seit: &x&F&F&D&2&0&0[timestamp]"
+            "en_US": "&7Total bounty: &x&F&F&D&2&0&0[amount]\n&7Bounty giver: &x&F&F&D&2&0&0[persons]\n&7Open since: &x&F&F&D&2&0&0[timestamp]",
+            "de_DE": "&7Gesamtes Kopfgeld: &x&F&F&D&2&0&0[amount]\n&7Kopfgeldgeber: &x&F&F&D&2&0&0[persons]\n&7Offen seit: &x&F&F&D&2&0&0[timestamp]"
         },
         "GUI.main.addbounty":
         {
