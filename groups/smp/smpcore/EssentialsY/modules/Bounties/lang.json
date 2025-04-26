@@ -77,22 +77,27 @@
             "en_US": "&cThere is already a running chat action.",
             "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
         },
-        "MSG.create.title":
+        "MSG.addbounty.title":
         {
-            "en_US": "<#FFD200>Release item for sale:",
-            "de_DE": "<#FFD200>Item zum Verkauf freigeben:"
+            "en_US": "<#FFD200>Set new bounty:",
+            "de_DE": "<#FFD200>Neues Kopfgeld setzen:"
         },
-        "MSG.create.explanation.1":
+        "MSG.addbounty.explanation.1":
         {
-            "en_US": "&7Write a <#FFD84E>sale price &7in the <#FFD84E>chat &7to release the <#FFD84E>item in your hand &7for sale.",
-            "de_DE": "&7Schreibe einen <#FFD84E>Verkaufspreis &7in den <#FFD84E>Chat&7, um das <#FFD84E>Item in deiner Hand &7zum Verkauf freizugeben."
+            "en_US": "&7Write the <#FFD84E>name &7of the <#FFD84E>person &7into the <#FFD84E>chat &7on whom you want to place the <#FFD84E>bounty&7.",
+            "de_DE": "&7Schreibe den <#FFD84E>Namen &7von der <#FFD84E>Person &7in den <#FFD84E>Chat&7, auf die du das <#FFD84E>Kopfgeld &7setzen möchtest."
         },
-        "MSG.create.explanation.2.money":
+        "MSG.addbounty.explanation.2":
+        {
+            "en_US": "&7Write the <#FFD84E>amount &7in the <#FFD84E>chat&7, <#FFD84E>how much bounty &7you want to put on [player]&7.",
+            "de_DE": "&7Schreibe den <#FFD84E>Betrag &7in den <#FFD84E>Chat&7, <#FFD84E>wie viel Kopfgeld &7du auf [player]&7 setzen möchtest."
+        },
+        "MSG.addbounty.explanation.2.money":
         {
             "en_US": "&7e.g. <#FFD200>49.99",
             "de_DE": "&7z.B. <#FFD200>49,99"
         },
-        "MSG.create.explanation.2.time":
+        "MSG.addbounty.explanation.2.time":
         {
             "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
             "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
