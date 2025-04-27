@@ -12,6 +12,16 @@
             "en_US": "&cInvalid value! &7Please note the format.",
             "de_DE": "&cUngültiger Wert! &7Bitte achte auf das Format."
         },
+        "MSG.error.minimum":
+        {
+            "en_US": "&cThe bounty minimum is currently [minimum]&c!",
+            "de_DE": "&cDas Kopfgeld-Minimum liegt derzeit bei [minimum]&c!"
+        },
+        "MSG.error.bountyyourself":
+        {
+            "en_US": "&cYou can't put a bounty on yourself!",
+            "de_DE": "&cDu kannst kein Kopfgeld auf dich selbst setzen!"
+        },
         "MSG.error.unexpectederror":
         {
             "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
