@@ -14,8 +14,8 @@
         },
         "MSG.error.minimum":
         {
-            "en_US": "&cThe bounty minimum is currently [minimum]&c!",
-            "de_DE": "&cDas Kopfgeld-Minimum liegt derzeit bei [minimum]&c!"
+            "en_US": "&cThe bounty minimum is currently &x&F&F&D&2&0&0[minimum]&c!",
+            "de_DE": "&cDas Kopfgeld-Minimum liegt derzeit bei &x&F&F&D&2&0&0[minimum]&c!"
         },
         "MSG.error.bountyyourself":
         {
