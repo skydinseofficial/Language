@@ -29,8 +29,8 @@
         },
         "MSG.info.commandusage":
         {
-            "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
-            "de_DE": "&7Nutze &e&n<|ah>&7 oder &e&n</ah sell (preis)>"
+            "en_US": "&7Use &e&n<|bounty>&7 or &e&n</bounty add (player) (value)>",
+            "de_DE": "&7Nutze &e&n<|bounty>&7 oder &e&n</bounty add (spieler) (wert)>"
         },
         "MSG.success.bountyset":
         {
