@@ -1,0 +1,71 @@
+{
+    "system": "esy-generators",
+    "translations":
+    {
+        "MSG.error.transactionerror":
+        {
+            "en_US": "&cA transaction error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
+        },
+        "GUI.main.upgrade":
+        {
+            "en_US": "Collect XP",
+            "de_DE": "XP sammeln"
+        },
+        "GUI.main.upgrade.lore":
+        {
+            "en_US": "&7XP available: &x&4&C&F&F&0&0[xp]\n\n&7Generators also produce XP, which\n&7you can collect.\n\n&7&oTip: Your &x&F&2&F&2&F&2&o/minime&7 can automatically\n&7collect the XP for you!",
+            "de_DE": "&7XP verfügbar: &x&4&C&F&F&0&0[xp]\n\n&7Generatoren produzieren nebenbei auch\n&7XP, welches du einsammeln kannst.\n\n&7&oTipp: Dein &x&F&2&F&2&F&2&o/minime&7 kann das\n&7XP automatisch einsammeln!"
+        },
+        "GUI.main.exp":
+        {
+            "en_US": "Collect XP",
+            "de_DE": "XP sammeln"
+        },
+        "GUI.main.exp.lore":
+        {
+            "en_US": "&7XP available: &x&4&C&F&F&0&0[xp]\n\n&7Generators also produce XP, which\n&7you can collect.\n\n&7&oTip: Your &x&F&2&F&2&F&2&o/minime&7 can automatically\n&7collect the XP for you!",
+            "de_DE": "&7XP verfügbar: &x&4&C&F&F&0&0[xp]\n\n&7Generatoren produzieren nebenbei auch\n&7XP, welches du einsammeln kannst.\n\n&7&oTipp: Dein &x&F&2&F&2&F&2&o/minime&7 kann das\n&7XP automatisch einsammeln!"
+        },
+        "GUI.main.selleverything":
+        {
+            "en_US": "Sell ​​everything",
+            "de_DE": "Alles verkaufen"
+        },
+        "GUI.main.selleverything.lore":
+        {
+            "en_US": "&7Worth of items in storage: &x&F&F&D&2&0&0[worth]\n\n&7Sell all items immediately to make\n&7more money!\n\n&7&oTip: Your &x&F&2&F&2&F&2&o/minime&7 can automatically\n&7sell the items in your generators!",
+            "de_DE": "&7Wert der Items im Lager: &x&F&F&D&2&0&0[worth]\n\n&7Verkaufe sofort alle Items, um mehr\n&7Geld zu machen!\n\n&7&oTipp: Dein &x&F&2&F&2&F&2&o/minime&7 kann die Items\n&7in deinen Generatoren automatisch verkaufen!"
+        },
+        "GUI.main.selleverything.lore.storageempty":
+        {
+            "en_US": "&cThere is nothing for sale. The\n&cstorage is empty.",
+            "de_DE": "&cEs gibt nichts zu verkaufen. Das\n&cLager ist leer."
+        },
+        "GUI.main.storage":
+        {
+            "en_US": "&7Storage utilization: [utilization]",
+            "de_DE": "&7Lagerauslastung: [utilization]"
+        },
+        "GUI.main.storage.lore":
+        {
+            "en_US": "&7Current storage level: &x&F&F&D&2&0&0[level]\n&7Upgrade costs: &x&F&F&D&2&0&0[costs]\n\n&7The higher the storage level, the\n&7more the generator's storage can hold.\n&7If the storage is full, the generator can\n&7no longer produce anything.",
+            "de_DE": "&7Aktuelles Lagerlevel: &x&F&F&D&2&0&0[level]\n&7Verbesserungskosten: &x&F&F&D&2&0&0[costs]\n\n&7Je höher das Lagerlevel ist, umso\n&7mehr kann das Lager des Generators\n&7aufnehmen. Wenn das Lager voll ist, kann\n&7der Generator nichts mehr produzieren."
+        },
+        "GUI.clickaction.upgrade":
+        {
+            "en_US": "&8» <#F9BD31>Click to upgrade",
+            "de_DE": "&8» <#F9BD31>Klicke zum Verbessern"
+        },
+        "GUI.clickaction.sell":
+        {
+            "en_US": "&8» <#F9BD31>Click to sell",
+            "de_DE": "&8» <#F9BD31>Klicke zum Verkaufen"
+        },
+        "GUI.clickaction.collect":
+        {
+            "en_US": "&8» <#F9BD31>Click to collect",
+            "de_DE": "&8» <#F9BD31>Klicke zum Einsammeln"
+        }
+    }
+}
