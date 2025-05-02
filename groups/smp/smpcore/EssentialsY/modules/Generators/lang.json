@@ -7,6 +7,11 @@
             "en_US": "&cA transaction error occurred. Please try again or rejoin.",
             "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
         },
+        "GUI.camouflage.title":
+        {
+            "en_US": "Select a camouflage",
+            "de_DE": "Wähle eine Tarnung"
+        },
         "GUI.main.upgrade":
         {
             "en_US": "Upgrade Generator",
