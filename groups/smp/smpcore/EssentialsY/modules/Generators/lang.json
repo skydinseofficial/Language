@@ -9,8 +9,8 @@
         },
         "GUI.main.upgrade":
         {
-            "en_US": "Collect XP",
-            "de_DE": "XP sammeln"
+            "en_US": "Upgrade Generator",
+            "de_DE": "Generator verbessern"
         },
         "GUI.main.upgrade.lore":
         {
