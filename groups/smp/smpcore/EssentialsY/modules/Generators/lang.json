@@ -89,8 +89,13 @@
         },
         "GUI.clickaction.selectcamouflage":
         {
-            "en_US": "&8» <#F9BD31>Click to select camouflage",
+            "en_US": "&8» <#F9BD31>Click to select a camouflage",
             "de_DE": "&8» <#F9BD31>Klicke, um eine Tarnung zu wählen"
+        },
+        "GUI.clickaction.select":
+        {
+            "en_US": "&8» <#F9BD31>Click to select",
+            "de_DE": "&8» <#F9BD31>Klicke zum Auswählen"
         }
     }
 }
