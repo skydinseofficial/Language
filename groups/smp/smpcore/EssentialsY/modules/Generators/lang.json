@@ -12,15 +12,15 @@
             "en_US": "Select a camouflage",
             "de_DE": "Wähle eine Tarnung"
         },
-        "GUI.main.upgrade":
+        "GUI.main.radius":
         {
-            "en_US": "Upgrade Generator",
-            "de_DE": "Generator verbessern"
+            "en_US": "Radius: [radius]",
+            "de_DE": "Radius: [radius]"
         },
-        "GUI.main.upgrade.lore":
+        "GUI.main.radius.lore":
         {
-            "en_US": "&7XP available: &x&4&C&F&F&0&0[xp]\n\n&7Generators also produce XP, which\n&7you can collect.\n\n&7&oTip: Your &x&F&2&F&2&F&2&o/minime&7 can automatically\n&7collect the XP for you!",
-            "de_DE": "&7XP verfügbar: &x&4&C&F&F&0&0[xp]\n\n&7Generatoren produzieren nebenbei auch\n&7XP, welches du einsammeln kannst.\n\n&7&oTipp: Dein &x&F&2&F&2&F&2&o/minime&7 kann das\n&7XP automatisch einsammeln!"
+            "en_US": "&7Upgrade costs: &x&F&F&D&2&0&0[costs]\n\n&7The higher the radius, the\n&7more blocks the generator can\n&7produce.",
+            "de_DE": "&7Verbesserungskosten: &x&F&F&D&2&0&0[costs]\n\n&7Je höher der Radius ist, umso\n&7mehr Blöcke kann der Generator\n&7erzeugen."
         },
         "GUI.main.exp":
         {
