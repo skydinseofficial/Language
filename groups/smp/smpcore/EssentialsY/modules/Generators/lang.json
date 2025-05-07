@@ -7,6 +7,11 @@
             "en_US": "&cA transaction error occurred. Please try again or rejoin.",
             "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
         },
+        "MSG.error.cantafford":
+        {
+            "en_US": "&cYou can't afford the upgrade.",
+            "de_DE": "&cDu kannst dir das Upgrade nicht leisten."
+        },
         "GUI.camouflage.title":
         {
             "en_US": "Select a camouflage",
@@ -14,13 +19,13 @@
         },
         "GUI.main.radius":
         {
-            "en_US": "Radius: [radius]",
-            "de_DE": "Radius: [radius]"
+            "en_US": "&7Radius: [radius]",
+            "de_DE": "&7Radius: [radius]"
         },
         "GUI.main.radius.lore":
         {
-            "en_US": "&7Upgrade costs: &x&F&F&D&2&0&0[costs]\n\n&7The higher the radius, the\n&7more blocks the generator can\n&7produce.",
-            "de_DE": "&7Verbesserungskosten: &x&F&F&D&2&0&0[costs]\n\n&7Je höher der Radius ist, umso\n&7mehr Blöcke kann der Generator\n&7erzeugen."
+            "en_US": "&7Upgrade costs (+1): &x&F&F&D&2&0&0[costs]\n\n&7The higher the radius, the\n&7more blocks the generator can\n&7produce.",
+            "de_DE": "&7Verbesserungskosten (+1): &x&F&F&D&2&0&0[costs]\n\n&7Je höher der Radius ist, umso\n&7mehr Blöcke kann der Generator\n&7erzeugen."
         },
         "GUI.main.exp":
         {
@@ -54,8 +59,8 @@
         },
         "GUI.main.storage.lore":
         {
-            "en_US": "&7Current storage level: &x&F&F&D&2&0&0[level]\n&7Upgrade costs: &x&F&F&D&2&0&0[costs]\n\n&7The higher the storage level, the\n&7more the generator's storage can hold.\n&7If the storage is full, the generator can\n&7no longer produce anything.",
-            "de_DE": "&7Aktuelles Lagerlevel: &x&F&F&D&2&0&0[level]\n&7Verbesserungskosten: &x&F&F&D&2&0&0[costs]\n\n&7Je höher das Lagerlevel ist, umso\n&7mehr kann das Lager des Generators\n&7aufnehmen. Wenn das Lager voll ist, kann\n&7der Generator nichts mehr produzieren."
+            "en_US": "&7Current storage level: &x&F&F&D&2&0&0[level]\n&7Upgrade costs (+64): &x&F&F&D&2&0&0[costs]\n\n&7The higher the storage level, the\n&7more the generator's storage can hold.\n&7If the storage is full, the generator can\n&7no longer produce anything.",
+            "de_DE": "&7Aktuelles Lagerlevel: &x&F&F&D&2&0&0[level]\n&7Verbesserungskosten (+64): &x&F&F&D&2&0&0[costs]\n\n&7Je höher das Lagerlevel ist, umso\n&7mehr kann das Lager des Generators\n&7aufnehmen. Wenn das Lager voll ist, kann\n&7der Generator nichts mehr produzieren."
         },
         "GUI.main.generator.lore":
         {
