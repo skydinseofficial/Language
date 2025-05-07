@@ -12,6 +12,11 @@
             "en_US": "&cYou can't afford the upgrade.",
             "de_DE": "&cDu kannst dir das Upgrade nicht leisten."
         },
+        "MSG.error.nothingtosell":
+        {
+            "en_US": "&cThere is nothing to sell yet because the generator is empty.",
+            "de_DE": "&cEs gibt noch nichts zu verkaufen, da der Generator leer ist."
+        },
         "GUI.camouflage.title":
         {
             "en_US": "Select a camouflage",
