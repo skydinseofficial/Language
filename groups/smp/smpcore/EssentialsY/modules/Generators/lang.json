@@ -17,6 +17,11 @@
             "en_US": "&cThere is nothing to sell yet because the generator is empty.",
             "de_DE": "&cEs gibt noch nichts zu verkaufen, da der Generator leer ist."
         },
+        "MSG.error.dismantle":
+        {
+            "en_US": "&cTo dismantle a generator, you must return it to its original form.",
+            "de_DE": "&cUm einen Generator abzubauen, musst du diesen wieder in die echte Gestalt versetzen."
+        },
         "GUI.camouflage.title":
         {
             "en_US": "Select a camouflage",
