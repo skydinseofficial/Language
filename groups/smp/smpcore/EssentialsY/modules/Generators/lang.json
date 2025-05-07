@@ -44,8 +44,8 @@
         },
         "GUI.main.selleverything":
         {
-            "en_US": "Sell ​​everything",
-            "de_DE": "Alles verkaufen"
+            "en_US": "&6Sell ​​everything",
+            "de_DE": "&6Alles verkaufen"
         },
         "GUI.main.selleverything.lore":
         {
