@@ -39,8 +39,8 @@
         },
         "GUI.main.exp":
         {
-            "en_US": "Collect XP",
-            "de_DE": "XP sammeln"
+            "en_US": "&aCollect XP",
+            "de_DE": "&aXP sammeln"
         },
         "GUI.main.exp.lore":
         {
