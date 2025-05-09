@@ -237,15 +237,25 @@
             "en_US": "&7Have a stonecutter available at all times.\n&7When activated, click me to access it.",
             "de_DE": "&7Eine Steinsäge jederzeit zur Verfügung haben.\n&7Wenn aktiviert, klicke mich, um auf sie zuzugreifen."
         },
-        "ABILITY.smpgeneratorearn":
+        "ABILITY.smpgeneratorearnloot":
         {
-            "en_US": "Harvest generators",
-            "de_DE": "Generatoren ernten"
+            "en_US": "Sell Generator Loot",
+            "de_DE": "Generatoren Loot verkaufen"
         },
-        "ABILITY.smpgeneratorearn.description":
+        "ABILITY.smpgeneratorearnloot.description":
         {
-            "en_US": "&7I automatically harvest your generators\n&7near you, sell the items, and give\n&7you the XP!",
-            "de_DE": "&7Ich ernte automatisch deine generatoren in\n&7deiner Nähe, verkaufe die Items und gebe\n&7dir die XP!"
+            "en_US": "&7I automatically harvest your generators\n&7and sell the items. You can collect\n&7the earnings by using &f/earnings&7.",
+            "de_DE": "&7Ich ernte automatisch deine generatoren in\n&7deiner Nähe und verkaufe die Items. Du kannst\n&7die Verdienste mit &f/verdienste &7einsammeln."
+        },
+        "ABILITY.smpgeneratorearnxp":
+        {
+            "en_US": "Collect Generator XP",
+            "de_DE": "Generatoren XP einsammeln"
+        },
+        "ABILITY.smpgeneratorearnxp.description":
+        {
+            "en_US": "&7I'll give you the XP of all\n&7generators near you immediately!",
+            "de_DE": "&7Ich gebe dir sofort die XP aller\n&7Generatoren in deiner Nähe!"
         },
         "ABILITY.smpautosellgrounditems":
         {
