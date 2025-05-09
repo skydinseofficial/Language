@@ -321,6 +321,16 @@
             "en_US": "Jumps",
             "de_DE": "Sprünge"
         },
+        "GUI.category.timesmp.secondary":
+        {
+            "en_US": "Tokens",
+            "de_DE": "Tokens"
+        },
+        "GUI.category.timesmp.secondaryearned":
+        {
+            "en_US": "Tokens earned",
+            "de_DE": "Verdiente Tokens"
+        },
         "GUI.category.timesmp.time":
         {
             "en_US": "Time balance",
@@ -380,16 +390,6 @@
         {
             "en_US": "Jumps",
             "de_DE": "Sprünge"
-        },
-        "GUI.category.timesmp.tokens":
-        {
-            "en_US": "Token balance",
-            "de_DE": "Tokenbilanz"
-        },
-        "GUI.category.timesmp.tokensearned":
-        {
-            "en_US": "Tokens earned",
-            "de_DE": "Verdiente Tokens"
         },
         "GUI.category.timesmp.afktime":
         {
