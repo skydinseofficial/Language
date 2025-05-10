@@ -1,0 +1,121 @@
+{
+    "system": "esy-shopgui",
+    "translations":
+    {
+        "MSG.error.invalidprice":
+        {
+            "en_US": "&cInvalid price! &7Please note the format.",
+            "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.error.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
+        "MSG.error.itemhastobeinhand":
+        {
+            "en_US": "&cYou must hold the item for which you want to set the worth in your hand.",
+            "de_DE": "&cDu musst das Item, für welches du den Wert festlegen möchtest, in der Hand halten."
+        },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|shop>&7 or &e&n</shop set (category) (price)>",
+            "de_DE": "&7Nutze &e&n<|shop>&7 oder &e&n</shop set (categorie) (preis)>"
+        },
+        "MSG.info.itemcontainsadditionalnbt":
+        {
+            "en_US": "&cWarning: &7This item contains additional NBT data! &7Use &e&n<|shop confirm>&7 to actually set the price for this item.",
+            "de_DE": "&cAchtung: &7Das Item enthält zusätzliche NBT Daten! &7Nutze &e&n<|shop confirm>&7, um den Preis für dieses Item wirklich festzulegen."
+        },
+        "MSG.success.worthset":
+        {
+            "en_US": "&7You have just set the price of &6[item] &7to &x&F&F&D&2&0&0[price]&7!",
+            "de_DE": "&7Du hast soeben den Preis von &6[item] &7auf &x&F&F&D&2&0&0[price]&7gesetzt!"
+        },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Define new price:",
+            "de_DE": "<#FFD200>Neuen Preis definieren:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>positive amount &7in the <#FFD84E>chat &7to assign a price to the <#FFD84E>item in your hand&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>positiven Betrag &7in den <#FFD84E>Chat&7, um dem <#FFD84E>Item in deiner Hand &7einen Preis zu geben."
+        },
+        "MSG.create.explanation.2.money":
+        {
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        },
+        "WORD.item":
+        {
+            "en_US": "Item",
+            "de_DE": "Item"
+        },
+        "WORD.items":
+        {
+            "en_US": "Items",
+            "de_DE": "Items"
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Shop",
+            "de_DE": "Shop"
+        },
+        "GUI.main.category.lore":
+        {
+            "en_US": "&7Number of offers: &x&F&F&D&2&0&0[offers]",
+            "de_DE": "&7Anzahl der Angebote: &x&F&F&D&2&0&0[offers]"
+        },
+        "GUI.main.category.lore.editor":
+        {
+            "en_US": "&7Created by: [created_by]\n&7Time of creation: &x&F&F&D&2&0&0[created_at]",
+            "de_DE": "&7Erstellt von: [created_by]\n&7Zeit der Erstellung: &x&F&F&D&2&0&0[created_at]"
+        },
+        "GUI.main.category.name.food":
+        {
+            "en_US": "&6Food",
+            "de_DE": "&6Essen"
+        },
+        "GUI.main.object.lore":
+        {
+            "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]\n&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
+            "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]\n&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
+        },
+        "GUI.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
+        },
+        "GUI.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
+        "GUI.clickaction.update":
+        {
+            "en_US": "&8» <#F9BD31>Click to update",
+            "de_DE": "&8» <#F9BD31>Klicke zum Aktualisieren"
+        }
+    }
+}
