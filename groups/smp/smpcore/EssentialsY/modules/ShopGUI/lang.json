@@ -97,15 +97,20 @@
             "en_US": "&6Food",
             "de_DE": "&6Essen"
         },
-        "GUI.main.object.lore":
+        "GUI.main.createcategory":
         {
-            "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]\n&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
-            "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]\n&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
+            "en_US": "&aCreate a Category",
+            "de_DE": "&aKategorie erstellen"
         },
-        "GUI.clickaction.switch":
+        "GUI.main.createcategory.lore":
         {
-            "en_US": "&8» <#F9BD31>Click to switch",
-            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
+            "en_US": "&7Hold the <#FFD84E>category icon &7in your <#FFD84E>hand\n&7while typing the category name in\n&7the chat.",
+            "de_DE": "&7Halte das <#FFD84E>Icon &7für die <#FFD84E>Kategorie &7in\n&7deiner <#FFD84E>Hand&7, während du den <#FFD84E>Namen &7der\n<#FFD84E>Kategorie &7in den <#FFD84E>Chat &7schreibst."
+        },
+        "GUI.clickaction.create":
+        {
+            "en_US": "&8» <#F9BD31>Click to create",
+            "de_DE": "&8» <#F9BD31>Klicke zum Erstellen"
         },
         "GUI.clickaction.view":
         {
