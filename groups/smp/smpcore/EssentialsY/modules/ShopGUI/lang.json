@@ -47,6 +47,21 @@
             "en_US": "&cThere is already a running chat action.",
             "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
         },
+        "MSG.createcategory.toomanychars":
+        {
+            "en_US": "&cA category name can consist of a maximum of [amount] characters.",
+            "de_DE": "&cEin Kategoriename kann maximal aus [amount] Zeichen bestehen."
+        },
+        "MSG.createcategory.forbiddenchars":
+        {
+            "en_US": "&cThe input contains invalid characters.",
+            "de_DE": "&cDie Eingabe enthält invalide Zeichen."
+        },
+        "MSG.createcategory.alreadyexists":
+        {
+            "en_US": "&cA category with this name already exists.",
+            "de_DE": "&cEs existiert bereits eine Kategorie mit diesem Namen."
+        },
         "MSG.createcategory.title":
         {
             "en_US": "<#FFD200>Define new category:",
