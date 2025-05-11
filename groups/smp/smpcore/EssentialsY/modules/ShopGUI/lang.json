@@ -42,6 +42,11 @@
             "en_US": "&7You have just set the price of &6[item] &7to &x&F&F&D&2&0&0[price]&7!",
             "de_DE": "&7Du hast soeben den Preis von &6[item] &7auf &x&F&F&D&2&0&0[price]&7gesetzt!"
         },
+        "MSG.success.itemdeleted":
+        {
+            "en_US": "&7The item has been removed from the shop.",
+            "de_DE": "&7Das Item wurde aus dem Shop genommen."
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
