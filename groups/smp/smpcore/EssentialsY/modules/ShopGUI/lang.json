@@ -72,6 +72,11 @@
             "en_US": "&7Write the <#FFD84E>name &7or the <#FFD84E>ID &7of the category in the <#FFD84E>chat&7. Hold the <#FFD84E>icon in your hand&7.",
             "de_DE": "&7Schreibe den <#FFD84E>Namen &7bzw. die <#FFD84E>ID &7der Kategorie in den <#FFD84E>Chat&7. Halte dabei das <#FFD84E>Icon in der Hand&7."
         },
+        "MSG.defineitem.categorynotexists":
+        {
+            "en_US": "&cA category with this name does not exist.",
+            "de_DE": "&cEs existiert keine Kategorie mit diesem Namen."
+        },
         "MSG.defineitem.title":
         {
             "en_US": "<#FFD200>Define price:",
