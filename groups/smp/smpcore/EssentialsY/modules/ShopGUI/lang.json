@@ -52,6 +52,16 @@
             "en_US": "&7The item has been removed from the shop.",
             "de_DE": "&7Das Item wurde aus dem Shop genommen."
         },
+        "MSG.success.categorycreated":
+        {
+            "en_US": "&7The category has been created.",
+            "de_DE": "&7Die Kategorie wurde erstellt."
+        },
+        "MSG.success.categorycreated.nolanguage":
+        {
+            "en_US": "&cThere is no translation for the category yet!",
+            "de_DE": "&cEs existiert noch keine Übersetzung für die Kategorie!"
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
