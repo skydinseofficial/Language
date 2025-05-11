@@ -177,6 +177,11 @@
             "en_US": "&7Hold the <#FFD84E>item &7you want to add in\n&7your <#FFD84E>hand &7while you write the\n<#FFD84E>price &7in the <#FFD84E>chat&7.",
             "de_DE": "&7Halte das <#FFD84E>Item&7, welches du hinzufügen\n&7möchtest, in deiner <#FFD84E>Hand&7, während du den\n<#FFD84E>Preis &7in den <#FFD84E>Chat &7schreibst."
         },
+        "GUI.item.title":
+        {
+            "en_US": "Buy",
+            "de_DE": "Kaufen"
+        },
         "GUI.item.delete":
         {
             "en_US": "&4Delete Item",
@@ -186,6 +191,21 @@
         {
             "en_US": "&7Delete the <#FFD84E>item <#FF0000>irrevocably&7.",
             "de_DE": "&7Lösche das <#FFD84E>Item <#FF0000>unwiderruflich&7."
+        },
+        "GUI.item.buy":
+        {
+            "en_US": "Buy [amount]x",
+            "de_DE": "[amount]x Kaufen"
+        },
+        "GUI.item.buy.lore":
+        {
+            "en_US": "&7Price: &x&F&F&D&2&0&0[total] &8(&7[amount]x [price]&8)",
+            "de_DE": "&7Preis: &x&F&F&D&2&0&0[total] &8(&7[amount]x [price]&8)"
+        },
+        "GUI.item.buy.lore.cannotafford":
+        {
+            "en_US": "<#FF0F00>ɴᴏᴛ ᴇɴᴏᴜɢʜ ᴍᴏɴᴇʏ",
+            "de_DE": "<#FF0F00>ɴɪᴄʜᴛ ɢᴇɴᴜɢ ɢᴇʟᴅ"
         },
         "GUI.clickaction.create":
         {
