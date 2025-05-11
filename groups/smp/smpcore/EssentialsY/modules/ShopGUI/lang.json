@@ -39,8 +39,13 @@
         },
         "MSG.success.worthset":
         {
-            "en_US": "&7You have just set the price of &6[item] &7to &x&F&F&D&2&0&0[price]&7!",
-            "de_DE": "&7Du hast soeben den Preis von &6[item] &7auf &x&F&F&D&2&0&0[price]&7gesetzt!"
+            "en_US": "&7You have updated the price of the item.",
+            "de_DE": "&7Du hast den Preis des Items aktualisiert."
+        },
+        "MSG.success.itemset":
+        {
+            "en_US": "&7The item is now in the shop.",
+            "de_DE": "&7Das Item befindet sich nun im Shop."
         },
         "MSG.success.itemdeleted":
         {
