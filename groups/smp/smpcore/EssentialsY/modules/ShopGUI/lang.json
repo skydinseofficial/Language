@@ -32,6 +32,11 @@
             "en_US": "&cWarning: &7This item contains additional NBT data! &7Use &e&n<|shop confirm>&7 to actually set the price for this item.",
             "de_DE": "&cAchtung: &7Das Item enthält zusätzliche NBT Daten! &7Nutze &e&n<|shop confirm>&7, um den Preis für dieses Item wirklich festzulegen."
         },
+        "MSG.info.confirmaction":
+        {
+            "en_US": "&7Please confirm this action with &e&n<|shop confirm>&7!",
+            "de_DE": "&7Bitte bestätige diese Aktion mit &e&n<|shop confirm>&7!"
+        },
         "MSG.success.worthset":
         {
             "en_US": "&7You have just set the price of &6[item] &7to &x&F&F&D&2&0&0[price]&7!",
