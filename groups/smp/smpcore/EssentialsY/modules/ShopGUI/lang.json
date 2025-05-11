@@ -207,6 +207,16 @@
             "en_US": "<#FF0F00>ɴᴏᴛ ᴇɴᴏᴜɢʜ ᴍᴏɴᴇʏ",
             "de_DE": "<#FF0F00>ɴɪᴄʜᴛ ɢᴇɴᴜɢ ɢᴇʟᴅ"
         },
+        "GUI.item.adjustprice":
+        {
+            "en_US": "&eAdjust Price",
+            "de_DE": "&ePreis anpassen"
+        },
+        "GUI.item.adjustprice.lore":
+        {
+            "en_US": "<#FFD84E>Adjust &7the <#FFD84E>price &7of this <#FFD84E>item&7.",
+            "de_DE": "<#FFD84E>Passe &7den <#FFD84E>Preis &7dieses Items <#FFD84E>an&7."
+        },
         "GUI.clickaction.create":
         {
             "en_US": "&8» <#F9BD31>Click to create",
@@ -231,6 +241,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to delete",
             "de_DE": "&8» <#F9BD31>Klicke zum Löschen"
+        },
+        "GUI.clickaction.adjust":
+        {
+            "en_US": "&8» <#F9BD31>Click to adjust",
+            "de_DE": "&8» <#F9BD31>Klicke zum Anpassen"
         }
     }
 }
