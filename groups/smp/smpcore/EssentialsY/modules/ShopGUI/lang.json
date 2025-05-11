@@ -177,6 +177,16 @@
             "en_US": "&7Hold the <#FFD84E>item &7you want to add in\n&7your <#FFD84E>hand &7while you write the\n<#FFD84E>price &7in the <#FFD84E>chat&7.",
             "de_DE": "&7Halte das <#FFD84E>Item&7, welches du hinzufügen\n&7möchtest, in deiner <#FFD84E>Hand&7, während du den\n<#FFD84E>Preis &7in den <#FFD84E>Chat &7schreibst."
         },
+        "GUI.item.delete":
+        {
+            "en_US": "&4Delete Item",
+            "de_DE": "&4Item löschen"
+        },
+        "GUI.item.delete.lore":
+        {
+            "en_US": "&7Delete the <#FFD84E>item <#FF0000>irrevocably&7.",
+            "de_DE": "&7Lösche das <#FFD84E>Item <#FF0000>unwiderruflich&7."
+        },
         "GUI.clickaction.create":
         {
             "en_US": "&8» <#F9BD31>Click to create",
