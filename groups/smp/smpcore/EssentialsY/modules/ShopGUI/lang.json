@@ -62,6 +62,11 @@
             "en_US": "&cThere is no translation for the category yet!",
             "de_DE": "&cEs existiert noch keine Übersetzung für die Kategorie!"
         },
+        "MSG.success.categorydeleted":
+        {
+            "en_US": "&7The category and its content have been deleted.",
+            "de_DE": "&7Die Kategorie und dessen Inhalt wurde gelöscht."
+        },
         "MSG.chatinput.timeisup":
         {
             "en_US": "&cTime is up. Try it again.",
