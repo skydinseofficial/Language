@@ -184,8 +184,8 @@
         },
         "GUI.category.item.lore.editor":
         {
-            "en_US": "&7Created by: [created_by]\n&7Time of creation: &x&F&F&D&2&0&0[created_at]",
-            "de_DE": "&7Erstellt von: [created_by]\n&7Zeit der Erstellung: &x&F&F&D&2&0&0[created_at]"
+            "en_US": "&7Minimum Price (Recommended): &x&F&F&D&2&0&0[minimum]\n&7Underlying Worth: &x&F&F&D&2&0&0[worth]\n\n&7Created by: [created_by]\n&7Time of creation: &x&F&F&D&2&0&0[created_at]",
+            "de_DE": "&7Mindestpreis (Empfohlen): &x&F&F&D&2&0&0[minimum]\n&7Basiswert: &x&F&F&D&2&0&0[worth]\n\n&7Erstellt von: [created_by]\n&7Zeit der Erstellung: &x&F&F&D&2&0&0[created_at]"
         },
         "GUI.category.item.lore.editor.modified":
         {
