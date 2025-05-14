@@ -232,6 +232,11 @@
             "en_US": "<#FF0F00>ɴᴏᴛ ᴇɴᴏᴜɢʜ ᴍᴏɴᴇʏ",
             "de_DE": "<#FF0F00>ɴɪᴄʜᴛ ɢᴇɴᴜɢ ɢᴇʟᴅ"
         },
+        "GUI.item.buy.lore.nospace":
+        {
+            "en_US": "<#FF0F00>ɴᴏᴛ ᴇɴᴏᴜɢʜ sᴘᴀᴄᴇ",
+            "de_DE": "<#FF0F00>ɴɪᴄʜᴛ ɢᴇɴᴜɢ ᴘʟᴀᴛᴢ"
+        },
         "GUI.item.adjustprice":
         {
             "en_US": "&eAdjust Price",
