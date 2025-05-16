@@ -461,6 +461,16 @@
         {
             "en_US": "[player] <#FFD84E>voted &7for the server and received a <#FFD84E>reward&7! &8[&x&F&F&D&2&0&0&n<|vote>&8]",
             "de_DE": "[player] &7hat für den Server <#FFD84E>abgestimmt &7und eine <#FFD84E>Belohnung &7erhalten! &8[&x&F&F&D&2&0&0&n<|vote>&8]"
+        },
+        "BOOSTER.broadcast.activated":
+        {
+            "en_US": "[player]&7 throws a &x&6&D&F&F&0&0[booster]&7 into the round!",
+            "de_DE": "[player]&7 wirft einen &x&6&D&F&F&0&0[booster]&7 in die Runde!"
+        },
+        "BOOSTER.type.sell":
+        {
+            "en_US": "&x&F&F&D&2&0&0Sell-Booster",
+            "de_DE": "&x&F&F&D&2&0&0Sell-Booster"
         }
     }
 }
