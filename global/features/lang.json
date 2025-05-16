@@ -467,6 +467,16 @@
             "en_US": "[player]&7 throws a &x&6&D&F&F&0&0[booster]&7 into the round!",
             "de_DE": "[player]&7 wirft einen &x&6&D&F&F&0&0[booster]&7 in die Runde!"
         },
+        "BOOSTER.broadcast.activated.maxboost.1":
+        {
+            "en_US": "&x&F&F&0&0&6&E&lThat's INSANE!&7 The [booster]&7 is now running at &x&0&0&F&F&6&E&nmaximum level&7! &8(&x&6&D&F&F&0&0[percentage]&8)",
+            "de_DE": "&x&F&F&0&0&6&E&lDer HAMMER!&7 Der [booster]&7 läuft nun auf &x&0&0&F&F&6&E&nmaximaler Stufe&7! &8(&x&6&D&F&F&0&0[percentage]&8)"
+        },
+        "BOOSTER.broadcast.activated.maxboost.2":
+        {
+            "en_US": "&7A huge &x&F&F&D&8&4&Ethank you &7to [players]&7!",
+            "de_DE": "&7Ein riesen &x&F&F&D&8&4&EDankeschön &7an [players]&7!"
+        },
         "BOOSTER.type.sell":
         {
             "en_US": "&x&F&F&D&2&0&0Sell-Booster",
