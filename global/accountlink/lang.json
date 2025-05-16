@@ -85,21 +85,21 @@
         },
         "LINK_secret_already_generated":
         {
-            "en_US": "&7Your code has already been generated (<#F7E617><$VAR1>&7)! Use the command &e</link code:VAR1> &7in any channel on our Discord server!",
-            "de_DE": "&7Dein Code wurde bereits generiert (<#F7E617><$VAR1>&7)! Benutze den Befehl &e</link code:VAR1> &7in einem beliebigen Kanal auf unserem Discord-Server!",
-            "pt_BR": "&7Seu código já foi gerado (<#F7E617><$VAR1>&7)! Use o comando &e</link code:VAR1> &7em qualquer canal do nosso servidor Discord!",
-            "es_ES": "&7¡Tu código ya ha sido generado (<#F7E617><$VAR1>&7)! Usa el comando &e</link code:VAR1> &7en cualquier canal de nuestro servidor de Discord.",
-            "fr_FR": "&7Votre code a déjà été généré (<#F7E617><$VAR1>&7) ! Utilisez la commande &e</link code:VAR1> &7dans n'importe quel canal de notre serveur Discord !",
-            "tr_TR": "&7Kodunuz zaten oluşturuldu (<#F7E617><$VAR1>&7)! Kodunuzu kullanmak için &e</link code:VAR1> &7komutunu Discord sunucumuzdaki herhangi bir kanalda kullanın!"
+            "en_US": "&7Your code has already been generated (<#F7E617>VAR1&7)! Use the command &e</link code:VAR1> &7in any channel on our Discord server!",
+            "de_DE": "&7Dein Code wurde bereits generiert (<#F7E617>VAR1&7)! Benutze den Befehl &e</link code:VAR1> &7in einem beliebigen Kanal auf unserem Discord-Server!",
+            "pt_BR": "&7Seu código já foi gerado (<#F7E617>VAR1&7)! Use o comando &e</link code:VAR1> &7em qualquer canal do nosso servidor Discord!",
+            "es_ES": "&7¡Tu código ya ha sido generado (<#F7E617>VAR1&7)! Usa el comando &e</link code:VAR1> &7en cualquier canal de nuestro servidor de Discord.",
+            "fr_FR": "&7Votre code a déjà été généré (<#F7E617>VAR1&7) ! Utilisez la commande &e</link code:VAR1> &7dans n'importe quel canal de notre serveur Discord !",
+            "tr_TR": "&7Kodunuz zaten oluşturuldu (<#F7E617>VAR1&7)! Kodunuzu kullanmak için &e</link code:VAR1> &7komutunu Discord sunucumuzdaki herhangi bir kanalda kullanın!"
         },
         "LINK_secret_newly_generated":
         {
-            "en_US": "&aYour code has successfully been generated (<#F7E617><$VAR1>&a)! &7Use the command &e</link code:VAR1> &7in any channel on our Discord server to link your accounts!",
-            "de_DE": "&aDein Code wurde erfolgreich generiert (<#F7E617><$VAR1>&a)! &7Benutze den Befehl &e</link code:VAR1> &7in einem beliebigen Kanal auf unserem Discord-Server, um deine Accounts zu verknüpfen!",
-            "pt_BR": "&aSeu código foi gerado com sucesso (<#F7E617><$VAR1>&a)! &7Use o comando &e</link code:VAR1> &7em qualquer canal do nosso servidor Discord para vincular suas contas!",
-            "es_ES": "&a¡Tu código ha sido generado con éxito (<#F7E617><$VAR1>&a)! &7Usa el comando &e</link code:VAR1> &7en cualquier canal de nuestro servidor de Discord para vincular tus cuentas.",
-            "fr_FR": "&aVotre code a été généré avec succès (<#F7E617><$VAR1>&a) ! &7Utilisez la commande &e</link code:VAR1> &7dans n'importe quel canal de notre serveur Discord pour lier vos comptes !",
-            "tr_TR": "&aKodunuz başarıyla oluşturuldu (<#F7E617><$VAR1>&a)! &7Hesaplarınızı bağlamak için &e</link code:VAR1> &7komutunu Discord sunucumuzdaki herhangi bir kanalda kullanın!",
+            "en_US": "&aYour code has successfully been generated (<#F7E617>VAR1&a)! &7Use the command &e</link code:VAR1> &7in any channel on our Discord server to link your accounts!",
+            "de_DE": "&aDein Code wurde erfolgreich generiert (<#F7E617>VAR1&a)! &7Benutze den Befehl &e</link code:VAR1> &7in einem beliebigen Kanal auf unserem Discord-Server, um deine Accounts zu verknüpfen!",
+            "pt_BR": "&aSeu código foi gerado com sucesso (<#F7E617>VAR1&a)! &7Use o comando &e</link code:VAR1> &7em qualquer canal do nosso servidor Discord para vincular suas contas!",
+            "es_ES": "&a¡Tu código ha sido generado con éxito (<#F7E617>VAR1&a)! &7Usa el comando &e</link code:VAR1> &7en cualquier canal de nuestro servidor de Discord para vincular tus cuentas.",
+            "fr_FR": "&aVotre code a été généré avec succès (<#F7E617>VAR1&a) ! &7Utilisez la commande &e</link code:VAR1> &7dans n'importe quel canal de notre serveur Discord pour lier vos comptes !",
+            "tr_TR": "&aKodunuz başarıyla oluşturuldu (<#F7E617>VAR1&a)! &7Hesaplarınızı bağlamak için &e</link code:VAR1> &7komutunu Discord sunucumuzdaki herhangi bir kanalda kullanın!",
         },
         "LINK_connection_success_normal":
         {
