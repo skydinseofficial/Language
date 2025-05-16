@@ -286,9 +286,9 @@
         },
         "SCOREBOARD.playtime.time_format":
         {
-            "en_US": "[time]h",
+            "en_US": "[time] h",
             "de_DE": "[time] Std.",
-            "pt_BR": "[time]h",
+            "pt_BR": "[time] h",
             "tr_TR": "[time] saat",
             "ko_KR": "[time]시간"
         },
