@@ -467,6 +467,11 @@
             "en_US": "[player]&7 throws a &x&6&D&F&F&0&0[booster]&7 into the round!",
             "de_DE": "[player]&7 wirft einen &x&6&D&F&F&0&0[booster]&7 in die Runde!"
         },
+        "BOOSTER.broadcast.activated.currently":
+        {
+            "en_US": "&7The [booster]&7 now totals &x&6&D&F&F&0&0[percentage]&7.",
+            "de_DE": "&7Der [booster]&7 beträgt nun insgesamt &x&6&D&F&F&0&0[percentage]&7."
+        },
         "BOOSTER.broadcast.activated.maxboost.1":
         {
             "en_US": "&x&F&F&0&0&6&E&lThat's INSANE!&7 The [booster]&7 is now running at &x&0&0&F&F&6&E&nmaximum level&7! &8(&x&6&D&F&F&0&0[percentage]&8)",
