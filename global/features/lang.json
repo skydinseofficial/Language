@@ -509,8 +509,8 @@
         },
         "BOOSTER.gui.type.lore.buy":
         {
-            "en_US": "&x&0&0&C&9&4&0&lActivate Booster:\n&7Effect: &x&6&D&F&F&0&0+[percentage]\n&7Duration: &x&6&D&F&F&0&0[duration]\n&7Costs: &x&6&D&F&F&0&0[blooms]",
-            "de_DE": "&x&0&0&C&9&4&0&lBooster aktivieren:\n&7Wirkung: &x&6&D&F&F&0&0+[percentage]\n&7Dauer: &x&6&D&F&F&0&0[duration]\n&7Kosten: &x&6&D&F&F&0&0[blooms]"
+            "en_US": "&x&0&0&C&9&4&0&lActivate Booster:\n&7Effect: &x&6&D&F&F&0&0+[percentage]\n&7Duration: &x&F&F&D&2&0&0[duration]\n&7Costs: &x&F&F&D&2&0&0[blooms]",
+            "de_DE": "&x&0&0&C&9&4&0&lBooster aktivieren:\n&7Wirkung: &x&6&D&F&F&0&0+[percentage]\n&7Dauer: &x&F&F&D&2&0&0[duration]\n&7Kosten: &x&F&F&D&2&0&0[blooms]"
         },
         "BOOSTER.gui.type.lore.max":
         {
