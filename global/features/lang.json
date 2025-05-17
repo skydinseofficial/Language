@@ -486,6 +486,51 @@
         {
             "en_US": "&x&F&F&D&2&0&0Sell-Booster",
             "de_DE": "&x&F&F&D&2&0&0Sell-Booster"
+        },
+        "BOOSTER.gui.type.lore":
+        {
+            "en_US": "&7Status: [status]",
+            "de_DE": "&7Status: [status]"
+        },
+        "BOOSTER.gui.type.lore.status.inactive":
+        {
+            "en_US": "&x&F&F&4&0&4&0ɪɴᴀᴄᴛɪᴠᴇ",
+            "de_DE": "&x&F&F&4&0&4&0ɪɴᴀᴋᴛɪᴠ"
+        },
+        "BOOSTER.gui.type.lore.status.active":
+        {
+            "en_US": "&x&0&A&F&A&0&Aᴀᴄᴛɪᴠᴇ",
+            "de_DE": "&x&0&A&F&A&0&Aᴀᴋᴛɪᴠ"
+        },
+        "BOOSTER.gui.type.lore.active":
+        {
+            "en_US": "&7Current Strength: &x&6&D&F&F&0&0[currenteffect]",
+            "de_DE": "&7Aktuelle Stärke: &x&6&D&F&F&0&0[currenteffect]"
+        },
+        "BOOSTER.gui.type.lore.buy":
+        {
+            "en_US": "&x&0&0&C&9&4&0&lActivate Booster:\n&7Effect: &x&6&D&F&F&0&0+[percentage]\n&7Duration: &x&6&D&F&F&0&0[duration]\n&7Costs: &x&6&D&F&F&0&0[blooms]",
+            "de_DE": "&x&0&0&C&9&4&0&lBooster aktivieren:\n&7Wirkung: &x&6&D&F&F&0&0+[percentage]\n&7Dauer: &x&6&D&F&F&0&0[duration]\n&7Kosten: &x&6&D&F&F&0&0[blooms]"
+        },
+        "BOOSTER.gui.type.lore.max":
+        {
+            "en_US": "&7The booster has already reached\n&7the limit!",
+            "de_DE": "&7Der Booster hat bereits das Limit\n&7erreicht!"
+        },
+        "BOOSTER.gui.type.lore.boostersdisabled":
+        {
+            "en_US": "&cNo additional boosters can currently\n&cbe purchased.",
+            "de_DE": "&cEs können derzeit keine weiteren\n&cBooster gekauft werden."
+        },
+        "BOOSTER.gui.type.lore.activatedimmediately":
+        {
+            "en_US": "&x&E&5&E&5&E&5&oThe booster is activated immediately\n&x&E&5&E&5&E&5&oafter purchase.",
+            "de_DE": "&x&E&5&E&5&E&5&oDer Booster wird nach Kauf sofort\n&x&E&5&E&5&E&5&oaktiviert."
+        },
+        "BOOSTER.gui.clickaction.buy":
+        {
+            "en_US": "&8» <#F9BD31>Click to buy",
+            "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
         }
     }
 }
