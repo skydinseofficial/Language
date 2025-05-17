@@ -504,8 +504,8 @@
         },
         "BOOSTER.gui.title":
         {
-            "en_US": "&7Current Strength: &x&6&D&F&F&0&0[currenteffect] &8(&7Max.: [max]&8)",
-            "de_DE": "&7Aktuelle Stärke: &x&6&D&F&F&0&0[currenteffect] &8(&7Max.: [max]&8)"
+            "en_US": "Activate Booster",
+            "de_DE": "Booster aktivieren"
         },
         "BOOSTER.gui.type.lore.active":
         {
