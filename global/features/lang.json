@@ -482,6 +482,11 @@
             "en_US": "&7A huge &x&F&F&D&8&4&Ethank you &7to [players]&7!",
             "de_DE": "&7Ein riesen &x&F&F&D&8&4&EDankeschön &7an [players]&7!"
         },
+        "BOOSTER.msg.notenoughblooms":
+        {
+            "en_US": "&cYou don't have enough blooms.",
+            "de_DE": "&cDu hast nicht genügend Blüten."
+        },
         "BOOSTER.type.sell":
         {
             "en_US": "&x&F&F&D&2&0&0Sell-Booster",
