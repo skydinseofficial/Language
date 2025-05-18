@@ -487,6 +487,11 @@
             "en_US": "&cYou don't have enough blooms.",
             "de_DE": "&cDu hast nicht genügend Blüten."
         },
+        "BOOSTER.msg.maximumreached":
+        {
+            "en_US": "&cThe booster is already at its maximum!",
+            "de_DE": "&cDer Booster ist bereits beim Maximum!"
+        },
         "BOOSTER.type.sell":
         {
             "en_US": "&x&F&F&D&2&0&0Sell-Booster",
