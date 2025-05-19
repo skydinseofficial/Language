@@ -99,8 +99,13 @@
         },
         "REWARD.msg.minigamerewards":
         {
-            "en_US": "&x&0&0&9&4&F&F&nMinigame Reward: &7You have received &x&F&F&D&2&0&0[tokens] tokens&7!",
-            "de_DE": "&x&0&0&9&4&F&F&nMinigame-Belohnung: &7Du hast &x&F&F&D&2&0&0[tokens] Tokens &7erhalten!"
+            "en_US": "&x&0&0&9&4&F&F&nMinigame Reward: &7You have received &x&F&F&D&2&0&0[reward]&7!",
+            "de_DE": "&x&0&0&9&4&F&F&nMinigame-Belohnung: &7Du hast &x&F&F&D&2&0&0[reward] &7erhalten!"
+        },
+        "REWARD.subtitle.minigamerewards":
+        {
+            "en_US": "&x&0&0&9&4&F&FMinigame Reward",
+            "de_DE": "&x&0&0&9&4&F&FMinigame-Belohnung"
         }
     }
 }
