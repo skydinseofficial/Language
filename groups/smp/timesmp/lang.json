@@ -96,6 +96,11 @@
         {
             "en_US": "&7Time stops, every 2 minutes +1 token",
             "de_DE": "&7Zeit bleibt stehen, alle 2 Minuten +1 Token"
+        },
+        "REWARD.msg.minigamerewards":
+        {
+            "en_US": "&x&0&0&9&4&F&F&nMinigame Reward: &7You have received &x&F&F&D&2&0&0[tokens] tokens&7!",
+            "de_DE": "&x&0&0&9&4&F&F&nMinigame-Belohnung: &7Du hast &x&F&F&D&2&0&0[tokens] Tokens &7erhalten!"
         }
     }
 }
