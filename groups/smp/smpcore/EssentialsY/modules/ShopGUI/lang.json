@@ -162,6 +162,36 @@
             "en_US": "&6Food",
             "de_DE": "&6Essen"
         },
+        "GUI.main.category.name.blocks":
+        {
+            "en_US": "&6Blocks",
+            "de_DE": "&6Blöcke"
+        },
+        "GUI.main.category.name.cpvp":
+        {
+            "en_US": "&6Crystal PvP",
+            "de_DE": "&6Crystal PvP"
+        },
+        "GUI.main.category.name.decoration":
+        {
+            "en_US": "&6Decoration",
+            "de_DE": "&6Dekoration"
+        },
+        "GUI.main.category.name.end":
+        {
+            "en_US": "&6End",
+            "de_DE": "&6End"
+        },
+        "GUI.main.category.name.gear":
+        {
+            "en_US": "&6Gear",
+            "de_DE": "&6Ausrüstung"
+        },
+        "GUI.main.category.name.onlyforbeta":
+        {
+            "en_US": "&6Only for Beta",
+            "de_DE": "&6Nur für die Beta"
+        },
         "GUI.main.createcategory":
         {
             "en_US": "&aCreate a Category",
