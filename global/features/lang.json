@@ -546,6 +546,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to buy",
             "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "SMRB.msg.validreward":
+        {
+            "en_US": "&7To <#FFD84E>receive &7your <#FFD84E>reward &7on &6[smp] &7you must <#FFD84E>return to spawn&7. But you can also <#FFD84E>continue playing&7!",
+            "de_DE": "&7Um deine <#FFD84E>Belohnung &7auf &6[smp] &7zu <#FFD84E>erhalten&7, musst du <#FFD84E>zurück zum Spawn&7. Du kannst aber auch erst noch <#FFD84E>weiterspielen&7!"
         }
     }
 }
