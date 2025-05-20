@@ -64,8 +64,8 @@
         },
         "HOLO.earntokens":
         {
-            "en_US": "&7Join a &fDuels queue &7or play &fother\n&fminigames &7to earn &ftokens quickly&7!",
-            "de_DE": "&7Tritt einer &fDuels Warteschlange &7bei oder\n&7spiele &fandere Minigames&7, um &fschnell an\n&fTokens &7zu gelangen!"
+            "en_US": "&7Join a &fDuels queue &7or play &fother\n&fminigames &7to earn &ftokens &7and &fblooms quickly&7!",
+            "de_DE": "&7Tritt einer &fDuels Warteschlange &7bei oder\n&7spiele &fandere Minigames&7, um &fschnell an\n&fTokens &7und &fBlüten &7zu gelangen!"
         },
         "HOLO.auctionhouse":
         {
