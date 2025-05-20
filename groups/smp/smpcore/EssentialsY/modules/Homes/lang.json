@@ -28,8 +28,18 @@
         },
         "GUI.main.createhome.lore":
         {
-            "en_US": "&7You can create &x&F&F&D&2&0&0[amount] &7more &x&F&F&D&2&0&0homes&7.",
-            "de_DE": "&7Du kannst noch &x&F&F&D&2&0&0[amount] Homes &7erstellen."
+            "en_US": "&7You can create &x&F&F&D&2&0&0[amount] &7more &x&F&F&D&2&0&0[word]&7.",
+            "de_DE": "&7Du kannst noch &x&F&F&D&2&0&0[amount] [word] &7erstellen."
+        },
+        "GUI.main.createhome.lore.word.home":
+        {
+            "en_US": "home",
+            "de_DE": "Home"
+        },
+        "GUI.main.createhome.lore.word.homes":
+        {
+            "en_US": "homes",
+            "de_DE": "Homes"
         },
         "GUI.main.createhome.lore.higherrankneeded":
         {
