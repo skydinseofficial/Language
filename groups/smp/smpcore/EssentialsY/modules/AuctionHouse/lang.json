@@ -37,6 +37,11 @@
             "en_US": "&cYou must have the item you want to sell in your hand.",
             "de_DE": "&cDu musst das Item, welches du verkaufen möchtest, in der Hand halten."
         },
+        "MSG.error.pricelimit":
+        {
+            "en_US": "&cThis price is too high. It's utopian!",
+            "de_DE": "&cDieser Preis ist zu hoch. Das ist ja utopisch!"
+        },
         "MSG.info.commandusage":
         {
             "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
