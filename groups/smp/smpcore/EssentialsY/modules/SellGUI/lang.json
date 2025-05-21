@@ -146,6 +146,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to update",
             "de_DE": "&8» <#F9BD31>Klicke zum Aktualisieren"
+        },
+        "SELLWAND.msg.noitemstosell":
+        {
+            "en_US": "&cThis chest has no items to sell!",
+            "de_DE": "&cDiese Truhe hat keine Items zum Verkaufen!"
         }
     }
 }
