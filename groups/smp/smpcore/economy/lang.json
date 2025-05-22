@@ -44,8 +44,8 @@
         },
         "cmd.timebanduration.unbantime":
         {
-            "en_US": "[player]&7 can play again on &x&R&R&E&8&0&0[timestamp]&7.",
-            "de_DE": "[player]&7 kann am &x&R&R&E&8&0&0[timestamp] &7wieder spielen."
+            "en_US": "[player]&7 can play again on &x&F&F&E&8&0&0[timestamp]&7.",
+            "de_DE": "[player]&7 kann am &x&F&F&E&8&0&0[timestamp] &7wieder spielen."
         },
         "cmd.pay.cantpayyourself":
         {
