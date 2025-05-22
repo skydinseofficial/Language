@@ -42,6 +42,11 @@
             "en_US": "&cThis player is not online!",
             "de_DE": "&cDieser Spieler ist nicht online!"
         },
+        "cmd.pay.playernotregistered":
+        {
+            "en_US": "&cThis player is not registered!",
+            "de_DE": "&cDieser Spieler ist nicht registriert!"
+        },
         "cmd.pay.invalidnumber":
         {
             "en_US": "&cThe number you entered is invalid!",
