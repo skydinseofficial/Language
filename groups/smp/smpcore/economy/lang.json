@@ -32,6 +32,21 @@
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
         },
+        "cmd.timebanduration.playernotbanned":
+        {
+            "en_US": "&cThat player is not banned.",
+            "de_DE": "&cDieser Spieler ist nicht gebannt."
+        },
+        "cmd.timebanduration.updatedduration":
+        {
+            "en_US": "&7The game timeout of [target]&7 was just set to &x&R&R&E&8&0&0[duration] &7by [player]&7.",
+            "de_DE": "&7Die Auszeit von [target]&7 wurde soeben von [player]&7 auf &x&F&F&E&8&0&0[duration] &7gesetzt."
+        },
+        "cmd.timebanduration.unbantime":
+        {
+            "en_US": "[player]&7 can play again on &x&R&R&E&8&0&0[timestamp]&7.",
+            "de_DE": "[player]&7 kann am &x&R&R&E&8&0&0[timestamp] &7wieder spielen."
+        },
         "cmd.pay.cantpayyourself":
         {
             "en_US": "&cYou can't pay yourself!",
