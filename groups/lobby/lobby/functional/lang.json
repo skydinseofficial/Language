@@ -229,6 +229,21 @@
         {
             "en_US": "&7You can also use &x&F&F&D&2&0&0<|freeme> &7for [blooms] &7to immediately &x&4&C&F&&F&0&0unlock again!",
             "de_DE": "&7Du kannst dich aber auch mit &x&F&F&D&2&0&0<|freeme> &7für [blooms] &7sofort wieder &x&4&C&F&F&0&0freischalten &7lassen!"
+        },
+        "MAINPORTALS.game.timesmp.msg.notenoughblooms.1":
+        {
+            "en_US": "&cYou don't have enough blooms.",
+            "de_DE": "&cDu hast nicht genügend Blüten."
+        },
+        "MAINPORTALS.game.timesmp.msg.notenoughblooms.2":
+        {
+            "en_US": "&7You can &x&F&F&D&8&4&Eget blooms &7by &x&F&F&D&8&4&Eplaying mini games &7like &x&F&F&D&8&4&EBlockParty &7or &x&F&F&D&8&4&EDuels&7.",
+            "de_DE": "&x&F&F&D&8&4&EBlüten &7erhältst du unter anderem, indem du &x&F&F&D&8&4&EMinigames &7wie &x&F&F&D&8&4&EBlockParty &7oder &x&F&F&D&8&4&EDuels &7spielst."
+        },
+        "MAINPORTALS.game.timesmp.msg.unlocked":
+        {
+            "en_US": "&7You have successfully &aunlocked&7! You can now play again.",
+            "de_DE": "&7Du hast dich erfolgreich &afreigeschaltet&7! Du kannst nun wieder spielen."
         }
     }
 }
