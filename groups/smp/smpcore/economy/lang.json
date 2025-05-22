@@ -32,6 +32,11 @@
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
         },
+        "timeban.broadcast":
+        {
+            "en_US": "&7[player]&7's time has &x&F&F&0&0&0&0expired&7... Say goodbye!",
+            "de_DE": "&7Die Zeit von [player] &7ist &x&F&F&0&0&0&0abgelaufen&7... Sagt auf Wiedersehen!"
+        },
         "timeban.yourtimeexpired.1":
         {
             "en_US": "&x&F&F&0&0&0&0&nYour time is up!",
