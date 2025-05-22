@@ -32,6 +32,21 @@
             "en_US": "&cAn error occurred, please try again.",
             "de_DE": "&cEin Fehler ist aufgetreten, bitte versuche es erneut."
         },
+        "timeban.yourtimeexpired.1":
+        {
+            "en_US": "&x&F&F&0&0&0&0&nYour time is up!",
+            "de_DE": "&x&F&F&0&0&0&0&nDeine Zeit ist abgelaufen!"
+        },
+        "timeban.yourtimeexpired.2":
+        {
+            "en_US": "&7Time to say goodbye.",
+            "de_DE": "&7Für dich heißt es nun: Abschied nehmen."
+        },
+        "timeban.yourtimeexpired.3":
+        {
+            "en_US": "&7You will be banned for &x&F&F&E&8&0&0[duration] &7and will be able to play again on &x&2&3&F&0&2&1[timestamp]&7.",
+            "de_DE": "&7Du wirst für &x&F&F&E&8&0&0[duration] &7gebannt und kannst somit am &x&2&3&F&0&2&1[timestamp] &7wieder spielen."
+        },
         "cmd.timebanduration.playernotbanned":
         {
             "en_US": "&cThat player is not banned.",
@@ -39,7 +54,7 @@
         },
         "cmd.timebanduration.updatedduration":
         {
-            "en_US": "&7The game timeout of [target]&7 was just set to &x&R&R&E&8&0&0[duration] &7by [player]&7.",
+            "en_US": "&7The game timeout of [target]&7 was just set to &x&F&F&E&8&0&0[duration] &7by [player]&7.",
             "de_DE": "&7Die Auszeit von [target]&7 wurde soeben von [player]&7 auf &x&F&F&E&8&0&0[duration] &7gesetzt."
         },
         "cmd.timebanduration.unbantime":
