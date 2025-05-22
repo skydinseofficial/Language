@@ -214,6 +214,21 @@
         {
             "en_US": "<##EDB0F1>You can see all <##D04BD9>rewards <##EDB0F1>at, [link]&r<##EDB0F1>!",
             "de_DE": "<##EDB0F1>Du findest alle <##D04BD9>Belohnungen <##EDB0F1>unter, [link]&r<##EDB0F1>!"
+        },
+        "MAINPORTALS.game.timesmp.msg.stillbanned.1":
+        {
+            "en_US": "&x&F&F&0&0&0&0You are still banned!",
+            "de_DE": "&x&F&F&0&0&0&0Du bist noch gebannt!"
+        },
+        "MAINPORTALS.game.timesmp.msg.stillbanned.2":
+        {
+            "en_US": "&7Your time has expired, so you will have to wait for &x&F&F&D&2&0&0[duration]&7.",
+            "de_DE": "&7Deine Zeit war abgelaufen, daher musst du dich noch für &x&F&F&D&2&0&0[duration] &7gedulden."
+        },
+        "MAINPORTALS.game.timesmp.msg.stillbanned.2":
+        {
+            "en_US": "&7You can also use &x&F&F&D&2&0&0<|freeme> &7for [blooms] &7to immediately &x&4&C&F&&F&0&0unlock again!",
+            "de_DE": "&7Du kannst dich aber auch mit &x&F&F&D&2&0&0<|freeme> &7für [blooms] &7sofort wieder &x&4&C&F&F&0&0freischalten &7lassen!"
         }
     }
 }
