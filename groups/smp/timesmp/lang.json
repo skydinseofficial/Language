@@ -130,7 +130,7 @@
         "WELCOME.msg.desc.4":
         {
             "en_US": "&7Type &x&F&F&D&8&4&E<|tutorial> &7for help.",
-            "de_DE": "&7Beispiel: &x&F&2&F&2&F&2/pay <name> 14h 3m"
+            "de_DE": "&7Beispiel: &x&F&2&F&2&F&2/pay [player] 14h 3m"
         },
         "WELCOME.noboosters":
         {
