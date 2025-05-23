@@ -127,6 +127,11 @@
             "en_US": "&7Type &x&F&F&D&8&4&E<|tutorial> &7for help.",
             "de_DE": "&7Nutze &x&F&F&D&8&4&E<|tutorial> &7für Hilfe."
         },
+        "WELCOME.msg.desc.4":
+        {
+            "en_US": "&7Type &x&F&F&D&8&4&E<|tutorial> &7for help.",
+            "de_DE": "&7Beispiel: &x&F&2&F&2&F&2/pay <name> 14h 3m"
+        },
         "WELCOME.noboosters":
         {
             "en_US": "&x&F&F&0&E&0&5ɴᴏɴᴇ &7(&x&F&F&D&8&4&E<|booster>&7)",
