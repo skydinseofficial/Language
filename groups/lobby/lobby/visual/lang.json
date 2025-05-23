@@ -49,9 +49,9 @@
         },
         "MSG.joinbanner":
         {
-            "en_US": "[n]𝕸[n][n][n][n]                                        &6⭐ <##face05>[website][n]                                 &x&2&6&D&C&1&D⚗ &a[store][n]                              &9🛡 <##7289da>[discord][n][n]",
-            "de_DE": "[n]𝕸[n][n][n][n]                                        &6⭐ <##face05>[website][n]                                 &x&2&6&D&C&1&D⚗ &a[store][n]                              &9🛡 <##7289da>[discord][n][n]",
-            "tr_TR": "[n]𝕸[n][n][n][n]                                        &6⭐ <##face05>[website][n]                                 &x&2&6&D&C&1&D⚗ &a[store][n]                              &9🛡 <##7289da>[discord][n][n]"
+            "en_US": "[n]𝕸[n][n][n][n]                                             &6⭐ <##face05>[website][n]                                      &x&2&6&D&C&1&D⚗ &a[store][n]                                   &9🛡 <##7289da>[discord][n][n]",
+            "de_DE": "[n]𝕸[n][n][n][n]                                             &6⭐ <##face05>[website][n]                                      &x&2&6&D&C&1&D⚗ &a[store][n]                                   &9🛡 <##7289da>[discord][n][n]",
+            "tr_TR": "[n]𝕸[n][n][n][n]                                             &6⭐ <##face05>[website][n]                                      &x&2&6&D&C&1&D⚗ &a[store][n]                                   &9🛡 <##7289da>[discord][n][n]"
         }
     }
 }
