@@ -106,6 +106,31 @@
         {
             "en_US": "&x&0&0&9&4&F&FMinigame Reward",
             "de_DE": "&x&0&0&9&4&F&FMinigame-Belohnung"
+        },
+        "WELCOME.msg.title":
+        {
+            "en_US": "&x&F&F&D&2&0&0Welcome to the TimeSMP!",
+            "de_DE": "&x&F&F&D&2&0&0Herzlich willkommen auf dem TimeSMP!"
+        },
+        "WELCOME.msg.desc.1":
+        {
+            "en_US": "&7The rule here is: &x&F&F&D&8&4&ETime &7is &x&F&F&D&8&4&Emoney&7!",
+            "de_DE": "&7Hier gilt: &x&F&F&D&8&4&EZeit &7ist &x&F&F&D&8&4&EGeld&7!"
+        },
+        "WELCOME.msg.desc.2":
+        {
+            "en_US": "&7Current Boosters: [boosters]",
+            "de_DE": "&7Aktuelle Booster: [boosters]"
+        },
+        "WELCOME.msg.desc.3":
+        {
+            "en_US": "&7Type &x&F&F&D&8&4&E<|tutorial> &7for help.",
+            "de_DE": "&7Nutze &x&F&F&D&8&4&E<|tutorial> &7für Hilfe."
+        },
+        "WELCOME.noboosters":
+        {
+            "en_US": "&x&F&F&0&E&0&5ɴᴏɴᴇ",
+            "de_DE": "&x&F&F&0&E&0&5ᴋᴇɪɴᴇ"
         }
     }
 }
