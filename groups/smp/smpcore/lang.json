@@ -42,6 +42,11 @@
             "en_US": "Damage",
             "de_DE": "Schaden"
         },
+        "deathmessage.quitincombat":
+        {
+            "en_US": "[victim]&7 left the server during combat and &cdied &7thus &cimmediately&7.",
+            "de_DE": "[victim]&7 hat den Server während eines Kampfes verlassen und &cstarb &7somit &csofort&7."
+        },
         "deathmessage.attacker.1":
         {
             "en_US": "[victim]&7 was killed by [attacker]&7.",
