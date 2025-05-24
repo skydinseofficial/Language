@@ -157,6 +157,11 @@
             "en_US": "Random Teleport",
             "de_DE": "Random Teleport"
         },
+        "rtp.msg.noserver":
+        {
+            "en_US": "&cNo free server could be found. Please try again or report this error to the team.",
+            "de_DE": "&cEs konnte kein freier Server gefunden werden. Bitte versuche es erneut oder melde diesen Fehler beim Team."
+        },
         "cmd.back.teleportingyou":
         {
             "en_US": "&7You will be teleported to your last death location...",
