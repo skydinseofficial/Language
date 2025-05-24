@@ -456,6 +456,11 @@
         {
             "en_US": "&aYou have redeemed the rank!",
             "de_DE": "&aDu hast den Rang eingelöst!"
+        },
+        "moreitems.treecutter.nowholding":
+        {
+            "en_US": "&x&F&F&D&2&0&0Attention: &7You now hold the &x&F&F&D&8&4&ETree Cutter&7!",
+            "de_DE": "&x&F&F&D&2&0&0Achtung: &7Du hältst nun den &x&F&F&D&8&4&EBauminator&7!"
         }
     }
 }
