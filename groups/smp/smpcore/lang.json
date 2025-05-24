@@ -446,6 +446,16 @@
         {
             "en_US": "&cYou have &asuccessfully &7purchased 1x [trial]&7!",
             "de_DE": "&7Du hast &aerfolgreich &71x [trial] &7gekauft!"
+        },
+        "moreitems.rankreward.alreadyhigherrank":
+        {
+            "en_US": "&cYou already have a higher rank.",
+            "de_DE": "&cDu hast bereits einen höheren Rang."
+        },
+        "moreitems.rankreward.success":
+        {
+            "en_US": "&aYou have redeemed the rank!",
+            "de_DE": "&aDu hast den Rang eingelöst!"
         }
     }
 }
