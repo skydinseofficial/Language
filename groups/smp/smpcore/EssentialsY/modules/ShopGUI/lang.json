@@ -167,30 +167,30 @@
             "en_US": "&6Blocks",
             "de_DE": "&6Blöcke"
         },
-        "GUI.main.category.name.cpvp":
+        "GUI.main.category.name.pvp":
         {
-            "en_US": "&6Crystal PvP",
-            "de_DE": "&6Crystal PvP"
+            "en_US": "&6PvP",
+            "de_DE": "&6PvP"
         },
         "GUI.main.category.name.decoration":
         {
             "en_US": "&6Decoration",
             "de_DE": "&6Dekoration"
         },
-        "GUI.main.category.name.end":
+        "GUI.main.category.name.resources":
         {
-            "en_US": "&6End",
-            "de_DE": "&6End"
+            "en_US": "&6Ressources",
+            "de_DE": "&6Ressourcen"
         },
-        "GUI.main.category.name.gear":
+        "GUI.main.category.name.equipment":
         {
-            "en_US": "&6Gear",
+            "en_US": "&6Equipment",
             "de_DE": "&6Ausrüstung"
         },
-        "GUI.main.category.name.onlyforbeta":
+        "GUI.main.category.name.redstone":
         {
-            "en_US": "&6Only for Beta",
-            "de_DE": "&6Nur für die Beta"
+            "en_US": "&6Redstone",
+            "de_DE": "&6Redstone"
         },
         "GUI.main.createcategory":
         {
