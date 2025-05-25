@@ -159,8 +159,18 @@
         },
         "TUTORIAL.gui.time.lore":
         {
-            "en_US": "&7Imagine an &x&F&F&D&8&4&EEconomy SMP, &cbut&7:\n&7Here you don't &x&F&F&D&8&4&Epay &7with money, but\n&7with your &x&F&F&D&8&4&&remaining time&7! You can always view\n&7your remaining time &x&F&F&D&8&4&right &7on the &x&F&F&D&8&4&EScoreboard&7.\n\n&7When your &ctime runs out&7, you will be banned!\n&7(ban duration depending on rank)",
+            "en_US": "&7Imagine an &x&F&F&D&8&4&EEconomy SMP, &cbut&7:\n&7Here you don't &x&F&F&D&8&4&Epay &7with money, but\n&7with your &x&F&F&D&8&4&Eremaining time&7! You can always view\n&7your remaining time &x&F&F&D&8&4&Eright &7on the &x&F&F&D&8&4&EScoreboard&7.\n\n&7When your &ctime runs out&7, you will be banned!\n&7(ban duration depending on rank)",
             "de_DE": "&7Stell dir einen &x&F&F&D&8&4&EEconomy SMP &7vor, &caber&7:\n&7Hier &x&F&F&D&8&4&Ezahlst &7du nicht mit Geld, sondern mit\n&7deiner &x&F&F&D&8&4&Everbleibenden Zeit&7! Diese siehst du\n&7immer &x&F&F&D&8&4&Erechts &7im &x&F&F&D&8&4&EScoreboard&7.\n\n&7Wenn deine &cZeit abläuft&7, wirst du gebannt!\n&7(Banndauer je nach Rang)"
+        },
+        "TUTORIAL.gui.death":
+        {
+            "en_US": "&x&F&F&3&8&3&8☠ &x&F&F&0&0&0&0They're after you! &x&F&F&3&8&3&8☠",
+            "de_DE": "&x&F&F&3&8&3&8☠ &x&F&F&0&0&0&0Man ist hinter dir her! &x&F&F&3&8&3&8☠"
+        },
+        "TUTORIAL.gui.death.lore":
+        {
+            "en_US": "&7If you &x&F&F&D&8&4&Ekill&7 someone, you receive\n&7up to &x&F&F&D&8&4&E5% of their time&7.\n&7But this &calso applies&7 to &cyou&7!\n\n&7Additionally, you can collect the &x&F&F&D&8&4&Ebounty reward&7,\n&7but &conly&7 if you are &x&F&F&D&8&4&Eone of the bounty setters&7!\n&7Therefore, &x&F&F&D&8&4&Eit pays off&7 to set bounties on &x&F&F&D&8&4&Eas many\n&x&F&F&D&8&4&Eplayers &7as possible. (&f/bounty&7)",
+            "de_DE": "&7Wenn du jemanden &x&F&F&D&8&4&Ekillst&7, bekommst du\n&7bis zu &x&F&F&D&8&4&E5% seiner Zeit&7.\n&7Doch das &ctrifft &7auch auf &cdich &7zu!\n\n&7Zusätzlich kannst du das &x&F&F&D&8&4&EKopfgeld erhalten&7,\n&7aber &cnur&7, wenn du &x&F&F&D&8&4&Eeiner der Kopfgeldgeber &cbist&7!\n&7Daher &x&F&F&D&8&4&Elohnt es &7sich, bei möglichst &x&F&F&D&8&4&Evielen Spielern\n&7Kopfgeld zu setzen. (&f/bounty&7)"
         }
     }
 }
