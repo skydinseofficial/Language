@@ -190,7 +190,17 @@
         "TUTORIAL.gui.tokens.lore":
         {
             "en_US": "&x&F&F&D&8&4&EOptimize &7your &x&F&F&D&8&4&Eprogress &7with &x&F&F&C&6&0&0Tokens&7!\n&7Using these, you can obtain with the &x&F&2&F&2&F&2/trialtrader &7at &x&F&2&F&2&F&2/spawn\n&x&F&F&D&8&4&ETrials &7(aka loot boxes) that contain &x&F&F&D&8&4&EGear&7, rare items\n&7and &x&F&F&D&8&4&EGenerators&7.\n\n&7Sell items at the &x&F&2&F&2&F&2/auctionhouse&7!\n\n&x&F&F&C&6&0&0Tokens &7can be earned in the &x&F&F&D&8&4&EAFK area&7 or even\n&x&F&F&D&8&4&Efaster &7through &x&F&2&F&2&F&2/minigames&7, where you can also\n&7collect <#fb0026>B<#fb003e>l<#fc0056>o<#fc006e>o<#fd00b5>m<#fd00cd>s&7!",
-            "de_DE": "&x&F&F&D&8&4&EMaximiere &7deinen &x&F&F&D&8&4&EFortschritt &7durch &x&F&F&C&6&0&0Tokens&7!\n&7Durch diese erhältst du beim &x&F&2&F&2&F&2/trialtrader &7am &x&F&2&F&2&F&2/spawn\n&x&F&F&D&8&4&ETrials &7(aka. Lootboxen) aus denen du &x&F&F&D&8&4&EGear&7, seltenen Stuff\n&7und &x&F&F&D&8&4&EGeneratoren &7raus bekommst.\n\n&7Verkaufe Items auch beim &x&F&2&F&2&F&2/auktionshaus&7!\n\n&x&F&F&C&6&0&0Tokens &7bekommst du im &x&F&F&D&8&4&EAFK-Bereich &7oder noch\n&x&F&F&D&8&4&Eschneller &7bei den &x&F&2&F&2&F&2/minigames&7, dort bekommst\n&7du auch <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n!"
+            "de_DE": "&x&F&F&D&8&4&EMaximiere &7deinen &x&F&F&D&8&4&EFortschritt &7durch &x&F&F&C&6&0&0Tokens&7!\n&7Durch diese erhältst du beim &x&F&2&F&2&F&2/trialtrader &7am &x&F&2&F&2&F&2/spawn\n&x&F&F&D&8&4&ETrials &7(aka. Lootboxen) aus denen du &x&F&F&D&8&4&EGear&7, seltenen Stuff\n&7und &x&F&F&D&8&4&EGeneratoren &7raus bekommst.\n\n&7Verkaufe Items auch beim &x&F&2&F&2&F&2/auktionshaus&7!\n\n&x&F&F&C&6&0&0Tokens &7bekommst du im &x&F&F&D&8&4&EAFK-Bereich &7oder noch\n&x&F&F&D&8&4&Eschneller &7bei den &x&F&2&F&2&F&2/minigames&7, dort bekommst\n&7du auch <#fb0026>B<#fb0047>l<#fc0069>ü<#fc008a>t<#fd00ac>e<#fd00cd>n&7!"
+        },
+        "TUTORIAL.gui.faction":
+        {
+            "en_US": "&x&8&9&9&7&F&F🛡 &x&0&0&B&6&F&FStart a faction! &x&8&9&9&7&F&F🛡",
+            "de_DE": "&x&8&9&9&7&F&F🛡 &x&0&0&B&6&F&FGründe eine Fraktion! &x&8&9&9&7&F&F🛡"
+        },
+        "TUTORIAL.gui.faction.lore":
+        {
+            "en_US": "&7Create a &x&F&2&F&2&F&2/faction &7or join an\n&7existing one and unite to\n&7form a &x&F&F&D&8&4&Estrong team&7.\n\n&7Build &x&F&F&D&8&4&Eefficient farms&7 to become the &x&F&F&D&8&4&Erichest&7\n&7and &x&F&F&D&8&4&Elive forever&7!\n\n&7In the &x&F&F&D&8&4&EFFA area&7, to the left\n&7and right of the &x&F&F&D&8&4&ESpawn&7, you can quickly\n&7gain time and, most importantly, &x&F&F&D&8&4&Eloot&7.",
+            "de_DE": "&7Gründe eine &x&F&2&F&2&F&2/fraktion &7oder tritt einer\n&7bestehenden bei und schließe dich zusammen, um\n&7ein &x&F&F&D&8&4&Estarkes Team &7zu bilden.\n\n&7Baut &x&F&F&D&8&4&Eeffiziente Farmen&7, um die &x&F&F&D&8&4&EReichsten &7zu\n&7werden und &x&F&F&D&8&4&Efür immer zu leben&7!\n\n&7Auch im &x&F&F&D&8&4&EFFA-Bereich &7links und rechts am &x&F&F&D&8&4&ESpawn &7kann man schnell an Zeit und vor allem &x&F&F&D&8&4&ELoot &7kommen."
         }
     }
 }
