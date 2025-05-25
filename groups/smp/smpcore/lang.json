@@ -287,6 +287,16 @@
             "en_US": "&7You gained [amount] [currencyicon]&7!",
             "de_DE": "&7Du hast [amount] [currencyicon] &7erhalten!"
         },
+        "combat.notincombat.1":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lATTENTION: &7You are now in &cCombat Mode&7!",
+            "de_DE": "&x&F&F&0&0&0&0&lACHTUNG: &7Du befindest dich nun im &cKampfmodus&7!"
+        },
+        "combat.notincombat.2":
+        {
+            "en_US": "&7Leaving the server will result in death while in combat mode.",
+            "de_DE": "&7Das verlassen des Servers führt zum Tod, solange du dich im Kampfmodus befindest."
+        },
         "trials.nopermission":
         {
             "en_US": "&cYou don't have the permission for this.",
