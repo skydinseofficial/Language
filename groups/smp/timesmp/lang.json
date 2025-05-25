@@ -136,6 +136,11 @@
         {
             "en_US": "&x&F&F&0&E&0&5ɴᴏɴᴇ &7(&x&F&F&D&8&4&E<|booster>&7)",
             "de_DE": "&x&F&F&0&E&0&5ᴋᴇɪɴᴇ &7(&x&F&F&D&8&4&E<|booster>&7)"
+        },
+        "TUTORIAL.gui.title":
+        {
+            "en_US": "How do I play Time SMP?",
+            "de_DE": "Wie spiele ich Time SMP?"
         }
     }
 }
