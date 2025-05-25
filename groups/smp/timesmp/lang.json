@@ -169,8 +169,18 @@
         },
         "TUTORIAL.gui.death.lore":
         {
-            "en_US": "&7If you &x&F&F&D&8&4&Ekill&7 someone, you receive\n&7up to &x&F&F&D&8&4&E5% of their time&7.\n&7But this &calso applies&7 to &cyou&7!\n\n&7Additionally, you can collect the &x&F&F&D&8&4&Ebounty reward&7,\n&7but &conly&7 if you are &x&F&F&D&8&4&Eone of the bounty setters&7!\n&7Therefore, &x&F&F&D&8&4&Eit pays off&7 to set bounties on &x&F&F&D&8&4&Eas many\n&x&F&F&D&8&4&Eplayers &7as possible. (&f/bounty&7)",
-            "de_DE": "&7Wenn du jemanden &x&F&F&D&8&4&Ekillst&7, bekommst du\n&7bis zu &x&F&F&D&8&4&E5% seiner Zeit&7.\n&7Doch das &ctrifft &7auch auf &cdich &7zu!\n\n&7Zusätzlich kannst du das &x&F&F&D&8&4&EKopfgeld erhalten&7,\n&7aber &cnur&7, wenn du &x&F&F&D&8&4&Eeiner der Kopfgeldgeber &cbist&7!\n&7Daher &x&F&F&D&8&4&Elohnt es &7sich, bei möglichst &x&F&F&D&8&4&Evielen Spielern\n&7Kopfgeld zu setzen. (&f/bounty&7)"
+            "en_US": "&7If you &x&F&F&D&8&4&Ekill&7 someone, you receive\n&7up to &x&F&F&D&8&4&E5% of their time&7.\n&7But this &calso applies&7 to &cyou&7!\n\n&7Additionally, you can collect the &x&F&F&D&8&4&Ebounty reward&7,\n&7but &conly&7 if you are &x&F&F&D&8&4&Eone of the bounty setters&7!\n&7Therefore, &x&F&F&D&8&4&Eit pays off&7 to set bounties on &x&F&F&D&8&4&Eas many\n&x&F&F&D&8&4&Eplayers &7as possible. (&x&F&2&F&2&F&2&o/bounty&7)",
+            "de_DE": "&7Wenn du jemanden &x&F&F&D&8&4&Ekillst&7, bekommst du\n&7bis zu &x&F&F&D&8&4&E5% seiner Zeit&7.\n&7Doch das &ctrifft &7auch auf &cdich &7zu!\n\n&7Zusätzlich kannst du das &x&F&F&D&8&4&EKopfgeld erhalten&7,\n&7aber &cnur&7, wenn du &x&F&F&D&8&4&Eeiner der Kopfgeldgeber &cbist&7!\n&7Daher &x&F&F&D&8&4&Elohnt es &7sich, bei möglichst &x&F&F&D&8&4&Evielen Spielern\n&7Kopfgeld zu setzen. (&x&F&2&F&2&F&2&o/bounty&7)"
+        },
+        "TUTORIAL.gui.firstmoney":
+        {
+            "en_US": "&x&F&F&D&8&0&0⛂ &x&F&C&F&F&4&AEarn before Fight! &x&F&F&D&8&0&0⛂",
+            "de_DE": "&x&F&F&D&8&0&0⛂ &x&F&C&F&F&4&AVerdiene bevor du kämpfst! &x&F&F&D&8&0&0⛂"
+        },
+        "TUTORIAL.gui.firstmoney.lore":
+        {
+            "en_US": "&7Enter the world with &x&F&2&F&2&F&2&o/rtp &7and sell\n&7your first loot with &x&F&2&F&2&F&2&o/sell&7.\n\n&e&oTip: &7&oYour &x&F&2&F&2&F&2&o/minime&7&o can assist you!\n\n&7In &x&F&2&F&2&F&2&o/shop &7you’ll quickly find equipment\n&7and additional materials.",
+            "de_DE": "&7Betrete die Welt mit &x&F&2&F&2&F&2&o/rtp &7und verkaufe\n&7deinen ersten Loot mit &x&F&2&F&2&F&2&o/sell&7.\n\n&e&oTipp: &7&oDein &x&F&2&F&2&F&2&o/minime&7&o kann dir helfen!\n\n&7Im &x&F&2&F&2&F&2&o/shop &7findest du schnell Ausrüstung\n&7und weitere Materialen."
         }
     }
 }
