@@ -141,6 +141,16 @@
         {
             "en_US": "How do I play Time SMP?",
             "de_DE": "Wie spiele ich Time SMP?"
+        },
+        "TUTORIAL.gui.video":
+        {
+            "en_US": "&6Watch Video?",
+            "de_DE": "&6Video anschauen?"
+        },
+        "TUTORIAL.gui.video.lore":
+        {
+            "en_US": "&7Watch our tutorial video to\n&7get the &x&F&F&D&8&4&Ebest help &7in\n&7getting started!",
+            "de_DE": "&7Schaue unser Tutorial-Video, um\n&7die &x&F&F&D&8&4&Ebeste Hilfe &7in den &x&F&F&D&8&4&EStart\n&7zu haben!"
         }
     }
 }
