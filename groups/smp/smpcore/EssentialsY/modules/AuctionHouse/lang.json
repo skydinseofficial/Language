@@ -59,8 +59,8 @@
         },
         "MSG.success.itemboughttarget":
         {
-            "en_US": "&7[player]&7 just bought your auction &8([item]&8) &7for [price]&7!",
-            "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) &7für [price]&7 gekauft!"
+            "en_US": "&7[player]&7 just bought your auction &8([item]&8) &7for [price]&7! (Look into your &x&F&2&F&2&F&2/earnings&7)",
+            "de_DE": "&7[player]&7 hat soeben deine Auktion &8([item]&8) &7für [price]&7 gekauft! (Schau in deine &x&F&2&F&2&F&2/verdienste&7)"
         },
         "MSG.success.revokeandwarn":
         {
