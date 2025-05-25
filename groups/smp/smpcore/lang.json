@@ -295,7 +295,7 @@
         "combat.notincombat.2":
         {
             "en_US": "&7Leaving the server will result in death while in combat mode.",
-            "de_DE": "&7Das verlassen des Servers führt zum Tod, solange du dich im Kampfmodus befindest."
+            "de_DE": "&7Das Verlassen des Servers führt zum Tod, solange du dich im Kampfmodus befindest."
         },
         "trials.nopermission":
         {
