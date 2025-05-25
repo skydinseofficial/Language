@@ -149,8 +149,8 @@
         },
         "TUTORIAL.gui.video.lore":
         {
-            "en_US": "&7Watch our tutorial video to\n&7get the &x&F&F&D&8&4&Ebest help &7in\n&7getting started!\n\n&8» <#F9BD31>Click to watch",
-            "de_DE": "&7Schaue unser Tutorial-Video, um\n&7die &x&F&F&D&8&4&Ebeste Hilfe &7in den &x&F&F&D&8&4&EStart\n&7zu haben!\n\n&8» <#F9BD31>Klicke zum Ansehen"
+            "en_US": "&7Watch our tutorial video to\n&7get the &x&F&F&D&8&4&Ebest help &7in\n&7getting started!\n\n&8» <#F9BD31>Click to watch\n\n&cAVAILABLE SOON!",
+            "de_DE": "&7Schaue unser Tutorial-Video, um\n&7die &x&F&F&D&8&4&Ebeste Hilfe &7in den &x&F&F&D&8&4&EStart\n&7zu haben!\n\n&8» <#F9BD31>Klicke zum Ansehen\n\n&cBALD VERFÜGBAR!"
         },
         "TUTORIAL.gui.time":
         {
