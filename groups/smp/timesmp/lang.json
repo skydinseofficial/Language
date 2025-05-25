@@ -151,6 +151,16 @@
         {
             "en_US": "&7Watch our tutorial video to\n&7get the &x&F&F&D&8&4&Ebest help &7in\n&7getting started!\n\n&8» <#F9BD31>Click to watch",
             "de_DE": "&7Schaue unser Tutorial-Video, um\n&7die &x&F&F&D&8&4&Ebeste Hilfe &7in den &x&F&F&D&8&4&EStart\n&7zu haben!\n\n&8» <#F9BD31>Klicke zum Ansehen"
+        },
+        "TUTORIAL.gui.time":
+        {
+            "en_US": "&x&F&F&1&4&1&E⌚ &x&F&F&D&2&0&0Time is Money &x&F&F&1&4&1&E⌚",
+            "de_DE": "&x&F&F&1&4&1&E⌚ &x&F&F&D&2&0&0Zeit ist Geld &x&F&F&1&4&1&E⌚"
+        },
+        "TUTORIAL.gui.time.lore":
+        {
+            "en_US": "&7Imagine an &x&F&F&D&8&4&EEconomy SMP, &cbut&7:\n&7Here you don't &x&F&F&D&8&4&Epay &7with money, but\n&7with your &x&F&F&D&8&4&&remaining time&7! You can always view\n&7your remaining time &x&F&F&D&8&4&right &7on the &x&F&F&D&8&4&EScoreboard&7.\n\n&7When your &ctime runs out&7, you will be banned!\n&7(ban duration depending on rank)",
+            "de_DE": "&7Stell dir einen &x&F&F&D&8&4&EEconomy SMP &7vor, &caber&7:\n&7Hier &x&F&F&D&8&4&Ezahlst &7du nicht mit Geld, sondern mit\n&7deiner &x&F&F&D&8&4&Everbleibenden Zeit&7! Diese siehst du\n&7immer &x&F&F&D&8&4&Erechts &7im &x&F&F&D&8&4&EScoreboard&7.\n\n&7Wenn deine &cZeit abläuft&7, wirst du gebannt!\n&7(Banndauer je nach Rang)"
         }
     }
 }
