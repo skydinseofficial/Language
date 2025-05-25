@@ -52,6 +52,11 @@
             "en_US": "&x&F&F&9&B&0&0&nʀᴇᴡᴀʀᴅs\n&7Rewards available: [amount]",
             "de_DE": "&x&F&F&9&B&0&0&nʙᴇʟᴏʜɴᴜɴɢᴇɴ\n&7Belohnungen offen: [amount]"
         },
+        "HOLO.earntokensspawn":
+        {
+            "en_US": "&x&F&F&1&F&D&C&nᴇᴀʀɴ ᴛᴏᴋᴇɴs\n&7Earn tokens even faster\n&7than in the AFK area!",
+            "de_DE": "&x&F&F&1&F&D&C&nᴛᴏᴋᴇɴs ᴠᴇʀᴅɪᴇɴᴇɴ\n&7Verdiene noch schneller Tokens\n&7als im AFK-Bereich!"
+        },
         "HOLO.rewards.none":
         {
             "en_US": "&x&F&F&1&0&0&0ɴᴏɴᴇ",
