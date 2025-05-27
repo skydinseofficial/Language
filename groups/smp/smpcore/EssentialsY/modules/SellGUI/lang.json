@@ -129,8 +129,13 @@
         },
         "GUI.main.object.lore":
         {
-            "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]\n&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
-            "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]\n&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
+            "en_US": "&7Worth: &x&F&F&D&2&0&0[worth]",
+            "de_DE": "&7Wert: &x&F&F&D&2&0&0[worth]"
+        },
+        "GUI.main.object.lore.advanced":
+        {
+            "en_US": "&7Last updated: &x&F&F&D&2&0&0[updated_at]\n&7Updated by: [updated_by]",
+            "de_DE": "&7Zuletzt aktualisiert: &x&F&F&D&2&0&0[updated_at]\n&7Aktualisiert von: [updated_by]"
         },
         "GUI.clickaction.switch":
         {
