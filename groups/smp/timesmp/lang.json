@@ -204,8 +204,8 @@
         },
         "TUTORIAL.tutorial_video":
         {
-            "en_US": "&7You can find our short tutorial using the following link: &6<@https://www.skydinse.net/go/timesmp/tutorial> &7(Video is only available in German.)",
-            "de_DE": "&7Unser kurzes Tutorial kannst du unter folgendem Link finden: &6<@https://www.skydinse.net/go/timesmp/tutorial>"
+            "en_US": "&7You can find our short tutorial using the following link: <#fecd3f><@https://skydinse.net/go/timesmp/tutorial> &7(Video is only available in German.)",
+            "de_DE": "&7Unser kurzes Tutorial kannst du unter folgendem Link finden: <#fecd3f><@https://skydinse.net/go/timesmp/tutorial>"
         }
     }
 }
