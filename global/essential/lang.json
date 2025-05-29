@@ -766,8 +766,8 @@
         },
         "ABC.broadcast.3":
         {
-            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7!",
-            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 erhältst."
+            "en_US": "&cWatch out! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7you have to get to a &#e5e5e5platform in the right color &7as quickly as possible to avoid being eliminated. &#99ff99Sounds interesting? <|value:'play BlockParty',text:'&a[PLAY NOW]'>",
+            "de_DE": "&cObacht! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7musst du dich schnellstmöglich auf eine &#e5e5e5Fläche in der richtigen Farbe &7retten, um nicht auszuscheiden. &#99ff99Klingt interessant? <|value:'play BlockParty',text:'&a[JETZT SPIELEN]'>"
         },
         "ABC.broadcast.4":
         {
@@ -791,8 +791,8 @@
         },
         "ABC.broadcast.7":
         {
-            "en_US": "&cWatch out! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7you have to get to a &#e5e5e5platform in the right color &7as quickly as possible to avoid being eliminated. &#99ff99Sounds interesting? <|value:'play BlockParty',text:'&a[PLAY NOW]'>",
-            "de_DE": "&cObacht! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7musst du dich schnellstmöglich auf eine &#e5e5e5Fläche in der richtigen Farbe &7retten, um nicht auszuscheiden. &#99ff99Klingt interessant? <|value:'play BlockParty',text:'&a[JETZT SPIELEN]'>"
+            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7!",
+            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 erhältst."
         },
         "ABC.broadcast.8":
         {
