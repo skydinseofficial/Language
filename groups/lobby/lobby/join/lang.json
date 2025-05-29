@@ -78,13 +78,13 @@
         },
         "ACCEPT.require_resourepack.screen":
         {
-            "en_US": "\n\n\n&#ff5733Playing on Skydinse requires a resource pack!\n&#f0f0f0Please click on 'Proceed' to agree to the automatic download and activation of the package.\n\n&7By entering the network, you agree to our\nprivacy policy (&#ffe07ahttps://skydinse.net/privacy&7) and the\nserver rules (&#ffe07ahttps://skydinse.net/rules&7).",
-            "de_DE": "\n\n\n&#ff5733Das Spielen auf Skydinse erfordert ein Ressourcenpaket!\n&#f0f0f0Bitte klicke auf 'Fortfahren', um dem automatischen Herunterladen und Aktivieren des Pakets zuzustimmen.\n\n&7Durch das Betreten des Netzwerkes erklärst du dich mit unseren\nDatenschutzbestimmungen (&#ffe07ahttps://skydinse.net/privacy&7) und den\nServerregeln (&#ffe07ahttps://skydinse.net/rules&7) einverstanden.",
-            "pt_BR": "&cÉ necessário &naceitar o pacote de recursos&c para poder jogar!",
-            "es_ES": "&cTu dois &naccepter le paquet de ressources &cpour pouvoir jouer!",
-            "fr_FR": "&cDebes &naceptar el paquete de recursos &cpara poder jugar.",
-            "tr_TR": "&cOynamak için &nkaynak paketini kabul&c etmelisiniz!",
-            "ko_KR": "&c플레이 하려면 &n리소스 팩을 수락&c해야 합니다!"
+            "en_US": "\n\n\n&#ff5733Playing on Skydinse requires a resource pack!\n\n&#f0f0f0Please click on ''Proceed'' to agree to the automatic download and activation of the package.\n\n&7By entering the network, you agree to our\nprivacy policy (&#ffe07ahttps://skydinse.net/privacy&7) and the\nserver rules (&#ffe07ahttps://skydinse.net/rules&7).",
+            "de_DE": "\n\n\n&#ff5733Das Spielen auf Skydinse erfordert ein Ressourcenpaket!\n\n&#f0f0f0Bitte klicke auf ''Fortfahren'', um dem automatischen Herunterladen und Aktivieren des Pakets zuzustimmen.\n\n&7Durch das Betreten des Netzwerkes erklärst du dich mit unseren\nDatenschutzbestimmungen (&#ffe07ahttps://skydinse.net/privacy&7) und den\nServerregeln (&#ffe07ahttps://skydinse.net/regeln&7) einverstanden.",
+            "pt_BR": "\n\n\n&#ff5733Jogar no Skydinse requer um pacote de recursos!\n\n&#f0f0f0Clique em ''Continuar'' para concordar com o download automático e a ativação do pacote.\n\n&7Ao entrar na rede, você concorda com nossa\npolítica de privacidade (&#ffe07ahttps://skydinse.net/privacy&7) e com as\nregras do servidor (&#ffe07ahttps://skydinse.net/rules&7).",
+            "es_ES": "\n\n\n&#ff5733¡Jugar en Skydinse requiere un paquete de recursos!\n\n&#f0f0f0Haz clic en ''Continuar'' para aceptar la descarga y activación automática del paquete.\n\n&7Al ingresar a la red, aceptas nuestra\npolítica de privacidad (&#ffe07ahttps://skydinse.net/privacy&7) y las\nreglas del servidor (&#ffe07ahttps://skydinse.net/rules&7).",
+            "fr_FR": "\n\n\n&#ff5733Jouer sur Skydinse nécessite un pack de ressources !\n\n&#f0f0f0Veuillez cliquer sur « Continuer » pour accepter le téléchargement et l'activation automatiques du package.\n\n&7En entrant sur le réseau, vous acceptez notre\npolitique de confidentialité (&#ffe07ahttps://skydinse.net/privacy&7) et les\nrègles du serveur (&#ffe07ahttps://skydinse.net/rules&7).",
+            "tr_TR": "\n\n\n&#ff5733Skydinse'de oynamak için bir kaynak paketi gerekir!\n\n&#f0f0f0Paketin otomatik olarak indirilmesini ve etkinleştirilmesini kabul etmek için lütfen 'Devam Et'e tıklayın.\n\n&7Ağa girerek,\ngizlilik politikamızı (&#ffe07ahttps://skydinse.net/privacy&7) ve\nsunucu kurallarını (&#ffe07ahttps://skydinse.net/rules&7) kabul etmiş olursunuz.",
+            "ko_KR": "\n\n\n&#ff5733Skydinse에서 플레이하려면 리소스 팩이 필요합니다!\n\n&#f0f0f0''계속''을 클릭하여 패키지의 자동 다운로드 및 활성화에 동의하세요.\n\n&7네트워크에 접속함으로써 귀하는 당사의\n개인정보 보호정책(&#ffe07ahttps://skydinse.net/privacy&7) 및\n서버 규칙(&#ffe07ahttps://skydinse.net/rules&7)에 동의하게 됩니다."
         },
         "ACCEPT.require_resourepack.message":
         {
