@@ -788,6 +788,11 @@
         {
             "en_US": "&7Already &#e5e5e5following &7us on &#E43A96s&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3Fm&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? We would be very happy about your support! You can find our channels on our <@value:'https://www.skydinse.net/',text:'&swebsite &7(&ehttps://www.skydinse.net&7)'>.",
             "de_DE": "&#e5e5e5Folgst &7du uns schon auf &#E43A96S&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3FM&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? Wir würden uns über deine Unterstützung freuen! Unsere Kanäle kannst du auf unserer <@value:'https://www.skydinse.net/',text:'&sWebseite &7(&ehttps://www.skydinse.net&7)'> finden."
+        },
+        "ABC.broadcast.7":
+        {
+            "en_US": "&cWatch out! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7you have to get to a &#e5e5e5platform in the right color &7as quickly as possible to avoid being eliminated. &#99ff99Sounds interesting? <|value:'play BlockParty',text:'&a[PLAY NOW]'>",
+            "de_DE": "&cObacht! &7In &#007fff&lB&#6a47ff&ll&#d40eff&lo&#b855aa&lc&#70c639&lk&#74de00&lP&#c39c00&la&#ff5e00&lr&#ff2f00&lt&#ff0000&ly &7musst du dich schnellstmöglich auf eine &#e5e5e5Fläche in der richtigen Farbe &7retten, um nicht auszuscheiden. &#99ff99Klingt interessant? <|value:'play BlockParty',text:'&a[JETZT SPIELEN]'>"
         }
     }
 }
