@@ -786,8 +786,8 @@
         },
         "ABC.broadcast.6":
         {
-            "en_US": "&sHey&7, are you already following us on &#E43A96s&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3Fm&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? We would be very happy about your support! You can find our channels on our <@value:'https://www.skydinse.net/',text:'&swebsite &7(&ehttps://www.skydinse.net&7)'>.",
-            "de_DE": "&sHey&7, folgst du uns schon auf &#E43A96S&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3FM&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? Wir würden uns sehr über deine Unterstützung freuen! Unsere Kanäle kannst du aus unserer <@value:'https://www.skydinse.net/',text:'&sWebseite &7(&ehttps://www.skydinse.net&7)'> finden."
+            "en_US": "&7Already &#e5e5e5following &7us on &#E43A96s&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3Fm&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? We would be very happy about your support! You can find our channels on our <@value:'https://www.skydinse.net/',text:'&swebsite &7(&ehttps://www.skydinse.net&7)'>.",
+            "de_DE": "&#e5e5e5Folgst &7du uns schon auf &#E43A96S&#E95485o&#EE6E73c&#F48762i&#F9A150a&#FEBB3Fl &#FEBB3FM&#F89B55e&#F17B6Bd&#EB5A80i&#E43A96a&7? Wir würden uns über deine Unterstützung freuen! Unsere Kanäle kannst du auf unserer <@value:'https://www.skydinse.net/',text:'&sWebseite &7(&ehttps://www.skydinse.net&7)'> finden."
         }
     }
 }
