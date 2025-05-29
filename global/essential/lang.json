@@ -766,18 +766,23 @@
         },
         "ABC.broadcast.3":
         {
-            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 too.",
+            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7!",
             "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 erhältst."
         },
         "ABC.broadcast.4":
         {
-            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
-            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
+            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
+            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
         },
         "ABC.broadcast.4.TIMESMP":
         {
-            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
+            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
             "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
+        },
+        "ABC.broadcast.5":
+        {
+            "en_US": "&sHave you already &#FDB12Av&#FDC534o&#FDC534t&#FDC534e&#FDB12Ad&s today? &7By &#e5e5e5voting &7you support &#e5e5e5Skydinse &7very much and receive cool &#e5e5e5rewards&7. To vote, visit &s<@https://skyd.link/vote>&7!",
+            "de_DE": "&sHeute schon &#FC9C1Fg&#FDB12Ae&#FDC534v&#FDC534o&#FDC534t&#FDB12Ae&#FC9C1Fd&s? &7Durch das &#e5e5e5Voting &7unterstützt du &#e5e5e5Skydinse &7sehr und erhälst coole &#e5e5e5Belohnungen&7. Um zu voten, besuche &s<@https://skyd.link/vote>&7!"
         }
     }
 }
