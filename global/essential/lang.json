@@ -756,33 +756,28 @@
         },
         "ABC.broadcast.1":
         {
-            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://skyd.link/dc&8)",
-            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://skyd.link/dc&8)"
+            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://skyd.link/dc>&8)",
+            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://skyd.link/dc>&8)"
         },
         "ABC.broadcast.2":
         {
-            "en_US": "&7Skydinse is &#e5e5e5protected &7and &#e5e5e5supported &7by <@tip:'&#e0e3ffClick to view!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'&f♥&7! Feel free to visit &#6c88f9&n<@https://neoprotect.net/",
-            "de_DE": "&7Skydinse wird durch <@tip:'&#e0e3ffKlicke zum Ansehen!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'&#e5e5e5 geschützt &7und &#e5e5e5unterstützt&f♥&7! Schau dort gerne mal vorbei: &#6c88f9&n<@https://neoprotect.net/"
+            "en_US": "&7Skydinse is &#e5e5e5protected &7and &#e5e5e5supported &7by <@tip:'&#e0e3ffClick to view!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'>&f♥&7! Feel free to visit &#6c88f9&n<@https://neoprotect.net/>",
+            "de_DE": "&7Skydinse wird durch <@tip:'&#e0e3ffKlicke zum Ansehen!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'>&#e5e5e5 geschützt &7und &#e5e5e5unterstützt&f♥&7! Schau dort gerne mal vorbei: &#6c88f9&n<@https://neoprotect.net/>"
         },
         "ABC.broadcast.3":
         {
-            "en_US": "&7Use &#ffd200<|link &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'&7 too.",
-            "de_DE": "&7Nutze &#ffd200<|link&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'&7 erhältst."
+            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 too.",
+            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 erhältst."
         },
         "ABC.broadcast.4":
         {
-            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://shop.skydinse.net/',text:'&#ffd200&nstore'&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'&7 or take advantage of our <+tip:'',text:'&#38acffrank features'&7! &8(&#ffd200&n<@https://shop.skydinse.net/&8)",
-            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://shop.skydinse.net/',text:'&#ffd200&nOnline-Shop'&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'&7! &8(&#ffd200&n<@https://shop.skydinse.net/&8)"
+            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
+            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
         },
         "ABC.broadcast.4.TIMESMP":
         {
-            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://shop.skydinse.net/',text:'&#ffd200&nstore'&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'&7 or take advantage of our <+tip:'',text:'&#38acffrank features'&7! &8(&#ffd200&n<@https://shop.skydinse.net/&8)",
-            "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://shop.skydinse.net/',text:'&#ffd200&nOnline-Shop'&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'&7! &8(&#ffd200&n<@https://shop.skydinse.net/&8)"
-        },
-        "ABC.broadcast.5":
-        {
-            "en_US": "&7Skydinse is &#e5e5e5protected &7and &#e5e5e5supported &7by <@tip:'&#e0e3ffClick to view!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'&f♥&7! Feel free to visit &#6c88f9&n<@https://neoprotect.net/",
-            "de_DE": "&7Skydinse wird durch <@tip:'&#e0e3ffKlicke zum Ansehen!',value:'https://neoprotect.net/',text:'&#3462e8&lN&#3668e6&le&#386fe5&lo&#3975e3&lP&#3b7ce2&lr&#3d82d0&lo&#3b7ae2&lt&#3972e4&le&#366ae6&lc&#3462e8&lt'&#e5e5e5 geschützt &7und &#e5e5e5unterstützt&f♥&7! Schau dort gerne mal vorbei: &#6c88f9&n<@https://neoprotect.net/"
+            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get even more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
+            "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
         }
     }
 }
