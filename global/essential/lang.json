@@ -796,8 +796,8 @@
         },
         "ABC.broadcast.8":
         {
-            "en_US": "&#99ff99Time is money. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7you trade, play, farm and kill with the goal of not losing your precious remaining game time! #e5e5e5If you're interested: <|value:'play TimeSMP',text:'&a[PLAY NOW]'>",
-            "de_DE": "&#99ff99Zeit ist Geld. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7handelst, spielst, erfarmst und tötest du mit dem Ziel, deine kostbare übrig bleibende Spielzeit nicht zu verlieren! #e5e5e5Bei Interesse: <|value:'play TimeSMP',text:'&a[JETZT SPIELEN]'>"
+            "en_US": "&#99ff99Time is money. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7you trade, play, farm and kill with the goal of not losing your precious remaining game time! &#e5e5e5If you're interested: <|value:'play TimeSMP',text:'&a[PLAY NOW]'>",
+            "de_DE": "&#99ff99Zeit ist Geld. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7handelst, spielst, erfarmst und tötest du mit dem Ziel, deine kostbare übrig bleibende Spielzeit nicht zu verlieren! &#e5e5e5Bei Interesse: <|value:'play TimeSMP',text:'&a[JETZT SPIELEN]'>"
         },
         "ABC.broadcast.9":
         {
