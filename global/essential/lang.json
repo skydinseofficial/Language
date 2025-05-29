@@ -72,11 +72,17 @@
             "pl_PL": "<#face05>Kliknij, aby skopiować ten tekst!",
             "ru_RU": "<#face05>Нажмите, чтобы скопировать этот текст!"
         },
+        "PLAY.missingargument":
+        {
+            "en_US": "&cPlease enter the name of the game you want to play!",
+            "de_DE": "&cBitte gib den Namen des Spiels ein, das du spielen möchtest!"
+        },
         "SUFFIX.reward":
         {
             "en_US": "&7You've recieved a <#face05>custom suffix &7for the duration of &eVAR1 &7days! Please enter your desired suffix in chat (type \"cancel\" to canel)! You have 3 minutes until your input will be canelled automatically. A guide to color and formatting codes can be found at &e<@https://www.skydinse.net/colorcodes>&7!",
             "de_DE": "&7Du hast einen <#face05>individuellen Suffix &7für den Zeitraum von &eVAR1 &7Tagen erhalten! Bitte gib deinen gewünschten Suffix im Chat ein (gib \"abbruch\" ein, um abzubrechen)! Du hast 3 Minuten Zeit bis deine Eingabe automatisch abgebrochen wird. Eine Anleitung zu Farb- und Formatierungscodes findest du unter &e<@https://www.skydinse.net/colorcodes>&7!",
-            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!","pt_BR": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
+            "de_at": "&7Du host a <#face05>spezielles Suffix &7für an Zeitraum von &eVAR1 &7Tog g'kriagt! Gib dei Wunsch-Suffix im Chat ei (wennst abbrechn wuist, schreib \"abbruch\" im Chat)! Du host 3 Minuten, ois automatisch abbrochen wird. Schau auf &e<@https://www.skydinse.net/colorcodes> &7für die Fob- und Formatierungscodes!",
+            "pt_BR": "&7Recebeu um sufixo <#face05>individual &7para o período de &eVAR1 &7dias! Por favor, introduza o sufixo pretendido no chat (introduza \"cancelar\" para cancelar)! Dispõe de 3 minutos até a sua participação ser automaticamente anulada. Pode encontrar instruções sobre os códigos de cor e de formatação em &e<@https://www.skydinse.net/colorcodes>&7!"
         },
         "SUFFIX.success":
         {
