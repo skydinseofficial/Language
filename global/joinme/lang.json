@@ -32,36 +32,6 @@
             "de_DE": "Stunden",
             "tr_TR": "Saat"
         },
-        "plays":
-        {
-            "en_US": "plays",
-            "de_DE": "spielt",
-            "tr_TR": "oynuyor"
-        },
-        "round":
-        {
-            "en_US": "Round",
-            "de_DE": "Runde",
-            "tr_TR": "Oyun"
-        },
-        "players":
-        {
-            "en_US": "Players",
-            "de_DE": "Spieler",
-            "tr_TR": "Oyuncular"
-        },
-        "mode":
-        {
-            "en_US": "Mode",
-            "de_DE": "Modus",
-            "tr_TR": "Modu"
-        },
-        "click2join":
-        {
-            "en_US": "CLICK TO JOIN",
-            "de_DE": "KLICKE ZUM BEITRETEN",
-            "tr_TR": "KATILMAK İÇİN BAS"
-        },
         "error":
         {
             "en_US": "&cAn error occurred while creating the JoinMe! &7Try again or rejoin this round.",
@@ -73,6 +43,33 @@
             "en_US": "&cYou need a higher rank to create a JoinMe!",
             "de_DE": "&cDu benötigst einen höheren Rang, um eine JoinMe zu erstellen!",
             "tr_TR": "&cJoinMe oluşturmak için daha yüksek bir rütbeye ihtiyacın var!"
+        },
+        "no_joinme":
+        {
+            "en_US": "&cThere is no current Joinme!",
+            "de_DE": "&cEs gibt keine aktuelle Joinme!",
+            "tr_TR": "&cŞu anda Joinme! yok!"
+        },
+        "no_joinme":
+        {
+            "en_US": "&cThere is no current Joinme!",
+            "de_DE": "&cEs gibt keine aktuelle Joinme!"
+        },
+        "message_title":
+        {
+            "en_US": "&f[player] <#bcbcbc>seeks players!",
+            "en_GB": "&f[player] <#bcbcbc>seeks players!",
+            "de_DE": "&f[player] <#bcbcbc>sucht Mitspielende!",
+            "nl_NL": "&f[player] <#bcbcbc>zoekt spelers!",
+            "pt_BR": "&f[player] <#bcbcbc>procura jogadores!",
+            "pt_PT": "&f[player] <#bcbcbc>procura jogadores!",
+            "es_ES": "<#bcbcbc>¡&f[player] <#bcbcbc>busca jugadores!",
+            "es_MX": "<#bcbcbc>¡&f[player] <#bcbcbc>busca jugadores!"
+            "fr_FR": "&f[player] <#bcbcbc>cherche des joueurs !",
+            "pl_PL": "&f[player] <#bcbcbc>szuka graczy!",
+            "ru_RU": "&f[player] <#bcbcbc>ищет игроков!",
+            "tr_TR": "&f[player] <#bcbcbc>oyuncu arıyor!",
+            "ko_KR": "&f[player] <#bcbcbc>플레이어 구함!"
         }
     }
 }
