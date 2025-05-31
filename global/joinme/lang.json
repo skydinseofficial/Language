@@ -70,6 +70,38 @@
             "ru_RU": "&f[player] <#bcbcbc>ищет игроков!",
             "tr_TR": "&f[player] <#bcbcbc>oyuncu arıyor!",
             "ko_KR": "&f[player] <#bcbcbc>플레이어 구함!"
+        },
+        "message_join.java":
+        {
+            "en_US": "<|value:'[command]',text:'&#15e315 » &nᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ! &#15e315«'>",
+            "en_GB": "<|value:'[command]',text:'&#15e315 » &cᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ! &#15e315«'>",
+            "de_DE": "<|value:'[command]',text:'&#15e315 » &nᴋʟɪᴄᴋᴇ ʜɪᴇʀ ᴢᴜᴍ ʙᴇɪᴛʀᴇᴛᴇɴ! &#15e315«'>",
+            "nl_NL": "<|value:'[command]',text:'&#15e315 » &nᴋʟɪᴋ ʜɪᴇʀ ᴏᴍ ᴍᴇᴇ ᴛᴇ ᴅᴏᴇɴ! &#15e315«'>",
+            "pt_BR": "<|value:'[command]',text:'&#15e315 » &nᴄʟɪᴄᴀ ᴀǫᴜɪ ᴘᴀʀᴀ ᴇɴᴛʀᴀʀ! &#15e315«'>",
+            "pt_PT": "<|value:'[command]',text:'&#15e315 » &nᴄʟɪᴄᴀ ᴀǫᴜɪ ᴘᴀʀᴀ ᴇɴᴛʀᴀʀᴇs! &#15e315«'>",
+            "es_ES": "<|value:'[command]',text:'&#15e315 » &nʜᴀᴢ ᴄʟɪᴄ ᴀǫᴜí ᴘᴀʀᴀ ᴜɴɪʀᴛᴇ! &#15e315«'>",
+            "es_MX": "<|value:'[command]',text:'&#15e315 » &nʜᴀᴢ ᴄʟɪᴄ ᴀǫᴜí ᴘᴀʀᴀ ᴜɴɪʀᴛᴇ! &#15e315«'>"
+            "fr_FR": "<|value:'[command]',text:'&#15e315 » &nᴄʟɪǫᴜᴇ ɪᴄɪ ᴘᴏᴜʀ ʀᴇᴊᴏɪɴᴅʀᴇ ! &#15e315«'>",
+            "pl_PL": "<|value:'[command]',text:'&#15e315 » &nᴋʟɪᴋɴɪᴊ ᴛᴜᴛᴀᴊ, ᴀʙʏ ᴅᴏłąᴄᴢʏć! &#15e315«'>",
+            "ru_RU": "<|value:'[command]',text:'&#15e315 » &nНажми сюда, чтобы присоединиться! &#15e315«'>",
+            "tr_TR": "<|value:'[command]',text:'&#15e315 » &nᴋᴀᴛıʟᴍᴀᴋ ɪçɪɴ ʙᴜʀᴀʏᴀ ᴛıᴋʟᴀ! &#15e315«'>",
+            "ko_KR": "<|value:'[command]',text:'&#15e315 » &n여기를 눌러서 참여해요! &#15e315«'>"
+        },
+        "message_join.bedrock":
+        {
+            "en_US": "&#15e315 » &nUse &e&n/join &#15e315&nto join!",
+            "en_GB": "&#15e315 » &nUse &e&n/join &#15e315&nto join!",
+            "de_DE": "&#15e315 » &nNutze &e&n/join &#15e315&nzum beitreten!",
+            "nl_NL": "&#15e315 » &nGebruik &e&n/join &#15e315&nom mee te doen!",
+            "pt_BR": "&#15e315 » &nUsa &e&n/join &#15e315&npara entrar!",
+            "pt_PT": "&#15e315 » &nUsa &e&n/join &#15e315&npara entrares!",
+            "es_ES": "&#15e315 » &nUsa &e&n/join &#15e315&npara unirte!",
+            "es_MX": "&#15e315 » &nUsa &e&n/join &#15e315&npara unirte!"
+            "fr_FR": "&#15e315 » &nUtilise &e&n/join &#15e315&npour rejoindre !",
+            "pl_PL": "&#15e315 » &nUżyj &e&n/join &#15e315&naby dołączyć!",
+            "ru_RU": "&#15e315 » &nНапиши &e&n/join &#15e315&nчтобы присоединиться!",
+            "tr_TR": "&#15e315 » &e&n/join &#15e315yaz katılmak için!",
+            "ko_KR": "&#15e315 » &e&n/join &#15e315입력 하고 참여해요!"
         }
     }
 }
