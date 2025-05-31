@@ -222,6 +222,11 @@
             "en_US": "&cThe faction abbreviation contains illegal characters.",
             "de_DE": "&cDas Fraktionskürzel enthält unerlaubte Zeichen."
         },
+        "command.create.invalid_name":
+        {
+            "en_US": "&cThe faction name contains illegal characters.",
+            "de_DE": "&cDer Fraktionsname enthält unerlaubte Zeichen."
+        },
         "command.invite.notify_join":
         {
             "en_US": "&6[player] &ajoined &7the faction &e[faction] &7at the invitation of &s[sender]&7.",
@@ -436,6 +441,11 @@
         {
             "en_US": "&7You have successfully changed the name of the faction &e[id] &7to &e[name]&7!",
             "de_DE": "&7Du hast erfolgreich den Namen der Fraktion &e[id] &7zu &e[name]&7 geändert!"
+        },
+        "command.home.success":
+        {
+            "en_US": "&7You have successfully set the home of the faction &e[id] &7to your current position!",
+            "de_DE": "&7Du hast erfolgreich das Zuhause der Fraktion &e[id] &7an deine aktuelle Position gesetzt!"
         },
         "command.dissolve.not_founder":
         {
