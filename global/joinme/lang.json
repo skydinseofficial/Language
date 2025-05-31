@@ -55,6 +55,11 @@
             "en_US": "&cThere is no current Joinme!",
             "de_DE": "&cEs gibt keine aktuelle Joinme!"
         },
+        "time_lock":
+        {
+            "en_US": "&cSomeone just sent a joinme! Please wait a few seconds.",
+            "de_DE": "&cJemand hat gerade erst eine Joinme verschickt! Bitte warte einige Sekungen."
+        },
         "message_title":
         {
             "en_US": "&f[player] <#bcbcbc>seeks players!",
