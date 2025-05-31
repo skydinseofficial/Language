@@ -447,6 +447,11 @@
             "en_US": "&7You have successfully set the home of the faction &e[id] &7to your current position!",
             "de_DE": "&7Du hast erfolgreich das Zuhause der Fraktion &e[id] &7an deine aktuelle Position gesetzt!"
         },
+        "command.home.no_home":
+        {
+            "en_US": "&cThe faction hasn't set any home.",
+            "de_DE": "&cDie Fraktion hat kein Zuhause gesetzt."
+        },
         "command.dissolve.not_founder":
         {
             "en_US": "&cOnly the founder of a faction can dissolve the faction!",
