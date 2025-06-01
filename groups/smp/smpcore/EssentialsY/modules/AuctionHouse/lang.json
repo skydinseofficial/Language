@@ -42,6 +42,11 @@
             "en_US": "&cThis price is too high. It's utopian!",
             "de_DE": "&cDieser Preis ist zu hoch. Das ist ja utopisch!"
         },
+        "MSG.error.slotlimit":
+        {
+            "en_US": "&cYou have already listed &x&F&F&D&2&0&0[current] &cof &x&F&F&D&2&0&0[max] &citems in the auction house... You need a &x&F&F&D&8&4&Ehigher rank&c to list more items.",
+            "de_DE": "&cDu hast bereits &x&F&F&D&2&0&0[current] &cvon &x&F&F&D&2&0&0[max] &cItems im Auktionshaus eingestellt... Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang&c, um noch mehr Items einzustellen."
+        },
         "MSG.info.commandusage":
         {
             "en_US": "&7Use &e&n<|ah>&7 or &e&n</ah sell (price)>",
