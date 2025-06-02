@@ -22,6 +22,11 @@
             "en_US": "Vote Party:",
             "de_DE": "Voteparty:"
         },
+        "VOTE.voteparty.tokenrain":
+        {
+            "en_US": "&x&F&F&2&B&6&EVOTE PARTY! &7In &660 seconds &7a &x&F&F&D&2&0&0token rain &7will start at &x&F&F&D&2&0&0&n<|spawn>&7!",
+            "de_DE": "&x&F&F&2&B&6&EVOTEPARTY! &7In &660 Sekunden &7startet ein &x&F&F&D&2&0&0Token-Regen &7am &x&F&F&D&2&0&0&n<|spawn>&7!"
+        },
         "FFA.modeswitch.broadcast.pending":
         {
             "en_US": "&7In &6[time] &7the FFA mode changes to <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
