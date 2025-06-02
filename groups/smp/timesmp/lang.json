@@ -17,6 +17,11 @@
             "en_US": "Tokens:",
             "de_DE": "Tokens:"
         },
+        "SCOREBOARD.voteparty":
+        {
+            "en_US": "Vote Party:",
+            "de_DE": "Voteparty:"
+        },
         "FFA.modeswitch.broadcast.pending":
         {
             "en_US": "&7In &6[time] &7the FFA mode changes to <+tip:'[description]',text:'&x&F&F&D&2&0&0&n[mode]'>&7!",
