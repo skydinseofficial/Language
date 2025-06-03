@@ -670,6 +670,11 @@
             "en_US": "&cA teleport process is already in progress!",
             "de_DE": "&cEs läuft bereits ein Teleportvorgang!"
         },
+        "CST.combat":
+        {
+            "en_US": "&cYou are currently in combat mode and therefore cannot teleport!",
+            "de_DE": "&cDu bist derzeit im Kampfmodus und kannst dich daher nicht teleportieren!"
+        },
         "SHOPNOTIFY.link.1":
         {
             "en_US": "&7Buy <+tip:'',text:'&x&3&8&A&C&F&FRanks'>&7, <+tip:'&x&F&2&9&E&F&FNetwork Wide Currency',text:'&x&F&F&4&6&E&4B&x&F&A&6&9&E&Fl&x&F&5&8&C&F&Ao&x&F&5&8&C&F&Ao&x&F&A&6&9&E&Fm&x&F&F&4&6&E&4s'> &7and more to unlock <#E5E5E5>additional features &7and <#E5E5E5>support us&7!",
