@@ -369,8 +369,8 @@
         },
         "command.leave.cannot_leave_own_faction":
         {
-            "en_US": "&cYou cannot leave your own faction! &7If you would like to transfer the ownership of your faction to another player, please contact us in a support ticket!",
-            "de_DE": "&cDu kannst nicht deine eigene Fraktion verlassen! &7Falls du die Eigentumsrechte deiner Fraktion an eine andere Person abgeben möchtest, melde dich hierzu bitte in einem Support-Ticket!"
+            "en_US": "&cYou cannot leave your own faction! &7If you would like to dissolve your faction, use &x&F&F&D&2&0&0&n<|faction dissolve>&7.",
+            "de_DE": "&cDu kannst nicht deine eigene Fraktion verlassen! &7Falls du die Fraktion auflösen möchtest, nutze &x&F&F&D&2&0&0&n<|faction dissolve>&7."
         },
         "command.leave.failed":
         {
