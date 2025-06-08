@@ -39,8 +39,8 @@
         },
         "VOTE.voteparty.tokenrain.subtitle":
         {
-            "en_US": "&x&F&F&D&2&0&0token rain &7at &x&F&F&D&2&0&0&n<|spawn>",
-            "de_DE": "&x&F&F&D&2&0&0Token-Regen &7am &x&F&F&D&2&0&0&n<|spawn>"
+            "en_US": "&x&F&F&D&2&0&0token rain &7at &x&F&F&D&2&0&0&n/spawn",
+            "de_DE": "&x&F&F&D&2&0&0Token-Regen &7am &x&F&F&D&2&0&0&n/spawn"
         },
         "FFA.modeswitch.broadcast.pending":
         {
