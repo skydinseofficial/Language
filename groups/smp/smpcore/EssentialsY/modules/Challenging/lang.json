@@ -101,6 +101,16 @@
             "en_US": "&7Map loaded! Connecting...",
             "de_DE": "&7Karte geladen! Verbinde..."
         },
+        "msg.challenge.cancelled":
+        {
+            "en_US": "&cThe challenge was unexpectedly canceled.",
+            "de_DE": "&cDie Challenge wurde unerwartet abgebrochen."
+        },
+        "msg.bet.notenoughmoney":
+        {
+            "en_US": "&cYou're too poor for this bet...",
+            "de_DE": "&cDu bist zu arm für diese Wette..."
+        },
         "msg.finished.nowinner":
         {
             "en_US": "&cThe duel was not settled, so everyone will receive their stakes back. If this is an error, please report it to the team.",
