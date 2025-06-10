@@ -100,6 +100,21 @@
         {
             "en_US": "&7Map loaded! Connecting...",
             "de_DE": "&7Karte geladen! Verbinde..."
+        },
+        "msg.finished.nowinner":
+        {
+            "en_US": "&cThe duel was not settled, so everyone will receive their stakes back. If this is an error, please report it to the team.",
+            "de_DE": "&cDas Duell wurde nicht ausgewertet, daher erhält jeder den Einsatz zurück. Falls dies ein Fehler ist, bitte dem Team melden."
+        },
+        "msg.finished.youwon":
+        {
+            "en_US": "&7You have &awon &7the &6duel &7and thus receive [amount]&7!",
+            "de_DE": "&7Du hast das &6Duell &agewonnen &7und erhältst somit [amount]&7!"
+        },
+        "msg.finished.youlost":
+        {
+            "en_US": "&7You have &clost &7the &6duel&7...",
+            "de_DE": "&7Du hast das &6Duell &cverloren&7..."
         }
     }
 }
