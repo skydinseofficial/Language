@@ -91,6 +91,11 @@
         {
             "en_US": "&6Wouldn't It Be Nice",
             "de_DE": "&6Wouldn't It Be Nice"
+        },
+        "ITEM.IchKomme":
+        {
+            "en_US": "&6ICH KOMME",
+            "de_DE": "&6ICH KOMME"
         }
     }
 }
