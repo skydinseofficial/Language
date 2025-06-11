@@ -9,7 +9,8 @@
             "pt_BR": "O sistema de ligação não respondeu! Por favor, contacte a nossa equipa!",
             "es_ES": "El sistema de enlace no ha respondido. Póngase en contacto con nuestro equipo.",
             "fr_FR": "Le système de liaison n'a pas répondu ! Veuillez contacter notre équipe !",
-            "tr_TR": "Bağlantı sistemi yanıt vermedi! Lütfen ekibimizle iletişime geçin!"
+            "tr_TR": "Bağlantı sistemi yanıt vermedi! Lütfen ekibimizle iletişime geçin!",
+            "ru_RU": "Система привязки не отвечает! Пожалуйста, свяжитесь с нашей командой!"
         },
         "ERROR_response":
         {
@@ -18,7 +19,8 @@
             "pt_BR": "&cO sistema de ligação enviou uma resposta indefinível! Por favor, mostre o seguinte texto a um administrador: \"\"&6VAR1&c\"\"",
             "es_ES": "&c¡El sistema de enlace ha enviado una respuesta indefinible! Por favor, muestre el siguiente texto a un administrador: \"\"&6VAR1&c\"\"",
             "fr_FR": "&cLe système de liaison a envoyé une réponse indéfinissable ! Veuillez montrer le texte suivant à un administrateur : \"\"&6VAR1&c\"\"",
-            "tr_TR": "&cBağlantı sistemi tanımlanamayan bir yanıt gönderdi! Lütfen aşağıdaki metni bir yöneticiye gösterin: \"\"&6VAR1&c\"\""
+            "tr_TR": "&cBağlantı sistemi tanımlanamayan bir yanıt gönderdi! Lütfen aşağıdaki metni bir yöneticiye gösterin: \"\"&6VAR1&c\"\"",
+            "ru_RU": "&cСистема связи отправила неопределенный ответ! Пожалуйста, покажите следующий текст администратору: \"\"&6VAR1&c\"\""
         },
         "VERIFY.web_args":
         {
@@ -27,7 +29,8 @@
             "pt_BR": "&cPor favor, utilize os argumentos &6dc &cou &6web&c!",
             "es_ES": "&c¡Por favor, utilice los argumentos &6dc &co &6web&c!",
             "fr_FR": "&cVeuillez utiliser les arguments &6dc &cou &6web&c !",
-            "tr_TR": "&cLütfen &6dc &cveya &6web&c argümanlarını kullanın!"
+            "tr_TR": "&cLütfen &6dc &cveya &6web&c argümanlarını kullanın!",
+            "ru_RU": "&cПожалуйста, используйте аргументы &6dc &cor &6web&c!"
         },
         "VERIFY.web_missingcode":
         {
@@ -36,7 +39,8 @@
             "pt_BR": "Introduza o seu código como segundo argumento!",
             "es_ES": "Introduzca su código como segundo argumento.",
             "fr_FR": "Veuillez saisir votre code comme deuxième argument !",
-            "tr_TR": "Lütfen kodunuzu ikinci bağımsız değişken olarak girin!"
+            "tr_TR": "Lütfen kodunuzu ikinci bağımsız değişken olarak girin!",
+            "ru_RU": "Пожалуйста, введите свой код в качестве второго аргумента!"
         },
         "VERIFY.web_wrongcode":
         {
@@ -45,7 +49,8 @@
             "pt_BR": "&cNão foi possível encontrar nenhuma conta com o código &6VAR1&c! &7Por favor, verifique se introduziu o código correto!",
             "es_ES": "&cNo se ha encontrado ninguna cuenta con el código &6VAR1&c! &7¡Por favor, compruebe si ha introducido el código correcto!",
             "fr_FR": "&cAucun compte n'a pu être trouvé avec le code &6VAR1&c ! &7Vérifiez si vous avez introduit le bon code !",
-            "tr_TR": "&cHiçbir hesap &6VAR1&c kodu ile bulunamadı! &7Lütfen doğru kodu girip girmediğinizi kontrol edin!"
+            "tr_TR": "&cHiçbir hesap &6VAR1&c kodu ile bulunamadı! &7Lütfen doğru kodu girip girmediğinizi kontrol edin!",
+            "ru_RU": "&cНе удалось найти аккаунт с кодом &6VAR1&c! &7Пожалуйста, проверьте, правильно ли вы ввели код!"
         },
         "VERIFY.web_success":
         {
@@ -54,7 +59,8 @@
             "pt_BR": "&aA sua conta no nosso sítio Web foi verificada com êxito!",
             "es_ES": "&aSu cuenta en nuestro sitio web se ha verificado correctamente.",
             "fr_FR": "&aVotre compte sur notre site a été vérifié avec succès !",
-            "tr_TR": "&aWeb sitemizdeki hesabınız başarıyla doğrulandı!"
+            "tr_TR": "&aWeb sitemizdeki hesabınız başarıyla doğrulandı!",
+            "ru_RU": "&aВаша учетная запись на нашем сайте успешно проверена!"
         },
         "NO_spam":
         {
@@ -63,7 +69,8 @@
             "pt_BR": "Por favor, não envie este comando por spam!",
             "es_ES": "Por favor, no envíe spam con este comando.",
             "fr_FR": "Merci de ne pas spammer cette commande !",
-            "tr_TR": "Lütfen bu komutu spam yapmayın!"
+            "tr_TR": "Lütfen bu komutu spam yapmayın!",
+            "ru_RU": "Пожалуйста, не спамьте эту команду!"
         },
         "LINK_already_connected":
         {
@@ -72,7 +79,8 @@
             "pt_BR": "&cEsta conta do Minecraft já está vinculada à conta do Discord &6VAR1&c! Use o comando &6&n</unlink> &cpara desvincular as contas!",
             "es_ES": "&c¡Esta cuenta de Minecraft ya está vinculada a la cuenta de Discord &6VAR1&c! Usa el comando &6&n</unlink> &cpara desvincular las cuentas.",
             "fr_FR": "&cCe compte Minecraft est déjà lié au compte Discord &6VAR1&c ! Utilisez la commande &6&n</unlink> &cpour dissocier les comptes !",
-            "tr_TR": "&cBu Minecraft hesabı zaten &6VAR1&c Discord hesabıyla bağlantılı! Hesapları ayırmak için &6&n</unlink> &ckomutunu kullanın!"
+            "tr_TR": "&cBu Minecraft hesabı zaten &6VAR1&c Discord hesabıyla bağlantılı! Hesapları ayırmak için &6&n</unlink> &ckomutunu kullanın!",
+            "ru_RU": "&cЭтот аккаунт Minecraft уже связан с аккаунтом Discord &6VAR1&c! Используйте команду &6&n</unlink> &cчтобы развязать аккаунты!"
         },
         "LINK_wrong_secret":
         {
@@ -82,6 +90,7 @@
             "es_ES": "El código introducido es incorrecto.",
             "fr_FR": "Le code que vous avez saisi est incorrect !",
             "tr_TR": "Girdiğiniz kod yanlış!"
+            "ru_RU": "Введенный вами код неверен!"
         },
         "LINK_secret_already_generated":
         {
