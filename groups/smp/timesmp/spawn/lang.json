@@ -92,5 +92,10 @@
             "en_US": "&eTip: &fUse /antipickup while farming,\n&fso your Minime collects and sells\n&feverything.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Your Minime can collect items on the\n&7ground for you and sell them immediately\n&7These end up in: &f/earnings",
             "de_DE": "&eTipp: &fNutze /antipickup während du\n&ffarmst, damit dein Minime alles\n&fsammelt und verkauft.\n\n&x&0&0&F&F&8&8&nᴍɪɴɪᴍᴇ ғᴇᴀᴛᴜʀᴇ\n&7Dein Minime kann Items auf dem\n&7Boden für dich sammeln und sofort\n&7verkaufen! Diese landen in: &f/verdienste"
         },
+        "HOLO.challengeupdate":
+        {
+            "en_US": "&x&0&0&E&8&F&F&lNEW!\n&x&F&F&D&2&0&0&n/challenge <name>&7 now with\n&7bets! The winner takes it all!\n&7(You don't lose your inventory)",
+            "de_DE": "&x&0&0&E&8&F&F&lNEU!\n&x&F&F&D&2&0&0&n/challenge <name>&7 jetzt mit\n&7Wetteinsätzen! Der Gewinner bekommt alles!\n&7(Inventar verliert man nicht)"
+        },
     }
 }
