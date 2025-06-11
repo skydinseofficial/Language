@@ -455,7 +455,8 @@
         {
             "en_US": "&6Player visibility",
             "de_DE": "&6Spielersichtbarkeit",
-            "tr_TR": "&6Oyuncu görünürlüğü"
+            "tr_TR": "&6Oyuncu görünürlüğü",
+            "ru_RU": "&6Видимость игрока"
         },
         "SETTINGS.playerhider.lore":
         {
@@ -592,6 +593,7 @@
             "de_DE": "Spieler:innensichtbarkeit",
             "tr_TR": "Oyuncu görünürlüğü",
             "ko_KR": "플레이어 표시"
+            "ru_RU": "Видимость игрока"
         },
         "TIKTOK.sky.already_owned":
         {
@@ -948,6 +950,7 @@
             "de_DE": "&e???",
             "tr_TR": "&e???",
             "ko_KR": "&e???"
+            "ru_RU": "&e???"
         },
         "NAVIGATOR.button.game_creative":
         {
@@ -961,13 +964,15 @@
             "de_DE": "&e???",
             "tr_TR": "&e???",
             "ko_KR": "&e???"
+            "ru_RU": "&e???"
         },
         "NAVIGATOR.button.game_citybuild":
         {
             "en_US": "&e???",
             "de_DE": "&e???",
             "tr_TR": "&e???",
-            "ko_KR": "&e???"
+            "ko_KR": "&e???",
+            "ru_RU": "&e???"
         },
         "NAVIGATOR.button.lobbygame_sdplace":
         {
