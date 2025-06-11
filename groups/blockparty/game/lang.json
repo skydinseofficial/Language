@@ -5,112 +5,134 @@
         "WORD.song":
         {
             "en_US": "Song",
-            "de_DE": "Song"
+            "de_DE": "Song",
+            "ru_RU": "Песня"
         },
         "WORD.searchtime":
         {
             "en_US": "Search Time",
-            "de_DE": "Suchzeit"
+            "de_DE": "Suchzeit",
+            "ru_RU": "время поиска"
         },
         "WORD.round":
         {
             "en_US": "Round",
-            "de_DE": "Runde"
+            "de_DE": "Runde",
+            "ru_RU": "раунд"
         },
         "WORD.seconds":
         {
             "en_US": "Seconds",
-            "de_DE": "Sekunden"
+            "de_DE": "Sekunden",
+            "ru_RU": "секунды"
         },
         "WORD.second":
         {
             "en_US": "Second",
-            "de_DE": "Sekunde"
+            "de_DE": "Sekunde",
+            "ru_RU": "второй"
         },
         "WORD.red_concrete":
         {
             "en_US": "RED",
-            "de_DE": "ROT"
+            "de_DE": "ROT",
+            "ru_RU": "красный"
         },
         "WORD.black_concrete":
         {
             "en_US": "BLACK",
-            "de_DE": "SCHWARZ"
+            "de_DE": "SCHWARZ",
+            "ru_RU": "шварц"
         },
         "WORD.green_concrete":
         {
             "en_US": "GREEN",
-            "de_DE": "GRÜN"
+            "de_DE": "GRÜN",
+            "ru_RU": "Грюн"
         },
         "WORD.brown_concrete":
         {
             "en_US": "BROWN",
-            "de_DE": "BRAUN"
+            "de_DE": "BRAUN",
+            "ru_RU": "Коричневый"
         },
         "WORD.blue_concrete":
         {
             "en_US": "BLUE",
-            "de_DE": "BLAU"
+            "de_DE": "BLAU",
+            "ru_RU": "Голубой"
         },
         "WORD.purple_concrete":
         {
             "en_US": "PURPLE",
-            "de_DE": "LILA"
+            "de_DE": "LILA",
+            "ru_RU": "Фиолетовый"
         },
         "WORD.cyan_concrete":
         {
             "en_US": "CYAN",
             "de_DE": "TÜRKIS"
+            "ru_RU": "голубой"
         },
         "WORD.light_gray_concrete":
         {
             "en_US": "LIGHT GRAY",
-            "de_DE": "HELL GRAU"
+            "de_DE": "HELL GRAU",
+            "ru_RU": "светло-серый"
         },
         "WORD.gray_concrete":
         {
             "en_US": "GRAY",
-            "de_DE": "GRAU"
+            "de_DE": "GRAU",
+            "ru_RU": "серый"
         },
         "WORD.pink_concrete":
         {
             "en_US": "PINK",
-            "de_DE": "PINK"
+            "de_DE": "PINK",
+            "ru_RU": "розовый"
         },
         "WORD.lime_concrete":
         {
             "en_US": "LIME",
-            "de_DE": "HELL GRÜN"
+            "de_DE": "HELL GRÜN",
+            "ru_RU": "известь"
         },
         "WORD.yellow_concrete":
         {
             "en_US": "YELLOW",
-            "de_DE": "GELB"
+            "de_DE": "GELB",
+            "ru_RU": "желтый"
         },
         "WORD.light_blue_concrete":
         {
             "en_US": "LIGHT BLUE",
-            "de_DE": "HELL BLAU"
+            "de_DE": "HELL BLAU",
+            "ru_RU": "светло-голубой"
         },
         "WORD.magenta_concrete":
         {
             "en_US": "MAGENTA",
-            "de_DE": "MAGENTA"
+            "de_DE": "MAGENTA",
+            "ru_RU": "пурпурный"
         },
         "WORD.orange_concrete":
         {
             "en_US": "ORANGE",
-            "de_DE": "ORANGE"
+            "de_DE": "ORANGE",
+            "ru_RU": "Оранжевый"
         },
         "WORD.white_concrete":
         {
             "en_US": "WHITE",
-            "de_DE": "WEIß"
+            "de_DE": "WEIß",
+            "ru_RU": "белый"
         },
         "MSG.nextcolor":
         {
             "en_US": "&7The next color is [color]&7!",
-            "de_DE": "&7Die nächste Farbe ist [color]&7!"
+            "de_DE": "&7Die nächste Farbe ist [color]&7!",
+            "ru_RU": "&7Следующий цвет - [color]&7!"
         },
         "MSG.speedincreased":
         {
@@ -120,12 +142,14 @@
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
-            "de_DE": "Song-Voting"
+            "de_DE": "Song-Voting",
+            "ru_RU": "Голосование за песни"
         },
         "ITEM.songvoting":
         {
             "en_US": "<#FF003F>Song Voting",
-            "de_DE": "<#FF003F>Song-Voting"
+            "de_DE": "<#FF003F>Song-Voting",
+            "ru_RU": "<#FF003F>Голосование за песни"
         },
         "MSG.songvoting.announcewinner":
         {
@@ -140,7 +164,8 @@
         "GUI.customsettings.main.title":
         {
             "en_US": "General BlockParty Settings",
-            "de_DE": "Allgemeine BlockParty-Einstellungen"
+            "de_DE": "Allgemeine BlockParty-Einstellungen",
+            "ru_RU": "Общие настройки BlockParty"
         },
         "GUI.customsettings.main.setting.defaultsearchtime":
         {
