@@ -5,68 +5,90 @@
         "ASHLYN.gui.randomgame":
         {
             "en_US": "Random Game",
+            "en_GB": "Random Game",
             "de_DE": "Zufälliges Spiel",
-            "tr_TR": "Rastgele oyun"
+            "tr_TR": "Rastgele oyun",
+            "ru_RU": "Случайная игра"
         },
         "ASHLYN.gui.privategame":
         {
-            "en_US": "Create custom game",
+            "en_US": "Create a custom game",
+            "en_GB": "Create a custom game",
             "de_DE": "Custom Runde erstellen",
-            "tr_TR": "Özel oyun oluşturma"
+            "tr_TR": "Özel oyun oluşturma",
+            "ru_RU": "Создайте пользовательскую игру"
         },
         "ASHLYN.gui.settings":
         {
             "en_US": "Settings",
+            "en_GB": "Settings",
             "de_DE": "Einstellungen",
-            "tr_TR": "Ayarlar"
+            "tr_TR": "Ayarlar",
+            "ru_RU": "Настройки"
         },
         "ASHLYN.gui.nextpage":
         {
             "en_US": "Next Page",
+            "en_GB": "Next Page",
             "de_DE": "Nächste Seite",
-            "tr_TR": "Sonraki sayfa"
+            "tr_TR": "Sonraki sayfa",
+            "ru_RU": "Следующая страница"
         },
         "ASHLYN.gui.previouspage":
         {
             "en_US": "Previous Page",
+            "en_GB": "Previous Page",
             "de_DE": "Vorherige Seite",
-            "tr_TR": "Önceki sayfa"
+            "tr_TR": "Önceki sayfa",
+            "ru_RU": "Предыдущая страница"
         },
         "ASHLYN.gui.page":
         {
             "en_US": "Page",
+            "en_GB": "Page",
             "de_DE": "Seite",
-            "tr_TR": "Sayfa"
+            "tr_TR": "Sayfa",
+            "ru_RU": "страница"
         },
         "ASHLYN.gui.back":
         {
             "en_US": "Back",
+            "en_GB": "Back",
             "de_DE": "Zurück",
-            "tr_TR": "Geri"
+            "tr_TR": "Geri",
+            "ru_RU": "Назад"
         },
         "ASHLYN.pleasewait":
         {
             "en_US": "Please wait a moment!",
+            "en_GB": "Please wait a moment!",
             "de_DE": "Bitte warte einen Moment!",
-            "tr_TR": "Lütfen bir dakika bekle!"
+            "tr_TR": "Lütfen bir dakika bekle!",
+            "ru_RU": "Пожалуйста, подождите немного!"
         },
         "ASHLYN.click2create":
         {
             "en_US": "Click to create",
+            "en_GB": "Click to create",
             "de_DE": "Klicke zum erstellen",
-            "tr_TR": "Oluşturmak için bas"
+            "tr_TR": "Oluşturmak için bas",
+            "ru_RU": "Нажмите, чтобы создать"
         },
         "ASHLYN.startinground":
         {
-            "en_US": "Game is starting...",
+            "en_US": "Game starts...",
+            "en_GB": "Game starts...",
             "de_DE": "Spiel wird gestartet...",
-            "tr_TR": "Oyun başlıyor..."
+            "tr_TR": "Oyun başlıyor...",
+            "ru_RU": "Начало игры..."
         },
         "ASHLYN.erroronstartup":
         {
             "en_US": "An error occurred whilst starting your game! Please try again or report this issue to our staff.",
+            "en_GB": "An error occurred whilst starting your game! Please try again or report this issue to our staff.",
             "de_DE": "Beim Starten deines Spiels ist ein Fehler aufgetreten! Bitte versuche es erneut oder melde das Problem unserem Team.",
-            "tr_TR": "Oyunun başlatırken bir hata oluştu! Lütfen tekrar dene veya sorunu ekibimize bildir."
+            "tr_TR": "Oyunun başlatırken bir hata oluştu! Lütfen tekrar dene veya sorunu ekibimize bildir.",
+            "ru_RU": "При запуске вашей игры произошла ошибка! Пожалуйста, попробуйте еще раз или сообщите об этом нашим сотрудникам."
         }
     }
 }
