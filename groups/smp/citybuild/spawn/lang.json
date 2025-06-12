@@ -36,6 +36,51 @@
         {
             "en_US": "&x&F&F&C&8&5&1&lFARM WORLD;&7(Teleport)",
             "de_DE": "&x&F&F&C&8&5&1&LFARMWELT;&7(Teleportieren)"
+        },
+        "HOLO.afkarea":
+        {
+            "en_US": "&x&F&F&1&4&1&0&nᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
+            "de_DE": "&x&F&F&1&4&1&0&nᴀғᴋ ʙᴇʀᴇɪᴄʜ\n&7Stehe hier afk, um regelmäßig\n&7Belohnungen zu erhalten!\n&7Deine Zeit bleibt stehen."
+        },
+        "HOLO.vote":
+        {
+            "en_US": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Have you voted today?\n&7Get rewards with &f/vote&7!",
+            "de_DE": "&x&F&F&D&8&0&0&nᴠᴏᴛᴇ\n&7Heute schon gevotet?\n&7Erhalte Belohnungen mit &f/vote&7!"
+        },
+        "HOLO.earnings":
+        {
+            "en_US": "&x&0&0&D&D&6&5&nᴇᴀʀɴɪɴɢs\n&7Come by regularly and\n&7collect your earnings!",
+            "de_DE": "&x&0&0&D&D&6&5&nᴠᴇʀᴅɪᴇɴsᴛᴇ\n&7Komm regelmäßig vorbei und\n&7hol' deine Verdienste ab!"
+        },
+        "HOLO.trialtrader":
+        {
+            "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7all kinds of trials!",
+            "de_DE": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7Bei mir kommst du an\n&7alle möglichen Trials!"
+        },
+        "HOLO.farmingworld":
+        {
+            "en_US": "&x&0&0&A&3&F&F&nᴊᴏɪɴ ғᴀʀᴍɪɴɢ ᴡᴏʀʟᴅ\n&7Enter a farming world via\n&fRandom Teleport",
+            "de_DE": "&x&0&0&A&3&F&F&nғᴀʀᴍᴡᴇʟᴛ ʙᴇᴛʀᴇᴛᴇɴ\n&7Betrete eine Farmwelt via\n&fRandom Teleport"
+        },
+        "HOLO.rewards":
+        {
+            "en_US": "&x&F&F&9&B&0&0&nʀᴇᴡᴀʀᴅs\n&7Rewards available: [amount]",
+            "de_DE": "&x&F&F&9&B&0&0&nʙᴇʟᴏʜɴᴜɴɢᴇɴ\n&7Belohnungen offen: [amount]"
+        },
+        "HOLO.earntokensspawn":
+        {
+            "en_US": "&x&F&F&1&F&D&C&nᴇᴀʀɴ ᴛᴏᴋᴇɴs\n&7Earn tokens even faster\n&7than in the AFK area!",
+            "de_DE": "&x&F&F&1&F&D&C&nᴛᴏᴋᴇɴs ᴠᴇʀᴅɪᴇɴᴇɴ\n&7Verdiene noch schneller Tokens\n&7als im AFK-Bereich!"
+        },
+        "HOLO.media":
+        {
+            "en_US": "&x&B&A&0&0&F&F&nᴍᴇᴅɪᴀ ʀᴀɴᴋ\n&7Got reach?\n&7We've got something for you!",
+            "de_DE": "&x&B&A&0&0&F&F&nᴍᴇᴅɪᴀ ʀᴀɴɢ\n&7Du hast Reichweite?\n&7Wir ham' was für dich!"
+        },
+        "HOLO.rewards.none":
+        {
+            "en_US": "&x&F&F&1&0&0&0ɴᴏɴᴇ",
+            "de_DE": "&x&F&F&1&0&0&0ᴋᴇɪɴᴇ"
         }
     }
 }
