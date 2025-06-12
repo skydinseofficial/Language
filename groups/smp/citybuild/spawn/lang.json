@@ -67,6 +67,11 @@
             "en_US": "&x&F&F&4&6&2&3&nᴘʟᴀʏᴇʀ ᴡᴀʀᴘs\n&7Visit all public &fwarps\n&7from the &fcommunity!",
             "de_DE": "&x&F&F&4&6&2&3&nsᴘɪᴇʟᴇʀ ᴡᴀʀᴘs\n&7Besuche alle öffentlichen\n&fWarps &7von der &fCommunity!"
         },
+        "HOLO.yourproperties":
+        {
+            "en_US": "&x&F&F&D&7&0&0&nʏᴏᴜʀ ᴘʟᴏᴛs\n&7Visit all public &fwarps\n&7from the &fcommunity!",
+            "de_DE": "&x&F&F&D&7&0&0&nᴅᴇɪɴᴇ ᴘʟᴏᴛs\n&7Besuche alle öffentlichen\n&fWarps &7von der &fCommunity!"
+        },
         "HOLO.rewards":
         {
             "en_US": "&x&F&F&9&B&0&0&nʀᴇᴡᴀʀᴅs\n&7Rewards available: [amount]",
