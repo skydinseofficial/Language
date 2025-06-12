@@ -67,10 +67,10 @@
             "en_US": "&x&F&F&4&6&2&3&nᴘʟᴀʏᴇʀ ᴡᴀʀᴘs\n&7Visit all public &fwarps\n&7from the &fcommunity!",
             "de_DE": "&x&F&F&4&6&2&3&nsᴘɪᴇʟᴇʀ ᴡᴀʀᴘs\n&7Besuche alle öffentlichen\n&fWarps &7von der &fCommunity!"
         },
-        "HOLO.yourproperties":
+        "HOLO.yourplots":
         {
-            "en_US": "&x&F&F&D&7&0&0&nʏᴏᴜʀ ᴘʟᴏᴛs\n&7Visit all public &fwarps\n&7from the &fcommunity!",
-            "de_DE": "&x&F&F&D&7&0&0&nᴅᴇɪɴᴇ ᴘʟᴏᴛs\n&7Besuche alle öffentlichen\n&fWarps &7von der &fCommunity!"
+            "en_US": "&x&F&F&D&7&0&0&nʏᴏᴜʀ ᴘʟᴏᴛs\n&7Check out your &flots\n&7or create a &fnew one&7!",
+            "de_DE": "&x&F&F&D&7&0&0&nᴅᴇɪɴᴇ ᴘʟᴏᴛs\n&7Schau dir deine &fGrundstücke\n&7and oder erstelle ein &fneues&7!"
         },
         "HOLO.rewards":
         {
