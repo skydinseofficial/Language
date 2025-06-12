@@ -14,8 +14,8 @@
         },
         "global.guiextra.endevent.desc":
         {
-            "en_US": "&x&C&D&B&2&F&FEnd access every saturday from 16 p.m.%nl%&7Use &x&7&A&3&2&F&F/endevent &7for more information.",
-            "de_DE": "&x&C&D&B&2&F&FZugang zum End jeden Samstag ab 16 Uhr.%nl%&7Nutze &x&7&A&3&2&F&F/endevent &7für mehr Informationen."
+            "en_US": "&x&C&D&B&2&F&FEnd access every saturday from 16 p.m.\n&7Use &x&7&A&3&2&F&F/endevent &7for more information.",
+            "de_DE": "&x&C&D&B&2&F&FZugang zum End jeden Samstag ab 16 Uhr.\n&7Nutze &x&7&A&3&2&F&F/endevent &7für mehr Informationen."
         },
         "global.guiextra.nextreset":
         {
