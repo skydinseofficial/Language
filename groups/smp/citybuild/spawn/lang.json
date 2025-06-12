@@ -62,6 +62,11 @@
             "en_US": "&x&0&0&A&3&F&F&nᴊᴏɪɴ ғᴀʀᴍɪɴɢ ᴡᴏʀʟᴅ\n&7Enter a farming world via\n&fRandom Teleport",
             "de_DE": "&x&0&0&A&3&F&F&nғᴀʀᴍᴡᴇʟᴛ ʙᴇᴛʀᴇᴛᴇɴ\n&7Betrete eine Farmwelt via\n&fRandom Teleport"
         },
+        "HOLO.playerwarps":
+        {
+            "en_US": "&x&F&F&4&6&2&3&nᴘʟᴀʏᴇʀ ᴡᴀʀᴘs\n&7Visit all public &fwarps\n&7from the &fcommunity!",
+            "de_DE": "&x&F&F&4&6&2&3&nsᴘɪᴇʟᴇʀ ᴡᴀʀᴘs\n&7Besuche alle öffentlichen\n&fWarps &7von der &fCommunity!"
+        },
         "HOLO.rewards":
         {
             "en_US": "&x&F&F&9&B&0&0&nʀᴇᴡᴀʀᴅs\n&7Rewards available: [amount]",
