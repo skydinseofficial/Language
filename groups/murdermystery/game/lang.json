@@ -157,6 +157,11 @@
             "en_US": "&7A &fnew &9Sheriff &7has arrived!",
             "de_DE": "&7Ein &fneuer &9Sheriff &7ist eingetroffen!"
         },
+        "MSG.info.grave.OWNER":
+        {
+            "en_US": "&7Here lies &f[player]&7.",
+            "de_DE": "&7Hier liegt &f[player]&7."
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]",
