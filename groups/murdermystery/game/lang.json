@@ -147,6 +147,16 @@
             "en_US": "&aYou survived! &bYou recieved additional &f10 &eBonus-XP",
             "de_DE": "&aDu hast überlebt! &bDu erhälst &f10 &eBonus-XP!"
         },
+        "MSG.info.sheriff.DIED":
+        {
+            "en_US": "&9The Sheriff died! &r&7&oFind his hat on the map to become the new one.",
+            "de_DE": "&9Der Sheriff ist gestorben! &r&7&oFinde seinen Hut, um ein neuer zu werden."
+        },
+        "MSG.info.sheriff.NEW":
+        {
+            "en_US": "&7A &fnew &9Sheriff &7has arrived!",
+            "de_DE": "&7Ein &fneuer &9Sheriff &7ist eingetroffen!"
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]",
