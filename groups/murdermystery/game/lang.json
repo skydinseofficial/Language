@@ -127,6 +127,26 @@
             "en_US": "&cYou already have a Potion. &7&oDrink it first!",
             "de_DE": "&cDu hast bereits einen Trank. &7&oTrinke ihn zuerst!"
         },
+        "MSG.info.NOTEAMING":
+        {
+            "en_US": "&c&lNo Crossteaming! &r&6Team players will be banned.",
+            "de_DE": "&c&lKein Crossteaming! &r&6Teamspieler werden gebannt."
+        },
+        "MSG.info.ONE-USE-ZAPPER":
+        {
+            "en_US": "&bYou have recieved a One-Shot-Zapper! &cUse it wisely or get eliminated.",
+            "de_DE": "&bDu hast einen Einschuss-Zapper erhalten! &cVerwende ihn bedacht, oder du scheidest aus."
+        },
+        "MSG.info.minute.SURVIVED":
+        {
+            "en_US": "&aYou survived a minute! &bYou recieved additional &f10 &eBonus-XP",
+            "de_DE": "&aDu hast eine Minute überlebt! &bDu erhälst &f10 &eBonus-XP!"
+        },
+        "MSG.info.end.SURVIVED":
+        {
+            "en_US": "&aYou survived! &bYou recieved additional &f10 &eBonus-XP",
+            "de_DE": "&aDu hast überlebt! &bDu erhälst &f10 &eBonus-XP!"
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]",
@@ -141,6 +161,16 @@
         {
             "en_US": "[role]    [xp]    [coins]    [kills]",
             "de_DE": "[role]    [xp]    [coins]    [kills]"
+        },
+        "TITLE.title.DIED":
+        {
+            "en_US": "&cYOU DIED",
+            "de_DE": "&cGESTORBEN"
+        },
+        "TITLE.subtitle.DIED":
+        {
+            "en_US": "&eDon't ghost!",
+            "de_DE": "&eKein Ghosting!"
         },
         "ITEM.ingame.SWORD":
         {
