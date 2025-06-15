@@ -47,6 +47,11 @@
             "en_US": "Bad Mystery Potion Effects",
             "de_DE": "Schlechte Effekte bei Mysteriösem Trank"
         },
+        "GUI.customsettings.main.setting.innocent-finder":
+        {
+            "en_US": "Innocent Finder in last x minutes",
+            "de_DE": "Unschuldigenfinder in den letzten x Minuten"
+        },
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
