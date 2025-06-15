@@ -167,6 +167,11 @@
             "en_US": "&7Here lies &f[player]&7.",
             "de_DE": "&7Hier liegt &f[player]&7."
         },
+        "MSG.info.innocent.FINDER":
+        {
+            "en_US": "&7You have recieved a &aInnocent Finder&7! &8Use it to get guided.",
+            "de_DE": "&7HDu hast einen &aUnschuldigenfinder &7erhalten! &8Rechtsklicke ihn, um dich zu einem Unschuldigen zu leiten."
+        },
         "ACTIONBAR.ingame.INNOCENT":
         {
             "en_US": "[role]    [xp]    [coins]",
