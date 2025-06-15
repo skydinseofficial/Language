@@ -205,7 +205,7 @@
         "TITLE.won.MURDERER":
         {
             "en_US": "&cThe Murderer[subtitle]&7has won the game!",
-            "de_DE": "&aDer Mörder[subtitle]&7haben das Spiel gewonnen!"
+            "de_DE": "&cDer Mörder[subtitle]&7hat das Spiel gewonnen!"
         },
         "ITEM.ingame.SWORD":
         {
@@ -255,7 +255,7 @@
         "BOSSBAR.won.MURDERER":
         {
             "en_US": "&cThe Murderer &7has won the game!",
-            "de_DE": "&aDer Mörder &7haben das Spiel gewonnen!"
+            "de_DE": "&cDer Mörder &7hat das Spiel gewonnen!"
         }
     }
 }
