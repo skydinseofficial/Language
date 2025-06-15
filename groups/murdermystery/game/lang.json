@@ -197,6 +197,16 @@
             "en_US": "&eDon't ghost!",
             "de_DE": "&eKein Ghosting!"
         },
+        "TITLE.won.INNOCENTS":
+        {
+            "en_US": "&aThe Innocents[subtitle]&7have won the game!",
+            "de_DE": "&aDie Unschuldigen[subtitle]&7haben das Spiel gewonnen!"
+        },
+        "TITLE.won.MURDERER":
+        {
+            "en_US": "&cThe Murderer[subtitle]&7has won the game!",
+            "de_DE": "&aDer Mörder[subtitle]&7haben das Spiel gewonnen!"
+        },
         "ITEM.ingame.SWORD":
         {
             "en_US": "&cKnife",
@@ -236,6 +246,16 @@
         {
             "en_US": "&7Distance: &f[distance] &8(Tracking [target])",
             "de_DE": "&7Entfernung: &f[distance] &8(Tracke [target])"
+        },
+        "BOSSBAR.won.INNOCENTS":
+        {
+            "en_US": "&aThe Innocents &7have won the game!",
+            "de_DE": "&aDie Unschuldigen &7haben das Spiel gewonnen!"
+        },
+        "BOSSBAR.won.MURDERER":
+        {
+            "en_US": "&cThe Murderer &7has won the game!",
+            "de_DE": "&aDer Mörder &7haben das Spiel gewonnen!"
         }
     }
 }
