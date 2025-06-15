@@ -221,6 +221,11 @@
         {
             "en_US": "&dMystery Potion",
             "de_DE": "&dMysteriöser Trank"
+        },
+        "ITEM.ingame.innocent-FINDER":
+        {
+            "en_US": "&aInnocent Finder &7[Use]",
+            "de_DE": "&aUnschuldigenfinder &7[Rechtsklick]"
         }
     }
 }
