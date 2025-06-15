@@ -231,6 +231,11 @@
         {
             "en_US": "&aInnocent Finder &7[Use]",
             "de_DE": "&aUnschuldigenfinder &7[Rechtsklick]"
+        },
+        "ITEM.ingame.innocent.finder.TRACKING":
+        {
+            "en_US": "&7Distance: &f[distance] &8(Tracking [target])",
+            "de_DE": "&7Entfernung: &f[distance] &8(Tracke [target])"
         }
     }
 }
