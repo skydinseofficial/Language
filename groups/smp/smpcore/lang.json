@@ -262,6 +262,16 @@
             "en_US": "Faction:",
             "de_DE": "Fraktion:"
         },
+        "scoreboard.tokens":
+        {
+            "en_US": "Tokens:",
+            "de_DE": "Tokens:"
+        },
+        "scoreboard.voteparty":
+        {
+            "en_US": "Vote Party:",
+            "de_DE": "Voteparty:"
+        },
         "serverlogic.bordernear":
         {
             "en_US": "Server border in [amount] blocks!",
