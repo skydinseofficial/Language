@@ -67,6 +67,56 @@
             "en_US": "Earning:",
             "de_DE": "Verdienst:"
         },
+        "task.minecoal":
+        {
+            "en_US": "Mine Coal",
+            "de_DE": "Baue Kohle ab"
+        },
+        "task.mineiron":
+        {
+            "en_US": "Mine Iron",
+            "de_DE": "Baue Eisen ab"
+        },
+        "task.minecopper":
+        {
+            "en_US": "Mine Copper",
+            "de_DE": "Baue Kupfer ab"
+        },
+        "task.mineredstone":
+        {
+            "en_US": "Mine Redstone",
+            "de_DE": "Baue Redstone ab"
+        },
+        "task.minegold":
+        {
+            "en_US": "Mine Gold",
+            "de_DE": "Baue Gold ab"
+        },
+        "task.minelapis":
+        {
+            "en_US": "Mine Lapis Lazuli",
+            "de_DE": "Baue Lapis Lazuli ab"
+        },
+        "task.mineemeralds":
+        {
+            "en_US": "Mine Emerald",
+            "de_DE": "Baue Smaragd ab"
+        },
+        "task.minediamond":
+        {
+            "en_US": "Mine Diamond",
+            "de_DE": "Baue Diamant ab"
+        },
+        "task.minenethergold":
+        {
+            "en_US": "Mine Nether Gold",
+            "de_DE": "Baue Nether Gold ab"
+        },
+        "task.minequartz":
+        {
+            "en_US": "Mine Quartz",
+            "de_DE": "Baue Quartz"
+        },
         "GUI.main.title":
         {
             "en_US": "Professions",
