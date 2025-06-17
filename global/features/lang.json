@@ -212,6 +212,11 @@
             "en_US": "&cYou must specify a message that you want to send.",
             "de_DE": "&cDu musst eine Nachricht angeben, die du abschicken möchtest."
         },
+        "MSG.feature.universechat.clicktoanswer":
+        {
+            "en_US": "&x&F&F&D&2&0&0Click to answer!",
+            "de_DE": "&x&F&F&D&2&0&0Klicke zum Antworten!"
+        },
         "GUI.featurelocked.rankneeded":
         {
             "en_US": "&cRequired Rank: &f[rank]",
@@ -389,8 +394,8 @@
         },
         "GUI.feature.universechat.description":
         {
-            "en_US": "&7Chat with all the universe players, VIPs\n&7and staff members all over the entire network!",
-            "de_DE": "&7Chatte mit allen Universe-Spielern, VIPs\n&7und Teammitgliedern auf dem gesamten Netzwerk!"
+            "en_US": "&7Chat with all the universe players,\n&7VIPsand staff members all over the\n&7entire network! Use &x&F&F&D&2&0&0&n/uc&7 to chat.",
+            "de_DE": "&7Chatte mit allen Universe-Spielern,\n&7VIPs und Teammitgliedern auf dem\n&7gesamten Netzwerk! Nutze &x&F&F&D&2&0&0&n/uc&7 zum chatten."
         },
         "RECEIVER.msg.thanksforpurchase":
         {
