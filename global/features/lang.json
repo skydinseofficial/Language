@@ -372,6 +372,16 @@
             "en_US": "&7No description yet.",
             "de_DE": "&7Noch keine Beschreibung."
         },
+        "GUI.feature.universechat.title":
+        {
+            "en_US": "<#FF466E>Universe Chat",
+            "de_DE": "<#FF466E>Universe Chat"
+        },
+        "GUI.feature.universechat.description":
+        {
+            "en_US": "&7Chat with all the universe players, VIPs\n&7and staff members all over the entire network!",
+            "de_DE": "&7Chatte mit allen Universe-Spielern, VIPs\n&7und Teammitgliedern auf dem gesamten Netzwerk!"
+        },
         "RECEIVER.msg.thanksforpurchase":
         {
             "en_US": "<#50FF00>Thank you &7for your <#FFD84E>purchase &7in our <#FFD84E>online shop&7! By doing so you <#FFD84E>support &7our <#FFD84E>work &7and the <#FFD84E>further existence &7of Skydinse.",
