@@ -202,6 +202,16 @@
             "en_US": "&7Your armor has been &asuccessfully &7saved!",
             "de_DE": "&7Deine Rüstung wurde &aerfolgreich &7gespeichert!"
         },
+        "MSG.feature.universechat.disabled":
+        {
+            "en_US": "&cYou currently have Universe Chat disabled. Use &x&F&F&D&2&0&0&n<|features>&c to enable it there.",
+            "de_DE": "&cDu hast den Universe Chat derzeit deaktiviert. Nutze &x&F&F&D&2&0&0&n<|features>&c, um die Funktion dort zu aktivieren."
+        },
+        "MSG.feature.universechat.entermessage":
+        {
+            "en_US": "&cYou must specify a message that you want to send.",
+            "de_DE": "&cDu musst eine Nachricht angeben, die du abschicken möchtest."
+        },
         "GUI.featurelocked.rankneeded":
         {
             "en_US": "&cRequired Rank: &f[rank]",
