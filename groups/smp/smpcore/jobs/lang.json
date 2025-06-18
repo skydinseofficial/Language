@@ -49,8 +49,8 @@
         },
         "msg.joblevelup":
         {
-            "en_US": "&7You are now <#50FF00>Level [level] &8([job]&8)&7! Your <#FFD84E>salary bonus &7is now <#FFD200>[earningboost] &8(&7+[percent]&8)&7.",
-            "de_DE": "&7Du bist nun <#50FF00>Level [level] &8([job]&8)&7! Dein <#FFD84E>Gehaltsbonus &7beträgt nun <#FFD200>[earningboost] &8(&7+[percent]&8)&7."
+            "en_US": "&7You are now <#50FF00>Level [level] &8([job]&8)&7! Your <#FFD84E>salary bonus &7is now <#FFD200>[earningboost]% &8(&7+[percent]%&8)&7.",
+            "de_DE": "&7Du bist nun <#50FF00>Level [level] &8([job]&8)&7! Dein <#FFD84E>Gehaltsbonus &7beträgt nun <#FFD200>[earningboost]% &8(&7+[percent]%&8)&7."
         },
         "scoreboard.word.level":
         {
