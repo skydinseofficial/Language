@@ -5,7 +5,8 @@
         "GUI.customsettings.main.title":
         {
             "en_US": "Settings » Murder Mystery",
-            "de_DE": "Einstellungen » Murder Mystery"
+            "de_DE": "Einstellungen » Murder Mystery",
+            "de_XX": "Optimierungsmöglichkeiten » Mörder Mysterium"
         },
         "GUI.customsettings.main.setting.murdereramount":
         {
@@ -15,7 +16,8 @@
         "GUI.customsettings.main.setting.coin-spawn-rate":
         {
             "en_US": "Coin Spawn Rate (seconds)",
-            "de_DE": "Münzen-Spawnrate (Sekunden)"
+            "de_DE": "Münzen-Spawnrate (Sekunden)",
+            "de_XX": "Moneten-Spawnrate (Sekunden)"
         },
         "GUI.customsettings.main.setting.sheriff-bow-coins":
         {
@@ -30,7 +32,8 @@
         "GUI.customsettings.main.setting.ingametime":
         {
             "en_US": "Game Lenght (minutes)",
-            "de_DE": "Spiellänge (Minuten)"
+            "de_DE": "Spiellänge (Minuten)",
+            "de_XX": "Elend-länge (Minuten)"
         },
         "GUI.customsettings.main.setting.interactables":
         {
@@ -55,47 +58,56 @@
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
-            "de_DE": "&aUnschuldig"
+            "de_DE": "&aUnschuldig",
+            "de_XX": "&aLangweiler"
         },
         "TEXT.role.INNOCENTS":
         {
             "en_US": "Innocents",
-            "de_DE": "Unschuldige"
+            "de_DE": "Unschuldige",
+            "de_XX": "Langweiler"
         },
         "TEXT.role.SHERIFF":
         {
             "en_US": "&9Sheriff",
-            "de_DE": "&9Sheriff"
+            "de_DE": "&9Sheriff",
+            "de_XX": "&9Spaßbremse"
         },
         "TEXT.role.MURDERER":
         {
             "en_US": "&cMurderer",
-            "de_DE": "&cMörder"
+            "de_DE": "&cMörder",
+            "de_XX": "&cFortnite-Kiddie"
         },
         "TEXT.role.desc.INNOCENT":
         {
             "en_US": "&bTry to survive!",
-            "de_DE": "&bVersuche zu überleben!"
+            "de_DE": "&bVersuche zu überleben!",
+            "de_XX": "&bVersuche nicht an Langeweile zu sterben!"
         },
         "TEXT.role.desc.SHERIFF":
         {
             "en_US": "&cFind an kill the murderer!",
-            "de_DE": "&cFinde und eliminiere den Mörder!"
+            "de_DE": "&cFinde und eliminiere den Mörder!",
+            "de_XX": "&cKannst ja raten, was du sollst!"
         },
         "TEXT.role.desc.MURDERER":
         {
             "en_US": "&6Kill all innocents!",
-            "de_DE": "&6Töte alle Unschuldigen!"
+            "de_DE": "&6Töte alle Unschuldigen!",
+            "de_XX": "&6Lösch Fortnite!"
         },
         "TEXT.role.plural.INNOCENT":
         {
             "en_US": "&aInnocents",
-            "de_DE": "&aUnschuldigen"
+            "de_DE": "&aUnschuldigen",
+            "de_XX": "&aLangweiler"
         },
         "TEXT.stat.COINS":
         {
             "en_US": "Coins",
-            "de_DE": "Münzen"
+            "de_DE": "Münzen",
+            "de_XX": "Moneten"
         },
         "TEXT.stat.XP":
         {
@@ -105,7 +117,8 @@
         "TEXT.stat.KILLS":
         {
             "en_US": "Kills",
-            "de_DE": "Kills"
+            "de_DE": "Kills",
+            "de_XX": "Ausraster"
         },
         "TEXT.stat.zapper.READY":
         {
@@ -125,17 +138,20 @@
         "MSG.success.potion.BOUGHT":
         {
             "en_US": "&dYou bought a Mystery Potion! &7&oDrink it to see what it does...",
-            "de_DE": "&dDu hast einen Mysteriösen Trank gekauft! &7&oTrinke ihn, um zu sehen, was er macht..."
+            "de_DE": "&dDu hast einen Mysteriösen Trank gekauft! &7&oTrinke ihn, um zu sehen, was er macht...",
+            "de_XX": "&dDu hast eine Mystery Vodka gekauft! &7&oSauf, um zu sehen, was er macht, du Alki..."
         },
         "MSG.error.potion.no.SLOT":
         {
             "en_US": "&cYou already have a Potion. &7&oDrink it first!",
-            "de_DE": "&cDu hast bereits einen Trank. &7&oTrinke ihn zuerst!"
+            "de_DE": "&cDu hast bereits einen Trank. &7&oTrinke ihn zuerst!",
+            "de_XX": "&cDu hast bereits eine Voddie. &7&oSauf dat erst weg!"
         },
         "MSG.info.NOTEAMING":
         {
             "en_US": "&c&lNo Crossteaming! &r&6Team players will be banned.",
-            "de_DE": "&c&lKein Crossteaming! &r&6Teamspieler werden gebannt."
+            "de_DE": "&c&lKein Crossteaming! &r&6Teamspieler werden gebannt.",
+            "de_XX": "&c&lKein Kreuzgruppieren! &r&6Wenn du das trotzdem machst bischde weg."
         },
         "MSG.info.ONE-USE-ZAPPER":
         {
@@ -155,12 +171,14 @@
         "MSG.info.sheriff.DIED":
         {
             "en_US": "&9The Sheriff died! &r&7&oFind his hat on the map to become the new one.",
-            "de_DE": "&9Der Sheriff ist gestorben! &r&7&oFinde seinen Hut, um ein neuer zu werden."
+            "de_DE": "&9Der Sheriff ist gestorben! &r&7&oFinde seinen Hut, um ein neuer zu werden.",
+            "de_XX": "&9Juhuuu, die Spaßbremse ist weg! &r&7&oFinde den Hut, um die neue zu werden."
         },
         "MSG.info.sheriff.NEW":
         {
             "en_US": "&7A &fnew &9Sheriff &7has arrived!",
-            "de_DE": "&7Ein &fneuer &9Sheriff &7ist eingetroffen!"
+            "de_DE": "&7Ein &fneuer &9Sheriff &7ist eingetroffen!",
+            "de_XX": "&7Eine &fneue &9Spaßbremse &7ist eingetrudelt!"
         },
         "MSG.info.grave.OWNER":
         {
@@ -190,32 +208,38 @@
         "TITLE.title.DIED":
         {
             "en_US": "&cYOU DIED",
-            "de_DE": "&cGESTORBEN"
+            "de_DE": "&cGESTORBEN",
+            "de_XX": "&cVERRECKT!"
         },
         "TITLE.subtitle.DIED":
         {
             "en_US": "&eDon't ghost!",
-            "de_DE": "&eKein Ghosting!"
+            "de_DE": "&eKein Ghosting!",
+            "de_XX": "&eSei keine Petze!"
         },
         "TITLE.won.INNOCENTS":
         {
             "en_US": "&aThe Innocents[subtitle]&7have won the game!",
-            "de_DE": "&aDie Unschuldigen[subtitle]&7haben das Spiel gewonnen!"
+            "de_DE": "&aDie Unschuldigen[subtitle]&7haben das Spiel gewonnen!",
+            "de_XX": "&aDie Langweiler[subtitle]&7haben das Spiel gewonnen!"
         },
         "TITLE.won.MURDERER":
         {
             "en_US": "&cThe Murderer[subtitle]&7has won the game!",
-            "de_DE": "&cDer Mörder[subtitle]&7hat das Spiel gewonnen!"
+            "de_DE": "&cDer Mörder[subtitle]&7hat das Spiel gewonnen!",
+            "de_XX": "&cDas Fortnite Kiddie[subtitle]&7hat das Spiel gewonnen!"
         },
         "ITEM.ingame.SWORD":
         {
             "en_US": "&cKnife",
-            "de_DE": "&cMesser"
+            "de_DE": "&cMesser",
+            "de_XX": "&cV-Bucks"
         },
         "ITEM.ingame.throwable.SWORD":
         {
             "en_US": "&6Throwable sword",
-            "de_DE": "&6Wurfschwert"
+            "de_DE": "&6Wurfschwert",
+            "de_XX": "&6Mir fällt nix ein"
         },
         "ITEM.ingame.zapper.BOW":
         {
@@ -235,12 +259,14 @@
         "ITEM.ingame.mystery.POTION":
         {
             "en_US": "&dMystery Potion",
-            "de_DE": "&dMysteriöser Trank"
+            "de_DE": "&dMysteriöser Trank",
+            "de_XX": "&dMystery Vodka"
         },
         "ITEM.ingame.innocent.FINDER":
         {
-            "en_US": "&aInnocent Finder &7[Use]",
-            "de_DE": "&aUnschuldigenfinder &7[Rechtsklick]"
+            "en_US": "&aInnocent Finder &7[Hold]",
+            "de_DE": "&aUnschuldigenfinder &7[Halten]",
+            "de_XX": "&aLangweilerfinder &7[Halten]"
         },
         "ITEM.ingame.innocent.finder.TRACKING":
         {
@@ -250,12 +276,14 @@
         "BOSSBAR.won.INNOCENTS":
         {
             "en_US": "&aThe Innocents &7have won the game!",
-            "de_DE": "&aDie Unschuldigen &7haben das Spiel gewonnen!"
+            "de_DE": "&aDie Unschuldigen &7haben das Spiel gewonnen!",
+            "de_XX": "&aDie Langweiler &7haben das Spiel gewonnen!"
         },
         "BOSSBAR.won.MURDERER":
         {
             "en_US": "&cThe Murderer &7has won the game!",
-            "de_DE": "&cDer Mörder &7hat das Spiel gewonnen!"
+            "de_DE": "&cDer Mörder &7hat das Spiel gewonnen!",
+            "de_XX": "&cDas Fortnite Kiddie &7hat alle gekillt!"
         }
     }
 }
