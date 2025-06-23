@@ -122,6 +122,11 @@
             "en_US": "Mine Quartz",
             "de_DE": "Baue Quartz ab"
         },
+        "task.desc.perblock":
+        {
+            "en_US": "[earning] &7per block",
+            "de_DE": "[earning] &7pro Block"
+        },
         "GUI.main.title":
         {
             "en_US": "Professions",
