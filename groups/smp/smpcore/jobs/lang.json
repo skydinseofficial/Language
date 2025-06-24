@@ -127,6 +127,11 @@
             "en_US": "[earning] &7per block",
             "de_DE": "[earning] &7pro Block"
         },
+        "task.desc.perblock":
+        {
+            "en_US": "[earning] &7per kill",
+            "de_DE": "[earning] &7pro Tötung"
+        },
         "GUI.main.title":
         {
             "en_US": "Professions",
