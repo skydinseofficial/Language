@@ -966,26 +966,37 @@
             "en_US": "&f\n&7=> &9Join our Discord server at &#5865F2skydinse.net/discord&9!",
             "de_DE": "&f\n&7=> &9Trete unserem Discord-Server unter &#5865F2skydinse.net/discord &9bei!"
         },
-        "NAVIGATOR.button.lobbygame_sdplace":
+        "NAVIGATOR.teleport.title.spawn":
         {
-            "en_US": "<#face05>SD/place",
-            "de_DE": "<#face05>SD/place",
-            "tr_TR": "<#face05>SD/place",
-            "ko_KR": "<#face05>SD/place"
+            "en_US": "<#face05>Spawn",
+            "de_DE": "<#face05>Spawn"
         },
-        "NAVIGATOR.button.lobbygame_minenbreak":
-        {
-            "en_US": "<#face05>Mine 'n' Break",
-            "de_DE": "<#face05>Mine 'n' Break",
-            "tr_TR": "<#face05>Mine 'n' Break",
-            "ko_KR": "<#face05>Mine 'n' Break" 
-        },
-        "NAVIGATOR.button.lobbygame_cookieclicker":
+        "NAVIGATOR.teleport.title.cookieclicker":
         {
             "en_US": "<#face05>Cookie clicker",
             "de_DE": "<#face05>Cookieclicker",
             "tr_TR": "<#face05>Cookie clicker",
             "ko_KR": "<#face05>쿠키 클리커"
+        },
+        "NAVIGATOR.teleport.title.pointlessbutton":
+        {
+            "en_US": "<#face05>Pointless button",
+            "de_DE": "<#face05>Sinnloser Knopf"
+        },
+        "NAVIGATOR.teleport.title.rewards":
+        {
+            "en_US": "<#face05>Rewards",
+            "de_DE": "<#face05>Belohnungen"
+        },
+        "NAVIGATOR.teleport.title.bloomshop":
+        {
+            "en_US": "<#face05>Bloom shop",
+            "de_DE": "<#face05>Blüten-Shop"
+        },
+        "NAVIGATOR.button.clicktp":
+        {
+            "en_US": "&f\n&7» Click to teleport",
+            "de_DE": "&f\n&7» Klicke, um dich zu teleportieren"
         },
         "NAVIGATOR.button.online":
         {
