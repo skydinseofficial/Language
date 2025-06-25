@@ -854,11 +854,6 @@
             "de_DE": "Tag",
             "ko_KR": "일"
         },
-        "NAVIGATOR.overlay":
-        {
-            "en_US": "",
-            "de_DE": ""
-        },
         "NAVIGATOR.button.random_game":
         {
             "en_US": "&6Play a random game!",
