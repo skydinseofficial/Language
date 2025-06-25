@@ -854,23 +854,10 @@
             "de_DE": "Tag",
             "ko_KR": "일"
         },
-        "NAVIGATOR.title.default":
+        "NAVIGATOR.overlay":
         {
-            "en_US": "包",
-            "de_DE": "果",
-            "pt_BR": "帮"
-        },
-        "NAVIGATOR.title.button_5":
-        {
-            "en_US": "船",
-            "de_DE": "狗",
-            "pt_BR": "湯"
-        },
-        "NAVIGATOR.title.button_6":
-        {
-            "en_US": "尾",
-            "de_DE": "貓",
-            "pt_BR": "匙"
+            "en_US": "",
+            "de_DE": ""
         },
         "NAVIGATOR.button.random_game":
         {
@@ -878,20 +865,6 @@
             "de_DE": "&6Spiele ein zufälliges Spiel!",
             "tr_TR": "&6Rastgele bir oyun oyna!",
             "ko_KR": "&6랜덤 게임 플레이!"
-        },
-        "NAVIGATOR.button.random_fast_game":
-        {
-            "en_US": "&6Play a random &lfast &6game!",
-            "de_DE": "&6Spiele ein zufälliges &lschnelles &6Spiel!",
-            "tr_TR": "&6Rastgele &lhızlı &6bir oyun oyna!",
-            "ko_KR": "&6랜덤 &l빠른 &6게임 플레이!"
-        },
-        "NAVIGATOR.button.random_creative_game":
-        {
-            "en_US": "&6Play a random &lcreative &6game!",
-            "de_DE": "&6Spiele ein zufälliges &lkreatives &6Spiel!",
-            "tr_TR": "&6Rastgele &lyaratıcı &6bir oyun oyna!",
-            "ko_KR": "&6랜덤 &l창의적 &6게임 플레이!"
         },
         "NAVIGATOR.button.spawn":
         {
@@ -907,13 +880,6 @@
             "tr_TR": "&aOlaylar",
             "ko_KR": "&a이벤트"
         },
-        "NAVIGATOR.button.projects":
-        {
-            "en_US": "&cMineAttack V\" # \"&cProjects",
-            "de_DE": "&cMineAttack V\" # \"&cProjekte",
-            "tr_TR": "&cMineAttack V\" # \"&cProjeler",
-            "ko_KR": "&cMineAttack V\" # \"&c프로젝트"
-        },
         "NAVIGATOR.button.game_blockparty":
         {
             "en_US": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y",
@@ -926,45 +892,11 @@
             "de_DE": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r",
             "ko_KR": "<#cb0d0d>머<#d3170f>더<#db2111>미<#e32b14>스<#eb3515>터<#f33f18>리"
         },
-        "NAVIGATOR.button.game_lavarises":
-        {
-            "en_US": "<#fb2600>L<#fb3700>a<#fc4800>v<#fc5900>a<#fc6b00>R<#fc7c00>i<#fd8d00>s<#fd9e00>e<#fdaf00>s",
-            "de_DE": "<#fb2600>L<#fb3700>a<#fc4800>v<#fc5900>a<#fc6b00>R<#fc7c00>i<#fd8d00>s<#fd9e00>e<#fdaf00>s",
-            "ko_KR": "<#fb2600>라<#fb3700>바<#fc4800>v<#fc5900>라<#fc6b00>이<#fc7c00>즈"
-        },
         "NAVIGATOR.button.game_duels":
         {
             "en_US": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
             "de_DE": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
             "ko_KR": "<#ff3a04>듀<#ff4703>얼"
-        },
-        "NAVIGATOR.button.game_maze":
-        {
-            "en_US": "<#51c600>M<#8cd500>a<#8cd500>z<#51c600>e",
-            "de_DE": "<#51c600>M<#8cd500>a<#8cd500>z<#51c600>e",
-            "ko_KR": "<#51c600>미<#8cd500>로"
-        },
-        "NAVIGATOR.button.game_buildffa":
-        {
-            "en_US": "&e???",
-            "de_DE": "&e???",
-            "tr_TR": "&e???",
-            "ko_KR": "&e???",
-            "ru_RU": "&e???"
-        },
-        "NAVIGATOR.button.game_creative":
-        {
-            "en_US": "<#dd4900>C<#e76600>r<#f08400>e<#faa100>a<#faa100>t<#f08400>i<#e76600>v<#dd4900>e",
-            "de_DE": "<#dd4900>C<#e76600>r<#f08400>e<#faa100>a<#faa100>t<#f08400>i<#e76600>v<#dd4900>e",
-            "ko_KR": "<#dd4900>크<#e76600>리<#f08400>에<#faa100>이<#faa100>티<#f08400>브"
-        },
-        "NAVIGATOR.button.game_newgame":
-        {
-            "en_US": "&e???",
-            "de_DE": "&e???",
-            "tr_TR": "&e???",
-            "ko_KR": "&e???",
-            "ru_RU": "&e???"
         },
         "NAVIGATOR.button.game_citybuild":
         {
@@ -1028,41 +960,11 @@
             "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Am längsten überleben\n&7● <#F6D206>Mysteriös\n&7● <#F6D206>Eine:r gegen alle",
             "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>가장 길게 살아남으세요\n&7● <#F6D206>신비로운\n&7● <#F6D206>한명이 모두에게 맞서다"
         },
-        "NAVIGATOR.details.game_lavarises":
-        {
-            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Lucky blocks\n&7● <#F6D206>Survive the lava\n&7● <#F6D206>Equip yourself",
-            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Luckyblöcke\n&7● <#F6D206>Die Lava überleben\n&7● <#F6D206>Rüste dich aus",
-            "ko_KR": "%f\n&7● <#F6D206>미니게임\n&7● <#F6D206>럭키 블록\n&7● <#F6D206>용암에서 살아남기\n&7● <#F6D206>자신을 갖추다"
-        },
         "NAVIGATOR.details.game_duels":
         {
             "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Destroy the anchor\n&7● <#F6D206>1v1",
             "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Zerstöre den Anker\n&7● <#F6D206>1v1",
             "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>MLG 러쉬\n&7● <#F6D206>앵커 파괴\n&7● <#F6D206>1v1"
-        },
-        "NAVIGATOR.details.game_maze":
-        {
-            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Find a way through\n  <#F6D206>the labyrinth\n&7● <#F6D206>Fight against everyone\n&7● <#F6D206>1v1",
-            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Finde einen Weg\n  <#F6D206>durchs Labyrinth\n&7● <#F6D206>Kämpfe gegen alle\n&7● <#F6D206>1v1",
-            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>길 찾기\n&7● <#F6D206>모두와 싸우다\n&7● <#F6D206>1v1"
-        },
-        "NAVIGATOR.details.game_buildffa":
-        {
-            "en_US": "&f\n&7=> Release in the future!",
-            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
-            "ko_KR": "&f\n&7=> 출시 예정!"
-        },
-        "NAVIGATOR.details.game_creative":
-        {
-            "en_US": "&f\n&7● <#F6D206>Creative game\n&7● <#F6D206>Build your own maps\n&7● <#F6D206>Play with your friends\n  <#F6D206>Create beautiful buildings",
-            "de_DE": "&f\n&7● <#F6D206>Kreatives Spiel\n&7● <#F6D206>Baue deine eigenen Maps\n&7● <#F6D206>Spiele mit deinen Freund:innen\n  <#F6D206>Erschaffes wunderschöne Bauwerke",
-            "ko_KR": "&f\n&7● <#F6D206>창의적인 게임\n&7● <#F6D206>나만의 맵 만들기\n&7● <#F6D206>친구들과 함께 플레이\n  <#F6D206>아름다운 건물 만들기"
-        },
-        "NAVIGATOR.details.game_newgame":
-        {
-            "en_US": "&f\n&7=> Release in the future!",
-            "de_DE": "&f\n&7=> Veröffentlichung in der Zukunft!",
-            "ko_KR": "&f\n&7=> 출시 예정!"
         },
         "NAVIGATOR.details.game_citybuild":
         {
@@ -1075,33 +977,6 @@
             "en_US": "&f\n&7=> &2&lVIPs can create events\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
             "de_DE": "&f\n&7=> &2&lVIPs können Events erstellen\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
             "ko_KR": "&f\n&7=> &2&lVIP는 이벤트를 만들 수 있습니다\n&f\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>가라사대 게임"
-        },
-        "NAVIGATOR.details.projects":
-        {
-            "en_US": "&f\n&7● <#F6D206>Inspired by CraftAttack\n  <#F6D206>(a German streamer project)\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/activatable",
-            "de_DE": "&f\n&7● <#F6D206>Inspiriert von CraftAttack\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Claim-System\n&7● <#F6D206>Shopping District\n&7● <#F6D206>PvP de-/aktivierbar",
-            "ko_KR": "%f\n&7● <#F6D206>CraftAttack에서 영감을 받음\n  <#F6D206>(독일 스트리머 프로젝트)\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>땅 시스템\n&7● <#F6D206>상점 지구\n&7● <#F6D206>PvP 활성화/비활성화"
-        },
-        "NAVIGATOR.randomjoin.connect":
-        {
-            "en_US": "&aFound a free game! &7Connecting you to &eVAR1&7...",
-            "de_DE": "&aFreies Spiel gefunden! &7Verbinde dich zu &eVAR1&7...",
-            "tr_TR": "&aMevcut oyun bulundu! &eVAR1'a &7bağlanıyoruz...",
-            "ko_KR": "&a자리가 있는 게임을 찾았습니다! &7&eVAR1&7에 연결 중..."
-        },
-        "NAVIGATOR.randomjoin.error":
-        {
-            "en_US": "&cCouldn't find a free game!",
-            "de_DE": "&cKonnte kein freies Spiel finden!",
-            "tr_TR": "&cUygun bir oyun bulunamadı!",
-            "ko_KR": "&c자리가 있는 게임을 찾을 수 없습니다!"
-        },
-        "NAVIGATOR.nospam":
-        {
-            "en_US": "&cPlease don't spam this action!",
-            "de_DE": "&cBitte spamme diese Aktion nicht!",
-            "tr_TR": "&cLütfen bu kampanyayı spam yapma!",
-            "ko_KR": "&c이 작업을 스팸하지 마십시오!"
         },
         "HOTBAR.advent_calendar.title":
         {
