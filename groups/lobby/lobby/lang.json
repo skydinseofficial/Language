@@ -854,52 +854,117 @@
             "de_DE": "Tag",
             "ko_KR": "일"
         },
-        "NAVIGATOR.button.random_game":
+        "NAVIGATOR.game.title.timesmp":
+        {
+            "en_US": "&#FFC45ET&#F4C853i&#E9CB48m&#DFCF3De&#D4D232S&#C9D627M&#BED91CP"
+        },
+        "NAVIGATOR.game.title.citybuild":
+        {
+            "en_US": "&#F88D00C&#E99807i&#DAA40Et&#CBAF15y&#BCBB1CB&#ADC622u&#9ED129i&#8FDD30l&#80E837d"
+        },
+        "NAVIGATOR.game.title.mineattack":
+        {
+            "en_US": "&#FCEF38M&#E3F22Di&#CAF422n&#B0F716e&#97F90BA&#7EFC00t&#9EF90Et&#BDF61Ca&#DDF22Ac&#FCEF38k"
+        },
+        "NAVIGATOR.game.title.duels":
+        {
+            "en_US": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
+            "ko_KR": "<#ff3a04>듀<#ff4703>얼"
+        },
+        "NAVIGATOR.game.title.murdermystery":
+        {
+            "en_US": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r",
+            "ko_KR": "<#cb0d0d>머<#d3170f>더<#db2111>미<#e32b14>스<#eb3515>터<#f33f18>리"
+        },
+        "NAVIGATOR.game.title.blockparty":
+        {
+            "en_US": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y",
+            "ko_KR": "<#007fff>블<#6a47ff>록<#d40eff>o<#b855aa>파<#70c639>티"
+        },
+        "NAVIGATOR.game.details.timesmp":
+        {
+            "en_US": "&f\n&7● <#F6D206>Time is money!\n&7● <#F6D206>Survival Multiplayer\n&7● <#F6D206>Build farms and bases!\n&7● <#F6D206>Trade with others!",
+            "de_DE": "&f\n&7● <#F6D206>Zeit ist Geld!\n&7● <#F6D206>Survival Multiplayer\n&7● <#F6D206>Baue Farmen und Bases!\n&7● <#F6D206>Handle mit den anderen!"
+        },
+        "NAVIGATOR.game.details.citybuild":
+        {
+            "en_US": "&f\n&7● <#F6D206>Build a city!\n&7● <#F6D206>Build your empire!\n&7● <#F6D206>Trade with others!",
+            "de_DE": "&f\n&7● <#F6D206>Baue eine Stadt!\n&7● <#F6D206>Baue dein Imperium!\n&7● <#F6D206>Handle mit den anderen!"
+        },
+        "NAVIGATOR.game.details.mineattack":
+        {
+            "en_US": "&f\n&7● <#F6D206>Every year!\n&7● <#F6D206>Streamer-inspired SMP project\n&7● <#F6D206>Long tradition!\n&7● &c&lNext season: October 2025",
+            "de_DE": "&f\n&7● <#F6D206>Jedes Jahr!\n&7● <#F6D206>CraftAttack-inspierierter SMP\n&7● <#F6D206>Lange Tradition!\n&7● &c&lNächste Season: Oktober 2025"
+        },
+        "NAVIGATOR.game.details.duels":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Destroy the anchor\n&7● <#F6D206>1v1",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Zerstöre den Anker\n&7● <#F6D206>1v1",
+            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>MLG 러쉬\n&7● <#F6D206>앵커 파괴\n&7● <#F6D206>1v1"
+        },
+        "NAVIGATOR.game.details.murdermystery":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Survive the longest\n&7● <#F6D206>Mysterious\n&7● <#F6D206>One against all",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Am längsten überleben\n&7● <#F6D206>Mysteriös\n&7● <#F6D206>Eine:r gegen alle",
+            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>가장 길게 살아남으세요\n&7● <#F6D206>신비로운\n&7● <#F6D206>한명이 모두에게 맞서다"
+        },
+        "NAVIGATOR.game.details.blockparty":
+        {
+            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Colorful\n&7● <#F6D206>Music\n&7● <#F6D206>One Chance",
+            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Bunt\n&7● <#F6D206>Musik\n&7● <#F6D206>Eine Chance",
+            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>다채로운 색\n&7● <#F6D206>음악\n&7● <#F6D206>한번의 기회"
+        },
+        "NAVIGATOR.button.title.random":
         {
             "en_US": "&6Play a random game!",
-            "de_DE": "&6Spiele ein zufälliges Spiel!",
             "tr_TR": "&6Rastgele bir oyun oyna!",
             "ko_KR": "&6랜덤 게임 플레이!"
         },
-        "NAVIGATOR.button.spawn":
+        "NAVIGATOR.button.title.lobbyswitcher":
         {
-            "en_US": "<#face05>Spawn",
-            "de_DE": "<#face05>Spawn",
-            "tr_TR": "<#face05>Spawn",
-            "ko_KR": "<#face05>스폰"
+            "en_US": "<#face05>Lobby switcher",
+            "de_DE": "<#face05>Lobbyswitcher"
         },
-        "NAVIGATOR.button.events":
+        "NAVIGATOR.button.title.events":
         {
             "en_US": "&aEvents",
-            "de_DE": "&aEvents",
             "tr_TR": "&aOlaylar",
             "ko_KR": "&a이벤트"
         },
-        "NAVIGATOR.button.game_blockparty":
+        "NAVIGATOR.button.title.store":
         {
-            "en_US": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y",
-            "de_DE": "<#007fff>B<#6a47ff>l<#d40eff>o<#b855aa>c<#70c639>k<#74de00>P<#c39c00>a<#ff5e00>r<#ff2f00>t<#ff0000>y",
-            "ko_KR": "<#007fff>블<#6a47ff>록<#d40eff>o<#b855aa>파<#70c639>티"
+            "en_US": "&sStore",
+            "de_DE": "&sShop"
         },
-        "NAVIGATOR.button.game_murdermystery":
+        "NAVIGATOR.button.title.discord":
         {
-            "en_US": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r",
-            "de_DE": "<#cb0d0d>M<#d3170f>u<#db2111>r<#e32b14>d<#eb3516>e<#f33f18>r",
-            "ko_KR": "<#cb0d0d>머<#d3170f>더<#db2111>미<#e32b14>스<#eb3515>터<#f33f18>리"
+            "en_US": "&#5865F2Discord"
         },
-        "NAVIGATOR.button.game_duels":
+        "NAVIGATOR.button.details.random":
         {
-            "en_US": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
-            "de_DE": "<#ff3a04>D<#ff4703>u<#ff5402>e<#ff6101>l<#ff6e00>s",
-            "ko_KR": "<#ff3a04>듀<#ff4703>얼"
+            "en_US": "&f\n&7=> &aJoin a random game!",
+            "de_DE": "&f\n&7=> &aBetrete ein zufälliges Spiel!"
         },
-        "NAVIGATOR.button.game_citybuild":
+        "NAVIGATOR.button.details.lobbyswitcher":
         {
-            "en_US": "&e???",
-            "de_DE": "&e???",
-            "tr_TR": "&e???",
-            "ko_KR": "&e???",
-            "ru_RU": "&e???"
+            "en_US": "&f\n&7=> &eSwitch to another lobby server!",
+            "de_DE": "&f\n&7=> &eWechsle auf einen anderen Lobby-Server!"
+        },
+        "NAVIGATOR.button.details.events":
+        {
+            "en_US": "&f\n&7=> &2&lVIPs can create events\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
+            "de_DE": "&f\n&7=> &2&lVIPs können Events erstellen\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
+            "ko_KR": "&f\n&7=> &2&lVIP는 이벤트를 만들 수 있습니다\n&f\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>가라사대 게임"
+        },
+        "NAVIGATOR.button.details.store":
+        {
+            "en_US": "&f\n&7=> &eVisit our shop at &6store.skydinse.net&e!",
+            "de_DE": "&f\n&7=> &eBesuche unseren Shop unter &6shop.skydinse.net&e!"
+        },
+        "NAVIGATOR.button.details.discord":
+        {
+            "en_US": "&f\n&7=> &9Join our Discord server at &#5865F2skydinse.net/discord&9!",
+            "de_DE": "&f\n&7=> &9Trete unserem Discord-Server unter &#5865F2skydinse.net/discord &9bei!"
         },
         "NAVIGATOR.button.lobbygame_sdplace":
         {
@@ -942,36 +1007,6 @@
             "de_DE": "&6RECHTSKLICK &8» &7Direkt verbinden",
             "tr_TR": "&6SAĞ TIK &8» &7Hemen bağlan",
             "ko_KR": "&6오른쪽 클릭 &8» &7직접 연결"
-        },
-        "NAVIGATOR.details.game_blockparty":
-        {
-            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Colorful\n&7● <#F6D206>Music\n&7● <#F6D206>One Chance",
-            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Bunt\n&7● <#F6D206>Musik\n&7● <#F6D206>Eine Chance",
-            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>다채로운 색\n&7● <#F6D206>음악\n&7● <#F6D206>한번의 기회"
-        },
-        "NAVIGATOR.details.game_murdermystery":
-        {
-            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Survive the longest\n&7● <#F6D206>Mysterious\n&7● <#F6D206>One against all",
-            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Am längsten überleben\n&7● <#F6D206>Mysteriös\n&7● <#F6D206>Eine:r gegen alle",
-            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>가장 길게 살아남으세요\n&7● <#F6D206>신비로운\n&7● <#F6D206>한명이 모두에게 맞서다"
-        },
-        "NAVIGATOR.details.game_duels":
-        {
-            "en_US": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Destroy the anchor\n&7● <#F6D206>1v1",
-            "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>MLG Rush\n&7● <#F6D206>Zerstöre den Anker\n&7● <#F6D206>1v1",
-            "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>MLG 러쉬\n&7● <#F6D206>앵커 파괴\n&7● <#F6D206>1v1"
-        },
-        "NAVIGATOR.details.game_citybuild":
-        {
-            "en_US": "&f\n&7=> Release in spring 2024!",
-            "de_DE": "&f\n&7=> Veröffentlichung im Frühling 2024!",
-            "ko_KR": "&f\n&7=> 2024년 봄에 출시!"
-        },
-        "NAVIGATOR.details.events":
-        {
-            "en_US": "&f\n&7=> &2&lVIPs can create events\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
-            "de_DE": "&f\n&7=> &2&lVIPs können Events erstellen\n&f\n&7● <#F6D206>Vanilla Survival\n&7● <#F6D206>Simon Says",
-            "ko_KR": "&f\n&7=> &2&lVIP는 이벤트를 만들 수 있습니다\n&f\n&7● <#F6D206>바닐라 서바이벌\n&7● <#F6D206>가라사대 게임"
         },
         "HOTBAR.advent_calendar.title":
         {
