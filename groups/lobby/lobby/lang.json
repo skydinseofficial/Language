@@ -973,14 +973,14 @@
         },
         "NAVIGATOR.teleport.title.cookieclicker":
         {
-            "en_US": "<#face05>Cookie clicker",
+            "en_US": "<#face05>Cookie Clicker",
             "de_DE": "<#face05>Cookieclicker",
-            "tr_TR": "<#face05>Cookie clicker",
+            "tr_TR": "<#face05>Cookie Clicker",
             "ko_KR": "<#face05>쿠키 클리커"
         },
         "NAVIGATOR.teleport.title.pointlessbutton":
         {
-            "en_US": "<#face05>Pointless button",
+            "en_US": "<#face05>Pointless Button",
             "de_DE": "<#face05>Sinnloser Knopf"
         },
         "NAVIGATOR.teleport.title.rewards":
@@ -990,7 +990,7 @@
         },
         "NAVIGATOR.teleport.title.bloomshop":
         {
-            "en_US": "<#face05>Bloom shop",
+            "en_US": "<#face05>Bloom Shop",
             "de_DE": "<#face05>Blüten-Shop"
         },
         "NAVIGATOR.button.clicktp":
