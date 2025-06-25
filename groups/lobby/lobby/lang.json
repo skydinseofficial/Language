@@ -914,11 +914,11 @@
             "de_DE": "&f\n&7● <#F6D206>Minigame\n&7● <#F6D206>Bunt\n&7● <#F6D206>Musik\n&7● <#F6D206>Eine Chance",
             "ko_KR": "&f\n&7● <#F6D206>미니게임\n&7● <#F6D206>다채로운 색\n&7● <#F6D206>음악\n&7● <#F6D206>한번의 기회"
         },
-        "NAVIGATOR.button.title.random":
+        "NAVIGATOR.button.title.randomjoin":
         {
-            "en_US": "&6Play a random game!",
-            "tr_TR": "&6Rastgele bir oyun oyna!",
-            "ko_KR": "&6랜덤 게임 플레이!"
+            "en_US": "&aPlay a random game!",
+            "tr_TR": "&aRastgele bir oyun oyna!",
+            "ko_KR": "&a랜덤 게임 플레이!"
         },
         "NAVIGATOR.button.title.lobbyswitcher":
         {
@@ -927,9 +927,9 @@
         },
         "NAVIGATOR.button.title.events":
         {
-            "en_US": "&aEvents",
-            "tr_TR": "&aOlaylar",
-            "ko_KR": "&a이벤트"
+            "en_US": "&5Events",
+            "tr_TR": "&5Olaylar",
+            "ko_KR": "&5이벤트"
         },
         "NAVIGATOR.button.title.store":
         {
