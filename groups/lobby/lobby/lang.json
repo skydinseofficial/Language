@@ -1001,8 +1001,8 @@
         "NAVIGATOR.button.online":
         {
             "en_US": "&f\n&7» Currently online: &aVAR1",
-            "de_DE": "&f\n&7» Aktuell online: &eVAR1",
-            "tr_TR": "&f\n&7» Şu an bağlı: &eVAR1",
+            "de_DE": "&f\n&7» Aktuell online: &aVAR1",
+            "tr_TR": "&f\n&7» Şu an bağlı: &aVAR1",
             "ko_KR": "&f\n&7» 현재 온라인: &aVAR1"
         },
         "NAVIGATOR.button.left_click":
