@@ -1007,16 +1007,16 @@
         },
         "NAVIGATOR.button.left_click":
         {
-            "en_US": "&f\n&6LEFT CLICK &8» &7Teleport",
-            "de_DE": "&f\n&6LINKSKLICK &8» &7Teleportieren",
-            "tr_TR": "&f\n&6SOL TIK &8» &7Teleport",
+            "en_US": "&f\n&6Left click &8» &7Teleport",
+            "de_DE": "&f\n&6Linksklick &8» &7Teleportieren",
+            "tr_TR": "&f\n&6Sol tik &8» &7Teleport",
             "ko_KR": "&f\n&6왼쪽 클릭 &8» &7텔레포트"
         },
         "NAVIGATOR.button.right_click":
         {
-            "en_US": "&6RIGHT CLICK &8» &7Direct connect",
-            "de_DE": "&6RECHTSKLICK &8» &7Direkt verbinden",
-            "tr_TR": "&6SAĞ TIK &8» &7Hemen bağlan",
+            "en_US": "&6Right click &8» &7Direct connect",
+            "de_DE": "&6Rechtsklick &8» &7Direkt verbinden",
+            "tr_TR": "&6Sağ tik &8» &7Hemen bağlan",
             "ko_KR": "&6오른쪽 클릭 &8» &7직접 연결"
         },
         "HOTBAR.advent_calendar.title":
