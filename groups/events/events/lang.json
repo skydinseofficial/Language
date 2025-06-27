@@ -1,0 +1,61 @@
+{
+    "system": "events",
+    "translations":
+    {
+        "ITEM.leave":
+        {
+            "en_US": "&7Zurück zur &aLobby",
+            "de_DE": "&7Back to &aLobby"
+        },
+        "ITEM.whitelist.enable":
+        {
+            "en_US": "&aEnable Whitelist",
+            "de_DE": "&aWhitelist Aktivieren"
+        },
+        "ITEM.whitelist.disable":
+        {
+            "en_US": "&cDisable Whitelist",
+            "de_DE": "&cWhitelist Deaktivieren"
+        },
+        "ACTIONBAR.whitelist.cooldown":
+        {
+            "en_US": "<#FF0000>Please wait a moment.",
+            "de_DE": "<#FF0000>Bitte warte einen Moment."
+        },
+        "SCOREBOARD.event":
+        {
+            "en_US": "Event",
+            "de_DE": "Event"
+        },
+        "SCOREBOARD.event.hoster":
+        {
+            "en_US": "Hoster:",
+            "de_DE": "Hoster:"
+        },
+        "SCOREBOARD.event.mode":
+        {
+            "en_US": "Mode:",
+            "de_DE": "Modus:"
+        },
+        "SCOREBOARD.event.whitelist":
+        {
+            "en_US": "Whitelist:",
+            "de_DE": "Whitelist:"
+        },
+        "SCOREBOARD.event.whitelist.enabled":
+        {
+            "en_US": "<#4CFF00>Enabled",
+            "de_DE": "<#4CFF00>Aktiviert"
+        },
+        "SCOREBOARD.event.whitelist.disabled":
+        {
+            "en_US": "<#FF0A00>Disabled",
+            "de_DE": "<#FF0A00>Deaktiviert"
+        },
+        "SCOREBOARD.event.players":
+        {
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
+        }
+    }
+}
