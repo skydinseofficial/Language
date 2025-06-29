@@ -7,6 +7,11 @@
             "en_US": "&6Default",
             "de_DE": "&6Standard"
         },
+        "ITEM.Atomic":
+        {
+            "en_US": "&aAtomic",
+            "de_DE": "&aAtommüll"
+        },
         "ITEM.Cage":
         {
             "en_US": "&cCage",
