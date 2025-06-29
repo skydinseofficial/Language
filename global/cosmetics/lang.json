@@ -154,8 +154,8 @@
         },
         "GUI.category.murder_gravestones.title":
         {
-            "en_US": "&f  &8Murder Mystery Gravestones",
-            "de_DE": "&f  &8Murder Mystery Grabsteine"
+            "en_US": "Murder Mystery Gravestones",
+            "de_DE": "Murder Mystery Grabsteine"
         },
         "GUI.category.murder_gravestones.description":
         {
