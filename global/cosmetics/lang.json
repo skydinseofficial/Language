@@ -52,6 +52,11 @@
             "en_US": "&8» &x&F&9&B&D&3&1Click to Enable",
             "de_DE": "&8» &x&F&9&B&D&3&1Klicke zum Aktivieren"
         },
+        "GUI.lore.nodisable":
+        {
+            "en_US": "&8» &7This item cannot be disabled!",
+            "de_DE": "&8» &7Dieser Gegenstand kann nicht deaktiviert werden!"
+        },
         "GUI.category.enabled":
         {
             "en_US": "&x&4&C&F&F&0&0ENABLED",
@@ -61,6 +66,11 @@
         {
             "en_US": "&x&F&F&1&4&0&0DISABLED",
             "de_DE": "&x&F&F&1&4&0&0DEAKTIVIERT"
+        },
+        "GUI.category.no_disable":
+        {
+            "en_US": "&7NOT DISABLEABLE",
+            "de_DE": "&7NICHT DEAKTIVIERBAR"
         },
         "GUI.category.item.nothingselected":
         {
