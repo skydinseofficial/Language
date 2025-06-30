@@ -53,20 +53,6 @@
                 "country": "Germany"
             }
         },
-        "de_AT":
-        {
-            "fallback": "de_DE",
-            "details.de_AT":
-            {
-                "name": "Deitsch",
-                "country": "Österreich"
-            },
-            "details.en_US":
-            {
-                "name": "German",
-                "country": "Austria"
-            }
-        },
         "de_XX":
         {
             "fallback": "de_DE",
@@ -79,20 +65,6 @@
             {
                 "name": "Funny German Language",
                 "country": "Skydinse"
-            }
-        },
-        "nl_NL":
-        {
-            "fallback": "en_US",
-            "details.nl_NL":
-            {
-                "name": "Nederlands",
-                "country": "Nederland"
-            },
-            "details.en_US":
-            {
-                "name": "Dutch",
-                "country": "Netherlands"
             }
         },
         "pt_BR":
@@ -163,20 +135,6 @@
             {
                 "name": "French",
                 "country": "France"
-            }
-        },
-        "pl_PL":
-        {
-            "fallback": "en_US",
-            "details.pl_PL":
-            {
-                "name": "Polski",
-                "country": "Polska"
-            },
-            "details.en_US":
-            {
-                "name": "Polish",
-                "country": "Poland"
             }
         },
         "ru_RU":
