@@ -2,35 +2,35 @@
     "system": "cosmetics-a_rank",
     "translations":
     {
-        "ITEM.Sky30":
+        "ITEM.Sky1":
         {
-            "en_US": "&f &7(&s30 &7days)",
-            "de_DE": "&f &7(&s30 &7Tage)"
+            "en_US": "&f &7(&s1 &7month)",
+            "de_DE": "&f &7(&s1 &7Monat)"
         },
-        "ITEM.Galaxy30":
+        "ITEM.Sky3":
         {
-            "en_US": "&f &7(&s30 &7days)",
-            "de_DE": "&f &7(&s30 &7Tage)"
+            "en_US": "&f &7(&s3 &7months)",
+            "de_DE": "&f &7(&s3 &7Monate)"
+        },,
+        "ITEM.Sky6":
+        {
+            "en_US": "&f &7(&s6 &7months)",
+            "de_DE": "&f &7(&s6 &7Monate)"
         },
-        "ITEM.Universe30":
+        "ITEM.Galaxy1":
         {
-            "en_US": "&f &7(&s30 &7days)",
-            "de_DE": "&f &7(&s30 &7Tage)"
+            "en_US": "&f &7(&s1 &7month)",
+            "de_DE": "&f &7(&s1 &7Monat)"
         },
-        "ITEM.Sky90":
+        "ITEM.Galaxy3":
         {
-            "en_US": "&f &7(&s90 &7days)",
-            "de_DE": "&f &7(&s90 &7Tage)"
+            "en_US": "&f &7(&s3 &7months)",
+            "de_DE": "&f &7(&s3 &7Monate)"
         },
-        "ITEM.Galaxy90":
+        "ITEM.Galaxy6":
         {
-            "en_US": "&f &7(&s90 &7days)",
-            "de_DE": "&f &7(&s90 &7Tage)"
-        },
-        "ITEM.Universe90":
-        {
-            "en_US": "&f &7(&s90 &7days)",
-            "de_DE": "&f &7(&s90 &7Tage)"
+            "en_US": "&f &7(&s6 &7months)",
+            "de_DE": "&f &7(&s6 &7Monate)"
         }
     }
 }
