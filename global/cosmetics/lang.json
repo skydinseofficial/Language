@@ -161,6 +161,16 @@
         {
             "en_US": "&7Show your cool custom Gravestone%nl%&7on your death in Murder Mystery.",
             "de_DE": "&7Zeige allen anderen deine%nl%&7coolen Grabsteine in Murder Mystery."
+        },
+        "GUI.category.ranks.title":
+        {
+            "en_US": "Ranks",
+            "de_DE": "Ränge"
+        },
+        "GUI.category.ranks.description":
+        {
+            "en_US": "&7Buy a specific rank.",
+            "de_DE": "&7Kaufe einen bestimmten Rang."
         }
     }
 }
