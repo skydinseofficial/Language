@@ -1,0 +1,36 @@
+{
+    "system": "cosmetics-ranks",
+    "translations":
+    {
+        "ITEM.Sky30":
+        {
+            "en_US": "&f &7(&s30 &7days)",
+            "de_DE": "&f &7(&s30 &7Tage)"
+        },
+        "ITEM.Galaxy30":
+        {
+            "en_US": "&f &7(&s30 &7days)",
+            "de_DE": "&f &7(&s30 &7Tage)"
+        },
+        "ITEM.Universe30":
+        {
+            "en_US": "&f &7(&s30 &7days)",
+            "de_DE": "&f &7(&s30 &7Tage)"
+        },
+        "ITEM.Sky90":
+        {
+            "en_US": "&f &7(&s90 &7days)",
+            "de_DE": "&f &7(&s90 &7Tage)"
+        },
+        "ITEM.Galaxy90":
+        {
+            "en_US": "&f &7(&s90 &7days)",
+            "de_DE": "&f &7(&s90 &7Tage)"
+        },
+        "ITEM.Universe90":
+        {
+            "en_US": "&f &7(&s90 &7days)",
+            "de_DE": "&f &7(&s90 &7Tage)"
+        }
+    }
+}
