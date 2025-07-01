@@ -104,8 +104,8 @@
         },
         "GUI.categoryselection.title":
         {
-            "en_US": "&8              &8Select a Category",
-            "de_DE": "&8            &8Wähle eine Kategorie"
+            "en_US": "&8              &8Select a Category𓅎&8              &8",
+            "de_DE": "&8            &8Wähle eine Kategorie𓅎&8              &8"
         },
         "GUI.confirmpurchase.title":
         {
