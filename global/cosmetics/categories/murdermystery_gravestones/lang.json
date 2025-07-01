@@ -27,6 +27,12 @@
         {
             "en_US": "&dCross",
             "de_DE": "&dKreuz"
+        },
+        "ITEM.Head":
+        {
+            "en_US": "&6Head",
+            "de_DE": "&6Head",
+            "de_XX": "&6Tibet's Ex Boyfriend"
         }
     }
 }
