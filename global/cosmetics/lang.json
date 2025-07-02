@@ -2,6 +2,11 @@
     "system": "cosmetics",
     "translations":
     {
+        "GENERAL.item":
+        {
+            "en_US": "&6Cosmetics",
+            "de_DE": "&6Cosmetics"
+        },
         "GENERAL.nopermission":
         {
             "en_US": "&cYou don't have permission for this!",
