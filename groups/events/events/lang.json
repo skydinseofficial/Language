@@ -22,6 +22,11 @@
             "en_US": "<#FF0000>Please wait a moment.",
             "de_DE": "<#FF0000>Bitte warte einen Moment."
         },
+        "ACTIONBAR.ingame.elytradamage":
+        {
+            "en_US": "&cElytra Durability: &x&F&F&3&8&3&8[durability]",
+            "de_DE": "&cElytra Haltbarkeit: &x&F&F&3&8&3&8[durability]"
+        },
         "SCOREBOARD.event":
         {
             "en_US": "Event",
