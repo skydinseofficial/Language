@@ -1,0 +1,16 @@
+{
+    "system": "cpvp",
+    "translations":
+    {
+        "BOSSBAR.startingsoon":
+        {
+            "en_US": "&7The game &x&F&F&D&8&4&Estarts &7in &x&F&F&D&2&0&0[time]&7!",
+            "de_DE": "&7Das Spiel &x&F&F&D&8&4&Estartet in &x&F&F&D&2&0&0[time]&7!"
+        },
+        "SCOREBOARD.event.hoster":
+        {
+            "en_US": "Hoster:",
+            "de_DE": "Hoster:"
+        }
+    }
+}
