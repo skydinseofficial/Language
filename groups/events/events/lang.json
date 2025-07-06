@@ -61,6 +61,21 @@
         {
             "en_US": "Players:",
             "de_DE": "Spieler:"
+        },
+        "SCOREBOARD.event.kills":
+        {
+            "en_US": "Kills:",
+            "de_DE": "Kills:"
+        },
+        "SCOREBOARD.event.deaths":
+        {
+            "en_US": "Deaths:",
+            "de_DE": "Tode:"
+        },
+        "SCOREBOARD.event.kd":
+        {
+            "en_US": "K/D:",
+            "de_DE": "K/D:"
         }
     }
 }
