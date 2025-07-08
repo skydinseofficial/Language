@@ -1,0 +1,31 @@
+{
+    "system": "events-cpvp",
+    "translations":
+    {
+        "broadcast.msg.countdown":
+        {
+            "en_US": "&x&F&F&0&0&D&C&lEVENT&8 » &7A &x&F&6&5&8&F&F&lC&x&E&5&6&5&F&F&lr&x&D&4&7&2&F&F&ly&x&C&3&7&E&F&F&ls&x&B&2&8&B&F&F&lt&x&A&1&9&8&F&F&la&x&9&0&A&5&F&F&ll &x&6&E&B&E&F&F&lP&x&7&F&B&1&F&F&lv&x&9&0&A&5&F&F&lP &x&B&2&8&B&F&F&lE&x&C&3&7&E&F&F&lv&x&D&4&7&2&F&F&le&x&E&5&6&5&F&F&ln&x&F&6&5&8&F&F&lt&7 is starting in [time]&7!",
+            "de_DE": "&x&F&F&0&0&D&C&lEVENT&8 » &7In [time]&7 startet ein &x&F&6&5&8&F&F&lC&x&E&5&6&5&F&F&lr&x&D&4&7&2&F&F&ly&x&C&3&7&E&F&F&ls&x&B&2&8&B&F&F&lt&x&A&1&9&8&F&F&la&x&9&0&A&5&F&F&ll &x&6&E&B&E&F&F&lP&x&7&F&B&1&F&F&lv&x&9&0&A&5&F&F&lP &x&B&2&8&B&F&F&lE&x&C&3&7&E&F&F&lv&x&D&4&7&2&F&F&le&x&E&5&6&5&F&F&ln&x&F&6&5&8&F&F&lt&7!"
+        },
+        "broadcast.msg.countdown.joinable":
+        {
+            "en_US": "&x&F&F&0&0&D&C&lEVENT&8 » &7A &x&F&6&0&0&F&F&lCPvP &x&B&E&4&E&F&F&lEvent&7 is starting in [time]&7! Type &x&F&F&D&2&0&0&n<|event>&7 to participate.",
+            "de_DE": "&x&F&F&0&0&D&C&lEVENT&8 » &7In [time]&7 startet ein &x&F&6&0&0&F&F&lCPvP &x&B&E&4&E&F&F&lEvent&7! Nutze &x&F&F&D&2&0&0&n<|event>&7 zum Teilnehmen."
+        },
+        "broadcast.msg.countdown.price":
+        {
+            "en_US": "&7Price: [price]",
+            "de_DE": "&7Preis: [price]"
+        },
+        "broadcast.title.countdown":
+        {
+            "en_US": "&x&F&6&5&8&F&F&lC&x&E&5&6&5&F&F&lr&x&D&4&7&2&F&F&ly&x&C&3&7&E&F&F&ls&x&B&2&8&B&F&F&lt&x&A&1&9&8&F&F&la&x&9&0&A&5&F&F&ll &x&6&E&B&E&F&F&lP&x&7&F&B&1&F&F&lv&x&9&0&A&5&F&F&lP &x&B&2&8&B&F&F&lE&x&C&3&7&E&F&F&lv&x&D&4&7&2&F&F&le&x&E&5&6&5&F&F&ln&x&F&6&5&8&F&F&lt",
+            "de_DE": "&x&F&6&5&8&F&F&lC&x&E&5&6&5&F&F&lr&x&D&4&7&2&F&F&ly&x&C&3&7&E&F&F&ls&x&B&2&8&B&F&F&lt&x&A&1&9&8&F&F&la&x&9&0&A&5&F&F&ll &x&6&E&B&E&F&F&lP&x&7&F&B&1&F&F&lv&x&9&0&A&5&F&F&lP &x&B&2&8&B&F&F&lE&x&C&3&7&E&F&F&lv&x&D&4&7&2&F&F&le&x&E&5&6&5&F&F&ln&x&F&6&5&8&F&F&lt"
+        },
+        "broadcast.subtitle.countdown":
+        {
+            "en_US": "&x&F&F&D&2&0&0starting in &n[time]",
+            "de_DE": "&x&F&F&D&2&0&0startet in &n[time]"
+        }
+    }
+}
