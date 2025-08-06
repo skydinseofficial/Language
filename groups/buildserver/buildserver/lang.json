@@ -122,6 +122,11 @@
             "en_US": "&7You entered the world &e[world]&7.",
             "de_DE": "&7Du hast die Welt &e[world] &7betreten."
         },
+        "MSG.info.spawnset":
+        {
+            "en_US": "&7You've set the spawn of this world.",
+            "de_DE": "&7Du hast den Spawn für diese Welt (um)gesetzt."
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
