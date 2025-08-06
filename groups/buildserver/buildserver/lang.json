@@ -29,8 +29,8 @@
         },
         "WM.gui.main.group.lore":
         {
-            "en_US": "&7Created by: &x&F&F&D&2&0&0[creator]\n&7Date of creation: &x&F&F&D&2&0&0[timestamp]",
-            "de_DE": "&7Erstellt von: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[timestamp]"
+            "en_US": "&7Created by: &x&F&F&D&2&0&0[creator]\n&7Date of creation: &x&F&F&D&2&0&0[timestamp]\n&7Amount of Worlds: &x&F&F&D&2&0&0[worlds]",
+            "de_DE": "&7Erstellt von: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[timestamp]\n&7Welten: &x&F&F&D&2&0&0[worlds]"
         },
         "WM.gui.group.title":
         {
