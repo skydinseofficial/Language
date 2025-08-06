@@ -102,6 +102,16 @@
             "en_US": "&cThe target group does not exist!",
             "de_DE": "&cDie Zielgruppe existiert nicht."
         },
+        "MSG.create.world.creating":
+        {
+            "en_US": "&7Creating world...",
+            "de_DE": "&7Welt wird erstellt..."
+        },
+        "MSG.create.world.fileexists":
+        {
+            "en_US": "&7The world directory already exists. Importing world...",
+            "de_DE": "&7Das Weltenverzeichnis existiert bereits. Welt wird importiert..."
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
