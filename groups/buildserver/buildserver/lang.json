@@ -27,6 +27,11 @@
             "en_US": "Create a category",
             "de_DE": "Kategorie erstellen"
         },
+        "WM.gui.main.group.lore":
+        {
+            "en_US": "&7Created by: &x&F&F&D&2&0&0[creator]\n&7Date of creation: &x&F&F&D&2&0&0[timestamp]",
+            "de_DE": "&7Erstellt von: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[timestamp]"
+        },
         "WM.gui.group.title":
         {
             "en_US": "Worlds of group [group]",
@@ -71,6 +76,31 @@
         {
             "en_US": "&cThis group already exists!",
             "de_DE": "&cDiese Gruppe existiert bereits!"
+        },
+        "MSG.create.world.title":
+        {
+            "en_US": "<#FFD200>Create a Group:",
+            "de_DE": "<#FFD200>Erstelle eine Gruppe:"
+        },
+        "MSG.create.world.explanation.1":
+        {
+            "en_US": "&7Write an <#FFD84E>Id &7for your <#FFD84E>group &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe eine <#FFD84E>ID &7für die <#FFD84E>Gruppe &7in den <#FFD84E>Chat&7."
+        },
+        "MSG.create.world.explanation.2":
+        {
+            "en_US": "<#FF7F7F>Special characters or spaces are not allowed.",
+            "de_DE": "<#FF7F7F>Sonderzeichen oder Leerzeichen sind nicht erlaubt."
+        },
+        "MSG.create.world.alreadyexists":
+        {
+            "en_US": "&cA world with that name already exists in this group!",
+            "de_DE": "&cEine Welt mit diesem Namen existiert in dieser Gruppe bereits!"
+        },
+        "MSG.create.world.groupnotexists":
+        {
+            "en_US": "&cThe target group does not exist!",
+            "de_DE": "&cDie Zielgruppe existiert nicht."
         },
         "MSG.chatinput.runningaction":
         {
