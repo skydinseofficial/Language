@@ -117,6 +117,11 @@
             "en_US": "&7The world &e[world] &7has been created and loaded!",
             "de_DE": "&7Die Welt &e[world] &7wurde erstellt und geladen!"
         },
+        "MSG.info.worldswitch":
+        {
+            "en_US": "&7You entered the world &e[world]&7.",
+            "de_DE": "&7Du hast die Welt &e[world] &7betreten."
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
