@@ -51,6 +51,31 @@
         {
             "en_US": "&8» <#F9BD31>Click to teleport",
             "de_DE": "&8» <#F9BD31>Klicke zum Teleportieren"
+        },
+        "MSG.create.category.title":
+        {
+            "en_US": "<#FFD200>Create a Group:",
+            "de_DE": "<#FFD200>Erstelle eine Gruppe:"
+        },
+        "MSG.create.category.explanation.1":
+        {
+            "en_US": "&7Write an <#FFD84E>Id &7for your <#FFD84E>group &7in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe eine <#FFD84E>ID &7für die <#FFD84E>Gruppe &7in den <#FFD84E>Chat&7."
+        },
+        "MSG.create.category.explanation.2":
+        {
+            "en_US": "<#FF7F7F>Special characters or spaces are not allowed.",
+            "de_DE": "<#FF7F7F>Sonderzeichen oder Leerzeichen sind nicht erlaubt."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
         }
     }
 }
