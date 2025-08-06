@@ -112,6 +112,11 @@
             "en_US": "&7The world directory already exists. Importing world...",
             "de_DE": "&7Das Weltenverzeichnis existiert bereits. Welt wird importiert..."
         },
+        "MSG.create.world.success":
+        {
+            "en_US": "&7The world &e[world] &7has been created and loaded!",
+            "de_DE": "&7Die Welt &e[world] &7wurde erstellt und geladen!"
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
