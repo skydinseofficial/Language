@@ -67,6 +67,11 @@
             "en_US": "<#FF7F7F>Special characters or spaces are not allowed.",
             "de_DE": "<#FF7F7F>Sonderzeichen oder Leerzeichen sind nicht erlaubt."
         },
+        "MSG.create.category.alreadyexists":
+        {
+            "en_US": "&cThis group already exists!",
+            "de_DE": "&cDiese Gruppe existiert bereits!"
+        },
         "MSG.chatinput.runningaction":
         {
             "en_US": "&cThere is already a running chat action.",
