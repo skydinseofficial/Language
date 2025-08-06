@@ -1,0 +1,56 @@
+{
+    "system": "buildserver",
+    "translations":
+    {
+        "GENERAL.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!"
+        },
+        "SYSTEM.booting.error":
+        {
+            "en_US": "&6Statistic-System &7could not be loaded completely!",
+            "de_DE": "&6Statistic-System &7konnte nicht vollständig geladen werden!"
+        },
+        "SYSTEM.table.error":
+        {
+            "en_US": "&7An &cerror &7occurred while registrating a table!",
+            "de_DE": "&7Beim Registrieren einer Tabelle ist ein &cFehler &7aufgetreten!"
+        },
+        "WM.gui.main.title":
+        {
+            "en_US": "Select a group",
+            "de_DE": "Wähle eine Gruppe"
+        },
+        "WM.gui.main.createcategory":
+        {
+            "en_US": "Create a category",
+            "de_DE": "Kategorie erstellen"
+        },
+        "WM.gui.group.title":
+        {
+            "en_US": "Worlds of group [group]",
+            "de_DE": "Welten der Gruppe [group]"
+        },
+        "WM.gui.group.createworld":
+        {
+            "en_US": "Create a world",
+            "de_DE": "Welt erstellen"
+        },
+        "WM.gui.group.world.lore":
+        {
+            "en_US": "&7Created by: &x&F&F&D&2&0&0[creator]\n&7Date of creation: &x&F&F&D&2&0&0[timestamp]\n&7Server: &x&F&F&D&2&0&0[server]",
+            "de_DE": "&7Erstellt von: &x&F&F&D&2&0&0[creator]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[timestamp]\n&7Server: &x&F&F&D&2&0&0[server]"
+        },
+        "WM.gui.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
+        },
+        "WM.gui.clickaction.teleport":
+        {
+            "en_US": "&8» <#F9BD31>Click to teleport",
+            "de_DE": "&8» <#F9BD31>Klicke zum Teleportieren"
+        }
+    }
+}
