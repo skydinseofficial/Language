@@ -29,18 +29,18 @@
         },
         "HOLO.applymedia":
         {
-            "en_US": ";&7Do you <#EE82EE>enjoy &7playing here and;&7want to <#EE82EE>support us &7with your <#EE82EE>reach&7?;&7Then <#EE82EE>apply &7on Discord to become a <#EE82EE>VIP;&7and get access to <#EE82EE>exclusive features&7.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
-            "de_DE": ";&7Dir macht es Spaß hier zu spielen und;&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?;&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um;&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
-            "ko_KR": ";&7여기서 플레이하는 것을 <#EE82EE>즐기시나요?;&7당신의 <#EE82EE>영향력&7으로 저희를 <#EE82EE>지원하고 싶으신가요?;&7그렇다면 <#EE82EE>저희 디스코드에서 <#EE82EE>VIP&7가 되기 위해 <#EE82EE>신청하세요;&7및 <#EE82EE>독점적인 기능&7에 접근하세요.;<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
+            "en_US": "\n&7Do you <#EE82EE>enjoy &7playing here and\n&7want to <#EE82EE>support us &7with your <#EE82EE>reach&7?\n&7Then <#EE82EE>apply &7on Discord to become a <#EE82EE>VIP\n&7and get access to <#EE82EE>exclusive features&7.\n<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "de_DE": "\n&7Dir macht es Spaß hier zu spielen und\n&7möchtest uns mit deiner <#EE82EE>Reichweite unterstützen&7?\n&7Dann <#EE82EE>bewerbe &7dich auf Discord als <#EE82EE>VIP&7, um\n&7Zugriff auf <#EE82EE>exklusive Features &7zu erhalten.\n<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ",
+            "ko_KR": "\n&7여기서 플레이하는 것을 <#EE82EE>즐기시나요?\n&7당신의 <#EE82EE>영향력&7으로 저희를 <#EE82EE>지원하고 싶으신가요?\n&7그렇다면 <#EE82EE>저희 디스코드에서 <#EE82EE>VIP&7가 되기 위해 <#EE82EE>신청하세요\n&7및 <#EE82EE>독점적인 기능&7에 접근하세요.\n<#6A5ACD>sᴋʏᴅ.ʟɪɴᴋ/ᴅᴄ"
         },
         "HOLO.universerank":
         {
-            "en_US": ";&7Do you <#EE82EE>enjoy &7playing here and;&7want to unlock <#EE82EE>cool features&7?;&7Then take a look at our <#EE82EE>Universe Rank&7!;;&8&l● <#EE82EE>32 <#EFC3CF>Party Members;&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs];&8&l● <#EE82EE>40 <#EFC3CF>Homes &7[SMPs];&x&2&6&D&C&1&D&l✔ <#EFC3CF>Create <#EE82EE>Private Games;&x&2&6&D&C&1&D&l✔ <#EFC3CF>Join <#EE82EE>full servers;&x&2&6&D&C&1&D&l✔ <#EE82EE>Public <#EFC3CF>Parties;;<#EE82EE>&l↓ <#EFC3CF>Many more <#EE82EE>&l↓;<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
-            "de_DE": ";&7Du spielst <#EE82EE>gerne &7hier und;&7möchtest <#EE82EE>coole neue Features &7freischalten?;&7Dann ist der <#EE82EE>Universe Rang &7genau für dich!;;&8&l● <#EE82EE>32 <#EFC3CF>Party Mitglieder;&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs];&8&l● <#EE82EE>40 <#EFC3CF>Homes &7[SMPs];&x&2&6&D&C&1&D&l✔ <#EFC3CF>Erstelle <#EE82EE>Private Spiele;&x&2&6&D&C&1&D&l✔ <#EFC3CF>Betrete <#EE82EE>volle Server;&x&2&6&D&C&1&D&l✔ <#EE82EE>Öffentliche <#EFC3CF>Partys;;<#EE82EE>&l↓ <#EFC3CF>Und noch mehr <#EE82EE>&l↓;<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
+            "en_US": "\n&7Do you <#EE82EE>enjoy &7playing here and\n&7want to unlock <#EE82EE>cool features&7?\n&7Then take a look at our <#EE82EE>Universe Rank&7!\n\n&8&l● <#EE82EE>32 <#EFC3CF>Party Members\n&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs]\n&8&l● <#EE82EE>even more <#EFC3CF>Homes &7[SMPs]\n&x&2&6&D&C&1&D&l✔ <#EFC3CF>Create <#EE82EE>Private Games\n&x&2&6&D&C&1&D&l✔ <#EFC3CF>Join <#EE82EE>full servers\n&x&2&6&D&C&1&D&l✔ <#EE82EE>Public <#EFC3CF>Parties\n\n<#EE82EE>&l↓ <#EFC3CF>Many more <#EE82EE>&l↓\n<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
+            "de_DE": "\n&7Du spielst <#EE82EE>gerne &7hier und\n&7möchtest <#EE82EE>coole neue Features &7freischalten?\n&7Dann ist der <#EE82EE>Universe Rang &7genau für dich!\n\n&8&l● <#EE82EE>32 <#EFC3CF>Party Mitglieder\n&8&l● <#EE82EE>4 <#EFC3CF>Ender Chests &7[SMPs]\n&8&l● <#EE82EE>noch mehr <#EFC3CF>Homes &7[SMPs]\n&x&2&6&D&C&1&D&l✔ <#EFC3CF>Erstelle <#EE82EE>Private Spiele\n&x&2&6&D&C&1&D&l✔ <#EFC3CF>Betrete <#EE82EE>volle Server\n&x&2&6&D&C&1&D&l✔ <#EE82EE>Öffentliche <#EFC3CF>Partys\n\n<#EE82EE>&l↓ <#EFC3CF>Und noch mehr <#EE82EE>&l↓\n<#6A5ACD>sᴛᴏʀᴇ.sᴋʏᴅɪɴsᴇ.ɴᴇᴛ",
         "HOLO.networkfeatures":
         {
-            "en_US": "&x&E&D&2&1&E&2&lNETWORK FEATURES;<#EFC3CF>Network wide <#FF00DC>Voice Chat <#EFC3CF>Support: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Support;<#EFC3CF>Big <#FF00DC>Community & Streamer <#EFC3CF>Events",
-            "de_DE": "&x&E&D&2&1&E&2&lNETZWERK FEATURES;<#EFC3CF>Netzwerkweite <#FF00DC>Voice Chat <#EFC3CF>Unterstützung: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ;<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Unterstützung;<#EFC3CF>Große <#FF00DC>Community & Streamer <#EFC3CF>Events"
+            "en_US": "&x&E&D&2&1&E&2&lNETWORK FEATURES\n<#EFC3CF>Network wide <#FF00DC>Voice Chat <#EFC3CF>Support: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ\n<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Support\n<#EFC3CF>Big <#FF00DC>Community & Streamer <#EFC3CF>Events",
+            "de_DE": "&x&E&D&2&1&E&2&lNETZWERK FEATURES\n<#EFC3CF>Netzwerkweite <#FF00DC>Voice Chat <#EFC3CF>Unterstützung: <#EF71CF>sᴋʏᴅ.ʟɪɴᴋ/ᴠᴄ\n<#EFC3CF>Crossplay <#FF00DC>Java & Bedrock <#EFC3CF>Unterstützung\n<#EFC3CF>Große <#FF00DC>Community & Streamer <#EFC3CF>Events"
         },
         "HOLO.networkstats":
         {
