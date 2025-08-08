@@ -39,8 +39,8 @@
         },
         "HOLO.birthday":
         {
-            "en_US": "<#FFD200>Happy Birthday Skydinse!\n&7Visit former Lobbies",
-            "de_DE": "<#FFD200>Happy Birthday Skydinse!\n&7Besuche alte Lobbys",
+            "en_US": "<#FF0AD7>-= &l5 YEARS <#FF0AD7>=-\n<#FFD200>Happy Birthday Skydinse!\n&7Visit former Lobbies",
+            "de_DE": "<#FF0AD7>-= &l5 JAHRE <#FF0AD7>=-\n<#FFD200>Happy Birthday Skydinse!\n&7Besuche alte Lobbys",
         },
         "HOLO.networkfeatures":
         {
