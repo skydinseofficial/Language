@@ -292,6 +292,11 @@
             "tr_TR": "[time] saat",
             "ko_KR": "[time]시간"
         },
+        "BIRTHDAY.gui.main":
+        {
+            "en_US": "Choose a Lobby",
+            "de_DE": "Wähle eine Lobby"
+        },
         "SCOREBOARD.linked":
         {
             "en_US": "Linked",
