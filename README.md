@@ -45,11 +45,9 @@ Explanation of the individual entries:
 The language files are located in the individual system folders and __must__ have the name "lang.json". The format of the messages must also be exactly as specified in the [example file](https://github.com/skydinseofficial/Language/blob/main/groups/example/example-system/lang.json). Above all, it is important to maintain the correct indentation and the structure of the brackets and commas. Otherwise, the file may not be recognized by the language system. Currently available languages are:
 - **English**: Variations: `en_US` (USA), `en_GB` (Great Britain), `en_XX` (meme language)
 - **German**: Variations: `de_DE` (Germany), `de_AT` (Austria), `de_XX` (meme language)
-- **Dutch**: Variations: `nl_NL` (Netherlands)
 - **Portuguese**: Variations: `pt_BR` (Brazil), `pt_PT` (Portugal)
 - **Spanish**: Variations: `es_ES` (Spain), `es_MX` (Mexico)
 - **French**: Variations: `fr_FR` (France)
-- **Polish**: Variations: `pl_PL` (Poland)
 - **Russian**: Variations: `ru_RU` (Russia)
 - **Turkish**: Variations: `tr_TR` (Türkiye)
 - **Korean**: Variations: `ko_KR` (South Korea)
@@ -143,11 +141,9 @@ Erklärung zu den einzelnen Einträgen:
 Die Sprachdateien liegen in den einzelnen System-Ordneren und __müssen__ den Namen "lang.json" tragen. Auch das Format der Nachrichten muss genau so sein, wie es in der [Beispiel-Datei](https://github.com/skydinseofficial/Language/blob/main/groups/example/example-system/lang.json) vorgegeben ist. Wichtig ist vor allem, die richtige Einrückung und auf die Struktur der Klammern und Kommas beizubehalten. Andernfalls kann es passieren, dass die Datei vom Sprachsystem nicht erkannt wird. Aktuell verfügbare Sprachen sind:
 - **Englisch**: Variationen: `en_US` (USA), `en_GB` (Großbritannien), `en_XX` (Meme-Sprache)
 - **Deutsch**: Variationen: `de_DE` (Deutschland), `de_AT` (Österreich), `de_XX` (Meme-Sprache)
-- **Niederländisch**: Variationen: `nl_NL` (Niederlande)
 - **Portugiesisch**: Variationen: `pt_BR` (Brasilien), `pt_PT` (Portugal)
 - **Spanisch**: Variationen: `es_ES` (Spanien), `es_MX` (Mexiko)
 - **Französisch**: Variationen: `fr_FR` (Frankreich)
-- **Polnisch**: Variationen: `pl_PL` (Polen)
 - **Russisch**: Variationen: `ru_RU` (Russland)
 - **Türkisch**: Variationen: `tr_TR` (Türkei)
 - **Koreanisch**: Variations: `ko_KR` (Südkorea)
