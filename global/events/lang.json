@@ -41,7 +41,7 @@
         "EVE.announce.ingame.subtitle":
         {
             "en_US": "&7starting in <#FFD200>[time]",
-            "de_DE": "&7startet in &<#FFD200>[time]"
+            "de_DE": "&7startet in <#FFD200>[time]"
         },
         "EVE.announce.ingame.price":
         {
