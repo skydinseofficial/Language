@@ -33,11 +33,25 @@
             "en_US": "**Eve** has just planned a new event!\n## :scroll: Details\n**Game Sector:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Duration:** [duration]\n\n:calendar_spiral: **Other planned events:**",
             "de_DE": "**Eve** hat soeben ein neues Event geplant!\n## :scroll: Details\n**Spielsektor:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Dauer:** [duration]\n\n:calendar_spiral: **Andere geplante Events:**"
         },
-        "SYSTEM.table.error":
+        "EVE.announce.ingame.msg":
         {
-            "en_US": "&7An &cerror &7occurred while registrating a table!",
-            "de_DE": "&7Beim Registrieren einer Tabelle ist ein &cFehler &7aufgetreten!",
-            "tr_TR": "&7An &cerror &7occurred while registrating a table!"
+            "en_US": "&x&F&F&0&0&D&C&lEVENT&8 » &7A [event]&7 is starting in <#FFD200>[time]&7!",
+            "de_DE": "&x&F&F&0&0&D&C&lEVENT&8 » &7In <#FFD200>[time]&7 startet ein [event]&7!"
+        },
+        "EVE.announce.ingame.subtitle":
+        {
+            "en_US": "&7starting in <#FFD200>[time]",
+            "de_DE": "&7startet in &<#FFD200>[time]"
+        },
+        "EVE.announce.ingame.price":
+        {
+            "en_US": "&7Price: [price]",
+            "de_DE": "&7Preis: [price]"
+        },
+        "EVE.announce.ingame.joinable":
+        {
+            "en_US": "<#FF2346>JOIN NOW! &7Type: <|tip:'&7Click to connect',value:'event',text:'&x&8&4&F&F&3&2[/event]'>",
+            "de_DE": "<#FF2346>JETZT TEILNEHMEN! &7Nutze: <|tip:'&7Klicke zum Verbinden',value:'event',text:'&x&8&4&F&F&3&2[/event]'>"
         }
     }
 }
