@@ -28,6 +28,11 @@
             "en_US": "<|tip:'&7Click to view',value:'viewevents',text:'&x&8&4&F&F&3&2[VIEW ALL EVENTS]'>",
             "de_DE": "<|tip:'&7Klicke zum Ansehen',value:'viewevents',text:'&x&8&4&F&F&3&2[ALLE EVENTS ANSEHEN]'>"
         },
+        "EVE.scheduler.neweventplaned.discord":
+        {
+            "en_US": "*Eve* has just planned a new event!%nl%%nl%**## :scroll: Details%nl%Game Sector: **[group]**%nl%Event: **[event]**%nl%Start: <t:[timestamp]>%nl%Duration: **[duration]**%nl%%nl%**:calendar_spiral: All planned events:**%nl%",
+            "de_DE": "*Eve* hat soeben ein neues Event geplant!%nl%%nl%**## :scroll: Details%nl%Spielsektor: **[group]**%nl%Event: **[event]**%nl%Start: <t:[timestamp]>%nl%Dauer: **[duration]**%nl%%nl%**:calendar_spiral: Alle geplanten Events:**%nl%"
+        },
         "SYSTEM.table.error":
         {
             "en_US": "&7An &cerror &7occurred while registrating a table!",
