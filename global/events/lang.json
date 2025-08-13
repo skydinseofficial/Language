@@ -30,8 +30,8 @@
         },
         "EVE.scheduler.neweventplaned.discord":
         {
-            "en_US": "**Eve** has just planned a new event!\n## :scroll: Details\n**Game Sector:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Duration:** [duration]\n\n:calendar_spiral: **All planned events:**",
-            "de_DE": "**Eve** hat soeben ein neues Event geplant!\n## :scroll: Details\n**Spielsektor:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Dauer:** [duration]\n\n:calendar_spiral: **Alle geplanten Events:**"
+            "en_US": "**Eve** has just planned a new event!\n## :scroll: Details\n**Game Sector:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Duration:** [duration]\n\n:calendar_spiral: **Other planned events:**",
+            "de_DE": "**Eve** hat soeben ein neues Event geplant!\n## :scroll: Details\n**Spielsektor:** [group]\n**Event:** [event]\n**Start:** <t:[timestamp]>\n**Dauer:** [duration]\n\n:calendar_spiral: **Andere geplanten Events:**"
         },
         "SYSTEM.table.error":
         {
