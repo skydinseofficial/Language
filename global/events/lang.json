@@ -1,0 +1,38 @@
+{
+    "system": "events",
+    "translations":
+    {
+        "GENERAL.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this!",
+            "de_DE": "&cDazu hast du keine Berechtigung!",
+            "tr_TR": "&cBunu yapmaya yetkili değilsin!"
+        },
+        "EVE.scheduler.neweventplaned.ingame.1":
+        {
+            "en_US": "<#FFEE99>Eve &7has just planned a new <#FFD84E>event&7:",
+            "de_DE": "&x&F&F&E&E&9&9Eve &7hat soeben ein neues Event geplant:"
+        },
+        "EVE.scheduler.neweventplaned.ingame.2":
+        {
+            "en_US": "&7Details: <#FFD200>[group] &8» <#FFD200>[event] &8[&7[id]&8]",
+            "de_DE": "&7Details: <#FFD200>[group] &8» <#FFD200>[event] &8[&7[id]&8]"
+        },
+        "EVE.scheduler.neweventplaned.ingame.3":
+        {
+            "en_US": "&7Start: <#FFD200>[timestamp] &8» &7(<#FFD200>[duration]&7)",
+            "de_DE": "&7Start: <#FFD200>[timestamp] &8» &7(<#FFD200>[duration]&7)"
+        },
+        "EVE.scheduler.neweventplaned.ingame.4":
+        {
+            "en_US": "<|tip:'&7Click to view',value:'viewevents',text:'&x&8&4&F&F&3&2[VIEW ALL EVENTS]'>",
+            "de_DE": "<|tip:'&7Klicke zum Ansehen',value:'viewevents',text:'&x&8&4&F&F&3&2[ALLE EVENTS ANSEHEN]'>"
+        },
+        "SYSTEM.table.error":
+        {
+            "en_US": "&7An &cerror &7occurred while registrating a table!",
+            "de_DE": "&7Beim Registrieren einer Tabelle ist ein &cFehler &7aufgetreten!",
+            "tr_TR": "&7An &cerror &7occurred while registrating a table!"
+        }
+    }
+}
