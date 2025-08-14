@@ -1,0 +1,11 @@
+{
+    "system": "events-farming",
+    "translations":
+    {
+        "EVE.module.description":
+        {
+            "en_US": "Any harvesting-related activity will be **especially rewarded**. This includes the usual suspects like wheat and carrots, but also melons, pumpkins, mushrooms, and cacti. So grab your tools and get farming! 🚜",
+            "de_DE": "Jegliche Aktivität in Bezug auf Ernten wird **besonders entlohnt**. Darunter zählen natürlich Weizen und Karotten, aber auch Melonen, Kürbisse, Pilze und Kakteen. Also schnapp dir deine Werkzeuge und fang an zu farmen! 🚜"
+        }
+    }
+}
