@@ -60,8 +60,8 @@
         },
         "EVE.announceending.ingame":
         {
-            "en_US": "&7The [event]&7 ends in <#FF7F7F>[time]&7!",
-            "de_DE": "&7Das [event]&7 endet in <#FF7F7F>[time]&7!"
+            "en_US": "&7The [event]<#FF7F7F> ends &7in [time]&7!",
+            "de_DE": "&7Das [event]<#FF7F7F> endet &7in [time]&7!"
         },
         "EVE.announce.discord.someday.group":
         {
