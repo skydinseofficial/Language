@@ -58,6 +58,11 @@
             "en_US": "<#FF2346>JOIN NOW! &7Type: <|tip:'&7Click to connect',value:'event',text:'&x&8&4&F&F&3&2[/event]'>",
             "de_DE": "<#FF2346>JETZT TEILNEHMEN! &7Nutze: <|tip:'&7Klicke zum Verbinden',value:'event',text:'&x&8&4&F&F&3&2[/event]'>"
         },
+        "EVE.announceending.ingame":
+        {
+            "en_US": "&7The [event]&7 ends in <#FF7F7F>[time]&7!",
+            "de_DE": "&7Das [event]&7 endet in <#FF7F7F>[time]&7!"
+        },
         "EVE.announce.discord.someday.group":
         {
             "en_US": "## [event] on [group] [emoji]\n**The [event] is live today on [group]!**\n\nThis **event** lasts a total of **24 hours**, so you’ve got **the whole day** to join in!\nHop onto the network using Java or Bedrock and head over to [group]. For detailed instructions on how to connect, check here: <#1400896171735650374>",
