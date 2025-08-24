@@ -978,15 +978,15 @@
         },
         "NAVIGATOR.teleport.title.cookieclicker":
         {
-            "en_US": "<#face05>Cookie Clicker",
-            "de_DE": "<#face05>Cookieclicker",
-            "tr_TR": "<#face05>Cookie Clicker",
-            "ko_KR": "<#face05>쿠키 클리커"
+            "en_US": "<#face05>Cookie Clicker &8| &cSOON",
+            "de_DE": "<#face05>Cookieclicker &8| &cBALD",
+            "tr_TR": "<#face05>Cookie Clicker &8| &cSOON",
+            "ko_KR": "<#face05>쿠키 클리커 &8| &cSOON"
         },
         "NAVIGATOR.teleport.title.pointlessbutton":
         {
-            "en_US": "<#face05>Pointless Button",
-            "de_DE": "<#face05>Sinnloser Knopf"
+            "en_US": "<#face05>Pointless Button &8| &cSOON",
+            "de_DE": "<#face05>Sinnloser Knopf &8| &cBALD"
         },
         "NAVIGATOR.teleport.title.rewards":
         {
