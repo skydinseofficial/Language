@@ -83,6 +83,16 @@
             "en_US": "## [event] [emoji]\n:alarm_clock: When? » **<t:[timestamp]>**\n:pushpin: Where? » **Anywhere on the network** `skydinse.net`\n\nHere is how to connect to the network: <#1400896171735650374>",
             "de_DE": "## [event] [emoji]\n:alarm_clock: Wann? » **<t:[timestamp]>**\n:pushpin: Wo? » **Überall auf dem Netzwerk** `skydinse.net`\n\nSo verbindest du dich mit dem Netzwerk: <#1400896171735650374>"
         },
+        "EVE.announce.discord.onetimereminder.group":
+        {
+            "en_US": "## [group] [event] in [time] [emoji]\n**Reminder - Hurry up!**\n\n:alarm_clock: When? » **<t:[timestamp]>**\n:pushpin: Where? » **[group]** `skydinse.net`\n\nHere is how to connect to the network: <#1400896171735650374>",
+            "de_DE": "## [group] [event] in [time] [emoji]\n**Erinnerung - Beeil dich!**\n\n:alarm_clock: Wann? » **<t:[timestamp]>**\n:pushpin: Wo? » **[group]** `skydinse.net`\n\nSo verbindest du dich mit dem Netzwerk: <#1400896171735650374>"
+        },
+        "EVE.announce.discord.onetimereminder.global":
+        {
+            "en_US": "## [event] [emoji] in [time]\n**Reminder - Hurry up!**\n\n:alarm_clock: When? » **<t:[timestamp]>**\n:pushpin: Where? » **Anywhere on the network** `skydinse.net`\n\nHere is how to connect to the network: <#1400896171735650374>",
+            "de_DE": "## [event] [emoji] in [time]\n**Erinnerung - Beeil dich!**\n\n:alarm_clock: Wann? » **<t:[timestamp]>**\n:pushpin: Wo? » **Überall auf dem Netzwerk** `skydinse.net`\n\nSo verbindest du dich mit dem Netzwerk: <#1400896171735650374>"
+        },
         "EVE.announce.discord.eventinfo":
         {
             "en_US": "Event Info:",
