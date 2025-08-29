@@ -73,6 +73,16 @@
             "en_US": "## Network wide [event] [emoji]\n**The [event] is live today on the whole network!**\n\nThis **event** lasts a total of **24 hours**, so you’ve got **the whole day** to join in!\nHop onto the network using Java or Bedrock and play anything you like. For detailed instructions on how to connect, check here: <#1400896171735650374>",
             "de_DE": "## Netzwerkweites [event] [emoji]\n**Auf dem gesamten Netzwerk läuft heute das [event]!**\n\nDas **Event** geht insgesamt **24 Stunden**, ihr habt somit **den ganzen Tag** Zeit!\nBetrete das Netzwerk mit Java oder Bedrock und spiel was du willst. Nähere Informationen, wie du dich verbinden kannst, findest du hier: <#1400896171735650374>"
         },
+        "EVE.announce.discord.onetime.group":
+        {
+            "en_US": "## [event] on [group] [emoji]\n:alarm_clock: When? » **<t:[timestamp]>**\n:pushpin: Where? » **[group]** `skydinse.net`\n\nHere is how to connect to the network: <#1400896171735650374>",
+            "de_DE": "## [event] auf [group] [emoji]\n:alarm_clock: Wann? » **<t:[timestamp]>**\n:pushpin: Wo? » **[group]** `skydinse.net`\n\nSo verbindest du dich mit dem Netzwerk: <#1400896171735650374>"
+        },
+        "EVE.announce.discord.onetime.global":
+        {
+            "en_US": "## [event] [emoji]\n:alarm_clock: When? » **<t:[timestamp]>**\n:pushpin: Where? » **Anywhere on the network** `skydinse.net`\n\nHere is how to connect to the network: <#1400896171735650374>",
+            "de_DE": "## [event] [emoji]\n:alarm_clock: Wann? » **<t:[timestamp]>**\n:pushpin: Wo? » **Überall auf dem Netzwerk** `skydinse.net`\n\nSo verbindest du dich mit dem Netzwerk: <#1400896171735650374>"
+        },
         "EVE.announce.discord.eventinfo":
         {
             "en_US": "Event Info:",
