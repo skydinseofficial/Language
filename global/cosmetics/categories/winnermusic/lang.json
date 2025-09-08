@@ -112,6 +112,11 @@
         {
             "en_US": "&6Steve's Lava Chicken",
             "de_DE": "&6Steves Lava Hühnchen"
+        },
+        "ITEM.TheWinnerTakesItAll":
+        {
+            "en_US": "&6The Winner Takes It All",
+            "de_DE": "&6The Winner Takes It All"
         }
     }
 }
