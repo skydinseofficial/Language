@@ -102,6 +102,16 @@
             "en_US": "&6Da Ya Think I'm Sexy?",
             "de_DE": "&6Da Ya Think I'm Sexy?",
             "tr_TR": "&6Kent Yaşamı"
+        },
+        "ITEM.YMCA":
+        {
+            "en_US": "&6YMCA",
+            "de_DE": "&6YMCA"
+        },
+        "ITEM.StevesLavaChicken":
+        {
+            "en_US": "&6Steve's Lava Chicken",
+            "de_DE": "&6Steves Lava Hühnchen"
         }
     }
 }
