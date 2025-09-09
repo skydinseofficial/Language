@@ -139,8 +139,8 @@
         },
         "GUI.category.winnermusic.lore.rightclick":
         {
-            "en_US": "&8» &x&4&C&F&F&0&0&lRight-Click for demo",
-            "de_DE": "&8» &x&4&C&F&F&0&0&lRechtsklicke zum Probehören"
+            "en_US": "&8» &x&4&C&F&F&0&0Right-Click for demo",
+            "de_DE": "&8» &x&4&C&F&F&0&0Rechtsklicke zum Probehören"
         },
         "GUI.category.pet.title":
         {
