@@ -54,8 +54,8 @@
         },
         "ITEM.GetReadyForThis":
         {
-            "en_US": "&6Get Ready For This",
-            "de_DE": "&6Get Ready For This"
+            "en_US": "<#ff0000>G<#fd1305>e<#fa260a>t <#f64d15>R<#f3601a>e<#f1731f>a<#ef8725>d<#ec9a2a>y <#ed9729>F<#ef8223>o<#f26c1d>r <#f74112>T<#fa2b0c>h<#fc1606>i<#ff0000>s",
+            "de_DE": "<#ff0000>G<#fd1305>e<#fa260a>t <#f64d15>R<#f3601a>e<#f1731f>a<#ef8725>d<#ec9a2a>y <#ed9729>F<#ef8223>o<#f26c1d>r <#f74112>T<#fa2b0c>h<#fc1606>i<#ff0000>s"
         },
         "ITEM.TheFinalCountDown":
         {
@@ -89,13 +89,13 @@
         },
         "ITEM.WouldntItBeNice":
         {
-            "en_US": "&6Wouldn't It Be Nice",
-            "de_DE": "&6Wouldn't It Be Nice"
+            "en_US": "<#e12b5d>W<#e43b67>o<#e84b72>u<#eb5b7c>l<#ee6b86>d<#f27a91>n<#f58a9b>'<#f89aa5>t <#ffbaba>I<#fcaab0>t <#f58a9b>B<#f27a91>e <#eb5b7c>N<#e84b72>i<#e43b67>c<#e12b5d>e",
+            "de_DE": "<#e12b5d>W<#e43b67>o<#e84b72>u<#eb5b7c>l<#ee6b86>d<#f27a91>n<#f58a9b>'<#f89aa5>t <#ffbaba>I<#fcaab0>t <#f58a9b>B<#f27a91>e <#eb5b7c>N<#e84b72>i<#e43b67>c<#e12b5d>e"
         },
         "ITEM.IchKomme":
         {
-            "en_US": "&cICH KOMME",
-            "de_DE": "&cICH KOMME"
+            "en_US": "<#9f0000>I<#b50000>C<#cb0000>H <#f60000>K<#f60000>O<#d90000>M<#bc0000>M<#9f0000>E",
+            "de_DE": "<#9f0000>I<#b50000>C<#cb0000>H <#f60000>K<#f60000>O<#d90000>M<#bc0000>M<#9f0000>E"
         },
         "ITEM.KentYasami":
         {
@@ -105,10 +105,10 @@
         },
         "ITEM.YMCA":
         {
-            "en_US": "<#20be31>Y<#58ae22>.<#8f9d12>M<#87656c>.<#7f2cc6>C<#8e20b3>.<#9d139f>A",
-            "de_DE": "<#20be31>Y<#58ae22>.<#8f9d12>M<#87656c>.<#7f2cc6>C<#8e20b3>.<#9d139f>A",
-            "en_XX": "<#20be31>T<#3cb629>r<#58ae22>u<#73a51a>m<#8f9d12>p<#8c8a30>'<#8a774e>s <#84528a>g<#823fa8>a<#7f2cc6>y <#8b22b6>s<#911daf>o<#9718a7>n<#9d139f>g",
-            "de_XX": "<#20be31>G<#45b327>o<#6aa81c>o<#8f9d12>d<#8b813f>b<#87656c>y<#834899>e<#7f2cc6>, <#8e20b3>S<#9619a9>P<#9d139f>D"
+            "en_US": "<#ff0000>Y<#ff7f00>.<#ffff00>M<#00ff00>.<#0000ff>C<#4b0082>.<#9400d3>A",
+            "de_DE": "<#ff0000>Y<#ff7f00>.<#ffff00>M<#00ff00>.<#0000ff>C<#4b0082>.<#9400d3>A",
+            "en_XX": "<#ff0000>T<#ff4000>r<#ff7f00>u<#ffaa00>m<#ffd400>p<#ffff00>s <#00ff00>G<#008080>a<#0000ff>y <#3200ac>S<#4b0082>o<#7000ab>n<#9400d3>g",
+            "de_XX": "<#ff0000>G<#ff4000>o<#ff7f00>o<#ffbf00>d<#ffff00>b<#80ff00>y<#00ff00>e<#0000ff>, <#4b0082>S<#7000ab>P<#9400d3>D"
         },
         "ITEM.StevesLavaChicken":
         {
