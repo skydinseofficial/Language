@@ -118,11 +118,11 @@
         "ITEM.TheWinnerTakesItAll":
         {
             "en_US": "&6The Winner Takes It All",
-            "de_DE": "&6The Winner Takes It All"
+            "de_DE": "<#3ba046>T<#3eae43>h<#41bc3f>e <#46d739>W<#49e535>i<#4cf332>n<#4bee33>n<#4ae935>e<#49e336>r <#47d938>T<#46d43a>a<#45cf3b>k<#44ca3c>e<#42c43d>s <#40ba40>I<#3fb541>t <#3daa44>A<#3ca545>l<#3ba046>l"
         },
         "ITEM.DancingInTheMoonlight":
         {
-            "en_US": "&6Dacin' In The Moonlight",
+            "en_US": "<##945BE0>D<##9759E0>a<##9957E1>n<##9C55E1>c<##9F53E1>i<##A251E2>n<##A44FE2>' <##AA4BE2>I<##AC49E3>n <##AD49E3>T<##AB4AE3>h<##A94CE2>e <##A54FE2>M<##A350E2>o<##A052E1>o<##9E53E1>n<##9C55E1>l<##9A56E1>i<##9858E0>g<##9659E0>h<##945BE0>t",
             "de_DE": "<##945BE0>D<##9759E0>a<##9957E1>n<##9C55E1>c<##9F53E1>i<##A251E2>n<##A44FE2>' <##AA4BE2>I<##AC49E3>n <##AD49E3>T<##AB4AE3>h<##A94CE2>e <##A54FE2>M<##A350E2>o<##A052E1>o<##9E53E1>n<##9C55E1>l<##9A56E1>i<##9858E0>g<##9659E0>h<##945BE0>t"
         }
     }
