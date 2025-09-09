@@ -84,8 +84,8 @@
         },
         "ITEM.BarbieGirl":
         {
-            "en_US": "&6Barbie Girl",
-            "de_DE": "&6Barbie Girl"
+            "en_US": "<#ca32a7>B<#d340b1>a<#db4ebb>r<#e45bc4>b<#ec69ce>i<#f577d8>e <#e45bc4>G<#db4ebb>i<#d340b1>r<#ca32a7>l",
+            "de_DE": "<#ca32a7>B<#d340b1>a<#db4ebb>r<#e45bc4>b<#ec69ce>i<#f577d8>e <#e45bc4>G<#db4ebb>i<#d340b1>r<#ca32a7>l"
         },
         "ITEM.WouldntItBeNice":
         {
@@ -94,30 +94,30 @@
         },
         "ITEM.IchKomme":
         {
-            "en_US": "&6ICH KOMME",
-            "de_DE": "&6ICH KOMME"
+            "en_US": "&cICH KOMME",
+            "de_DE": "&cICH KOMME"
         },
         "ITEM.KentYasami":
         {
-            "en_US": "&6Da Ya Think I'm Sexy?",
-            "de_DE": "&6Da Ya Think I'm Sexy?",
-            "tr_TR": "&6Kent Yaşamı"
+            "en_US": "<#c30c41>D<#c60f3c>a <#cd1633>Y<#d01a2f>a <#d72025>T<#da2421>h<#dd271c>i<#db251f>n<#d92322>k <#d51f27>I<#d31d2a>’<#d11b2d>m <#cd1633>S<#cb1436>e<#c91238>x<#c7103b>y<#c50e3e>?",
+            "de_DE": "<#c30c41>D<#c60f3c>a <#cd1633>Y<#d01a2f>a <#d72025>T<#da2421>h<#dd271c>i<#db251f>n<#d92322>k <#d51f27>I<#d31d2a>’<#d11b2d>m <#cd1633>S<#cb1436>e<#c91238>x<#c7103b>y<#c50e3e>?",
+            "tr_TR": "<#c30c41>K<#ca1338>e<#d01a2f>n<#d72025>t <#d92322>Y<#d41e28>a<#d01a2f>ş<#cc1535>a<#c7113b>m<#c30c41>ı"
         },
         "ITEM.YMCA":
         {
-            "en_US": "&6YMCA",
-            "de_DE": "&6YMCA",
-            "en_XX": "&6Trump's gay song",
-            "de_XX": "&6Goodbye, SPD"
+            "en_US": "<#20be31>Y<#58ae22>.<#8f9d12>M<#87656c>.<#7f2cc6>C<#8e20b3>.<#9d139f>A",
+            "de_DE": "<#20be31>Y<#58ae22>.<#8f9d12>M<#87656c>.<#7f2cc6>C<#8e20b3>.<#9d139f>A",
+            "en_XX": "<#20be31>T<#3cb629>r<#58ae22>u<#73a51a>m<#8f9d12>p<#8c8a30>'<#8a774e>s <#84528a>g<#823fa8>a<#7f2cc6>y <#8b22b6>s<#911daf>o<#9718a7>n<#9d139f>g",
+            "de_XX": "<#20be31>G<#45b327>o<#6aa81c>o<#8f9d12>d<#8b813f>b<#87656c>y<#834899>e<#7f2cc6>, <#8e20b3>S<#9619a9>P<#9d139f>D"
         },
         "ITEM.StevesLavaChicken":
         {
-            "en_US": "&6Steve's Lava Chicken",
-            "de_DE": "&6Steves Lava Hühnchen"
+            "en_US": "&cSteve's Lava Chicken",
+            "de_DE": "&cSteves Lava Hühnchen"
         },
         "ITEM.TheWinnerTakesItAll":
         {
-            "en_US": "&6The Winner Takes It All",
+            "en_US": "<#3ba046>T<#3eae43>h<#41bc3f>e <#46d739>W<#49e535>i<#4cf332>n<#4bee33>n<#4ae935>e<#49e336>r <#47d938>T<#46d43a>a<#45cf3b>k<#44ca3c>e<#42c43d>s <#40ba40>I<#3fb541>t <#3daa44>A<#3ca545>l<#3ba046>l",
             "de_DE": "<#3ba046>T<#3eae43>h<#41bc3f>e <#46d739>W<#49e535>i<#4cf332>n<#4bee33>n<#4ae935>e<#49e336>r <#47d938>T<#46d43a>a<#45cf3b>k<#44ca3c>e<#42c43d>s <#40ba40>I<#3fb541>t <#3daa44>A<#3ca545>l<#3ba046>l"
         },
         "ITEM.DancingInTheMoonlight":
