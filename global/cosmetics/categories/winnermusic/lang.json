@@ -106,7 +106,9 @@
         "ITEM.YMCA":
         {
             "en_US": "&6YMCA",
-            "de_DE": "&6YMCA"
+            "de_DE": "&6YMCA",
+            "en_XX": "&6Trump's gay song",
+            "de_XX": "&6Goodbye, SPD"
         },
         "ITEM.StevesLavaChicken":
         {
