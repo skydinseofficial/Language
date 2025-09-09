@@ -119,6 +119,11 @@
         {
             "en_US": "&6The Winner Takes It All",
             "de_DE": "&6The Winner Takes It All"
+        },
+        "ITEM.DancingInTheMoonlight":
+        {
+            "en_US": "&6Dacin' In The Moonlight",
+            "de_DE": "&6Dacin' In The Moonlight"
         }
     }
 }
