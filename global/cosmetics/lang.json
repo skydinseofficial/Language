@@ -137,7 +137,7 @@
             "en_US": "&7Choose a song that will be played%nl%&7if you or your team wins.",
             "de_DE": "&7Wähle ein Lied, welches gespielt wird,%nl%&7wenn du oder dein Team gewinnt."
         },
-        "GUI.category.winnermusic.rightclick":
+        "GUI.category.winnermusic.lore.rightclick":
         {
             "en_US": "&8» &x&F&9&B&D&3&1Right-Click for demo",
             "de_DE": "&8» &x&F&9&B&D&3&1Rechtsklicke zum Probehören"
