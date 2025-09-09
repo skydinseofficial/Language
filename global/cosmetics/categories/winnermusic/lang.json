@@ -34,23 +34,23 @@
         },
         "ITEM.Fest":
         {
-            "en_US": "&6Hayat Bayram Olsa",
-            "de_DE": "&6Hayat Bayram Olsa"
+            "en_US": "<#ec8c8c>H<#f29f8c>a<#f9b28b>y<#ffc58b>a<#ffe295>t <#ddff9d>B<#bcff9b>a<#9aff9a>y<#99efb8>r<#98dfd7>a<#97cff5>m <#a39aff>O<#bc9cff>l<#d59eff>s<#eea0ff>a",
+            "de_DE": "<#ec8c8c>H<#f29f8c>a<#f9b28b>y<#ffc58b>a<#ffe295>t <#ddff9d>B<#bcff9b>a<#9aff9a>y<#99efb8>r<#98dfd7>a<#97cff5>m <#a39aff>O<#bc9cff>l<#d59eff>s<#eea0ff>a"
         },
         "ITEM.FunkYou":
         {
-            "en_US": "&6FunkYou",
-            "de_DE": "&6FunkYou"
+            "en_US": "<#ff0000>F<#ff1900>u<#ff3100>n<#ff4a00>k <#ff7b00>Y<#ff9300>o<#ffac00>u",
+            "de_DE": "<#ff0000>F<#ff1900>u<#ff3100>n<#ff4a00>k <#ff7b00>Y<#ff9300>o<#ffac00>u"
         },
         "ITEM.Levels":
         {
-            "en_US": "&6Levels",
-            "de_DE": "&6Levels"
+            "en_US": "<#3ccf58>L<#76e78c>e<#afffbf>v<#89ef9d>e<#62df7a>l<#3ccf58>s",
+            "de_DE": "<#3ccf58>L<#76e78c>e<#afffbf>v<#89ef9d>e<#62df7a>l<#3ccf58>s"
         },
         "ITEM.NeverGonnaGiveYouUp":
         {
-            "en_US": "&6Never Gonna Give You Up",
-            "de_DE": "&6Never Gonna Give You Up"
+            "en_US": "<#3494e6>N<#3c92e3>e<#4591e1>v<#4d8fde>e<#558ddc>r <#668ad6>G<#6f88d4>o<#7786d1>n<#7f84cf>n<#8883cc>a <#987fc7>G<#a17ec4>i<#a97cc2>v<#b17abf>e <#c277ba>Y<#cb75b7>o<#d373b5>u <#e470b0>U<#ec6ead>p",
+            "de_DE": "<#3494e6>N<#3c92e3>e<#4591e1>v<#4d8fde>e<#558ddc>r <#668ad6>G<#6f88d4>o<#7786d1>n<#7f84cf>n<#8883cc>a <#987fc7>G<#a17ec4>i<#a97cc2>v<#b17abf>e <#c277ba>Y<#cb75b7>o<#d373b5>u <#e470b0>U<#ec6ead>p"
         },
         "ITEM.GetReadyForThis":
         {
@@ -59,28 +59,28 @@
         },
         "ITEM.TheFinalCountDown":
         {
-            "en_US": "&6The Final Count Down",
-            "de_DE": "&6The Final Count Down"
+            "en_US": "<#cb2d3e>T<#cf3644>h<#d33f4a>e <#db5057>F<#df595d>i<#e36263>n<#e76b69>a<#eb7370>l <#f3857c>C<#ef7b75>o<#ea716e>u<#e66867>n<#e15e60>t <#d84a53>D<#d4414c>o<#cf3745>w<#cb2d3e>n",
+            "de_DE": "<#cb2d3e>T<#cf3644>h<#d33f4a>e <#db5057>F<#df595d>i<#e36263>n<#e76b69>a<#eb7370>l <#f3857c>C<#ef7b75>o<#ea716e>u<#e66867>n<#e15e60>t <#d84a53>D<#d4414c>o<#cf3745>w<#cb2d3e>n"
         },
         "ITEM.Thunder":
         {
-            "en_US": "&6Thunder",
-            "de_DE": "&6Thunder"
+            "en_US": "<#3655be>T<#ab6bec>h<#d5a3f2>u<#ffdbf8>n<#d5a3f2>d<#ab6bec>e<#3655be>r",
+            "de_DE": "<#3655be>T<#ab6bec>h<#d5a3f2>u<#ffdbf8>n<#d5a3f2>d<#ab6bec>e<#3655be>r"
         },
         "ITEM.IchWarNochNiemalsInNewYork":
         {
-            "en_US": "&6Ich War Noch Niemals In New York",
-            "de_DE": "&6Ich War Noch Niemals In New York"
+            "en_US": "<#0f02c7>I<#1902c3>c<#2303bf>h <#3603b7>W<#4004b3>a<#4a04af>r <#5e05a7>N<#6705a2>o<#71059e>c<#7b059a>h <#8f0692>N<#98068e>i<#a2078a>e<#ac0786>m<#a2078a>a<#97068f>l<#8d0693>s <#78059c>I<#6d05a0>n <#5804a9>N<#4e04ad>e<#4304b1>w <#2e03ba>Y<#2403be>o<#1902c3>r<#0f02c7>k",
+            "de_DE": "<#0f02c7>I<#1902c3>c<#2303bf>h <#3603b7>W<#4004b3>a<#4a04af>r <#5e05a7>N<#6705a2>o<#71059e>c<#7b059a>h <#8f0692>N<#98068e>i<#a2078a>e<#ac0786>m<#a2078a>a<#97068f>l<#8d0693>s <#78059c>I<#6d05a0>n <#5804a9>N<#4e04ad>e<#4304b1>w <#2e03ba>Y<#2403be>o<#1902c3>r<#0f02c7>k"
         },
         "ITEM.WaterLoo":
         {
-            "en_US": "&6WaterLoo",
-            "de_DE": "&6WaterLoo"
+            "en_US": "<#2c5adb>W<#4169df>a<#5678e3>t<#6a87e6>e<#7f96ea>r<#6382e5>l<#486ee0>o<#2c5adb>o",
+            "de_DE": "<#2c5adb>W<#4169df>a<#5678e3>t<#6a87e6>e<#7f96ea>r<#6382e5>l<#486ee0>o<#2c5adb>o"
         },
         "ITEM.GriechischerWein":
         {
-            "en_US": "&6Griechischer Wein",
-            "de_DE": "&6Griechischer Wein"
+            "en_US": "<#e53b3b>G<#e84244>r<#eb484d>i<#ee4f55>e<#f1555e>c<#f35c67>h<#f66270>i<#f96978>s<#fc6f81>c<#f96978>h<#f66270>e<#f35c67>r <#ee4f55>W<#eb484d>e<#e84244>i<#e53b3b>n",
+            "de_DE": "<#e53b3b>G<#e84244>r<#eb484d>i<#ee4f55>e<#f1555e>c<#f35c67>h<#f66270>i<#f96978>s<#fc6f81>c<#f96978>h<#f66270>e<#f35c67>r <#ee4f55>W<#eb484d>e<#e84244>i<#e53b3b>n"
         },
         "ITEM.BarbieGirl":
         {
