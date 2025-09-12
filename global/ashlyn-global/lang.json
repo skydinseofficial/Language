@@ -502,6 +502,11 @@
             "en_US": "Winner selected at random",
             "de_DE": "Gewinner durch Zufall auserwählt"
         },
+        "MINIGAMEBASICS.msg.mapvoting.error.onlyhostcanvote":
+        {
+            "en_US": "&cIn privte games only the owner can vote for a map.",
+            "de_DE": "&cIn privaten Runden kann nur der Besitzer eine Karte wählen."
+        },
         "MINIGAMEBASICS.msg.countdown.startin":
         {
             "en_US": "&7The game starts in &x&F&F&D&2&0&0[sec] seconds&7.",
