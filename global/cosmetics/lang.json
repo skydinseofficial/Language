@@ -182,12 +182,12 @@
             "en_US": "&7Show your cool custom Gravestone%nl%&7on your death in Murder Mystery.",
             "de_DE": "&7Zeige allen anderen deine%nl%&7coolen Grabsteine in Murder Mystery."
         },
-        "GUI.category.murder_throwable.title":
+        "GUI.category.murder_throwables.title":
         {
             "en_US": "Murder Mystery Throwables",
             "de_DE": "Murder Mystery Wurfgegenstände"
         },
-        "GUI.category.murder_throwable.description":
+        "GUI.category.murder_throwables.description":
         {
             "en_US": "&7Choose an item that you throw%nl%&7when you use your throwable as murderer.",
             "de_DE": "&7Wähle einen Gegenstand aus, welchen%nl%&7du als Mörder wirfst."
