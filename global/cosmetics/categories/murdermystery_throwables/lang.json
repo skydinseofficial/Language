@@ -1,0 +1,21 @@
+{
+    "system": "cosmetics-murdermystery_throwables",
+    "translations":
+    {
+        "ITEM.Drink":
+        {
+            "en_US": "&dDrink",
+            "de_DE": "&dGetränk"
+        },
+        "ITEM.Burger":
+        {
+            "en_US": "&cBurger",
+            "de_DE": "&cBurger"
+        },
+        "ITEM.Present":
+        {
+            "en_US": "&aPresent",
+            "de_DE": "&aGeschenk"
+        }
+    }
+}
