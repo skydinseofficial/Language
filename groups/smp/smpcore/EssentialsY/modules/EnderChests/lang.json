@@ -52,6 +52,11 @@
             "en_US": "&cAn error occurred: &e[error]",
             "de_DE": "&cEin Fehler ist aufgetreten: &e[error]"
         },
+        "MSG.error.couldnotdeserialize":
+        {
+            "en_US": "&cThe inventory could not be deserialized!",
+            "de_DE": "&cDas Inventar konnte nicht deserialisiert werden!"
+        },
         "MSG.changessaved":
         {
             "en_US": "&7Changes have been saved!",
