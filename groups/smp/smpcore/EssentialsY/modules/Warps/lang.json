@@ -14,8 +14,8 @@
         },
         "GUI.main.warp.lore":
         {
-            "en_US": "&7Abbreviation: &x&F&F&D&2&0&0[abbreviation]\n&7Created by: [prefix][owner]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Expires in: &x&F&F&D&2&0&0[expires]\n&7Visitors: &x&F&F&D&2&0&0[visitors]\n&7Description: &x&F&F&D&2&0&0[description]",
-            "de_DE": "&7Kürzel: &x&F&F&D&2&0&0[abbreviation]\n&7Erstellt von: [prefix][owner]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]\n&7Besucher: &x&F&F&D&2&0&0[visitors]\n&7Beschreibung: &x&F&F&D&2&0&0[description]"
+            "en_US": "&7Abbreviation: &x&F&F&D&2&0&0[abbreviation]\n&7Created by: [owner]\n&7Creation date: &x&F&F&D&2&0&0[date]\n&7Expires in: &x&F&F&D&2&0&0[expires]\n&7Visitors: &x&F&F&D&2&0&0[visitors]\n&7Description: &x&F&F&D&2&0&0[description]",
+            "de_DE": "&7Kürzel: &x&F&F&D&2&0&0[abbreviation]\n&7Erstellt von: [owner]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[date]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]\n&7Besucher: &x&F&F&D&2&0&0[visitors]\n&7Beschreibung: &x&F&F&D&2&0&0[description]"
         },
         "GUI.edit.name.title":
         {
