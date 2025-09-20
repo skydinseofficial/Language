@@ -12,6 +12,11 @@
             "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
             "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
         },
+        "MSG.error.couldnotserializeitem":
+        {
+            "en_US": "&cCould not serialize item!",
+            "de_DE": "&cDas Item konnte nicht serialisiert werden!"
+        },
         "MSG.error.unexpectederror":
         {
             "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
