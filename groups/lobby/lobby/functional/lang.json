@@ -78,8 +78,8 @@
         },
         "MINEATTACK.msg.alreadyregistered":
         {
-            "en_US": "&7You are already registered and have completed the survey. See you on <#FFD84E>October 26th, 2024 &7from <#FFD84E>4 p.m.&7!",
-            "de_DE": "&7Du bist bereits angemeldet und hast die Umfrage beendet. Wir sehen uns am <#FFD84E>26.10.2024 &7ab <#FFD84E>16 Uhr&7!"
+            "en_US": "&7You are already registered and have completed the survey. See you on <#FFD84E>October 25th, 2024 &7from <#FFD84E>4 p.m.&7!",
+            "de_DE": "&7Du bist bereits angemeldet und hast die Umfrage beendet. Wir sehen uns am <#FFD84E>25.10.2024 &7ab <#FFD84E>16 Uhr&7!"
         },
         "MINEATTACK.msg.survey.title":
         {
