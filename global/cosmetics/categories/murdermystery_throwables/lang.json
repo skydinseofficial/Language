@@ -16,6 +16,11 @@
         {
             "en_US": "&aPresent",
             "de_DE": "&aGeschenk"
+        },
+        "ITEM.ExclamationMark":
+        {
+            "en_US": "&6Exclamation Mark",
+            "de_DE": "&6Ausrufezeichen"
         }
     }
 }
