@@ -88,8 +88,8 @@
         },
         "MINEATTACK.msg.survey.subtitle":
         {
-            "en_US": "<#FFC800>Question",
-            "de_DE": "<#FFC800>Frage"
+            "en_US": "<#FFC800>Question [no] &7(<#FFD84E>in Chat&7)",
+            "de_DE": "<#FFC800>Frage [no] &7(<#FFD84E>im Chat&7)"
         },
         "MINEATTACK.msg.survey.1":
         {
