@@ -98,8 +98,8 @@
         },
         "MINEATTACK.msg.survey.2":
         {
-            "en_US": "<#FFC800>Question 2/7: &7Will you take part in the <#FFD84E>start &7(<#FFD84E>October 26, 2024 &7at <#FFD84E>4 p.m.&7)?",
-            "de_DE": "<#FFC800>Frage 2/7: &7Wirst du am <#FFD84E>Start &7(<#FFD84E>26.10.2024 &7um <#FFD84E>16 Uhr&7) teilnehmen?"
+            "en_US": "<#FFC800>Question 2/7: &7Will you take part in the <#FFD84E>start &7(<#FFD84E>October 25th, 2024 &7at <#FFD84E>4 p.m.&7)?",
+            "de_DE": "<#FFC800>Frage 2/7: &7Wirst du am <#FFD84E>Start &7(<#FFD84E>25.10.2024 &7um <#FFD84E>16 Uhr&7) teilnehmen?"
         },
         "MINEATTACK.msg.survey.3":
         {
