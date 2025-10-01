@@ -16,6 +16,11 @@
         {
             "en_US": "&7Changes have been saved!",
             "de_DE": "&7Änderungen wurden gespeichert!"
+        },
+        "MSG.couldnotdeserializeinventory":
+        {
+            "en_US": "&cCould not deserialize the inventory!",
+            "de_DE": "&cDas Inventar konnte nicht deserialisiert werden!"
         }
     }
 }
