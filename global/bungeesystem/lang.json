@@ -142,6 +142,11 @@
             "en_US": "&aOur backend was successfully restarted! &7Everything should now work as usual again.",
             "de_DE": "&aUnser Backend wurde erfolgreich neu gestartet! &7Es sollte nun alles wieder wie gewohnt funktionieren."
         },
+        "SERVERCONNECT.server_offline":
+        {
+            "en_US": "&cThe target server is offline!",
+            "de_DE": "&cDer Zielserver ist offline!"
+        },
         "SERVERCONNECT.server_full":
         {
             "en_US": "&cThe target server is full!",
