@@ -1,0 +1,32 @@
+{
+    "system": "mira",
+    "translations":
+    {
+        "msg.nopermission":
+        {
+            "en_US": "&cYou don't have permission for this.",
+            "de_DE": "&cDazu hast du keine Berechtigung."
+        },
+        "SPECMODE.msg.notansmp":
+        {
+            "en_US": "&cThe Specmode can only be enabled on an SMP.",
+            "de_DE": "&cDer Specmode kann nur auf einem SMP aktiviert werden."
+        },
+        "SPECMODE.msg.targetnotregistered":
+        {
+            "en_US": "&cThe target player is not registered.",
+            "de_DE": "&cDer angegebene Spieler ist nicht registriert."
+        },
+        "SPECMODE.msg.targetoffline":
+        {
+            "en_US": "&cThe target player is not online.",
+            "de_DE": "&cDer angegebene Spieler ist nicht online."
+        },
+        "ANTICHEAT.kickbcash":
+        {
+            "en_US": "<#FF0000>KICK: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
+            "de_DE": "<#FF0000>KICK: &7Spieler: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
+            "tr_TR": "<#FF0000>KICK: &7Oyuncu: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)"
+        }
+    }
+}
