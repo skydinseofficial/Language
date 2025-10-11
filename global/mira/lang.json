@@ -62,6 +62,11 @@
             "en_US": "[player]&7's Specmode is now &cdisabled&7!",
             "de_DE": "&7Der Specmode von [player]&7 ist nun &cdeaktiviert&7!"
         },
+        "SPECMODE.bossbar.specmode.enabled":
+        {
+            "en_US": "&x&F&F&3&7&4&A&nYou're in Specmode!",
+            "de_DE": "&x&F&F&3&7&4&A&nDu befindest dich im Specmode!"
+        },
         "ANTICHEAT.kickbcash":
         {
             "en_US": "<#FF0000>KICK: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
