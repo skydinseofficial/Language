@@ -22,6 +22,46 @@
             "en_US": "&cThe target player is not online.",
             "de_DE": "&cDer angegebene Spieler ist nicht online."
         },
+        "SPECMODE.msg.alreadyenabled.self":
+        {
+            "en_US": "&cYour Specmode is already enabled!",
+            "de_DE": "&cDu befindest dich bereits im Specmode!"
+        },
+        "SPECMODE.msg.alreadydisabled.self":
+        {
+            "en_US": "&cYour Specmode is already disabled!",
+            "de_DE": "&cDu befindest dich nicht im Specmode!"
+        },
+        "SPECMODE.msg.alreadyenabled.target":
+        {
+            "en_US": "[player]&c's Specmode is already enabled!",
+            "de_DE": "[player] &cbefindet sich bereits im Specmode!"
+        },
+        "SPECMODE.msg.alreadydisabled.target":
+        {
+            "en_US": "[player]&c's Specmode is already disabled!",
+            "de_DE": "[player] &cbefindet sich nicht im Specmode!"
+        },
+        "SPECMODE.msg.enabled.self":
+        {
+            "en_US": "&7Your Specmode is now &aenabled&7!",
+            "de_DE": "&7Du hast deinen Specmode &aaktiviert&7!"
+        },
+        "SPECMODE.msg.disabled.self":
+        {
+            "en_US": "&7Your Specmode is now &cdisabled&7!",
+            "de_DE": "&7Du hast deinen Specmode &cdeaktiviert&7!"
+        },
+        "SPECMODE.msg.enabled.target":
+        {
+            "en_US": "[player]&7's Specmode is now &aenabled&7!",
+            "de_DE": "&7Der Specmode von [player]&7 ist nun &aaktiviert&7!"
+        },
+        "SPECMODE.msg.disabled.target":
+        {
+            "en_US": "[player]&7's Specmode is now &cdisabled&7!",
+            "de_DE": "&7Der Specmode von [player]&7 ist nun &cdeaktiviert&7!"
+        },
         "ANTICHEAT.kickbcash":
         {
             "en_US": "<#FF0000>KICK: &7Player: &eVAR-1 &8| &7Detect: &cVAR-2 &8[&7VAR-3&8] &7Verbose: &dVAR-4 &8(&eVAR-5&7»&aVAR-6&8|&7VAR-7&8)",
