@@ -64,8 +64,8 @@
         },
         "SPECMODE.bossbar.specmode.enabled":
         {
-            "en_US": "&x&F&F&3&7&4&A&nYou're in Specmode!",
-            "de_DE": "&x&F&F&3&7&4&A&nDu befindest dich im Specmode!"
+            "en_US": "&x&F&F&3&7&4&A&oYou're in Specmode!",
+            "de_DE": "&x&F&F&3&7&4&A&oDu befindest dich im Specmode!"
         },
         "ANTICHEAT.kickbcash":
         {
