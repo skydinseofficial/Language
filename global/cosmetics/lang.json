@@ -154,7 +154,7 @@
         },
         "GUI.category.trails.title":
         {
-            "en_US": "Trials",
+            "en_US": "Trails",
             "de_DE": "Spuren"
         },
         "GUI.category.trails.description":
@@ -204,5 +204,6 @@
         }
     }
 }
+
 
 
