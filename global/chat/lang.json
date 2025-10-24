@@ -25,7 +25,12 @@
         "LINK.tooltip_blocked":
         {
             "en_US": "&4✘ &cBlocked &8| &7This link has been classified as inappropriate by our staff!",
-            "de_DE": "&4✘ &cBlocked &8| &7Dieser Link wurde von unseren Teammitgliedern als unangemessen eingestuft!"
+            "de_DE": "&4✘ &cBlockiert &8| &7Dieser Link wurde von unseren Teammitgliedern als unangemessen eingestuft!"
+        },
+        "LINK.tooltip_unknown":
+        {
+            "en_US": "&4✘ &cUnknown &8| &7Our system could not check this link right now. Please be careful when opening!",
+            "de_DE": "&4✘ &cUnbekannt &8| &7Unser System konnte diesen Link gerade nicht überprüfen. Bitte sei vorsichtig beim Öffnen!"
         },
         "SGA.tooltip_original":
         {
