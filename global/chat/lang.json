@@ -64,6 +64,11 @@
             "fr_FR": "&7Ton message est en cours de vérification par l’équipe du serveur.",
             "tr_TR": "&7Mesajın sunucu ekibi tarafından inceleniyor."
         },
+        "SLOWMODE":
+        {
+            "en_US": "&cYou are sending messages too quickly! Please wait &s[seconds] seconds&c between sending messages.",
+            "de_DE": "&cDu schickst Nachrichten zu schnell! Bitte warte &s[seconds] Sekunden&c, bevor du eine neue Nachricht sendest."
+        },
         "DISABLED":
         {
             "en_US": "&cThe chat system is currently disabled!",
