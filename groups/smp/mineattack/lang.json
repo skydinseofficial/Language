@@ -114,13 +114,13 @@
         },
         "WELCOME.msg.desc.2":
         {
-            "en_US": "&7Protect your base: &x&F&F&D&8&4&E/claim",
-            "de_DE": "&7Beschütze deine Base: &x&F&F&D&8&4&E/claim"
+            "en_US": "&7Important: &x&F&F&D&8&4&E/claim&7, &x&F&F&D&8&4&E/pvp",
+            "de_DE": "&7Wichtig: &x&F&F&D&8&4&E/claim&7, &x&F&F&D&8&4&E/pvp"
         },
         "WELCOME.msg.desc.3":
         {
-            "en_US": "&7Toggle your PvP: &x&F&F&D&8&4&E/pvp",
-            "de_DE": "&7Stelle dein PvP um: &x&F&F&D&8&4&E/pvp"
+            "en_US": "&x&B&D&9&4&F&FEnd-Release &71 Week later!",
+            "de_DE": "&x&B&D&9&4&F&FEnd-Release &71 Woche später!"
         },
         "WELCOME.msg.desc.4":
         {
