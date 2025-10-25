@@ -102,6 +102,31 @@
             "en_US": "&#fc9d9dnobody",
             "de_DE": "&#fc9d9dniemand"
         },
+        "WELCOME.msg.title":
+        {
+            "en_US": "&x&F&F&D&2&0&0Welcome to Skydinse MineAttack VI!",
+            "de_DE": "&x&F&F&D&2&0&0Willkommen auf Skydinse MineAttack VI!"
+        },
+        "WELCOME.msg.desc.1":
+        {
+            "en_US": "&7A &x&F&F&D&8&4&ECommunity CraftAttack &7SMP!",
+            "de_DE": "&7Ein &x&F&F&D&8&4&ECommunity CraftAttack &7SMP!"
+        },
+        "WELCOME.msg.desc.2":
+        {
+            "en_US": "&7Protect your base: &x&F&F&D&8&4&E/claim",
+            "de_DE": "&7Beschütze deine Base: &x&F&F&D&8&4&E/claim"
+        },
+        "WELCOME.msg.desc.3":
+        {
+            "en_US": "&7Toggle your PvP: &x&F&F&D&8&4&E/pvp",
+            "de_DE": "&7Stelle dein PvP um: &x&F&F&D&8&4&E/pvp"
+        },
+        "WELCOME.msg.desc.4":
+        {
+            "en_US": "&7Type &x&F&F&D&8&4&E<|wiki> &7for help.",
+            "de_DE": "&7Nutze &x&F&F&D&8&4&E<|wiki> &7für Hilfe."
+        },
         "PVP.atspawn":
         {
             "en_US": "&cPvP is disabled at spawn!",
