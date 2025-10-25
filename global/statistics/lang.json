@@ -286,37 +286,42 @@
             "en_US": "Received Hits",
             "de_DE": "Erhaltene Treffer"
         },
-        "GUI.category.mineattackvpro.deaths":
+        "GUI.category.mineattackvi.deaths":
         {
             "en_US": "Deaths",
             "de_DE": "Tode"
         },
-        "GUI.category.mineattackvpro.mobskilled":
+        "GUI.category.mineattackvi.kills":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills"
+        },
+        "GUI.category.mineattackvi.mobskilled":
         {
             "en_US": "Mobs killed",
             "de_DE": "Mobs getötet"
         },
-        "GUI.category.mineattackvpro.animalskilled":
+        "GUI.category.mineattackvi.animalskilled":
         {
             "en_US": "Animals killed",
             "de_DE": "Tiere getötet"
         },
-        "GUI.category.mineattackvpro.blocksplaced":
+        "GUI.category.mineattackvi.blocksplaced":
         {
             "en_US": "Blocks placed",
             "de_DE": "Blöcke platziert"
         },
-        "GUI.category.mineattackvpro.blocksbreaked":
+        "GUI.category.mineattackvi.blocksbreaked":
         {
             "en_US": "Blocks destroyed",
             "de_DE": "Blöcke abgebaut"
         },
-        "GUI.category.mineattackvpro.distancemoved":
+        "GUI.category.mineattackvi.distancemoved":
         {
             "en_US": "Blocks walked",
             "de_DE": "Blöcke gelaufen"
         },
-        "GUI.category.mineattackvpro.jumps":
+        "GUI.category.mineattackvi.jumps":
         {
             "en_US": "Jumps",
             "de_DE": "Sprünge"
