@@ -222,6 +222,11 @@
             "en_US": "Player Join/Leave Messages",
             "de_DE": "Spieler Join-/Leave-Nachrichten"
         },
+        "settings.gui.main.setting.clanactionmsg":
+        {
+            "en_US": "Fraction Creation/Deletion Broadcasts",
+            "de_DE": "Fraktionserstellungs-/löschungs Nachrichten"
+        },
         "scoreboard.money":
         {
             "en_US": "Money:",
