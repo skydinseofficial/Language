@@ -377,5 +377,11 @@
             "en_US": "Deliberately creating server delays",
             "de_DE": "Absichtliches erzeugen Serververzögerungen"
         },
+        "REASON.other.abuse_of_support":
+        {
+            "en_US": "Abuse of Support",
+            "en_GB": "Abuse of Support",
+            "de_DE": "Absichtliches ausnutzen vom Support"
+        },
     }
 }
