@@ -12,6 +12,11 @@
             "en_US": "&cThere is already a player shop on this block.",
             "de_DE": "&cAuf diesem Block ist bereits ein Spielershop."
         },
+        "ITEM.error.couldnotserialize":
+        {
+            "en_US": "&cCould not serialize item! &7Please try again or report this error.",
+            "de_DE": "&cDas Item konnte nicht serialisiert werden! &7Bitte versuche es erneut oder melde diesen Fehler dem Team."
+        },
         "ITEM.help.use":
         {
             "en_US": "&7To create the player shop, break the block on which the shop sould be placed.",
