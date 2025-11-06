@@ -12,6 +12,11 @@
             "en_US": "&cThere is already a player shop on this block.",
             "de_DE": "&cAuf diesem Block ist bereits ein Spielershop."
         },
+        "ITEM.error.nopermissiontoplacehere":
+        {
+            "en_US": "&cYou cannot place a shop here.",
+            "de_DE": "&cDu kannst hier keinen Shop platzieren."
+        },
         "ITEM.error.couldnotserialize":
         {
             "en_US": "&cCould not serialize item! &7Please try again or report this error.",
