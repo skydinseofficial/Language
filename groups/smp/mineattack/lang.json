@@ -166,6 +166,16 @@
         {
             "en_US": "&cYour data is not completely loaded!",
             "de_DE": "&cDeine Daten sind gerade nicht vollständig geladen!"
+        },
+        "HOLO.trialtrader":
+        {
+            "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7the special items!",
+            "de_DE": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7Bei mir kommst du an\n&7die Special Items!"
+        },
+        "HOLO.earnbloom":
+        {
+            "en_US": "&7Join a &fDuels queue &7or play &fother\n&fminigames &7to earn &fblooms&7!",
+            "de_DE": "&7Tritt einer &fDuels Warteschlange &7bei oder\n&7spiele &fandere Minigames&7, um an\n&fBlüten &7zu gelangen!"
         }
     }
 }
