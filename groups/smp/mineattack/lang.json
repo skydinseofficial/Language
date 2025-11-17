@@ -172,6 +172,16 @@
             "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7the special items!",
             "de_DE": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7Bei mir kommst du an\n&7die Special Items!"
         },
+        "HOLO.warps":
+        {
+            "en_US": "&x&F&F&D&2&0&0&nᴡᴀʀᴘs\n&7Check out the players'\n&7public warps!",
+            "de_DE": "&x&F&F&D&2&0&0&nᴡᴀʀᴘs\n&7Schaue dir die öffentlichen\n&7Warps der Spieler an!"
+        },
+        "HOLO.wiki":
+        {
+            "en_US": "&x&5&A&F&F&0&0&nᴡɪᴋɪ\n&7Need help?\n&7Click here!",
+            "de_DE": "&x&5&A&F&F&0&0&nᴡɪᴋɪ\n&7Du brauchst Hilfe?\n&7Klicke hier!"
+        },
         "HOLO.earnblooms":
         {
             "en_US": "&7Join a &fDuels queue &7or play &fother\n&fminigames &7to earn &fblooms&7!",
