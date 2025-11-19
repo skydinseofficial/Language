@@ -130,6 +130,12 @@
             "fr_FR": "&7Vous &cêtes parti &6Cookie Clicker&7!",
             "tr_TR": "&6Cookie Clicker&c terk &7ettin!"
         },
+        "LOBBYGAMES.cc.cookie":
+        {
+            "en_US": "&6Cookie Clicker" 
+            "en_GB": "&6Cookie Clicker"
+            "de_DE": "&6Cookie Clicker"
+        },
         "LOBBYGAMES.cc.sb.cookies":
         {
             "en_US": "Cookies",
