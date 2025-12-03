@@ -19,8 +19,8 @@
         },
         "HELP.tipbroadcast.3":
         {
-            "en_US": "&7With &c<|pvp> &7you can always deactivate your &6PvP &7for &e12 hours&7.",
-            "de_DE": "&7Mit &c<|pvp> &7kannst du dein &6PvP &7immer für &e12 Stunden &7deaktivieren."
+            "en_US": "&7With &c<|pvp> &7you can deactivate your &6PvP.",
+            "de_DE": "&7Mit &c<|pvp> &7kannst du dein &6PvP &7deaktivieren."
         },
         "HELP.tipbroadcast.4":
         {
