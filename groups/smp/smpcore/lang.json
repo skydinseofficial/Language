@@ -222,7 +222,7 @@
             "en_US": "&x&F&F&0&0&0&0&lDISABLED",
             "de_DE": "&x&F&F&0&0&0&0&lDEAKTIVIERT"
         },
-        "settings.gui.main.setting.tpsrequests":
+        "settings.gui.main.setting.tparequests":
         {
             "en_US": "Receive Teleport Requests",
             "de_DE": "Teleportanfragen erhalten"
