@@ -197,6 +197,21 @@
             "en_US": "&7Status: [status]",
             "de_DE": "&7Status: [status]"
         },
+        "settings.gui.main.status.4":
+        {
+            "en_US": "&x&F&F&D&2&0&0Faction & Friends",
+            "de_DE": "&x&F&F&D&2&0&0Fraktion & Freunde"
+        },
+        "settings.gui.main.status.3":
+        {
+            "en_US": "&x&F&F&D&2&0&0Nobody",
+            "de_DE": "&x&F&F&D&2&0&0Niemand"
+        },
+        "settings.gui.main.status.2":
+        {
+            "en_US": "&x&F&F&D&2&0&0Everyone",
+            "de_DE": "&x&F&F&D&2&0&0Jeder"
+        },
         "settings.gui.main.status.1":
         {
             "en_US": "&x&4&C&F&F&0&0&lENABLED",
@@ -206,6 +221,11 @@
         {
             "en_US": "&x&F&F&0&0&0&0&lDISABLED",
             "de_DE": "&x&F&F&0&0&0&0&lDEAKTIVIERT"
+        },
+        "settings.gui.main.setting.tpsrequests":
+        {
+            "en_US": "Receive Teleport Requests",
+            "de_DE": "Teleportanfragen erhalten"
         },
         "settings.gui.main.setting.deathmessages":
         {
