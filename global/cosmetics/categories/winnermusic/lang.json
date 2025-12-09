@@ -75,7 +75,8 @@
         "ITEM.WaterLoo":
         {
             "en_US": "<#2c5adb>W<#4169df>a<#5678e3>t<#6a87e6>e<#7f96ea>r<#6382e5>l<#486ee0>o<#2c5adb>o",
-            "de_DE": "<#2c5adb>W<#4169df>a<#5678e3>t<#6a87e6>e<#7f96ea>r<#6382e5>l<#486ee0>o<#2c5adb>o"
+            "de_DE": "<#2c5adb>W<#4169df>a<#5678e3>t<#6a87e6>e<#7f96ea>r<#6382e5>l<#486ee0>o<#2c5adb>o",
+            "tr_TR": "<#0558c4>&oo<#256fcf>&ol<#4586da>&od<#659de5>&ou <#256fcf>&om<#0558c4>&ou"
         },
         "ITEM.GriechischerWein":
         {
