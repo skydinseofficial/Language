@@ -167,6 +167,11 @@
             "en_US": "&cYour data is not completely loaded!",
             "de_DE": "&cDeine Daten sind gerade nicht vollständig geladen!"
         },
+        "PVP.combat"
+        {
+            "en_US": "&cDu kannst /pvp während eines Kampfes nicht umschalten.",
+            "de_DE": "&cYou cannot toggle /pvp during combat."
+        },
         "HOLO.trialtrader":
         {
             "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7the special items!",
