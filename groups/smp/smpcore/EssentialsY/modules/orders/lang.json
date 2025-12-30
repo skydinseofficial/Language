@@ -11,6 +11,31 @@
         {
             "en_US": "&cYou have already &x&F&F&D&2&0&0[current] &cof &x&F&F&D&2&0&0[max] &crunning orders... You need a &x&F&F&D&8&4&Ehigher rank&c to create more orders.",
             "de_DE": "&cDu hast bereits &x&F&F&D&2&0&0[current] &cvon &x&F&F&D&2&0&0[max] &claufende Orders... Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang&c, um noch mehr Orders zu erstellen."
+        },
+        "MSG.error.invalidprice":
+        {
+            "en_US": "&cInvalid price! &7Please note the format.",
+            "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Release new order:",
+            "de_DE": "<#FFD200>Neue Order freigeben:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>purchase price &nper Item&7 in the <#FFD84E>chat&7 to request the desired number of <#FFD84E>items in your hand&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>Ankaufspreis &npro Item&7 in den <#FFD84E>Chat&7, um die gewünschte Anzahl von <#FFD84E>Items in deiner Hand &7anzufragen."
+        },
+        "MSG.create.explanation.2.money":
+        {
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
         }
     }
 }
