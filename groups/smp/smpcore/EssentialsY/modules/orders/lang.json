@@ -37,6 +37,11 @@
             "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
             "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
         },
+        "MSG.error.invalidamount":
+        {
+            "en_US": "&cInvalid number of items to be delivered! &7Your order has to be for at least 1 item.",
+            "de_DE": "&cUngültige Anzahl der zu liefernden Items! &7Deine Order muss für mindestens 1 Item sein."
+        },
         "MSG.error.unexpectederror":
         {
             "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
