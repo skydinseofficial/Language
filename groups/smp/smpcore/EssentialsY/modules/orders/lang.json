@@ -2,6 +2,21 @@
     "system": "esy-orders",
     "translations":
     {
+        "MSG.error.notenoughspaceininventory":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "MSG.error.cantafford":
+        {
+            "en_US": "&cYou can't afford that amount of purchases!",
+            "de_DE": "&cDu kannst dir diese Anzahl an Ankäufen nicht leisten!"
+        },
+        "MSG.error.transactionerror":
+        {
+            "en_US": "&cA transaction error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
+        },
         "MSG.error.pricelimit":
         {
             "en_US": "&cThis price is too high. It's utopian!",
@@ -16,6 +31,21 @@
         {
             "en_US": "&cInvalid price! &7Please note the format.",
             "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.error.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
+        "MSG.error.itemhastobeinhand":
+        {
+            "en_US": "&cYou must hold the item you wish to purchase in your hand.",
+            "de_DE": "&cDu musst das Item, welches du ankaufen möchtest, in der Hand halten."
         },
         "MSG.create.title":
         {
