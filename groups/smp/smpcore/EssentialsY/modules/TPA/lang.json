@@ -21,6 +21,21 @@
             "en_US": "&7You've sent &6[player] a teleport request&7. Stop moving!",
             "de_DE": "&7Du hast &6[player] &7eine TPA geschickt. Nicht mehr bewegen!"
         },
+        "MSG.cannotsendrequest":
+        {
+            "en_US": "&cA teleport request could not be sent to [player]&c.",
+            "de_DE": "&cEs konnte keine Teleportanfrage an [player]&c gesendet werden."
+        },
+        "MSG.cannotsendrequest.3":
+        {
+            "en_US": "[player]&c does not accept teleport requests!",
+            "de_DE": "[player]&c akzeptiert keine Teleportanfragen!"
+        },
+        "MSG.cannotsendrequest.4":
+        {
+            "en_US": "[player]&c does only accept teleport requests from friends or faction members!",
+            "de_DE": "[player]&c akzeptiert nur Teleportanfragen von Freunden oder Fraktionsmitgliedern!"
+        },
         "MSG.playernotonline":
         {
             "en_US": "&cThis player is not online!",
