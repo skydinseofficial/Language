@@ -1,0 +1,16 @@
+{
+    "system": "esy-orders",
+    "translations":
+    {
+        "MSG.error.pricelimit":
+        {
+            "en_US": "&cThis price is too high. It's utopian!",
+            "de_DE": "&cDieser Preis ist zu hoch. Das ist ja utopisch!"
+        },
+        "MSG.error.slotlimit":
+        {
+            "en_US": "&cYou have already &x&F&F&D&2&0&0[current] &cof &x&F&F&D&2&0&0[max] &crunning orders... You need a &x&F&F&D&8&4&Ehigher rank&c to create more orders.",
+            "de_DE": "&cDu hast bereits &x&F&F&D&2&0&0[current] &cvon &x&F&F&D&2&0&0[max] &claufende Orders... Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang&c, um noch mehr Orders zu erstellen."
+        }
+    }
+}
