@@ -1,0 +1,86 @@
+{
+    "system": "esy-orders",
+    "translations":
+    {
+        "MSG.error.notenoughspaceininventory":
+        {
+            "en_US": "&cYou don't have enough space in your inventory.",
+            "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "MSG.error.cantafford":
+        {
+            "en_US": "&cYou can't afford that amount of purchases!",
+            "de_DE": "&cDu kannst dir diese Anzahl an Ankäufen nicht leisten!"
+        },
+        "MSG.error.transactionerror":
+        {
+            "en_US": "&cA transaction error occurred. Please try again or rejoin.",
+            "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
+        },
+        "MSG.error.pricelimit":
+        {
+            "en_US": "&cThis price is too high. It's utopian!",
+            "de_DE": "&cDieser Preis ist zu hoch. Das ist ja utopisch!"
+        },
+        "MSG.error.slotlimit":
+        {
+            "en_US": "&cYou have already &x&F&F&D&2&0&0[current] &cof &x&F&F&D&2&0&0[max] &crunning orders... You need a &x&F&F&D&8&4&Ehigher rank&c to create more orders.",
+            "de_DE": "&cDu hast bereits &x&F&F&D&2&0&0[current] &cvon &x&F&F&D&2&0&0[max] &claufende Orders... Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang&c, um noch mehr Orders zu erstellen."
+        },
+        "MSG.error.invalidprice":
+        {
+            "en_US": "&cInvalid price! &7Please note the format.",
+            "de_DE": "&cUngültiger Preis! &7Bitte achte auf das Format."
+        },
+        "MSG.error.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must have a valid item in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein gültiges Item in der Hand halten."
+        },
+        "MSG.error.invalidamount":
+        {
+            "en_US": "&cInvalid number of items to be delivered! &7Your order has to be for at least 1 item.",
+            "de_DE": "&cUngültige Anzahl der zu liefernden Items! &7Deine Order muss für mindestens 1 Item sein."
+        },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error occurred! Please try again or report the error to the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten! Bitte versuche es erneut oder melde den Fehler beim Team."
+        },
+        "MSG.error.itemhastobeinhand":
+        {
+            "en_US": "&cYou must hold the item you wish to purchase in your hand.",
+            "de_DE": "&cDu musst das Item, welches du ankaufen möchtest, in der Hand halten."
+        },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|orders>&7 to open the menu or &e&n</orders create (amount) (price)>&7 to release an order of your held item.",
+            "de_DE": "&7Nutze &e&n<|orders>&7, um das Menü zu öffnen oder &e&n</orders create (anzahl) (preis)>&7, um eine Order vom Item in der Hand freizugeben."
+        },
+        "MSG.success.orderreleased":
+        {
+            "en_US": "&7You have just released an order for [amount]x [item]&7, each &x&F&F&D&2&0&0[price]&7! The total investment is [sum]&7.",
+            "de_DE": "&7Du hast soeben eine Order für [amount]x [item]&7, je &x&F&F&D&2&0&0[price]&7, freigegeben! Die Summe der Investition beträgt [sum]&7."
+        },
+        "MSG.create.title":
+        {
+            "en_US": "<#FFD200>Release new order:",
+            "de_DE": "<#FFD200>Neue Order freigeben:"
+        },
+        "MSG.create.explanation.1":
+        {
+            "en_US": "&7Write a <#FFD84E>purchase price &nper Item&7 in the <#FFD84E>chat&7 to request the desired number of <#FFD84E>items in your hand&7.",
+            "de_DE": "&7Schreibe einen <#FFD84E>Ankaufspreis &npro Item&7 in den <#FFD84E>Chat&7, um die gewünschte Anzahl von <#FFD84E>Items in deiner Hand &7anzufragen."
+        },
+        "MSG.create.explanation.2.money":
+        {
+            "en_US": "&7e.g. <#FFD200>49.99",
+            "de_DE": "&7z.B. <#FFD200>49,99"
+        },
+        "MSG.create.explanation.2.time":
+        {
+            "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
+            "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        }
+    }
+}
