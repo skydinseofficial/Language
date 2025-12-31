@@ -52,6 +52,16 @@
             "en_US": "&cYou must hold the item you wish to purchase in your hand.",
             "de_DE": "&cDu musst das Item, welches du ankaufen möchtest, in der Hand halten."
         },
+        "MSG.info.commandusage":
+        {
+            "en_US": "&7Use &e&n<|orders>&7 to open the menu or &e&n</orders create (amount) (price)>&7 to release an order of your held item.",
+            "de_DE": "&7Nutze &e&n<|orders>&7, um das Menü zu öffnen oder &e&n</orders create (anzahl) (preis)>&7, um eine Order vom Item in der Hand freizugeben."
+        },
+        "MSG.success.orderreleased":
+        {
+            "en_US": "&7You have just released an order for [amount]x [item]&7, each &x&F&F&D&2&0&0[price]&7! The total investment is [sum]&7.",
+            "de_DE": "&7Du hast soeben eine Order für [amount]x [item]&7, je &x&F&F&D&2&0&0[price]&7, freigegeben! Die Summe der Investition beträgt [sum]&7."
+        },
         "MSG.create.title":
         {
             "en_US": "<#FFD200>Release new order:",
