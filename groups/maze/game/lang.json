@@ -8,7 +8,7 @@
             "de_DE": "Allgemeine Maze-Einstellungen",
             "ru_RU": "Общие настройки Maze"
         },
-        "GUI.customsettings.main.setting.graceperiod":
+        "CUSTOM.settings.gui.main.setting.graceperiod":
         {
             "en_US": "Grace Period after game start (Seconds)",
             "de_DE": "Schutzzeit nach dem Spielstart (Sekunden)"
