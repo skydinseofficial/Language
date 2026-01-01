@@ -316,7 +316,7 @@
         {
             "en_US": "&8» <#F9BD31>Left click to buy",
             "de_DE": "&8» <#F9BD31>Links-Klicke zum Kaufen"
-        }
+        },
         "GUI.clickaction.right.moreoptions":
         {
             "en_US": "&8» <#F9BD31>Right click for more options",
