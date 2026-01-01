@@ -81,6 +81,51 @@
         {
             "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
             "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        },
+        "GUI.main.title":
+        {
+            "en_US": "Orders",
+            "de_DE": "Bestellungen"
+        },
+        "GUI.main.yourorders":
+        {
+            "en_US": "&6Your Orders",
+            "de_DE": "&6Deine Bestellungen"
+        },
+        "GUI.main.sorting":
+        {
+            "en_US": "&7Sorting:",
+            "de_DE": "&7Sortierung:"
+        },
+        "GUI.main.sorting.highestprice":
+        {
+            "en_US": "Highest Price",
+            "de_DE": "Höchster Preis"
+        },
+        "GUI.main.sorting.lowestprice":
+        {
+            "en_US": "Lowest Price",
+            "de_DE": "Niedrigster Preis"
+        },
+        "GUI.main.sorting.lastlisted":
+        {
+            "en_US": "Last Listed",
+            "de_DE": "Zuletzt Hinzugefügt"
+        },
+        "GUI.main.sorting.recentlylisted":
+        {
+            "en_US": "Recently Listed",
+            "de_DE": "Kürzlich Hinzugefügt"
+        },
+        "GUI.main.createorder":
+        {
+            "en_US": "Add Order",
+            "de_DE": "Bestellung hinzufügen"
+        },
+        "GUI.main.createauction.lore":
+        {
+            "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of <#FFD84E>any item&7.\n\n&7You currently have [orders]&7 orders running.\n\n&7&oTip: Use /order create <quantity> <price>",
+            "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl eines <#FFD84E>beliebigen Items&7.\n\n&7Du hast derzeit [orders]&7 Bestellungen laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
         }
     }
 }
