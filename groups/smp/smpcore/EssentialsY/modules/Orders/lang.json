@@ -137,10 +137,45 @@
             "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of <#FFD84E>any item&7.\n\n&7You currently have [orders]&7 orders running.\n\n&7&oTip: Use /order create <quantity> <price>",
             "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl eines <#FFD84E>beliebigen Items&7.\n\n&7Du hast derzeit [orders]&7 Bestellungen laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
         },
+        "GUI.main.order.lore":
+        {
+            "en_US": "&7Buyer: [buyer]\n&7Price per Item: &x&F&F&D&2&0&0[price]\n&7Delivered: &x&F&F&D&2&0&0[progress]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
+            "de_DE": "&7Käufer: [buyer]\n&7Preis pro Item: &x&F&F&D&2&0&0[price]\n&7Geliefert: &x&F&F&D&2&0&0[progress]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
         "GUI.clickaction.addorder":
         {
             "en_US": "&8» <#F9BD31>Click to add order",
             "de_DE": "&8» <#F9BD31>Klicke zum Hinzufügen"
+        },
+        "GUI.clickaction.switch":
+        {
+            "en_US": "&8» <#F9BD31>Click to switch",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ändern"
+        },
+        "GUI.clickaction.revokeorder":
+        {
+            "en_US": "&8» <#F9BD31>Click to revoke order",
+            "de_DE": "&8» <#F9BD31>Klicke, um die Bestellung zurückzuziehen"
+        },
+        "GUI.clickaction.vieworder":
+        {
+            "en_US": "&8» <#F9BD31>Click to view the order",
+            "de_DE": "&8» <#F9BD31>Klicke, um die Bestellung anzusehen"
+        },
+        "GUI.clickaction.left.deliver":
+        {
+            "en_US": "&8» <#F9BD31>Left click to deliver",
+            "de_DE": "&8» <#F9BD31>Links-Klicke zum Liefern"
+        },
+        "GUI.clickaction.right.moreoptions":
+        {
+            "en_US": "&8» <#F9BD31>Right click for more options",
+            "de_DE": "&8» <#F9BD31>Rechts-Klicke für weitere Optionen"
+        },
+        "GUI.clickaction.deliver":
+        {
+            "en_US": "&8» <#F9BD31>Click to deliver",
+            "de_DE": "&8» <#F9BD31>Klicke zum Liefern"
         }
     }
 }
