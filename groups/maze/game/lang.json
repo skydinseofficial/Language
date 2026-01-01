@@ -1,0 +1,17 @@
+{
+    "system": "maze",
+    "translations":
+    {
+        "GUI.customsettings.main.title":
+        {
+            "en_US": "General Maze Settings",
+            "de_DE": "Allgemeine Maze-Einstellungen",
+            "ru_RU": "Общие настройки Maze"
+        },
+        "GUI.customsettings.main.setting.graceperiod":
+        {
+            "en_US": "Grace Period after game start (Seconds)",
+            "de_DE": "Schutzzeit nach dem Spielstart (Sekunden)"
+        }
+    }
+}
