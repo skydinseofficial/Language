@@ -2,7 +2,7 @@
     "system": "maze",
     "translations":
     {
-        "GUI.customsettings.main.title":
+        "CUSTOM.settings.gui.main.title":
         {
             "en_US": "General Maze Settings",
             "de_DE": "Allgemeine Maze-Einstellungen",
