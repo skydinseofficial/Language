@@ -92,6 +92,16 @@
             "en_US": "Orders",
             "de_DE": "Bestellungen"
         },
+        "WORD.item":
+        {
+            "en_US": "Item",
+            "de_DE": "Item"
+        },
+        "WORD.items":
+        {
+            "en_US": "Items",
+            "de_DE": "Items"
+        },
         "GUI.main.title":
         {
             "en_US": "Orders",
@@ -141,6 +151,66 @@
         {
             "en_US": "&7Buyer: [buyer]\n&7Price per Item: &x&F&F&D&2&0&0[price]\n&7Delivered: &x&F&F&D&2&0&0[progress]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Käufer: [buyer]\n&7Preis pro Item: &x&F&F&D&2&0&0[price]\n&7Geliefert: &x&F&F&D&2&0&0[progress]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
+        "GUI.yourorders.title":
+        {
+            "en_US": "[player]&r's Orders",
+            "de_DE": "[player]&r's Bestellungen"
+        },
+        "GUI.yourorders.markallasread":
+        {
+            "en_US": "&6Collect all orders and mark them as read",
+            "de_DE": "&6Alle Bestellungen einsammeln und als gelesen markieren"
+        },
+        "GUI.yourorders.markallasread.lore":
+        {
+            "en_US": "&7The inventory of all orders is being collected.\n&7Completed items are marked as read and are\n&7therefore no longer displayed here.\n\n&7Orders with inventory: [orders] &7([items]&7)",
+            "de_DE": "&7Der Bestand aller Bestellungen wird eingesammelt.\n&7Fertige werden als gelesen markiert und hier\n&7somit nicht weiter angezeigt.\n\n&7Bestellungen mit Bestand: [orders] &7([items]&7)"
+        },
+        "GUI.yourorders.markallasread.lore.nounreadsales":
+        {
+            "en_US": "&x&F&F&2&B&1&CNone",
+            "de_DE": "&x&F&F&2&B&1&CKeine"
+        },
+        "GUI.yourorders.item.lore":
+        {
+            "en_US": "&7Price per Item: &x&F&F&D&2&0&0[price]\n&7Releasing date: &x&F&F&D&2&0&0[release]\n&7Delivered: &x&F&F&D&2&0&0[progress]\n&7Items in Inventory: &x&F&F&D&2&0&0[inventory]\n&7Status: [status]",
+            "de_DE": "&7Preis pro Item: &x&F&F&D&2&0&0[price]\n&7Einstellungsdatum: &x&F&F&D&2&0&0[release]\n&7Geliefert: &x&F&F&D&2&0&0[progress]\n&7Items in Bestand: &x&F&F&D&2&0&0[inventory]\n&7Status: [status]"
+        },
+        "GUI.yourorders.item.extralore.sold":
+        {
+            "en_US": "&7Date of completion: &x&F&F&D&2&0&0[fulfilmentdate]\n\n&7The order is complete!\n&7Now collect the inventory.",
+            "de_DE": "&7Vollendungsdatum: &x&F&F&D&2&0&0[fulfilmentdate]\n\n&7Die Bestellung ist vollendet!\n&7Sammel nun den Bestand ein."
+        },
+        "GUI.yourorders.item.extralore.expired":
+        {
+            "en_US": "\n\n&7The order expired!\n&7You can collect the rest of the money.",
+            "de_DE": "\n\n&7Die Bestellung ist abgelaufen!\n&7Du kannst den Rest des Geldes einsammeln."
+        },
+        "GUI.yourorders.item.extralore.revokeandwarn":
+        {
+            "en_US": "&7Team member: [teammember]\n\n&7Your order has been deleted!\n&7The item may have an inappropriate name\n&7or the order may violate other rules.\n&7This is a warning! If you have any questions,\n&7please contact the team.\n\n&7You can collect the invested money.",
+            "de_DE": "&7Teammitglied: [teammember]\n\n&7Deine Bestellung wurde gelöscht!\n&7Möglicherweise hat das Item einen unangebrachten\n&7Namen oder die Bestellung verstößt gegen sonstige\n&7Regeln. Dies ist eine Verwarnung!\n&7Falls du Rückfragen hast, melde dich beim Team.\n\n&7Du kannst das investierte Geld wieder einsammeln."
+        },
+        "GUI.yourorders.item.lore.status.waitingforsale":
+        {
+            "en_US": "&x&F&F&D&2&0&0Waiting for completion...",
+            "de_DE": "&x&F&F&D&2&0&0Warten auf Vervollständigung..."
+        },
+        "GUI.yourorders.item.lore.status.sold":
+        {
+            "en_US": "&x&5&0&F&F&0&0COMPLETED!",
+            "de_DE": "&x&5&0&F&F&0&0VOLLSTÄNDIG!"
+        },
+        "GUI.yourorders.item.lore.status.expired":
+        {
+            "en_US": "&x&F&F&1&E&0&0EXPIRED!",
+            "de_DE": "&x&F&F&1&E&0&0AUSGELAUFEN!"
+        },
+        "GUI.yourorders.item.lore.status.revokeandwarn":
+        {
+            "en_US": "&x&F&F&0&0&0&0Deleted and warned by the team!",
+            "de_DE": "&x&F&F&0&0&0&0Vom Team gelöscht und verwarnt!"
         },
         "GUI.clickaction.addorder":
         {
