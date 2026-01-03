@@ -164,8 +164,8 @@
         },
         "GUI.yourorders.markallasread.lore":
         {
-            "en_US": "&7The inventory of all orders is being collected.\n&7Completed items are marked as read and are\n&7therefore no longer displayed here.\n\n&7Orders with inventory: [orders] &7([items]&7)",
-            "de_DE": "&7Der Bestand aller Bestellungen wird eingesammelt.\n&7Fertige werden als gelesen markiert und hier\n&7somit nicht weiter angezeigt.\n\n&7Bestellungen mit Bestand: [orders] &7([items]&7)"
+            "en_US": "&7The inventory of all orders is being collected.\n&7Completed items are marked as read and are\n&7therefore no longer displayed here.\n\n&7Orders with inventory: [orders]",
+            "de_DE": "&7Der Bestand aller Bestellungen wird eingesammelt.\n&7Fertige werden als gelesen markiert und hier\n&7somit nicht weiter angezeigt.\n\n&7Bestellungen mit Bestand: [orders]"
         },
         "GUI.yourorders.markallasread.lore.nounreadorders":
         {
