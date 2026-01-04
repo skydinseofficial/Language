@@ -217,6 +217,16 @@
             "en_US": "&x&F&F&0&0&0&0Deleted and warned by the team!",
             "de_DE": "&x&F&F&0&0&0&0Vom Team gelöscht und verwarnt!"
         },
+        "GUI.deliveritems.title":
+        {
+            "en_US": "Deliver items here",
+            "de_DE": "Items hier abliefern"
+        },
+        "GUI.deliveritems.order.lore":
+        {
+            "en_US": "&7You can only place <#FFD84E>this item &7in here.\n&7Once you close the menu, the content\n&7will be <#FFD84E>delivered &7and you will be <#FFD84E>paid&7.",
+            "de_DE": "&7Du kannst nur <#FFD84E>dieses Item &7hier\n&7rein legen. Sobald du das Menü schließt,\n&7Wird der <#FFD84E>Inhalt geliefert &7und du\n&7wirst <#FFD84E>bezahlt&7."
+        },
         "GUI.clickaction.addorder":
         {
             "en_US": "&8» <#F9BD31>Click to add order",
