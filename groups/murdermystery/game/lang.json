@@ -55,6 +55,16 @@
             "en_US": "Innocent Finder in last x minutes",
             "de_DE": "Unschuldigenfinder in den letzten x Minuten"
         },
+        "GUI.customsettings.main.setting.teleporters":
+        {
+            "en_US": "Teleporters",
+            "de_DE": "Teleporter"
+        },
+        "GUI.customsettings.main.setting.teleportcooldown":
+        {
+            "en_US": "Teleport Cooldown (seconds)",
+            "de_DE": "Teleport-Cooldown (Sekunden)"
+        },
         "TEXT.role.INNOCENT":
         {
             "en_US": "&aInnocent",
