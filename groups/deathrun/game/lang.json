@@ -1,0 +1,76 @@
+{
+    "system": "murdermystery",
+    "translations":
+    {
+        "GUI.customsettings.main.title":
+        {
+            "en_US": "Settings » Murder Mystery",
+            "de_DE": "Einstellungen » Murder Mystery",
+            "de_XX": "Optimierungsmöglichkeiten » Mörder Mysterium"
+        },
+        "GUI.customsettings.main.setting.trapper":
+        {
+            "en_US": "Amount of Trappers",
+            "de_DE": "Fallenleger-Anzahl"
+        },
+        "GUI.customsettings.main.setting.ingametime":
+        {
+            "en_US": "Game Lenght (minutes)",
+            "de_DE": "Spiellänge (Minuten)",
+            "de_XX": "Elend-länge (Minuten)"
+        },
+        "TEXT.role.RUNNER":
+        {
+            "en_US": "&aRunner",
+            "de_DE": "&aRenner",
+            "de_XX": "&aVolkswagen"
+        },
+        "TEXT.role.TRAPPER":
+        {
+            "en_US": "&cTrapper",
+            "de_DE": "&cFallenleger",
+            "de_XX": "&cFortnite-Kiddie"
+        },
+        "TEXT.role.desc.RUNNER":
+        {
+            "en_US": "&7Try to reach the goal!",
+            "de_DE": "&7Versuche das Ziel zu erreichen!",
+            "de_XX": "&7RENN UM DEIN LEBEN!"
+        },
+        "TEXT.role.desc.TRAPPER":
+        {
+            "en_US": "&7Kill the Runners!",
+            "de_DE": "&7Töte die Renner!",
+            "de_XX": "&7Lösch Fortnite!"
+        },
+        "TEXT.role.plural.RUNNER":
+        {
+            "en_US": "&aRunners",
+            "de_DE": "&aRenner",
+            "de_XX": "&aVolkswägen"
+        },
+        "TEXT.stat.CHECKPOINT":
+        {
+            "en_US": "Checkpoint",
+            "de_DE": "Kontrollpunkt",
+            "de_XX": "Tür"
+        },
+        "TEXT.stat.XP":
+        {
+            "en_US": "XP",
+            "de_DE": "XP"
+        },
+        "TEXT.stat.KILLS":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills",
+            "de_XX": "Ausraster"
+        },
+        "MSG.info.NOTEAMING":
+        {
+            "en_US": "&c&lNo Crossteaming! &r&6Team players will be banned.",
+            "de_DE": "&c&lKein Crossteaming! &r&6Teamspieler werden gebannt.",
+            "de_XX": "&c&lKein Kreuzgruppieren! &r&6Wenn du das trotzdem machst bischde weg."
+        }
+    }
+}
