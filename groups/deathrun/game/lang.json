@@ -1,12 +1,12 @@
 {
-    "system": "murdermystery",
+    "system": "deathrun",
     "translations":
     {
         "GUI.customsettings.main.title":
         {
-            "en_US": "Settings » Murder Mystery",
-            "de_DE": "Einstellungen » Murder Mystery",
-            "de_XX": "Optimierungsmöglichkeiten » Mörder Mysterium"
+            "en_US": "Settings » Deathrun",
+            "de_DE": "Einstellungen » Deathrun",
+            "de_XX": "Optimierungsmöglichkeiten » Todessprint"
         },
         "GUI.customsettings.main.setting.trapper":
         {
