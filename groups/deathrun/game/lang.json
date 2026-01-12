@@ -2,18 +2,18 @@
     "system": "deathrun",
     "translations":
     {
-        "GUI.customsettings.main.title":
+        "CUSTOM.settings.gui.main.title":
         {
-            "en_US": "Settings » Deathrun",
-            "de_DE": "Einstellungen » Deathrun",
-            "de_XX": "Optimierungsmöglichkeiten » Todessprint"
+            "en_US": "Deathrun Settings",
+            "de_DE": "Deathrun Einstellungen",
+            "de_XX": "Optimierungsmöglichkeiten für den Todessprint"
         },
-        "GUI.customsettings.main.setting.trapper":
+        "CUSTOM.settings.gui.main.setting.trapper":
         {
             "en_US": "Amount of Trappers",
             "de_DE": "Fallenleger-Anzahl"
         },
-        "GUI.customsettings.main.setting.ingametime":
+        "CUSTOM.settings.gui.main.setting.ingametime":
         {
             "en_US": "Game Lenght (minutes)",
             "de_DE": "Spiellänge (Minuten)",
