@@ -8,7 +8,7 @@
             "de_DE": "Deathrun Einstellungen",
             "de_XX": "Optimierungsmöglichkeiten für den Todessprint"
         },
-        "CUSTOM.gui.settings.main.setting.trapper":
+        "CUSTOM.gui.settings.main.setting.trappers":
         {
             "en_US": "Amount of Trappers",
             "de_DE": "Fallenleger-Anzahl"
