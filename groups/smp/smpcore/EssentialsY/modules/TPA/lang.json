@@ -14,7 +14,7 @@
         "MSG.cannotsendtoyourself":
         {
             "en_US": "&cYou can't send a TPA to yourself.",
-            "de_DE": "&cDu kannst dir nicht selber keine TPA senden."
+            "de_DE": "&cDu kannst dir selber keine TPA senden."
         },
         "MSG.requestsent":
         {
