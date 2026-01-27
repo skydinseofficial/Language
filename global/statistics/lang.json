@@ -586,13 +586,13 @@
         {
             "en_US": "Week",
             "de_DE": "Woche",
-            "en_US": "Semana"
+            "pt_PT": "Semana"
         },
         "EXH.period.day":
         {
             "en_US": "Day",
             "de_DE": "Tag",
-            "en_US": "Dia"
+            "pt_PT": "Dia"
         }
     }
 }
