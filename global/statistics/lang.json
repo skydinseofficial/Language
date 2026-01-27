@@ -6,495 +6,593 @@
         {
             "en_US": "&cYou don't have permission for this!",
             "de_DE": "&cDazu hast du keine Berechtigung!",
-            "tr_TR": "&cBunu yapmaya yetkili değilsin!"
+            "tr_TR": "&cBunu yapmaya yetkili değilsin!",
+            "pt_PT": "&cNão tens permissão para isto!"
         },
         "SYSTEM.booting.error":
         {
             "en_US": "&6Statistic-System &7could not be loaded completely!",
             "de_DE": "&6Statistic-System &7konnte nicht vollständig geladen werden!",
-            "tr_TR": "&6Statistic-System &7could not be loaded completely!"
+            "tr_TR": "&6Statistic-System &7could not be loaded completely!",
+            "pt_PT": "&6O sistema de estatísticas &7não pôde ser carregado completamente!"
         },
         "SYSTEM.table.error":
         {
             "en_US": "&7An &cerror &7occurred while registrating a table!",
             "de_DE": "&7Beim Registrieren einer Tabelle ist ein &cFehler &7aufgetreten!",
-            "tr_TR": "&7An &cerror &7occurred while registrating a table!"
+            "tr_TR": "&7An &cerror &7occurred while registrating a table!",
+            "pt_PT": "&7Ocorreu um &cerro &7ao registar uma tabela!"
         },
         "SYSTEM.player.error":
         {
             "en_US": "&7Playerdata load timeout!",
             "de_DE": "&7Spielerdaten Lade-Timeout!",
-            "tr_TR": "&7Playerdata load timeout!"
+            "tr_TR": "&7Playerdata load timeout!",
+            "pt_PT": "&7Tempo limite de carregamento dos dados do jogador!"
         },
         "SYSTEM.your_stats":
         {
             "en_US": "Your Statistics",
-            "de_DE": "Deine Statistiken"
+            "de_DE": "Deine Statistiken",
+            "pt_PT": "As tuas estatísticas"
         },
         "GUI.main.title":
         {
             "en_US": "[player] - Statistics",
-            "de_DE": "[player] - Statistiken"
+            "de_DE": "[player] - Statistiken",
+            "pt_PT": "[player] – Estatísticas"
         },
         "GUI.item.timespan.today":
         {
             "en_US": "&x&F&F&C&8&5&1&lToday",
-            "de_DE": "&x&F&F&C&8&5&1&lHeute"
+            "de_DE": "&x&F&F&C&8&5&1&lHeute",
+            "pt_PT": "&x&F&F&C&8&5&1&lHoje"
         },
         "GUI.item.timespan.week":
         {
             "en_US": "&x&F&F&C&8&5&1&lThis Week",
-            "de_DE": "&x&F&F&C&8&5&1&lDiese Woche"
+            "de_DE": "&x&F&F&C&8&5&1&lDiese Woche",
+            "pt_PT": "&x&F&F&C&8&5&1&lEsta semana"
         },
         "GUI.item.timespan.month":
         {
             "en_US": "&x&F&F&C&8&5&1&lThis Month",
-            "de_DE": "&x&F&F&C&8&5&1&lDiesen Monat"
+            "de_DE": "&x&F&F&C&8&5&1&lDiesen Monat",
+            "pt_PT": "&x&F&F&C&8&5&1&lEste mês"
         },
         "GUI.item.timespan.alltime":
         {
             "en_US": "&x&F&F&C&8&5&1&lLifetime",
-            "de_DE": "&x&F&F&C&8&5&1&lGlobal"
+            "de_DE": "&x&F&F&C&8&5&1&lGlobal",
+            "pt_PT": "&x&F&F&C&8&5&1&lVitalício"
         },
         "GUI.item.loading":
         {
             "en_US": "&cLoading...",
-            "de_DE": "&cLaden..."
+            "de_DE": "&cLaden...",
+            "pt_PT": "&cA carregar..."
         },
         "GUI.stats.extra.onlinetime.title":
         {
             "en_US": "&6Online Time:",
-            "de_DE": "&6Onlinezeit:"
+            "de_DE": "&6Onlinezeit:",
+            "pt_PT": "&6Tempo Online:"
         },
         "GUI.stats.title.general":
         {
             "en_US": "&6General:",
-            "de_DE": "&6Allgemein:"
+            "de_DE": "&6Allgemein:",
+            "pt_PT": "&6Geral:"
         },
         "GUI.stats.title.economy":
         {
             "en_US": "&6Economy:",
-            "de_DE": "&6Wirtschaft:"
+            "de_DE": "&6Wirtschaft:",
+            "pt_PT": "&6Economia:"
         },
         "GUI.stats.title.advanced":
         {
             "en_US": "&6Advanced:",
-            "de_DE": "&6Fortgeschritten:"
+            "de_DE": "&6Fortgeschritten:",
+            "pt_PT": "&6Avançado:"
         },
         "GUI.stats.title.blooms":
         {
             "en_US": "&6Blooms:",
-            "de_DE": "&6Blüten:"
+            "de_DE": "&6Blüten:",
+            "pt_PT": "&6Flores:"
         },
         "GUI.category.citybuild.money":
         {
             "en_US": "Account Debit (Dollar)",
-            "de_DE": "Kontobelastung (Dollar)"
+            "de_DE": "Kontobelastung (Dollar)",
+            "pt_PT": "Débito da Conta (Dólar)"
         },
         "GUI.category.citybuild.totalearned":
         {
             "en_US": "Total earned Money",
-            "de_DE": "Insgesamt verdientes Geld"
+            "de_DE": "Insgesamt verdientes Geld",
+            "pt_PT": "Dinheiro total ganho"
         },
         "GUI.category.wheatfarm.generator1":
         {
             "en_US": "Upgrades on Generator 1",
-            "de_DE": "Upgrades an Generator 1"
+            "de_DE": "Upgrades an Generator 1",
+            "pt_PT": "Melhorias no Gerador 1"
         },
         "GUI.category.wheatfarm.generator2":
         {
             "en_US": "Upgrades on Generator 2",
-            "de_DE": "Upgrades an Generator 2"
+            "de_DE": "Upgrades an Generator 2",
+            "pt_PT": "Melhorias no Gerador 2"
         },
         "GUI.category.wheatfarm.generator3":
         {
             "en_US": "Upgrades on Generator 3",
-            "de_DE": "Upgrades an Generator 3"
+            "de_DE": "Upgrades an Generator 3",
+            "pt_PT": "Melhorias no Gerador 3"
         },
         "GUI.category.wheatfarm.generator4":
         {
             "en_US": "Upgrades on Generator 4",
-            "de_DE": "Upgrades an Generator 4"
+            "de_DE": "Upgrades an Generator 4",
+            "pt_PT": "Melhorias no Gerador 4"
         },
         "GUI.category.wheatfarm.multiplier":
         {
             "en_US": "Hoe Upgrades",
-            "de_DE": "Hacken-Upgrades"
+            "de_DE": "Hacken-Upgrades",
+            "pt_PT": "Melhorias da Enxada"
         },
         "GUI.category.wheatfarm.totalearned":
         {
             "en_US": "Total earned Wheat",
-            "de_DE": "Insgesamt verdientes Weizen"
+            "de_DE": "Insgesamt verdientes Weizen",
+            "pt_PT": "Trigo total ganho"
         },
         "GUI.category.wheatfarm.wheat":
         {
             "en_US": "Wheat Account Debit",
-            "de_DE": "Weizen-Kontobelastung"
+            "de_DE": "Weizen-Kontobelastung",
+            "pt_PT": "Débito da Conta de Trigo"
         },
         "GUI.category.minigames.xp":
         {
             "en_US": "Experience",
-            "de_DE": "Erfahrung"
+            "de_DE": "Erfahrung",
+            "pt_PT": "Experiência"
         },
         "GUI.category.minigames.playedgames":
         {
             "en_US": "Games played",
-            "de_DE": "Gespielte Spiele"
+            "de_DE": "Gespielte Spiele",
+            "pt_PT": "Jogos jogados"
         },
         "GUI.category.minigames.wins":
         {
             "en_US": "Wins",
-            "de_DE": "Siege"
+            "de_DE": "Siege",
+            "pt_PT": "Vitórias"
         },
         "GUI.category.minigames.blooms":
         {
             "en_US": "Blooms",
-            "de_DE": "Blüten"
+            "de_DE": "Blüten",
+            "pt_PT": "Flores"
         },
         "GUI.category.minigames.points":
         {
             "en_US": "Points",
-            "de_DE": "Punkte"
+            "de_DE": "Punkte",
+            "pt_PT": "Pontos"
         },
         "GUI.category.blockparty.survivedrounds":
         {
             "en_US": "Rounds survived",
-            "de_DE": "Runden überlebt"
+            "de_DE": "Runden überlebt",
+            "pt_PT": "Rondas sobrevividas"
         },
         "GUI.category.blockparty.powerupscollected":
         {
             "en_US": "Powerups collected",
-            "de_DE": "Powerups gesammelt"
+            "de_DE": "Powerups gesammelt",
+            "pt_PT": "Power-ups recolhidos"
         },
         "GUI.category.murdermystery.kills":
         {
             "en_US": "Kills",
-            "de_DE": "Kills"
+            "de_DE": "Kills",
+            "pt_PT": "Eliminações"
         },
         "GUI.category.murdermystery.deaths":
         {
             "en_US": "Deaths",
-            "de_DE": "Tode"
+            "de_DE": "Tode",
+            "pt_PT": "Mortes"
         },
         "GUI.category.murdermystery.saves":
         {
             "en_US": "Murderers killed",
-            "de_DE": "Getötete Mörder"
+            "de_DE": "Getötete Mörder",
+            "pt_PT": "Assassinos mortos"
         },
         "GUI.category.murdermystery.coinscollected":
         {
             "en_US": "Collected coins",
-            "de_DE": "Gesammelte Münzen"
+            "de_DE": "Gesammelte Münzen",
+            "pt_PT": "Moedas recolhidas"
         },
         "GUI.category.exorcist.humanskilled":
         {
             "en_US": "Humans killed",
-            "de_DE": "Menschen getötet"
+            "de_DE": "Menschen getötet",
+            "pt_PT": "Humanos mortos"
         },
         "GUI.category.exorcist.detonations":
         {
             "en_US": "Detonations",
-            "de_DE": "Detonationen"
+            "de_DE": "Detonationen",
+            "pt_PT": "Detonações"
         },
         "GUI.category.exorcist.ghostskilled":
         {
             "en_US": "Ghosts killed",
-            "de_DE": "Geister getötet"
+            "de_DE": "Geister getötet",
+            "pt_PT": "Fantasmas mortos"
         },
         "GUI.category.exorcist.bulletsfired":
         {
             "en_US": "Thrown snowballs",
-            "de_DE": "Schneebälle geworfen"
+            "de_DE": "Schneebälle geworfen",
+            "pt_PT": "Bolas de neve lançadas"
         },
         "GUI.stats.title.duels.anchor":
         {
             "en_US": "&6Anchor:",
-            "de_DE": "&6Anker:"
+            "de_DE": "&6Anker:",
+            "pt_PT": "&6Âncora:"
         },
         "GUI.stats.title.duels.kit":
         {
             "en_US": "&6Kit:",
-            "de_DE": "&6Kit:"
+            "de_DE": "&6Kit:",
+            "pt_PT": "&6Kit:"
         },
         "GUI.stats.title.duels.mace":
         {
             "en_US": "&6Mace:",
-            "de_DE": "&6Mace:"
+            "de_DE": "&6Mace:",
+            "pt_PT": "&6Maça:"
         },
         "GUI.stats.title.duels.sumo":
         {
             "en_US": "&6Sumo:",
-            "de_DE": "&6Sumo:"
+            "de_DE": "&6Sumo:",
+            "pt_PT": "&6Sumo:"
         },
         "GUI.category.duels.kills":
         {
             "en_US": "Kills",
-            "de_DE": "Kills"
+            "de_DE": "Kills",
+            "pt_PT": "Eliminações"
         },
         "GUI.category.duels.deaths":
         {
             "en_US": "Deaths",
-            "de_DE": "Tode"
+            "de_DE": "Tode",
+            "pt_PT": "Mortes"
         },
         "GUI.category.duels.blocksplaced":
         {
             "en_US": "Blocks placed",
-            "de_DE": "Blöcke platziert"
+            "de_DE": "Blöcke platziert",
+            "pt_PT": "Blocos colocados"
         },
         "GUI.category.duels.blocksbreaked":
         {
             "en_US": "Blocks breaked",
-            "de_DE": "Blöcke abgebaut"
+            "de_DE": "Blöcke abgebaut",
+            "pt_PT": "Blocos quebrados"
         },
         "GUI.category.duels.glowstonehit":
         {
             "en_US": "Glowstone hit",
-            "de_DE": "Glowstone getroffen"
+            "de_DE": "Glowstone getroffen",
+            "pt_PT": "Glowstone atingida"
         },
         "GUI.category.duels.anchorsdestroyed":
         {
             "en_US": "Anchors destroyed",
-            "de_DE": "Anker zerstört"
+            "de_DE": "Anker zerstört",
+            "pt_PT": "Âncoras destruídas"
         },
         "GUI.category.duels.damage":
         {
             "en_US": "Damage granted",
-            "de_DE": "Schaden erteilt"
+            "de_DE": "Schaden erteilt",
+            "pt_PT": "Dano causado"
         },
         "GUI.category.duels.receiveddamage":
         {
             "en_US": "Suffered damage",
-            "de_DE": "Schaden erlitten"
+            "de_DE": "Schaden erlitten",
+            "pt_PT": "Dano sofrido"
         },
         "GUI.category.duels.thrownwindcharges":
         {
             "en_US": "Thrown Windcharges",
-            "de_DE": "Geworfene Windcharges"
+            "de_DE": "Geworfene Windcharges",
+            "pt_PT": "Windcharges lançados"    
         },
         "GUI.category.duels.distancefallen":
         {
             "en_US": "Distance fallen",
-            "de_DE": "Distance gefallen"
+            "de_DE": "Distance gefallen",
+            "pt_PT": "Distância caída"
         },
         "GUI.category.duels.hits":
         {
             "en_US": "Hits",
-            "de_DE": "Treffer"
+            "de_DE": "Treffer",
+            "pt_PT": "Golpes"
         },
         "GUI.category.duels.receivedhits":
         {
             "en_US": "Received Hits",
-            "de_DE": "Erhaltene Treffer"
+            "de_DE": "Erhaltene Treffer",
+            "pt_PT": "Golpes recebidos" 
         },
         "GUI.category.mineattackvi.deaths":
         {
             "en_US": "Deaths",
-            "de_DE": "Tode"
+            "de_DE": "Tode",
+            "pt_PT": "Mortes"
         },
         "GUI.category.mineattackvi.kills":
         {
             "en_US": "Kills",
-            "de_DE": "Kills"
+            "de_DE": "Kills",
+            "pt_PT": "Eliminações"
         },
         "GUI.category.mineattackvi.mobskilled":
         {
             "en_US": "Mobs killed",
-            "de_DE": "Mobs getötet"
+            "de_DE": "Mobs getötet",
+            "pt_PT": "Mobs mort"
         },
         "GUI.category.mineattackvi.animalskilled":
         {
             "en_US": "Animals killed",
-            "de_DE": "Tiere getötet"
+            "de_DE": "Tiere getötet",
+            "pt_PT": "Animais mortos"
         },
         "GUI.category.mineattackvi.blocksplaced":
         {
             "en_US": "Blocks placed",
-            "de_DE": "Blöcke platziert"
+            "de_DE": "Blöcke platziert",
+            "pt_PT": "Blocos colocados"
         },
         "GUI.category.mineattackvi.blocksbreaked":
         {
             "en_US": "Blocks destroyed",
-            "de_DE": "Blöcke abgebaut"
+            "de_DE": "Blöcke abgebaut",
+            "pt_PT": "Blocos destruídos"
         },
         "GUI.category.mineattackvi.distancemoved":
         {
             "en_US": "Blocks walked",
-            "de_DE": "Blöcke gelaufen"
+            "de_DE": "Blöcke gelaufen",
+            "pt_PT": "Blocos percorridos"
         },
         "GUI.category.mineattackvi.jumps":
         {
             "en_US": "Jumps",
-            "de_DE": "Sprünge"
+            "de_DE": "Sprünge",
+            "pt_PT": "Saltos"
         },
         "GUI.category.timesmp.secondary":
         {
             "en_US": "Tokens",
-            "de_DE": "Tokens"
+            "de_DE": "Tokens",
+            "pt_PT": "Fichas"
         },
         "GUI.category.timesmp.secondaryearned":
         {
             "en_US": "Tokens earned",
-            "de_DE": "Verdiente Tokens"
+            "de_DE": "Verdiente Tokens",
+            "pt_PT": "Fichas ganhas"
         },
         "GUI.category.timesmp.time":
         {
             "en_US": "Time balance",
-            "de_DE": "Zeitbilanz"
+            "de_DE": "Zeitbilanz",
+            "pt_PT": "Saldo de tempo"
         },
         "GUI.category.timesmp.totalearned":
         {
             "en_US": "Time earned",
-            "de_DE": "Verdiente Zeit"
+            "de_DE": "Verdiente Zeit",
+            "pt_PT": "Tempo ganho"
         },
         "GUI.category.timesmp.totalearnedsell":
         {
             "en_US": "Time through /sell",
-            "de_DE": "Zeit durch /sell"
+            "de_DE": "Zeit durch /sell",
+            "pt_PT": "Tempo via /vender"
         },
         "GUI.category.timesmp.totalearnedauction":
         {
             "en_US": "Time through auctions",
-            "de_DE": "Zeit durch Auktionen"
+            "de_DE": "Zeit durch Auktionen",
+            "pt_PT": "Tempo via leilões"
         },
         "GUI.category.timesmp.deaths":
         {
             "en_US": "Deaths",
-            "de_DE": "Tode"
+            "de_DE": "Tode",
+            "pt_PT": "Mortes"
         },
         "GUI.category.timesmp.kills":
         {
             "en_US": "Kills",
-            "de_DE": "Kills"
+            "de_DE": "Kills",
+            "pt_PT": "Eliminações"
         },
         "GUI.category.timesmp.mobskilled":
         {
             "en_US": "Mobs killed",
-            "de_DE": "Mobs getötet"
+            "de_DE": "Mobs getötet",
+            "pt_PT": "Mobs mortos"
         },
         "GUI.category.timesmp.animalskilled":
         {
             "en_US": "Animals killed",
-            "de_DE": "Tiere getötet"
+            "de_DE": "Tiere getötet",
+            "pt_PT": "Animais mortos"
         },
         "GUI.category.timesmp.blocksplaced":
         {
             "en_US": "Blocks placed",
-            "de_DE": "Blöcke platziert"
+            "de_DE": "Blöcke platziert",
+            "pt_PT": "Blocos colocados"
         },
         "GUI.category.timesmp.blocksbreaked":
         {
             "en_US": "Blocks destroyed",
-            "de_DE": "Blöcke abgebaut"
+            "de_DE": "Blöcke abgebaut",
+            "pt_PT": "Blocos destruídos"            
         },
         "GUI.category.timesmp.distancemoved":
         {
             "en_US": "Blocks walked",
-            "de_DE": "Blöcke gelaufen"
+            "de_DE": "Blöcke gelaufen",
+            "pt_PT": "Blocos percorridos"
         },
         "GUI.category.timesmp.jumps":
         {
             "en_US": "Jumps",
-            "de_DE": "Sprünge"
+            "de_DE": "Sprünge",
+            "pt_PT": "Saltos"
         },
         "GUI.category.timesmp.afktime":
         {
             "en_US": "AFK time",
-            "de_DE": "AFK-Zeit"
+            "de_DE": "AFK-Zeit",
+            "pt_PT": "Tempo AFK"
         },
         "GUI.category.timesmp.ffa_classic_timesteal_kills":
         {
             "en_US": "Classic FFA (Timesteal) Kills",
-            "de_DE": "Classic FFA (Timesteal) Kills"
+            "de_DE": "Classic FFA (Timesteal) Kills",
+            "pt_PT": "Eliminações no FFA Clássico (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_classic_timesteal_deaths":
         {
             "en_US": "Classic FFA (Timesteal) Deaths",
-            "de_DE": "Classic FFA (Timesteal) Tode"
+            "de_DE": "Classic FFA (Timesteal) Tode",
+            "pt_PT": "Mortes no FFA Clássico (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_classic_deathmatch_kills":
         {
             "en_US": "Classic FFA (Deathmatch) Kills",
-            "de_DE": "Classic FFA (Deathmatch) Kills"
+            "de_DE": "Classic FFA (Deathmatch) Kills",
+            "pt_PT": "Eliminações no FFA Clássico (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_classic_deathmatch_deaths":
         {
             "en_US": "Classic FFA (Deathmatch) Deaths",
-            "de_DE": "Classic FFA (Deathmatch) Tode"
+            "de_DE": "Classic FFA (Deathmatch) Tode",
+            "pt_PT": "Mortes no FFA Clássico (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_advanced_timesteal_kills":
         {
             "en_US": "Advanced FFA (Timesteal) Kills",
-            "de_DE": "Advanced FFA (Timesteal) Kills"
+            "de_DE": "Advanced FFA (Timesteal) Kills",
+            "pt_PT": "Eliminações no FFA Avançado (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_advanced_timesteal_deaths":
         {
             "en_US": "Advanced FFA (Timesteal) Deaths",
-            "de_DE": "Advanced FFA (Timesteal) Tode"
+            "de_DE": "Advanced FFA (Timesteal) Tode",
+            "pt_PT": "Mortes no FFA Avançado (Roubo de tempo)"
         },
         "GUI.category.timesmp.ffa_advanced_deathmatch_kills":
         {
             "en_US": "Advanced FFA (Deathmatch) Kills",
-            "de_DE": "Advanced FFA (Deathmatch) Kills"
+            "de_DE": "Advanced FFA (Deathmatch) Kills",
+            "pt_PT": "Eliminações no FFA Avançado (Deathmatch)"
         },
         "GUI.category.timesmp.ffa_advanced_deathmatch_deaths":
         {
             "en_US": "Advanced FFA (Deathmatch) Deaths",
-            "de_DE": "Advanced FFA (Deathmatch) Tode"
+            "de_DE": "Advanced FFA (Deathmatch) Tode",
+            "pt_PT": "Mortes no FFA Avançado (Deathmatch)"
         },
         "GUI.category.global.onlinetime":
         {
             "en_US": "Online Time",
-            "de_DE": "Onlinezeit"
+            "de_DE": "Onlinezeit",
+            "pt_PT": "Tempo Online"
         },
         "GUI.category.global.blossoms":
         {
             "en_US": "Blooms Balance",
-            "de_DE": "Blütenbilanz"
+            "de_DE": "Blütenbilanz",
+            "pt_PT": "Saldo de Flores"
         },
         "GUI.category.global.blossomsearned":
         {
             "en_US": "Earned Blooms",
-            "de_DE": "Verdiente Blüten"
+            "de_DE": "Verdiente Blüten",
+            "pt_PT": "Flores ganhas"
         },
         "GUI.category.global.blossomsmodified":
         {
             "en_US": "Extraordinary Changes (Shop, Support)",
-            "de_DE": "Außergew. Veränderungen (Shop, Support)"
+            "de_DE": "Außergew. Veränderungen (Shop, Support)",
+            "pt_PT": "Alterações Extraordinárias (Loja, Suporte)"
         },
         "EXH.holo.title":
         {
             "en_US": "Top [stats]",
-            "de_DE": "Top [stats]"
+            "de_DE": "Top [stats]",
+            "pt_PT": "Top [estatísticas]"
         },
         "EXH.ast.title":
         {
             "en_US": "&x&F&D&C&8&2&C&l#1 [period];&x&F&F&E&4&7&0[player];&7[statistic]: &x&F&F&D&2&0&0[value]",
-            "de_DE": "&x&F&D&C&8&2&C&l#1 [period];&x&F&F&E&4&7&0[player];&7[statistic]: &x&F&F&D&2&0&0[value]"
+            "de_DE": "&x&F&D&C&8&2&C&l#1 [period];&x&F&F&E&4&7&0[player];&7[statistic]: &x&F&F&D&2&0&0[value]",
+            "pt_PT": "&x&F&D&C&8&2&C&l#1 [período];&x&F&F&E&4&7&0[player];&7[estatística]: &x&F&F&D&2&0&0[valor]"
         },
         "EXH.period.alltime":
         {
             "en_US": "Alltime",
-            "de_DE": "Alltime"
+            "de_DE": "Alltime",
+            "pt_PT": "Todo o tempo"
         },
         "EXH.period.season":
         {
             "en_US": "Season",
-            "de_DE": "Season"
+            "de_DE": "Season",
+            "pt_PT": "Época"
         },
         "EXH.period.month":
         {
             "en_US": "Month",
-            "de_DE": "Monat"
+            "de_DE": "Monat",
+            "pt_PT": "Mês"
         },
         "EXH.period.week":
         {
             "en_US": "Week",
-            "de_DE": "Woche"
+            "de_DE": "Woche",
+            "en_US": "Semana"
         },
         "EXH.period.day":
         {
             "en_US": "Day",
-            "de_DE": "Tag"
+            "de_DE": "Tag",
+            "en_US": "Dia"
         }
     }
 }
