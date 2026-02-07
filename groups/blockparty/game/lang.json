@@ -196,6 +196,16 @@
         {
             "en_US": "&7will be the next color!",
             "de_DE": "&7wird die nächste Farbe sein!"
+        },
+        "POWERUP.superjump.item.name":
+        {
+            "en_US": "&x&F&F&D&2&0&0&lSuper Jump",
+            "de_DE": "&x&F&F&D&2&0&0&lSuper Jump"
+        },
+        "POWERUP.superjump.desc":
+        {
+            "en_US": "&7Click the item to launch yourself\ninto the air once.",
+            "de_DE": "&7Klicke das Item, um dich einmalig\nin die Luft zu schießen."
         }
     }
 }
