@@ -144,6 +144,11 @@
             "en_US": "&7A &x&F&F&D&8&4&E&lColor Cow&7 has spawned!",
             "de_DE": "&7Eine &x&F&F&D&8&4&E&lColor Cow&7 ist gespawnt!"
         },
+        "MSG.powerupcollected":
+        {
+            "en_US": "[player]&7 collected a &x&F&F&D&8&4&E&lPower Up&7!",
+            "de_DE": "[player]&7 hat ein &x&F&F&D&8&4&E&lPower Up&7 aufgesammelt!"
+        },
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
