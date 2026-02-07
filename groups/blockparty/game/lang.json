@@ -139,6 +139,11 @@
             "en_US": "&x&F&F&0&A&0&0Speed Increased! &7From now on, only &x&F&F&D&2&0&0[time] &7to find the right color.",
             "de_DE": "&x&F&F&0&A&0&0Suchzeit verringert! &7Von nun an nur &x&F&F&D&2&0&0[time]&7, um die richtige Farbe zu finden."
         },
+        "MSG.colorcow":
+        {
+            "en_US": "&7A &x&F&F&D&8&4&E&lColor Cow&7 has spawned!",
+            "de_DE": "&7Eine &x&F&F&D&8&4&E&lColor Cow&7 ist gespawnt!"
+        },
         "SONGVOTING.gui.title":
         {
             "en_US": "Song Voting",
