@@ -186,6 +186,11 @@
         {
             "en_US": "Amount of rounds until search time reduces by 0.2 sec",
             "de_DE": "Rundenanzahl, bis die Suchzeit um 0,2 Sek. reduziert wird"
+        },
+        "POWERUP.colorreveal.subtitle.isnextcolor":
+        {
+            "en_US": "&7will be the next color!",
+            "de_DE": "&7wird die nächste Farbe sein!"
         }
     }
 }
