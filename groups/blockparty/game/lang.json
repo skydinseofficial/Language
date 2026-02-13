@@ -171,6 +171,16 @@
             "en_US": "&a&l+ &x&F&F&D&2&0&0[amount] &bXP",
             "de_DE": "&a&l+ &x&F&F&D&2&0&0[amount] &bXP"
         },
+        "MSG.xp.reason.roundsurvived":
+        {
+            "en_US": "(Round survived)",
+            "de_DE": "(Runde überlebt)"
+        },
+        "MSG.xp.reason.powerupcollected":
+        {
+            "en_US": "(Power Up collected)",
+            "de_DE": "(Power Up eingesammelt)"
+        },
         "BOSSBAR.ingame.welcome":
         {
             "en_US": "&7Welcome to &x&0&0&7&f&f&f&lB&x&6&a&4&7&f&f&lL&x&d&4&0&e&f&f&lO&x&b&8&5&5&a&a&lC&x&7&0&c&6&3&9&lK&x&7&4&d&e&0&0&lP&x&c&3&9&c&0&0&lA&x&f&f&5&e&0&0&lR&x&f&f&2&f&0&0&lT&x&f&f&0&0&0&0&lY &7on &6&lS&x&e&a&b&0&3&4&lK&6&lY&x&e&a&b&0&3&4&lD&6&lI&x&e&a&b&0&3&4&lN&6&lS&x&e&a&b&0&3&4&lE&6&l.&x&e&a&b&0&3&4&lD&6&lE&7!",
