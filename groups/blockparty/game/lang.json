@@ -166,6 +166,11 @@
             "en_US": "&7The song [song] &7has won the song voting!",
             "de_DE": "&7Das Lied [song] &7hat das Song-Voting gewonnen!"
         },
+        "MSG.xp.received":
+        {
+            "en_US": "&a&l+ &x&F&F&D&2&0&0[amount] &bXP",
+            "de_DE": "&a&l+ &x&F&F&D&2&0&0[amount] &bXP"
+        },
         "BOSSBAR.ingame.welcome":
         {
             "en_US": "&7Welcome to &x&0&0&7&f&f&f&lB&x&6&a&4&7&f&f&lL&x&d&4&0&e&f&f&lO&x&b&8&5&5&a&a&lC&x&7&0&c&6&3&9&lK&x&7&4&d&e&0&0&lP&x&c&3&9&c&0&0&lA&x&f&f&5&e&0&0&lR&x&f&f&2&f&0&0&lT&x&f&f&0&0&0&0&lY &7on &6&lS&x&e&a&b&0&3&4&lK&6&lY&x&e&a&b&0&3&4&lD&6&lI&x&e&a&b&0&3&4&lN&6&lS&x&e&a&b&0&3&4&lE&6&l.&x&e&a&b&0&3&4&lD&6&lE&7!",
@@ -202,10 +207,25 @@
             "en_US": "&x&F&F&D&2&0&0&lSuper Jump",
             "de_DE": "&x&F&F&D&2&0&0&lSuper Jump"
         },
+        "POWERUP.superjump.subtitle":
+        {
+            "en_US": "&7You have received an item!",
+            "de_DE": "&7Du hast ein Item erhalten!"
+        },
         "POWERUP.superjump.desc":
         {
             "en_US": "&7Click the item to launch yourself\n&7into the air once.",
             "de_DE": "&7Klicke das Item, um dich einmalig\n&7in die Luft zu schießen."
+        },
+        "POWERUP.randomteleport.title":
+        {
+            "en_US": "&x&F&2&4&B&1&F&lRandom Teleport",
+            "de_DE": "&x&F&2&4&B&1&F&lRandom Teleport"
+        },
+        "POWERUP.randomteleport.subtitle":
+        {
+            "en_US": "&7You've been randomly teleported!",
+            "de_DE": "&7Du wurdest zufällig teleportiert!"
         }
     }
 }
