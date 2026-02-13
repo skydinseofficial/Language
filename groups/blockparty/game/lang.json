@@ -231,6 +231,11 @@
         {
             "en_US": "&7You've been randomly teleported!",
             "de_DE": "&7Du wurdest zufällig teleportiert!"
+        },
+        "POWERUP.randomteleport.desc":
+        {
+            "en_US": "&7You've been randomly teleported by the Power Up!",
+            "de_DE": "&7Das Power Up hat dich zufällig teleportiert!"
         }
     }
 }
