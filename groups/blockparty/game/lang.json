@@ -202,6 +202,11 @@
             "en_US": "&7will be the next color!",
             "de_DE": "&7wird die nächste Farbe sein!"
         },
+        "POWERUP.colorreveal.desc":
+        {
+            "en_US": "The Power Up reveals that the next color will be [color]&7!",
+            "de_DE": "&7Das Power Up verrät, dass die nächste Farbe [color]&7 wird!"
+        },
         "POWERUP.superjump.title":
         {
             "en_US": "&x&F&F&D&2&0&0&lSuper Jump",
