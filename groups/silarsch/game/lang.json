@@ -1,0 +1,17 @@
+{
+    "system": "silarsch",
+    "translations":
+    {
+        "CUSTOM.settings.gui.main.title":
+        {
+            "en_US": "General Silarsch Settings",
+            "de_DE": "Allgemeine Silarsch-Einstellungen",
+            "ru_RU": "Общие настройки Silarsch"
+        },
+        "CUSTOM.settings.gui.main.setting.diabetes":
+        {
+            "en_US": "Diabetes",
+            "de_DE": "Diabetes"
+        }
+    }
+}
