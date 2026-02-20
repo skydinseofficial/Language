@@ -246,6 +246,36 @@
         {
             "en_US": "&7You've been randomly teleported by the Power Up!",
             "de_DE": "&7Das Power Up hat dich zufällig teleportiert!"
+        },
+        "POWERUP.speed.title":
+        {
+            "en_US": "&x&0&0&B&A&F&F&lSpeed",
+            "de_DE": "&x&0&0&B&A&F&F&lGeschwindigkeit"
+        },
+        "POWERUP.speed.subtitle":
+        {
+            "en_US": "&7You'll be faster for 5 seconds!",
+            "de_DE": "&7Du bist für 5 Sekunden schneller!"
+        },
+        "POWERUP.speed.desc":
+        {
+            "en_US": "&7The Power Up made you faster for 5 seconds!",
+            "de_DE": "&7Das Power Up hat dich für 5 Sekunden schneller gemacht!"
+        },
+        "POWERUP.blindness.title":
+        {
+            "en_US": "&x&F&F&0&C&0&0&lBlindness",
+            "de_DE": "&x&F&F&0&C&0&0&lBlindheit"
+        },
+        "POWERUP.blindness.subtitle":
+        {
+            "en_US": "&7You'll be blind for 5 seconds!",
+            "de_DE": "&7Du bist für 5 Sekunden blind!"
+        },
+        "POWERUP.blindness.desc":
+        {
+            "en_US": "&7The Power Up made you blind for 5 seconds!",
+            "de_DE": "&7Das Power Up hat dich für 5 Sekunden blind gemacht!"
         }
     }
 }
