@@ -276,6 +276,21 @@
         {
             "en_US": "&7The Power Up made you blind for 5 seconds!",
             "de_DE": "&7Das Power Up hat dich für 5 Sekunden blind gemacht!"
+        },
+        "POWERUP.enderpearl.title":
+        {
+            "en_US": "&x&B&2&0&0&F&F&lEnder Pearl",
+            "de_DE": "&x&B&2&0&0&F&F&lEnderperle"
+        },
+        "POWERUP.enderpearl.subtitle":
+        {
+            "en_US": "&7You've received an ender pearl!",
+            "de_DE": "&7Du hast eine Enderperle erhalten!"
+        },
+        "POWERUP.enderpearl.desc":
+        {
+            "en_US": "&7The Power Up gave you an ender pearl!",
+            "de_DE": "&7Das Power Up hat dir eine Enderpearle gegeben!"
         }
     }
 }
