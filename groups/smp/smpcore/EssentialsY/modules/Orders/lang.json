@@ -187,6 +187,11 @@
             "en_US": "\n\n&7The order expired!\n&7You will receive the remainder of your\n&7investment back.",
             "de_DE": "\n\n&7Die Bestellung ist abgelaufen!\n&7Du erhältst den Rest deiner Investition\n&7zurück."
         },
+        "GUI.yourorders.order.extralore.revoked":
+        {
+            "en_US": "\n\n&7The order has been revoked!\n&7You have received your remaining investment back!",
+            "de_DE": "\n\n&7Die Bestellung wurde zurükgezogen!\n&7Du hast das verbleibende investierte Geld zurückerhalten!"
+        },
         "GUI.yourorders.order.extralore.revokeandwarn":
         {
             "en_US": "&7Team member: [teammember]\n\n&7Your order has been deleted!\n&7The item may have an inappropriate name\n&7or the order may violate other rules.\n&7This is a warning! If you have any questions,\n&7please contact the team.\n\n&7You can collect the invested money.",
@@ -211,6 +216,11 @@
         {
             "en_US": "&x&F&F&1&E&0&0EXPIRED!",
             "de_DE": "&x&F&F&1&E&0&0AUSGELAUFEN!"
+        },
+        "GUI.yourorders.order.lore.status.revoked":
+        {
+            "en_US": "&x&F&F&1&E&0&0REVOKED!",
+            "de_DE": "&x&F&F&1&E&0&0ZURÜCKGEZOGEN!"
         },
         "GUI.yourorders.order.lore.status.revokeandwarn":
         {
