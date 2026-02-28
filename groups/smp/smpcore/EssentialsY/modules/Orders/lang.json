@@ -189,8 +189,8 @@
         },
         "GUI.yourorders.order.extralore.revoked":
         {
-            "en_US": "\n\n&7The order has been revoked!\n&7You have received your remaining investment back!",
-            "de_DE": "\n\n&7Die Bestellung wurde zurükgezogen!\n&7Du hast das verbleibende investierte Geld zurückerhalten!"
+            "en_US": "\n&7The order has been revoked!\n&7You have received your remaining investment back!",
+            "de_DE": "\n&7Die Bestellung wurde zurükgezogen!\n&7Du hast das verbleibende investierte Geld zurückerhalten!"
         },
         "GUI.yourorders.order.extralore.revokeandwarn":
         {
