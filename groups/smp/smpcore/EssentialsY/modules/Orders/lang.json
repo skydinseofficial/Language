@@ -177,6 +177,11 @@
             "en_US": "&7Price per Item: &x&F&F&D&2&0&0[price]\n&7Releasing date: &x&F&F&D&2&0&0[release]\n&7Delivered: &x&F&F&D&2&0&0[progress]\n&7Items in Inventory: &x&F&F&D&2&0&0[inventory]\n&7Status: [status]",
             "de_DE": "&7Preis pro Item: &x&F&F&D&2&0&0[price]\n&7Einstellungsdatum: &x&F&F&D&2&0&0[release]\n&7Geliefert: &x&F&F&D&2&0&0[progress]\n&7Items in Bestand: &x&F&F&D&2&0&0[inventory]\n&7Status: [status]"
         },
+        "GUI.yourorders.order.extralore.expiresin":
+        {
+            "en_US": "&7Expires in: &x&F&F&D&2&0&0[expires]",
+            "de_DE": "&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
+        },
         "GUI.yourorders.order.extralore.completed":
         {
             "en_US": "&7Date of completion: &x&F&F&D&2&0&0[fulfilmentdate]\n\n&7The order is complete!",
