@@ -62,6 +62,16 @@
             "en_US": "&7You have just released an order for [amount]x [item]&7, each &x&F&F&D&2&0&0[price]&7! The total investment is [sum]&7.",
             "de_DE": "&7Du hast soeben eine Order für [amount]x [item]&7, je &x&F&F&D&2&0&0[price]&7, freigegeben! Die Summe der Investition beträgt [sum]&7."
         },
+        "MSG.chatinput.timeisup":
+        {
+            "en_US": "&cTime is up. Try it again.",
+            "de_DE": "&cDie Zeit ist abgelaufen. Versuche es erneut."
+        },
+        "MSG.chatinput.runningaction":
+        {
+            "en_US": "&cThere is already a running chat action.",
+            "de_DE": "&cEs gibt bereits eine laufende Chateingabe."
+        },
         "MSG.create.title":
         {
             "en_US": "<#FFD200>Release new order:",
@@ -81,6 +91,36 @@
         {
             "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
             "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
+        },
+        "DIALOG.create.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lRelease a new Order",
+            "de_DE": "&x&F&F&C&8&5&1&lEine neue Order freigeben"
+        },
+        "DIALOG.create.description":
+        {
+            "en_US": "&7Write the &x&F&F&D&8&4Epurchase price &nper item&7 in the field.[example]\n&7Then specify &x&F&F&D&8&4how many units&7 you want to purchase.\n\n&7The following item is requested:",
+            "de_DE": "&7Schreibe den &x&F&F&D&8&4Ankaufspreis &npro Item&7 in das Feld.[example]\n&7Bestimme anschließend, &x&F&F&D&8&4wie viele Einheiten&7 du ankaufen möchtest.\n\n&7Folgendes Item wird angefragt:"
+        },
+        "DIALOG.create.input.priceperitem":
+        {
+            "en_US": "Price per Item",
+            "de_DE": "Preis pro Item"
+        },
+        "DIALOG.create.input.units":
+        {
+            "en_US": "Units",
+            "de_DE": "Einheiten"
+        },
+        "DIALOG.create.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
+        },
+        "DIALOG.create.button.create.hover":
+        {
+            "en_US": "Click to create the order",
+            "de_DE": "Klicke, um die Order zu erstellen"
         },
         "WORD.order":
         {
@@ -144,8 +184,8 @@
         },
         "GUI.main.createorder.lore":
         {
-            "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of <#FFD84E>any item&7.\n\n&7You currently have [orders]&7 orders running.\n\n&7&oTip: Use /order create <quantity> <price>",
-            "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl eines <#FFD84E>beliebigen Items&7.\n\n&7Du hast derzeit [orders]&7 Bestellungen laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
+            "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of the <#FFD84E>item in your hand&7.\n\n&7You currently have [orders]&7 orders running.\n\n&7&oTip: Use /order create <quantity> <price>",
+            "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl des <#FFD84E>Items in deiner Hand&7.\n\n&7Du hast derzeit [orders]&7 Bestellungen laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
         },
         "GUI.main.order.lore":
         {
