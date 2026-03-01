@@ -184,8 +184,8 @@
         },
         "GUI.yourorders.order.extralore.expired":
         {
-            "en_US": "\n\n&7The order expired!\n&7You will receive the remainder of your\n&7investment back.\n\n&7Now collect the stock first.",
-            "de_DE": "\n\n&7Die Bestellung ist abgelaufen!\n&7Du erhältst den Rest deiner Investition\n&7zurück.\n\n&7Hole nun erst den Lagerbestand ab."
+            "en_US": "\n\n&7The order expired!\n&7You will receive the remainder of your\n&7investment back.",
+            "de_DE": "\n\n&7Die Bestellung ist abgelaufen!\n&7Du erhältst den Rest deiner Investition\n&7zurück."
         },
         "GUI.yourorders.order.extralore.expiredinvestment":
         {
