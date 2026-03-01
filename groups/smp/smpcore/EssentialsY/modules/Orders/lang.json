@@ -99,8 +99,8 @@
         },
         "DIALOG.create.description":
         {
-            "en_US": "&7Write the &x&F&F&D&8&4Epurchase price &nper item&7 in the field.[example]\n&7Then specify &x&F&F&D&8&4how many units&7 you want to purchase.\n\n&7The following item is requested:",
-            "de_DE": "&7Schreibe den &x&F&F&D&8&4Ankaufspreis &npro Item&7 in das Feld.[example]\n&7Bestimme anschließend, &x&F&F&D&8&4wie viele Einheiten&7 du ankaufen möchtest.\n\n&7Folgendes Item wird angefragt:"
+            "en_US": "&7Write the &x&F&F&D&8&4&Epurchase price &nper item&7 in the field.[example]\n&7Then specify &x&F&F&D&8&4&Ehow many units&7 you want to purchase.\n\n&7The following item is requested:",
+            "de_DE": "&7Schreibe den &x&F&F&D&8&4&EAnkaufspreis &npro Item&7 in das Feld.[example]\n&7Bestimme anschließend, &x&F&F&D&8&4&Ewie viele Einheiten&7 du ankaufen möchtest.\n\n&7Folgendes Item wird angefragt:"
         },
         "DIALOG.create.input.priceperitem":
         {
