@@ -197,6 +197,41 @@
             "en_US": "&7Buyer: [buyer]\n&7Price per Item: &x&F&F&D&2&0&0[price]\n&7Delivered: &x&F&F&D&2&0&0[progress]\n&7Expires in: &x&F&F&D&2&0&0[expires]",
             "de_DE": "&7Käufer: [buyer]\n&7Preis pro Item: &x&F&F&D&2&0&0[price]\n&7Geliefert: &x&F&F&D&2&0&0[progress]\n&7Läuft ab in: &x&F&F&D&2&0&0[expires]"
         },
+        "GUI.edit.title":
+        {
+            "en_US": "Edit Order",
+            "de_DE": "Bestellung bearbeiten"
+        },
+        "GUI.edit.vieworders":
+        {
+            "en_US": "&6View [player]&6's Orders",
+            "de_DE": "[player]&6's Bestellungen ansehen"
+        },
+        "GUI.edit.vieworders.lore":
+        {
+            "en_US": "&7View all outgoing orders from\n&7this player.",
+            "de_DE": "&7Siehe dir alle ausgehenden Bestellungen\n&7von diesem Spieler an."
+        },
+        "GUI.edit.revokeandwarn":
+        {
+            "en_US": "&6Revoke Item and warn Player",
+            "de_DE": "&6Item zurückziehen und Spieler verwarnen"
+        },
+        "GUI.edit.revokeandwarn.lore":
+        {
+            "en_US": "&7The buyer receives the invested money along with\n&7a warning back.\n\n&x&F&2&F&2&F&2&oCases: Inappropriate item name/content, etc.",
+            "de_DE": "&7Der Ankäufer erhält das investierte Geld mit\n&7einer Verwarnung zurück.\n\n&x&F&2&F&2&F&2&oFälle: Unangebrachter Itemname/Inhalt, etc."
+        },
+        "GUI.edit.delete":
+        {
+            "en_US": "&cDelete order irrevocably",
+            "de_DE": "&cBestellung unwiderruflich löschen"
+        },
+        "GUI.edit.delete.lore":
+        {
+            "en_US": "&7The order will be immediately removed from the\n&7Menu. The buyer will not be notified and\n&7will not receive any money or items back.\n\n&x&F&2&F&2&F&2&oCases: Remove order from circulation",
+            "de_DE": "&7Die Bestellung wird sofort aus dem Menü\n&7entfernt. Der Ankäufer wird nicht benachrichtigt\n&7und bekommt auch kein Geld und keine Items zurück.\n\n&x&F&2&F&2&F&2&oFälle: Bestellung aus dem Umlauf nehmen"
+        },
         "GUI.yourorders.title":
         {
             "en_US": "[player]&r's Orders",
@@ -346,6 +381,16 @@
         {
             "en_US": "&8» <#F9BD31>Click to markasread",
             "de_DE": "&8» <#F9BD31>Klicke, um als gelesen zu markieren"
+        },
+        "GUI.clickaction.execute":
+        {
+            "en_US": "&8» <#F9BD31>Click to execute",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ausführen"
+        },
+        "GUI.clickaction.view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Einsehen"
         }
     }
 }
