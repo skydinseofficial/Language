@@ -391,6 +391,11 @@
         {
             "en_US": "&8» <#F9BD31>Click to view",
             "de_DE": "&8» <#F9BD31>Klicke zum Einsehen"
+        },
+        "GUI.clickaction.vieworders":
+        {
+            "en_US": "&8» <#F9BD31>Click to view all orders",
+            "de_DE": "&8» <#F9BD31>Klicke, um alle Bestellungen einzusehen"
         }
     }
 }
