@@ -77,10 +77,15 @@
             "en_US": "<#FFD200>Release new order:",
             "de_DE": "<#FFD200>Neue Order freigeben:"
         },
-        "MSG.create.explanation.1":
+        "MSG.create.explanation.1.amount":
         {
-            "en_US": "&7Write a <#FFD84E>purchase price &nper Item&7 in the <#FFD84E>chat&7 to request the desired number of <#FFD84E>items in your hand&7.",
-            "de_DE": "&7Schreibe einen <#FFD84E>Ankaufspreis &npro Item&7 in den <#FFD84E>Chat&7, um die gewünschte Anzahl von <#FFD84E>Items in deiner Hand &7anzufragen."
+            "en_US": "&7Enter the <#FFD84E>number of purchases&7 of the <#FFD84E>item in your hand&7 into the <#FFD84E>chat&7.",
+            "de_DE": "&7Gebe die <#FFD84E>Anzahl an Ankäufen&7 des <#FFD84E>Items in deiner Hand&7 in den <#FFD84E>Chat&7 ein."
+        },
+        "MSG.create.explanation.1.price":
+        {
+            "en_US": "&7Now, write a <#FFD84E>purchase price &nper Item&7 in the <#FFD84E>chat&7.",
+            "de_DE": "&7Schreibe nun einen <#FFD84E>Ankaufspreis &npro Item&7 in den <#FFD84E>Chat&7."
         },
         "MSG.create.explanation.2.money":
         {
