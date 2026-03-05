@@ -284,8 +284,13 @@
         },
         "GUI.yourorders.order.extralore.revokeandwarn":
         {
-            "en_US": "&7Team member: [teammember]\n\n&7Your order has been deleted!\n&7The item may have an inappropriate name\n&7or the order may violate other rules.\n&7This is a warning! If you have any questions,\n&7please contact the team.\n\n&7You can collect the invested money.",
-            "de_DE": "&7Teammitglied: [teammember]\n\n&7Deine Bestellung wurde gelöscht!\n&7Möglicherweise hat das Item einen unangebrachten\n&7Namen oder die Bestellung verstößt gegen sonstige\n&7Regeln. Dies ist eine Verwarnung!\n&7Falls du Rückfragen hast, melde dich beim Team.\n\n&7Du kannst das investierte Geld wieder einsammeln."
+            "en_US": "\n&7Your order has been deleted!\n&7The item may have an inappropriate name\n&7or the order may violate other rules.\n&7This is a warning! If you have any questions,\n&7please contact the team.\n\n&7You can collect the invested money.",
+            "de_DE": "\n&7Deine Bestellung wurde gelöscht!\n&7Möglicherweise hat das Item einen unangebrachten\n&7Namen oder die Bestellung verstößt gegen sonstige\n&7Regeln. Dies ist eine Verwarnung!\n&7Falls du Rückfragen hast, melde dich beim Team.\n\n&7Du kannst das investierte Geld wieder einsammeln."
+        },
+        "GUI.yourorders.order.extralore.revokeandwarn.collectinvest":
+        {
+            "en_US": "&7You can collect the invested money.",
+            "de_DE": "&7Du kannst das investierte Geld wieder einsammeln."
         },
         "GUI.yourorders.order.extralore.collectremainsfirst":
         {
