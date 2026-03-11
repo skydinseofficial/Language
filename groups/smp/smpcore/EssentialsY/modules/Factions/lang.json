@@ -72,6 +72,11 @@
             "en_US": "Change the name of your faction.",
             "de_DE": "Ändere den Namen deiner Fraktion."
         },
+        "command.help.setbanner":
+        {
+            "en_US": "Define the banner of your faction.",
+            "de_DE": "Definiere das Banner deiner Fraktion."
+        },
         "command.help.dissolve":
         {
             "en_US": "Dissolve your faction.",
