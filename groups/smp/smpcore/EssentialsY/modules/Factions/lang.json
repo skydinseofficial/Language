@@ -467,6 +467,11 @@
             "en_US": "&cInvalid item! &7You must hold a banner in your hand.",
             "de_DE": "&cUngültiges Item! &7Du musst ein Banner in der Hand halten."
         },
+        "command.setbanner.success":
+        {
+            "en_US": "&7You have &asuccessfully &7updated the banner of the faction &e[id]&7!",
+            "de_DE": "&7Du hast &aerfolgreich &7das Banner der Fraktion &e[id] &7aktualisiert!"
+        },
         "command.home.success":
         {
             "en_US": "&7You have successfully set the home of the faction &e[id] &7to your current position!",
