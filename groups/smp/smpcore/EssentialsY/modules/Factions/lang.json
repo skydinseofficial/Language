@@ -12,6 +12,11 @@
             "en_US": "Please do not spam this command!",
             "de_DE": "Bitte spamme diesen Befehl nicht!"
         },
+        "command.unexpected_error":
+        {
+            "en_US": "&cAn unexpected error occurred!",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten!"
+        },
         "command.help":
         {
             "en_US": "Factions command:",
@@ -456,6 +461,11 @@
         {
             "en_US": "&7You have successfully changed the name of the faction &e[id] &7to &e[name]&7!",
             "de_DE": "&7Du hast erfolgreich den Namen der Fraktion &e[id] &7zu &e[name]&7 geändert!"
+        },
+        "command.setbanner.invaliditem":
+        {
+            "en_US": "&cInvalid item! &7You must hold a banner in your hand.",
+            "de_DE": "&cUngültiges Item! &7Du musst ein Banner in der Hand halten."
         },
         "command.home.success":
         {
