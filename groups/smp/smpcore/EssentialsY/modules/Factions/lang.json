@@ -551,6 +551,26 @@
         {
             "en_US": "&cYour description is still empty! &7Use &e</fn description> &e[text] &7to add text.",
             "de_DE": "&cDeine Beschreibung ist noch leer! &7Nutze &e</fn description> &e[text] &7um Text hinzuzufügen."
+        },
+        "dialog.nofaction.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lJoin or found a faction",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktion beitreten oder gründen"
+        },
+        "dialog.nofaction.description":
+        {
+            "en_US": "&x&F&F&4&0&3&2You are not part of any faction!\n&7Check your &x&F&F&D&8&4&Efaction invitations &7or\n&x&F&F&D&8&4&Efound &7your own &x&F&F&D&8&4&Efaction&7.",
+            "de_DE": "&x&F&F&4&0&3&2Du bist in keiner Fraktion!\n&7Schaue dir deine &x&F&F&D&8&4&EFraktionseinladungen &7an oder\n&x&F&F&D&8&4&Egründe &7deine &x&F&F&D&8&4&Eeigene Fraktion&7."
+        },
+        "dialog.nofaction.button.invitations":
+        {
+            "en_US": "Invitations ([amount])",
+            "de_DE": "Einladungen ([amount])"
+        },
+        "dialog.nofaction.button.createfactions":
+        {
+            "en_US": "Create Faction",
+            "de_DE": "Fraktions erstellen"
         }
     }
 }
