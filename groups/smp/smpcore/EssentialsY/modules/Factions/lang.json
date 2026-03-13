@@ -567,7 +567,7 @@
             "en_US": "Invitations ([amount])",
             "de_DE": "Einladungen ([amount])"
         },
-        "dialog.nofaction.button.createfactions":
+        "dialog.nofaction.button.createfaction":
         {
             "en_US": "Create Faction",
             "de_DE": "Fraktions erstellen"
