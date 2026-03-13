@@ -570,7 +570,22 @@
         "dialog.nofaction.button.createfaction":
         {
             "en_US": "Create Faction",
-            "de_DE": "Fraktions erstellen"
+            "de_DE": "Fraktion erstellen"
+        },
+        "dialog.invitations.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lInvitations into Factions",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionseinladungen"
+        },
+        "dialog.invitations.description.noinvites":
+        {
+            "en_US": "&x&F&F&4&0&3&2You don't have any invites!",
+            "de_DE": "&x&F&F&4&0&3&2Du hast keine offenen Einladungen!"
+        },
+        "dialog.invitations.description.openinvites":
+        {
+            "en_US": "&7You currently have &x&F&F&D&2&0&0[amount]&7 open faction invite(s)!",
+            "de_DE": "&7Du hast derzeit &x&F&F&D&2&0&0[amount]&7 offene Fraktionseinladung(en)!"
         }
     }
 }
