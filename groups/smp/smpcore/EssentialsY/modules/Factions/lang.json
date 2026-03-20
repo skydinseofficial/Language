@@ -569,8 +569,8 @@
         },
         "dialog.nofaction.button.invitations":
         {
-            "en_US": "Invitations ([amount])",
-            "de_DE": "Einladungen ([amount])"
+            "en_US": "Invitations ([amount]&r)",
+            "de_DE": "Einladungen ([amount]&r)"
         },
         "dialog.nofaction.button.createfaction":
         {
@@ -594,8 +594,8 @@
         },
         "dialog.viewinvite.description":
         {
-            "en_US": "[player]&7 has invited you to join the following faction:\n[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Members: &x&F&F&D&2&0&0[members]",
-            "de_DE": "[player]&7 hat dich eingeladen, folgende Fraktion beizutreten:\n[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Mitglieder: &x&F&F&D&2&0&0[members]"
+            "en_US": "[player]&7 has invited you to join the following faction:\n\n[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Members: &x&F&F&D&2&0&0[members]",
+            "de_DE": "[player]&7 hat dich eingeladen, folgende Fraktion beizutreten:\n\n[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Mitglieder: &x&F&F&D&2&0&0[members]"
         },
         "dialog.viewinvite.button.accept":
         {
