@@ -552,6 +552,11 @@
             "en_US": "&cYour description is still empty! &7Use &e</fn description> &e[text] &7to add text.",
             "de_DE": "&cDeine Beschreibung ist noch leer! &7Nutze &e</fn description> &e[text] &7um Text hinzuzufügen."
         },
+        "dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
         "dialog.nofaction.title":
         {
             "en_US": "&x&F&F&C&8&5&1&lJoin or found a faction",
@@ -586,6 +591,21 @@
         {
             "en_US": "&7You currently have &x&F&F&D&2&0&0[amount]&7 open faction invite(s)!",
             "de_DE": "&7Du hast derzeit &x&F&F&D&2&0&0[amount]&7 offene Fraktionseinladung(en)!"
+        },
+        "dialog.viewinvite.description":
+        {
+            "en_US": "[player]&7 has invited you to join the following faction:\n[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Members: &x&F&F&D&2&0&0[members]",
+            "de_DE": "[player]&7 hat dich eingeladen, folgende Fraktion beizutreten:\n[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Mitglieder: &x&F&F&D&2&0&0[members]"
+        },
+        "dialog.viewinvite.button.accept":
+        {
+            "en_US": "&x&7&8&F&7&1&8Accept",
+            "de_DE": "&x&7&8&F&7&1&8Annehmen"
+        },
+        "dialog.viewinvite.button.reject":
+        {
+            "en_US": "&x&F&F&4&0&3&2Reject",
+            "de_DE": "&x&F&F&4&0&3&2Ablehnen"
         }
     }
 }
