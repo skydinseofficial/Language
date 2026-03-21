@@ -606,6 +606,36 @@
         {
             "en_US": "&x&F&F&4&0&3&2Reject",
             "de_DE": "&x&F&F&4&0&3&2Ablehnen"
+        },
+        "dialog.createfaction.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lCreate Faction",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktion erstellen"
+        },
+        "dialog.createfaction.description":
+        {
+            "en_US": "&7Create your very &x&F&F&D&8&4&Eown faction&7!\nEnter the &x&F&F&D&8&4&Eabbreviation &7and a &x&F&F&D&8&4&Edisplay name&7.\n\nThe &x&F&F&D&8&4&Eabbreviation &7is a type of ID and &x&F&F&D&8&4&Emust not contain &7spaces, color codes, or other special characters. The &x&F&F&D&8&4&Edisplay name&7, however, can &x&F&F&D&8&4&Einclude any formatting &7and can also be &x&F&F&D&8&4&Echanged &7later.",
+            "de_DE": "&7Erstelle deine ganz &x&F&F&D&8&4&Eeigene Fraktion&7!\n&7Gebe dazu das &x&F&F&D&8&4&EKürzel &7und einen &x&F&F&D&8&4&EAnzeigenamen &7ein.\n\n&7Das &x&F&F&D&8&4&EKürzel &7ist eine Art ID und darf &x&F&F&D&8&4&Ekeine &7Leerzeichen, Farbcodes oder sonstige Sonderzeichen beinhalten.\n&7Der &x&F&F&D&8&4&EAnzeigename &7kann hingegen &x&F&F&D&8&4&Ejegliche Formatierungen &7beinhalten und ist auch zu einem späteren Zeitpunkt &x&F&F&D&8&4&Eänderbar&7."
+        },
+        "dialog.createfaction.input.abbreviation":
+        {
+            "en_US": "Abbreviation",
+            "de_DE": "Kürzel"
+        },
+        "dialog.createfaction.input.display":
+        {
+            "en_US": "Display Name",
+            "de_DE": "Anzeigename"
+        },
+        "dialog.createfaction.button.cancel":
+        {
+            "en_US": "Cancel",
+            "de_DE": "Abbrechen"
+        },
+        "dialog.createfaction.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
         }
     }
 }
