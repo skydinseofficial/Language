@@ -664,8 +664,8 @@
         },
         "dialog.mainmembers.description":
         {
-            "en_US": "Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
-            "de_DE": "Mitglieder der Fraktion [display]&7 (&x&F&F&D&2&0&0[id]&7)"
+            "en_US": "&7Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
+            "de_DE": "&7Mitglieder der Fraktion [display]&7 (&x&F&F&D&2&0&0[id]&7)"
         },
         "dialog.mainmembers.button.member.rank.2":
         {
@@ -676,6 +676,36 @@
         {
             "en_US": "&x&f&f&8&c&8&cAdmin",
             "de_DE": "&x&f&f&8&c&8&cAdmin"
+        },
+        "dialog.mainmembers.button.member.rank.0":
+        {
+            "en_US": "&x&E&5&E&5&E&5Member",
+            "de_DE": "&x&E&5&E&5&E&5Mitglied"
+        },
+        "dialog.mainviewmember.description":
+        {
+            "en_US": "&7Faction Profile of [player]\n\n&7Role: [rank]\n&7Member since: &x&F&F&D&2&0&0[joined_at]\n&7Invited by: [invited_by]",
+            "de_DE": "&7Fraktionsprofil von [player]\n\n&7Rolle: [rank]\n&7Mitglied seit: &x&F&F&D&2&0&0[joined_at]\n&7Eingeladen von: [invited_by]"
+        },
+        "dialog.mainviewmember.button.viewstats":
+        {
+            "en_US": "View Statistics",
+            "de_DE": "Statistiken ansehen"
+        },
+        "dialog.mainviewmember.button.setrank.1":
+        {
+            "en_US": "Promote to &x&f&f&8&c&8&cAdmin",
+            "de_DE": "Zu &x&f&f&8&c&8&cAdmin&r befördern"
+        },
+        "dialog.mainviewmember.button.setrank.0":
+        {
+            "en_US": "Demote to &x&E&5&E&5&E&5Member",
+            "de_DE": "Zu &x&E&5&E&5&E&5Mitglied&r degradieren"
+        },
+        "dialog.mainviewmember.button.remove":
+        {
+            "en_US": "&x&F&F&4&0&3&2Remove from Faction",
+            "de_DE": "&x&F&F&4&0&3&2Aus Fraktion entfernen"
         }
     }
 }
