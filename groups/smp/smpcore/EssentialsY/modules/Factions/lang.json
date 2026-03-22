@@ -661,6 +661,21 @@
         {
             "en_US": "Settings",
             "de_DE": "Einstellungen"
+        },
+        "dialog.mainmembers.description":
+        {
+            "en_US": "Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
+            "de_DE": "Mitglieder der Fraktion [display]&7 (&x&F&F&D&2&0&0[id]&7)"
+        },
+        "dialog.mainmembers.button.member.rank.2":
+        {
+            "en_US": "&cFounder",
+            "de_DE": "&cGründer"
+        },
+        "dialog.mainmembers.button.member.rank.1":
+        {
+            "en_US": "&x&f&f&8&c&8&cAdmin",
+            "de_DE": "&x&f&f&8&c&8&cAdmin"
         }
     }
 }
