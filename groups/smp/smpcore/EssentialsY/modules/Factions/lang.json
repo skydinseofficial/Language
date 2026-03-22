@@ -636,6 +636,31 @@
         {
             "en_US": "Create",
             "de_DE": "Erstellen"
+        },
+        "dialog.main.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lFaction Overview",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionsübersicht"
+        },
+        "dialog.main.description":
+        {
+            "en_US": "[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Founder: &x&F&F&D&2&0&0[founder]\n&7Date of Creation: &x&F&F&D&2&0&0[created_at]\n&7Members: &x&F&F&D&2&0&0[members]\n&7Description:\n&x&F&F&D&2&0&0[description]",
+            "de_DE": "[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Gründer: &x&F&F&D&2&0&0[founder]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[created_at]\n&7Mitglieder: &x&F&F&D&2&0&0[members]\n&7Beschreibung:\n&x&F&F&D&2&0&0[description]"
+        },
+        "dialog.main.button.members":
+        {
+            "en_US": "Members (&e[members]&r)",
+            "de_DE": "Mitglieder (&e[members]&r)"
+        },
+        "dialog.main.button.teleporthome":
+        {
+            "en_US": "Teleport to Faction's Base",
+            "de_DE": "Zur Fraktionsbasis teleportieren"
+        },
+        "dialog.main.button.settings":
+        {
+            "en_US": "Settings",
+            "de_DE": "Einstellungen"
         }
     }
 }
