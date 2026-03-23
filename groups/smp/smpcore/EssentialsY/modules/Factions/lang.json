@@ -557,6 +557,11 @@
             "en_US": "Back",
             "de_DE": "Zurück"
         },
+        "dialog.button.cancel":
+        {
+            "en_US": "Cancel",
+            "de_DE": "Abbrechen"
+        },
         "dialog.nofaction.title":
         {
             "en_US": "&x&F&F&C&8&5&1&lJoin or found a faction",
@@ -626,11 +631,6 @@
         {
             "en_US": "Display Name",
             "de_DE": "Anzeigename"
-        },
-        "dialog.createfaction.button.cancel":
-        {
-            "en_US": "Cancel",
-            "de_DE": "Abbrechen"
         },
         "dialog.createfaction.button.create":
         {
@@ -712,27 +712,27 @@
             "en_US": "&x&F&F&4&0&3&2Remove from Faction",
             "de_DE": "&x&F&F&4&0&3&2Aus Fraktion entfernen"
         },
-        "dialog.mainmembers.title":
+        "dialog.maininvite.title":
         {
             "en_US": "&x&F&F&C&8&5&1&lInvite into the Faction",
             "de_DE": "&x&F&F&C&8&5&1&lZur Fraktion einladen"
         },
-        "dialog.mainmembers.description":
+        "dialog.maininvite.description":
         {
             "en_US": "&x&F&F&D&8&4&EInvite &7someone to the &x&F&F&D&8&4&Efaction &7by entering the &x&F&F&D&8&4&Eplayer name &7into the &x&F&F&D&8&4&Efield&7. Then you can &x&F&F&D&8&4&Edetermine &7whether the player should become a &x&F&F&D&8&4&EAdmin &7or not.",
             "de_DE": "&x&F&F&D&8&4&ELade &7jemanden in die Fraktion &x&F&F&D&8&4&Eein&7, indem du den &x&F&F&D&8&4&ESpielernamen &7in das &x&F&F&D&8&4&EFeld &7eingibst. Anschließend kannst du &x&F&F&D&8&4&Ebestimmen&7, ob der Spieler direkt ein &x&F&F&D&8&4&EAdmin &7werden soll oder nicht."
         },
-        "dialog.mainmembers.input.name":
+        "dialog.maininvite.input.name":
         {
             "en_US": "Name",
             "de_DE": "Name"
         },
-        "dialog.mainmembers.input.role":
+        "dialog.maininvite.input.role":
         {
             "en_US": "Role",
             "de_DE": "Rolle"
         },
-        "dialog.mainmembers.button.invite":
+        "dialog.maininvite.button.invite":
         {
             "en_US": "Invite",
             "de_DE": "Einladen"
