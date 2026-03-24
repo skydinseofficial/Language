@@ -562,6 +562,16 @@
             "en_US": "Cancel",
             "de_DE": "Abbrechen"
         },
+        "dialog.factionlist.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lFactions of the server",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionen des Servers"
+        },
+        "dialog.factionlist.description":
+        {
+            "en_US": "&7Check out &x&F&F&D&8&4&Eall factions &7of &x&F&F&D&2&0&0[game]&7 here!",
+            "de_DE": "&7Schaue dir hier &x&F&F&D&8&4&Ealle Fraktionen &7von &x&F&F&D&2&0&0[game]&7 an!"
+        },
         "dialog.nofaction.title":
         {
             "en_US": "&x&F&F&C&8&5&1&lJoin or found a faction",
