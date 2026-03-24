@@ -727,10 +727,10 @@
             "en_US": "Name",
             "de_DE": "Name"
         },
-        "dialog.maininvite.input.role":
+        "dialog.maininvite.input.admin":
         {
-            "en_US": "Role",
-            "de_DE": "Rolle"
+            "en_US": "Admin",
+            "de_DE": "Admin"
         },
         "dialog.maininvite.button.invite":
         {
