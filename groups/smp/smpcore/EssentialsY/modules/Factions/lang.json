@@ -647,6 +647,16 @@
             "en_US": "Create",
             "de_DE": "Erstellen"
         },
+        "dialog.profile.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lYour Profile",
+            "de_DE": "&x&F&F&C&8&5&1&lDein Profil"
+        },
+        "dialog.profile.description":
+        {
+            "en_US": "[player]\n\n&7Current Faction: [faction]&7 (&x&F&F&D&2&0&0[id]&7)\n&7Role: [rank]\n&7Member since: &x&F&F&D&2&0&0[joined_at]",
+            "de_DE": "[player]\n\n&7Aktuelle Fraktion: [faction]&7 (&x&F&F&D&2&0&0[id]&7)\n&7Rolle: [rank]\n&7Mitglied seid: &x&F&F&D&2&0&0[joined_at]"
+        },
         "dialog.main.title":
         {
             "en_US": "&x&F&F&C&8&5&1&lFaction Overview",
