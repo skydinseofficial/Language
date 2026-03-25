@@ -677,16 +677,6 @@
             "en_US": "All Factions",
             "de_DE": "Alle Fraktionen"
         },
-        "dialog.main.button.leavefaction":
-        {
-            "en_US": "&x&F&F&4&0&3&2Leave Faction",
-            "de_DE": "&x&F&F&4&0&3&2Fraktion verlassen"
-        },
-        "dialog.main.button.dissolvefaction":
-        {
-            "en_US": "&x&F&F&4&0&3&2Dissolve Faction",
-            "de_DE": "&x&F&F&4&0&3&2Fraktion auflösen"
-        },
         "dialog.main.button.members":
         {
             "en_US": "Members (&e[members]&r)",
@@ -701,6 +691,41 @@
         {
             "en_US": "Settings",
             "de_DE": "Einstellungen"
+        },
+        "dialog.mainsettings.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lFaction Settings",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionseinstellungen"
+        },
+        "dialog.mainsettings.button.leavefaction":
+        {
+            "en_US": "&x&F&F&4&0&3&2Leave Faction",
+            "de_DE": "&x&F&F&4&0&3&2Fraktion verlassen"
+        },
+        "dialog.mainsettings.button.dissolvefaction":
+        {
+            "en_US": "&x&F&F&4&0&3&2Dissolve Faction",
+            "de_DE": "&x&F&F&4&0&3&2Fraktion auflösen"
+        },
+        "dialog.mainsettings.button.sethome":
+        {
+            "en_US": "Set Faction Home",
+            "de_DE": "Fraktionshome setzen"
+        },
+        "dialog.mainsettings.button.rename":
+        {
+            "en_US": "Rename Faction",
+            "de_DE": "Fraktion umbenennen"
+        },
+        "dialog.mainsettings.button.editdescription":
+        {
+            "en_US": "Edit Description",
+            "de_DE": "Beschreibung ändern"
+        },
+        "dialog.mainsettings.button.definebanner":
+        {
+            "en_US": "Define Banner",
+            "de_DE": "Banner definieren"
         },
         "dialog.mainmembers.description":
         {
