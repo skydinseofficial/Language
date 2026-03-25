@@ -662,6 +662,21 @@
             "en_US": "Your Profile",
             "de_DE": "Dein Profil"
         },
+        "dialog.main.button.listfactions":
+        {
+            "en_US": "All Factions",
+            "de_DE": "Alle Fraktionen"
+        },
+        "dialog.main.button.leavefaction":
+        {
+            "en_US": "&x&F&F&4&0&3&2Leave Faction",
+            "de_DE": "&x&F&F&4&0&3&2Fraktion verlassen"
+        },
+        "dialog.main.button.dissolvefaction":
+        {
+            "en_US": "&x&F&F&4&0&3&2Dissolve Faction",
+            "de_DE": "&x&F&F&4&0&3&2Fraktion auflösen"
+        },
         "dialog.main.button.members":
         {
             "en_US": "Members (&e[members]&r)",
