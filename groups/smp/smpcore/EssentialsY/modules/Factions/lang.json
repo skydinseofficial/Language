@@ -657,6 +657,11 @@
             "en_US": "[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Founder: &x&F&F&D&2&0&0[founder]\n&7Date of Creation: &x&F&F&D&2&0&0[created_at]\n&7Members: &x&F&F&D&2&0&0[members]\n&7Description:\n&x&F&F&D&2&0&0[description]",
             "de_DE": "[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Gründer: &x&F&F&D&2&0&0[founder]\n&7Erstellungsdatum: &x&F&F&D&2&0&0[created_at]\n&7Mitglieder: &x&F&F&D&2&0&0[members]\n&7Beschreibung:\n&x&F&F&D&2&0&0[description]"
         },
+        "dialog.main.button.yourprofile":
+        {
+            "en_US": "Your Profile",
+            "de_DE": "Dein Profil"
+        },
         "dialog.main.button.members":
         {
             "en_US": "Members (&e[members]&r)",
