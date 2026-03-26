@@ -747,6 +747,26 @@
             "en_US": "Finish",
             "de_DE": "Fertig"
         },
+        "dialog.mainsettingeditdescription.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Faction Description",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionsbeschreibung ändern"
+        },
+        "dialog.mainsettingeditdescription.description":
+        {
+            "en_US": "&7Edit the &x&F&F&D&8&4&Edescription of the faction &7in the &x&F&F&D&8&4&Etext field &7below.\n&7olors and other formats are not possible.",
+            "de_DE": "&7Bearbeite im &x&F&F&D&8&4&ETextfeld &7die &x&F&F&D&8&4&EBeschreibung der Fraktion&7.\n&7Farben und weitere Formate sind nicht möglich."
+        },
+        "dialog.mainsettingeditdescription.input.newdescription":
+        {
+            "en_US": "New Description",
+            "de_DE": "Neue Beschreibung"
+        },
+        "dialog.mainsettingeditdescription.button.finish":
+        {
+            "en_US": "Finish",
+            "de_DE": "Fertig"
+        },
         "dialog.mainmembers.description":
         {
             "en_US": "&7Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
