@@ -802,6 +802,36 @@
             "en_US": "Set Faction Home",
             "de_DE": "Fraktionshome setzen"
         },
+        "dialog.mainsettingsdissolve.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lDissolve Faction",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktion auflösen"
+        },
+        "dialog.mainsettingsdissolve.description":
+        {
+            "en_US": "&7Are you &x&F&F&D&8&4&Esure &7that you want to &x&F&F&4&0&3&2irrevocably dissolve &7the &x&F&F&D&8&4&Efaction&7?",
+            "de_DE": "&7Bist du dir &x&F&F&D&8&4&Esicher&7, dass du die &x&F&F&D&8&4&EFraktion &x&F&F&4&0&3&2unwiderruflich auflösen &7möchtest?"
+        },
+        "dialog.mainsettingsdissolve.button.dissolve":
+        {
+            "en_US": "Yes, dissolve faction",
+            "de_DE": "Ja, Fraktion auflösen"
+        },
+        "dialog.mainsettingsleave.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lLeave Faction",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktion verlassen"
+        },
+        "dialog.mainsettingsleave.description":
+        {
+            "en_US": "&7Are you &x&F&F&D&8&4&Esure &7that you want to &x&F&F&D&8&4&Eleave the faction&7?",
+            "de_DE": "&7Bist du dir &x&F&F&D&8&4&Esicher&7, dass du die &x&F&F&D&8&4&EFraktion verlassen &7möchtest?"
+        },
+        "dialog.mainsettingsleave.button.leave":
+        {
+            "en_US": "Yes, leave faction",
+            "de_DE": "Ja, Fraktion verlassen"
+        },
         "dialog.mainmembers.description":
         {
             "en_US": "&7Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
@@ -851,6 +881,21 @@
         {
             "en_US": "&x&F&F&4&0&3&2Remove from Faction",
             "de_DE": "&x&F&F&4&0&3&2Aus Fraktion entfernen"
+        },
+        "dialog.mainviewmemberremove.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lRemove member from faction",
+            "de_DE": "&x&F&F&C&8&5&1&lMitglied aus Fraktion entfernen"
+        },
+        "dialog.mainviewmemberremove.description":
+        {
+            "en_US": "&7Are you &x&F&F&D&8&4&Esure &7that you want to &x&F&F&D&8&4&Eremove [player]&7 from the faction?",
+            "de_DE": "&7Bist du dir &x&F&F&D&8&4&Esicher&7, dass du [player]&7 aus der Fraktion &x&F&F&D&8&4&Eentfernen &7möchtest?"
+        },
+        "dialog.mainviewmemberremove.button.remove":
+        {
+            "en_US": "Yes, remove player",
+            "de_DE": "Ja, Spieler entfernen"
         },
         "dialog.maininvite.title":
         {
