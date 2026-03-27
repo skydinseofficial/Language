@@ -787,6 +787,21 @@
             "en_US": "Define Banner",
             "de_DE": "Banner definieren"
         },
+        "dialog.mainsettingshome.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lUpdate Faction Home",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionshome aktualisieren"
+        },
+        "dialog.mainsettingshome.description":
+        {
+            "en_US": "&7Are you &x&F&F&D&8&4&Esure you want to &x&F&F&D&8&4&Eupdate &7the &x&F&F&D&8&4&Efaction base&7?\n&7The new &x&F&F&D&8&4&Eteleport point &7will be set to your &x&F&F&D&8&4&Ecurrent position&7.",
+            "de_DE": "&7Bist du dir &x&F&F&D&8&4&Esicher&7, dass du die &x&F&F&D&8&4&EFraktionsbasis neusetzen &7möchtest?\n&7Der neue &x&F&F&D&8&4&ETeleportpunkt &7wird an deine &x&F&F&D&8&4&Eaktuelle Position &7gesetzt."
+        },
+        "dialog.mainsettingshome.button.sethome":
+        {
+            "en_US": "Set Faction Home",
+            "de_DE": "Fraktionshome setzen"
+        },
         "dialog.mainmembers.description":
         {
             "en_US": "&7Members of Faction [display]&7 (&x&F&F&D&2&0&0[id]&7)",
