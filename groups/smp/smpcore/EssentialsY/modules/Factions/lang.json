@@ -774,8 +774,8 @@
         },
         "dialog.mainsettingsbanner.description":
         {
-            "en_US": "&x&F&F&4&0&3&2You must hold a banner in your hand to update the faction banner to this one.",
-            "de_DE": "&x&F&F&4&0&3&2Du musst ein Banner in der Hand halten, um das Fraktionsbanner auf dieses zu aktualisieren."
+            "en_US": "&7The &x&F&F&D&8&4&Ebanner in your hand &7becomes the new &x&F&F&D&8&4&Efaction banner&7, which &x&F&F&D&8&4&Erepresents &7you on the server.",
+            "de_DE": "&7Das &x&F&F&D&8&4&EBanner in deiner Hand &7wird zum neuen &x&F&F&D&8&4&EFraktionsbanner&7, welches euch auf dem Server &x&F&F&D&8&4&Erepräsentiert&7."
         },
         "dialog.mainsettingsbanner.description.nobannerinhand":
         {
