@@ -610,7 +610,7 @@
         "dialog.viewinvite.description":
         {
             "en_US": "[player]&7 has invited you to join the following faction:\n\n[display]\n&7Abbreviation: &x&F&F&D&2&0&0[id]\n&7Members: &x&F&F&D&2&0&0[members]",
-            "de_DE": "[player]&7 hat dich eingeladen, folgende Fraktion beizutreten:\n\n[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Mitglieder: &x&F&F&D&2&0&0[members]"
+            "de_DE": "[player]&7 hat dich eingeladen, folgender Fraktion beizutreten:\n\n[display]\n&7Kürzel: &x&F&F&D&2&0&0[id]\n&7Mitglieder: &x&F&F&D&2&0&0[members]"
         },
         "dialog.viewinvite.button.accept":
         {
@@ -766,6 +766,26 @@
         {
             "en_US": "Finish",
             "de_DE": "Fertig"
+        },
+        "dialog.mainsettingsbanner.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lDefine Faction Banner",
+            "de_DE": "&x&F&F&C&8&5&1&lFraktionsbanner definieren"
+        },
+        "dialog.mainsettingsbanner.description":
+        {
+            "en_US": "&x&F&F&4&0&3&2You must hold a banner in your hand to update the faction banner to this one.",
+            "de_DE": "&x&F&F&4&0&3&2Du musst ein Banner in der Hand halten, um das Fraktionsbanner auf dieses zu aktualisieren."
+        },
+        "dialog.mainsettingsbanner.description.nobannerinhand":
+        {
+            "en_US": "&x&F&F&4&0&3&2You must hold a banner in your hand to update the faction banner to this one.",
+            "de_DE": "&x&F&F&4&0&3&2Du musst ein Banner in der Hand halten, um das Fraktionsbanner auf dieses zu aktualisieren."
+        },
+        "dialog.mainsettingsbanner.button.define":
+        {
+            "en_US": "Define Banner",
+            "de_DE": "Banner definieren"
         },
         "dialog.mainmembers.description":
         {
