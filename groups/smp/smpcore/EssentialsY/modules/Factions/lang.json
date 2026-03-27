@@ -264,23 +264,23 @@
         },
         "command.invite.notify_create":
         {
-            "en_US": "&aThe faction &e[faction] &awas just created by &s[player]&a.",
-            "de_DE": "&aDie Fraktion &e[faction] &awurde gerade von &s[player] &aerstellt."
+            "en_US": "&7The faction &e[faction]&7 was just created by [player]&7.",
+            "de_DE": "&7Die Fraktion &e[faction]&7 wurde gerade von [player]&7 erstellt."
         },
         "command.invite.notify_dissolved":
         {
-            "en_US": "&cThe faction &e[faction] &cwas just dissolved by &s[player]&c.",
-            "de_DE": "&cDie Fraktion &e[faction] &cwurde gerade von &s[player] &caufgelöst."
+            "en_US": "&cThe faction &e[faction]&c was just dissolved by [player]&c.",
+            "de_DE": "&cDie Fraktion &e[faction]&c wurde gerade von [player]&c aufgelöst."
         },
         "command.invite.personal":
         {
-            "en_US": "&aYou have been invited to the faction &e[faction] &aby &s[name]&a!",
-            "de_DE": "&aDu wurdest von &s[name] &azur Fraktion &e[faction] &aeingeladen!"
+            "en_US": "&7You have been invited to the faction &e[faction]&7 by [name]&7!",
+            "de_DE": "&7Du wurdest von [name]&7 zur Fraktion &e[faction]&7 eingeladen!"
         },
         "command.invite.success":
         {
-            "en_US": "&aYou invited &e[player] &ato the faction &e[faction]&a!",
-            "de_DE": "&aDu hast &e[player] &ain die Fraktion &e[faction] &aeingeladen!"
+            "en_US": "&7You invited &e[player]&7 to the faction &e[faction]&7!",
+            "de_DE": "&7Du hast &e[player]&7 in die Fraktion &e[faction]&7 eingeladen!"
         },
         "command.invite.failed":
         {
