@@ -32,6 +32,16 @@
             "en_US": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7With me you can get\n&7all kinds of trials!",
             "de_DE": "&x&C&9&4&2&D&B&nᴛʀɪᴀʟ ᴛʀᴀᴅᴇʀ\n&7Bei mir kommst du an\n&7alle möglichen Trials!"
         },
+        "HOLO.factions":
+        {
+            "en_US": "&x&F&F&0&F&0&0&nғᴀᴄᴛɪᴏɴs\n&7Join forces in\n&7a faction!",
+            "de_DE": "&x&F&F&0&F&0&0&nғʀᴀᴋᴛɪᴏɴᴇɴ\n&7Verbünde dich in\n&7einer Fraktion!"
+        },
+        "HOLO.orders":
+        {
+            "en_US": "&x&3&D&E&1&F&F&nᴏʀᴅᴇʀs\n&7Place large orders\n&7for an item!",
+            "de_DE": "&x&3&D&E&1&F&F&nᴏʀᴅᴇʀs\n&7Gib' große Bestellungen\n&7für ein Item frei!"
+        },
         "HOLO.joinworld":
         {
             "en_US": "&x&0&0&A&3&F&F&nᴊᴏɪɴ ᴡᴏʀʟᴅ\n&7Enter the world via\n&fRandom Teleport",
