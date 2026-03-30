@@ -921,6 +921,11 @@
         {
             "en_US": "Invite",
             "de_DE": "Einladen"
+        },
+        "stats.none":
+        {
+            "en_US": "&cNo Data",
+            "de_DE": "&cKeine Daten"
         }
     }
 }
