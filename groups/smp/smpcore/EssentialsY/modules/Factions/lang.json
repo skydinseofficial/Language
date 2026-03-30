@@ -926,6 +926,30 @@
         {
             "en_US": "&cNo Data",
             "de_DE": "&cKeine Daten"
+        },
+        "stats.timespan.today":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lToday",
+            "de_DE": "&x&F&F&C&8&5&1&lHeute",
+            "pt_PT": "&x&F&F&C&8&5&1&lHoje"
+        },
+        "stats.timespan.week":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lThis Week",
+            "de_DE": "&x&F&F&C&8&5&1&lDiese Woche",
+            "pt_PT": "&x&F&F&C&8&5&1&lEsta semana"
+        },
+        "stats.timespan.month":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lThis Month",
+            "de_DE": "&x&F&F&C&8&5&1&lDiesen Monat",
+            "pt_PT": "&x&F&F&C&8&5&1&lEste mês"
+        },
+        "stats.timespan.alltime":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lLifetime",
+            "de_DE": "&x&F&F&C&8&5&1&lGlobal",
+            "pt_PT": "&x&F&F&C&8&5&1&lVitalício"
         }
     }
 }
