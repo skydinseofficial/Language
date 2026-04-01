@@ -572,10 +572,15 @@
             "en_US": "&7Check out &x&F&F&D&8&4&Eall [amount] factions &7of &x&F&F&D&2&0&0[game]&7 here!",
             "de_DE": "&7Schaue dir hier &x&F&F&D&8&4&Ealle [amount] Fraktionen &7von &x&F&F&D&2&0&0[game]&7 an!"
         },
-        "dialog.factionlist.button.resetfilter":
+        "dialog.factionlist.button.showdetails":
         {
-            "en_US": "Reset Filter",
-            "de_DE": "Filter zurücksetzen"
+            "en_US": "Show Details",
+            "de_DE": "Details anzeigen"
+        },
+        "dialog.factionlist.button.hidedetails":
+        {
+            "en_US": "Hide Details",
+            "de_DE": "Details verstecken"
         },
         "dialog.factionlist.button.sorting":
         {
