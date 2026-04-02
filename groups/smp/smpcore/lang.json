@@ -67,6 +67,11 @@
             "en_US": "Please wait a moment.",
             "de_DE": "Bitte warte einen Moment."
         },
+        "spawnswitcher.alreadyconnected":
+        {
+            "en_US": "You are already connected to this spawn!",
+            "de_DE": "Du bist bereits mit diesem Spawn verbunden!"
+        },
         "newplayer":
         {
             "en_US": "[player] &7is new on &6[smp]&7! &x&F&F&D&8&0&0#[amount]",
