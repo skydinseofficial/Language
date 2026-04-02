@@ -32,6 +32,26 @@
             "en_US": "&cThis spawn does not exist!",
             "de_DE": "&cDieser Spawn existiert nicht!"
         },
+        "spawnswitcher.title":
+        {
+            "en_US": "Spawn Servers",
+            "de_DE": "Spawn Server"
+        },
+        "spawnswitcher.spawn.players":
+        {
+            "en_US": "Players:",
+            "de_DE": "Spieler:"
+        },
+        "spawnswitcher.clickaction.connect":
+        {
+            "en_US": "Click to connect",
+            "de_DE": "Klicke zum Verbinden"
+        },
+        "spawnswitcher.clickaction.connected":
+        {
+            "en_US": "Connected",
+            "de_DE": "Verbunden"
+        },
         "newplayer":
         {
             "en_US": "[player] &7is new on &6[smp]&7! &x&F&F&D&8&0&0#[amount]",
