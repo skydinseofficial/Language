@@ -392,6 +392,21 @@
             "en_US": "&7You have left the faction &e[faction]&7!",
             "de_DE": "&7Du hast die Fraktion &e[faction] &7verlassen!"
         },
+        "command.pay.nobodyonline":
+        {
+            "en_US": "&cThere's no one online you can send money to.",
+            "de_DE": "&cNiemand ist online, dem du Geld senden kannst."
+        },
+        "command.pay.errorreceiving":
+        {
+            "en_US": "[player]&c could not receive the money! &7You will receive it back.",
+            "de_DE": "[player]&c konnte das Geld nicht erhalten! &7Du erhältst dieses zurück."
+        },
+        "command.pay.received":
+        {
+            "en_US": "&7All faction members who are online have received [amount]&7 from [player]&7!",
+            "de_DE": "&7Alle Fraktionsmitglieder, die online sind, haben [amount]&7 von [player]&7 erhalten!"
+        },
         "command.role.missing_role_arg":
         {
             "en_US": "&cPlease enter a valid role name (admin, member)!",
