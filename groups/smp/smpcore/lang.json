@@ -52,6 +52,21 @@
             "en_US": "Connected",
             "de_DE": "Verbunden"
         },
+        "spawnswitcher.nextpage":
+        {
+            "en_US": "Next Page",
+            "de_DE": "Nächste Seite"
+        },
+        "spawnswitcher.previouspage":
+        {
+            "en_US": "Previous Page",
+            "de_DE": "Vorherige Seite"
+        },
+        "spawnswitcher.pleasewait":
+        {
+            "en_US": "Please wait a moment.",
+            "de_DE": "Bitte warte einen Moment."
+        },
         "newplayer":
         {
             "en_US": "[player] &7is new on &6[smp]&7! &x&F&F&D&8&0&0#[amount]",
