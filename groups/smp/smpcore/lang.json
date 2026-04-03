@@ -204,8 +204,18 @@
         },
         "rtp.zone.holo":
         {
-            "en_US": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Destination: [world]\n&7Teleport in: &x&F&F&D&2&0&0[countdown]",
-            "de_DE": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Ziel: [world]\n&7Teleport in: &x&F&F&D&2&0&0[countdown]"
+            "en_US": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Destination: [world]",
+            "de_DE": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Ziel: [world]"
+        },
+        "rtp.zone.holo.countdown":
+        {
+            "en_US": "&7Teleport in: &x&F&F&D&2&0&0[countdown]",
+            "de_DE": "&7Teleport in: &x&F&F&D&2&0&0[countdown]"
+        },
+        "rtp.zone.holo.teleporting":
+        {
+            "en_US": "&x&F&F&0&0&0&0Teleporting...",
+            "de_DE": "&x&F&F&0&0&0&0Teleportiere..."
         },
         "cmd.back.teleportingyou":
         {
