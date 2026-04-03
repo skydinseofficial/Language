@@ -67,10 +67,20 @@
             "en_US": "&x&F&F&1&F&D&C&nᴇᴀʀɴ ᴛᴏᴋᴇɴs\n&7Earn tokens even faster\n&7than in the AFK area!",
             "de_DE": "&x&F&F&1&F&D&C&nᴛᴏᴋᴇɴs ᴠᴇʀᴅɪᴇɴᴇɴ\n&7Verdiene noch schneller Tokens\n&7als im AFK-Bereich!"
         },
+        "HOLO.spawnswitcher":
+        {
+            "en_US": "&x&F&F&A&6&2&1&nsᴘᴀᴡɴ sᴇʀᴠᴇʀs\n&7Can't find your friends?\n&7Maybe there are multiple servers.",
+            "de_DE": "&x&F&F&A&6&2&1&nsᴘᴀᴡɴ sᴇʀᴠᴇʀ\n&7Du findest deine Freunde nicht?\n&7Vielleicht gibt es mehrere Server."
+        },
         "HOLO.media":
         {
             "en_US": "&x&B&A&0&0&F&F&nᴍᴇᴅɪᴀ ʀᴀɴᴋ\n&7Got reach?\n&7We've got something for you!",
             "de_DE": "&x&B&A&0&0&F&F&nᴍᴇᴅɪᴀ ʀᴀɴɢ\n&7Du hast Reichweite?\n&7Wir ham' was für dich!"
+        },
+        "HOLO.discord":
+        {
+            "en_US": "&x&7&2&8&9&d&a&nᴊᴏɪɴ ᴏᴜʀ ᴅɪsᴄᴏʀᴅ\n&7Got reach?\n&Don't miss any events and\n&7become part of the community!\n&7Use &f&n/discord",
+            "de_DE": "&x&7&2&8&9&d&a&nᴛʀɪᴛᴛ ᴜɴsᴇʀᴇᴍ ᴅɪsᴄᴏʀᴅ ʙᴇɪ\n&7Verpasse keine Events und\n&7werde Teil der Community!\n&7Nutze &f&n/discord"
         },
         "HOLO.rewards.none":
         {
