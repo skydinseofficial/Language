@@ -177,20 +177,20 @@
             "en_US": "Overworld",
             "de_DE": "Oberwelt"
         },
-        "worldalias.nether":
+        "worldalias.world_nether":
         {
-            "en_US": "Nether",
-            "de_DE": "Hölle"
+            "en_US": "&x&F&F&4&1&1&1Nether",
+            "de_DE": "&x&F&F&4&1&1&1Hölle"
         },
-        "worldalias.end":
+        "worldalias.world_the_end":
         {
-            "en_US": "End",
-            "de_DE": "Ende"
+            "en_US": "&x&9&4&3&8&F&FEnd",
+            "de_DE": "&x&9&4&3&8&F&FEnde"
         },
         "worldalias.world":
         {
-            "en_US": "World",
-            "de_DE": "Welt"
+            "en_US": "&x&A&9&F&2&0&0Overworld",
+            "de_DE": "&x&A&9&F&2&0&0Oberwelt"
         },
         "rtp.gui.main.title":
         {
@@ -201,6 +201,11 @@
         {
             "en_US": "&cNo free server could be found. Please try again or report this error to the team.",
             "de_DE": "&cEs konnte kein freier Server gefunden werden. Bitte versuche es erneut oder melde diesen Fehler beim Team."
+        },
+        "rtp.zone.holo":
+        {
+            "en_US": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Destination: [world]\n&7Teleport in: &x&F&F&D&2&0&0[countdown]",
+            "de_DE": "&x&F&F&0&A&0&0&nʀᴛᴘ ᴢᴏɴᴇ\n&7Ziel: [world]\n&7Teleport in: &x&F&F&D&2&0&0[countdown]"
         },
         "cmd.back.teleportingyou":
         {
