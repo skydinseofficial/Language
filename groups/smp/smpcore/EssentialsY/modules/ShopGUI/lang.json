@@ -167,6 +167,11 @@
             "en_US": "&6Food",
             "de_DE": "&6Essen"
         },
+        "GUI.main.category.name.potions":
+        {
+            "en_US": "&6Potions",
+            "de_DE": "&6Tränke"
+        },
         "GUI.main.category.name.blocks":
         {
             "en_US": "&6Blocks",
