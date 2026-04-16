@@ -815,5 +815,10 @@
             "en_US": "&7Looking for something in particular? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
             "de_DE": "&7Du brauchst etwas bestimmtes? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
         }
+        "ABC.broadcast.10":
+        {
+            "en_US": "&7If you need &ehelp&7, just use &a/support &7or contact us on our &9Discord server &7(&b/discord&7).",
+            "de_DE": "&7Wenn du &eHilfe &7brauchst, nutze einfach &a/support &7oder kontaktiere uns auf unserem &9Discord Server &7(&b/discord&7)."
+        }
     }
 }
