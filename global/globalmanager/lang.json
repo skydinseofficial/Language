@@ -56,6 +56,26 @@
             "de_DE": "&cUnser System hat erkannt, dass du einen Bug nutzt, um in der Luft zu schweben! &7Falls dies ein Fehler sein sollte, kontaktiere bitte unser Team! &9https://skydinse.de/discord",
             "tr_TR": "&cOur system has detected that you are using a bug to float in the air! &7If this is a mistake, please contact our team! &9https://skydinse.de/discord"
         },
+        "ACALERT.off":
+        {
+            "en_US": "&7You will &cno &7longer receive Anticheat Alerts.",
+            "de_DE": "&7Du erhältst nun &ckeine &7Anticheat Alerts mehr."
+        },
+        "ACALERT.all":
+        {
+            "en_US": "&7You will now receive &aall &7Anticheat Alerts.",
+            "de_DE": "&7Du erhältst nun &aalle &7Anticheat Alerts."
+        },
+        "ACALERT.violations":
+        {
+            "en_US": "&7You will now only receive &6Violation &7Alerts.",
+            "de_DE": "&7Du erhältst nun nur noch &6Violation &7Alerts."
+        },
+        "ACALERT.kick":
+        {
+            "en_US": "&7You will now only receive &cKick &7Alerts.",
+            "de_DE": "&7Du erhältst nun nur noch &cKick &7Alerts."
+        },
         "SUPPORT.noanswer":
         {
             "en_US": "&e&lINFO: &7Sorry, your support request could not be processed... It is possible that there is currently no suitable person online for this area. However, your request has been sent again.",
