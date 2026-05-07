@@ -18,7 +18,7 @@
         },
         "MSG.requestsent":
         {
-            "en_US": "&7You've sent &6[player] a teleport request&7. Stop moving!",
+            "en_US": "&7You've sent &6[player] &7a teleport request. Stop moving!",
             "de_DE": "&7Du hast &6[player] &7eine TPA geschickt. Nicht mehr bewegen!"
         },
         "MSG.cannotsendrequest":
