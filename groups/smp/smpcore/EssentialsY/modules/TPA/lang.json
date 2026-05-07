@@ -56,11 +56,6 @@
             "en_US": "<|tip:'&7» Click to accept «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tpaccept [player]]'>",
             "de_DE": "<|tip:'&7» Klicke zum Akzeptieren «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tpaccept [player]]'>"
         },
-        "MSG.incomingrequest.accepttph":
-        {
-            "en_US": "<|tip:'&7» Click to accept «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tphereaccept [player]]'>",
-            "de_DE": "<|tip:'&7» Klicke zum Akzeptieren «',value:'tpaccept [player]',text:'&x&6&9&F&F&0&0[/tphereaccept [player]]'>"
-        },
         "MSG.requestgotaccepted":
         {
             "en_US": "&7Your teleport request to &6[player] &7has been &aaccepted&7!",
