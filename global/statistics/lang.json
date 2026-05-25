@@ -554,8 +554,8 @@
         },
         "GUI.stats.title.lobby.pb":
         {
-            "en_US": "Pointless Button",
-            "de_DE": "Sinnloser Knopf"
+            "en_US": "&6Pointless Button:",
+            "de_DE": "&6Sinnloser Knopf:"
         },
         "GUI.category.lobby.time":
         {
