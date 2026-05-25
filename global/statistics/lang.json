@@ -552,6 +552,11 @@
             "de_DE": "Außergew. Veränderungen (Shop, Support)",
             "pt_PT": "Alterações Extraordinárias (Loja, Suporte)"
         },
+        "GUI.stats.title.lobby.pb":
+        {
+            "en_US": "Pointless Button",
+            "de_DE": "Sinnloser Knopf"
+        },
         "GUI.category.lobby.time":
         {
             "en_US": "wasted Time",
