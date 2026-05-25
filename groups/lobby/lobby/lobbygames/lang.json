@@ -874,6 +874,41 @@
         {
             "en_US": "~l~\n&f\n<#FFD400>Can break:\n&e● &7Iron\n&e● &7Gold\n&e● &7Diamond\n&f\n<#FFD400>Leveloverview:\n&e● ~1~: &7Efficiency 3\n&e● ~2~: &7Efficiency 6\n&e● ~3~: &7Efficiency 100\n&e● ~4~: &7Unbreaking 3\n&e● ~5~: &7Unbreaking 5\n&f\n~u~",
             "de_DE": "~l~\n&f\n<#FFD400>Kann abbauen:\n&e● &7Eisen\n&e● &7Gold\n&e● &7Diamant\n&f\n<#FFD400>Levelübersicht:\n&e● ~1~: &7Effizienz 3\n&e● ~2~: &7Effizienz 6\n&e● ~3~: &7Effizienz 100\n&e● ~4~: &7Haltbarkeit 3\n&e● ~5~: &7Haltbarkeit 5\n&f\n~u~"
+        },
+        "LOBBYGAMES.pb.join":
+        {
+            "en_US": "&7You &aentered &7the &6Pointless Button &7Zone!"
+            "de_DE": "&7Du hast den &6Sinnlosen Knopf &abetreten&7!"
+        },
+        "LOBBYGAMES.pb.leave":
+        {
+            "en_US": "&7You &cleft &7the &6Pointless Button &7Zone!"
+            "de_DE": "&7Du hast den &6Sinnlosen Knopf &cverlassen&7!"
+        },
+        "LOBBYGAMES.pb.sb.clicked":
+        {
+            "en_US": "&7Button clicked"
+            "de_DE": "&7Knopf gedrückt"
+        },
+        "LOBBYGAMES.pb.sb.time":
+        {
+            "en_US": "&7wasted time"
+            "de_DE": "&7verschwendete Zeit"
+        },
+        "LOBBYGAMES.pb.sb.score":
+        {
+            "en_US": "global score"
+            "de_DE": "globaler Score"
+        },
+        "LOBBYGAMES.pb.clicks":
+        {
+            "en_US": "Clicks"
+            "de_DE": "Klicks"
+        },
+        "LOBBYGAMES.pb.yourclicks":
+        {
+            "en_US": "Your Clicks"
+            "de_DE": "Deine Klicks"
         }
     }
 }
