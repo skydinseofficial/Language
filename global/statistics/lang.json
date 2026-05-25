@@ -552,6 +552,16 @@
             "de_DE": "Außergew. Veränderungen (Shop, Support)",
             "pt_PT": "Alterações Extraordinárias (Loja, Suporte)"
         },
+        "GUI.category.lobby.time":
+        {
+            "en_US": "wasted Time",
+            "de_DE": "Verschwendete Zeit"
+        },
+        "GUI.category.lobby.clicked":
+        {
+            "en_US": "Your Clicks",
+            "de_DE": "Deine Klicks"
+        },
         "EXH.holo.title":
         {
             "en_US": "Top [stats]",
