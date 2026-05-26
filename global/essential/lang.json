@@ -767,8 +767,8 @@
         },
         "ABC.broadcast.1":
         {
-            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://skyd.link/dc>&8)",
-            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://skyd.link/dc>&8)"
+            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)",
+            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)"
         },
         "ABC.broadcast.2":
         {
@@ -793,7 +793,7 @@
         "ABC.broadcast.5":
         {
             "en_US": "&sHave you already &#FDB12A&lv&#FDC534&lo&#FDC53f&lt&#FDC534&le&#FDB12A&ld&s today? &7By &#e5e5e5voting &7you support &#e5e5e5Skydinse &7very much and receive cool &#e5e5e5rewards&7. To vote, visit &s<@https://skyd.link/vote>&7!",
-            "de_DE": "&sHeute schon &#FC9C1F&lg&#FDB12A&le&#FDC534&lv&#FDC534&lo&#FDC534&lt&#FDB12A&le&#FC9C1F&ld&s? &7Durch das &#e5e5e5Voting &7unterstützt du &#e5e5e5Skydinse &7sehr und erhälst coole &#e5e5e5Belohnungen&7. Um zu voten, besuche &s<@https://skyd.link/vote>&7!"
+            "de_DE": "&sHeute schon &#FC9C1F&lg&#FDB12A&le&#FDC534&lv&#FDC534&lo&#FDC534&lt&#FDB12A&le&#FC9C1F&ld&s? &7Durch das &#e5e5e5Voting &7unterstützt du &#e5e5e5Skydinse &7sehr und erhälst coole &#e5e5e5Belohnungen&7. Um zu voten, besuche &s<@hhttps://skyd.link/vote>&7!"
         },
         "ABC.broadcast.6":
         {
@@ -802,8 +802,8 @@
         },
         "ABC.broadcast.7":
         {
-            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7!",
-            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 erhältst."
+            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7!",
+            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7 erhältst."
         },
         "ABC.broadcast.8":
         {
@@ -820,5 +820,8 @@
             "en_US": "&7If you need &ehelp&7, just use &a/support &7or contact us on our &9Discord server &7(&b/discord&7).",
             "de_DE": "&7Wenn du &eHilfe &7brauchst, nutze einfach &a/support &7oder kontaktiere uns auf unserem &9Discord Server &7(&b/discord&7)."
         }
-    }
+        "ABC.broadcast.10":
+        {
+            "en_US": "&#ff4444🔔 Attention: &7Our &#e5e5e5rules &7have been updated! Check out our <@tip:'&#e5e5e5Click to join!',value:'https://www.skydinse.net/discord',text:'&#7289da&nDiscord'> &7to stay up to date – &#ff4444Ignorance is no excuse!",
+            "de_DE": "&#ff4444🔔 Achtung: &7Unsere &#e5e5e5Regeln &7wurden aktualisiert! Schaut auf unserem <@tip:'&#e5e5e5Klicke um beizutreten!',value:'https://www.skydinse.net/discord',text:'&#7289da&nDiscord'> &7vorbei – &#ff4444Unwissenheit schützt nicht vor Strafen!"
 }
