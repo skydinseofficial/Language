@@ -412,20 +412,10 @@
             "en_US": "&cThis Trial does not exist.",
             "de_DE": "&cDieser Trial existiert nicht."
         },
-        "trials.command.idnotgiven":
-        {
-            "en_US": "&cPlease type an ID.",
-            "de_DE": "&cBitte gebe eine ID an."
-        },
         "trials.command.trialdisplaynamenotgiven":
         {
             "en_US": "&cPlease type a display name for the trial.",
             "de_DE": "&cBitte gebe einen Anzeigenamen für die Trial an."
-        },
-        "trials.command.itemalreadywithid":
-        {
-            "en_US": "&cThere is already an item with this ID for this trial.",
-            "de_DE": "&cEs gibt zu diesem Trial bereits ein Item mit dieser ID."
         },
         "trials.command.noitemwithid":
         {
@@ -437,11 +427,6 @@
             "en_US": "&cThe item in your hand could not be recognized.",
             "de_DE": "&cDas Item in deiner Hand konnte nicht erkannt werden."
         },
-        "trials.command.itemcategoryneeded":
-        {
-            "en_US": "&cPlease enter an item category.",
-            "de_DE": "&cBitte gebe eine Categorie für das Item an."
-        },
         "trials.command.itemadded":
         {
             "en_US": "&7The item has been added.",
@@ -451,6 +436,11 @@
         {
             "en_US": "&7The item has been removed.",
             "de_DE": "&7Das Item wurde entfernt."
+        },
+        "trials.command.updatingtrials":
+        {
+            "en_US": "&7Updating trials on all servers.",
+            "de_DE": "&7Trials werden auf allen Servern geupdated."
         },
         "trials.create.finished":
         {
@@ -466,6 +456,11 @@
         {
             "en_US": "&cID or display is not specified.",
             "de_DE": "&cID oder Display ist nicht angegeben."
+        },
+        "trials.create.invalidfrequency":
+        {
+            "en_US": "&cInvalid frequency. Please enter a positive integer.",
+            "de_DE": "&cUngültige Häufigkeit. Bitte gebe eine positive, ganze Zahl an."
         },
         "trials.opening.nowopening":
         {
