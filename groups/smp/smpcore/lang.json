@@ -514,8 +514,8 @@
         },
         "trials.gui.trial.object.lore.extra":
         {
-            "en_US": "&7Frequency: &x&F&F&D&2&0&0[frequency]%",
-            "de_DE": "&7Häufigkeit: &x&F&F&D&2&0&0[frequency]%"
+            "en_US": "&7Frequency: &x&F&F&D&2&0&0[frequency]",
+            "de_DE": "&7Häufigkeit: &x&F&F&D&2&0&0[frequency]"
         },
         "trials.gui.trial.additem":
         {
