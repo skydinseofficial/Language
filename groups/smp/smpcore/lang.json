@@ -512,10 +512,55 @@
             "en_US": "&7Probability: &x&F&F&D&2&0&0[percentage]%",
             "de_DE": "&7Wahrscheinlichkeit: &x&F&F&D&2&0&0[percentage]%"
         },
+        "trials.gui.trial.additem":
+        {
+            "en_US": "&aAdd an Item",
+            "de_DE": "&aItem hinzufügen"
+        },
         "trials.gui.clickaction.moredetails":
         {
             "en_US": "&8» <#F9BD31>Click for details",
             "de_DE": "&8» <#F9BD31>Klicke für Details"
+        },
+        "trials.gui.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "trials.dialog.additem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lAdd item to trial",
+            "de_DE": "&x&F&F&C&8&5&1&lItem zur Trial hinzufügen"
+        },
+        "trials.dialog.additem.description":
+        {
+            "en_US": "&7Add the item in your hand to [trial]&7.",
+            "de_DE": "&7Füge das Item in deiner Hand zu [trial]&7 hinzu."
+        },
+        "trials.dialog.additem.description.noitem":
+        {
+            "en_US": "&x&F&F&4&0&3&2You must be holding an item in your hand to add it.",
+            "de_DE": "&x&F&F&4&0&3&2Du musst ein Item in der Hand halten, um es hinzufügen zu können."
+        },
+        "trials.dialog.additem.input.trial":
+        {
+            "en_US": "Target Trial",
+            "de_DE": "Hinzufügen zu:"
+        },
+        "trials.dialog.additem.input.frequency":
+        {
+            "en_US": "Frequency of occurrence",
+            "de_DE": "Häufigkeit des Auftretens"
+        },
+        "trials.dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "trials.dialog.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
         },
         "trials.broadcast.trialall.1":
         {
