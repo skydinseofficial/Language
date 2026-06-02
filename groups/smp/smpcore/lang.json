@@ -417,6 +417,11 @@
             "en_US": "&cPlease type an ID.",
             "de_DE": "&cBitte gebe eine ID an."
         },
+        "trials.command.trialdisplaynamenotgiven":
+        {
+            "en_US": "&cPlease type a display name for the trial.",
+            "de_DE": "&cBitte gebe einen Anzeigenamen für die Trial an."
+        },
         "trials.command.itemalreadywithid":
         {
             "en_US": "&cThere is already an item with this ID for this trial.",
@@ -486,6 +491,21 @@
         {
             "en_US": "&cYou don't have enough space in your inventory.",
             "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
+        },
+        "trials.gui.main.title":
+        {
+            "en_US": "Trials",
+            "de_DE": "Trials"
+        },
+        "trials.gui.main.trial.lore":
+        {
+            "en_US": "&7View the item probabilities for\n&7this Trial.",
+            "de_DE": "&7Siehe dir die Wahrscheinlichkeiten der\n&7Items für diese Trial an."
+        },
+        "trials.gui.clickaction.moredetails":
+        {
+            "en_US": "&8» <#F9BD31>Click for details",
+            "de_DE": "&8» <#F9BD31>Klicke für Details"
         },
         "trials.broadcast.trialall.1":
         {
