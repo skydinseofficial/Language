@@ -432,6 +432,11 @@
             "en_US": "&7The item has been added.",
             "de_DE": "&7Das Item wurde hinzugefügt."
         },
+        "trials.command.frequencyupdated":
+        {
+            "en_US": "&7The frequency for the item has been updated.",
+            "de_DE": "&7Die Häufigkeit für das Item wurde aktualisiert."
+        },
         "trials.command.itemremoved":
         {
             "en_US": "&7The item has been removed.",
@@ -547,6 +552,16 @@
             "en_US": "Frequency of occurrence",
             "de_DE": "Häufigkeit des Auftretens"
         },
+        "trials.dialog.edititem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Item",
+            "de_DE": "&x&F&F&C&8&5&1&lItem Bearbeiten"
+        },
+        "trials.dialog.edititem.description":
+        {
+            "en_US": "&7Adjust the frequency/rarity of the item or remove it from the trial.",
+            "de_DE": "&7Passe die Häufigkeit/Seltenheit des Items an oder entferne es aus der Trial."
+        },
         "trials.dialog.button.back":
         {
             "en_US": "Back",
@@ -556,6 +571,16 @@
         {
             "en_US": "Create",
             "de_DE": "Erstellen"
+        },
+        "trials.dialog.button.done":
+        {
+            "en_US": "Done",
+            "de_DE": "Fertig"
+        },
+        "trials.dialog.button.delete":
+        {
+            "en_US": "&x&F&F&4&0&3&2Delete Item",
+            "de_DE": "&x&F&F&4&0&3&2Item löschen"
         },
         "trials.broadcast.trialall.1":
         {
