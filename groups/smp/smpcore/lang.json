@@ -512,6 +512,11 @@
             "en_US": "&7Probability: &x&F&F&D&2&0&0[percentage]%",
             "de_DE": "&7Wahrscheinlichkeit: &x&F&F&D&2&0&0[percentage]%"
         },
+        "trials.gui.trial.object.lore.extra":
+        {
+            "en_US": "&7Frequency: &x&F&F&D&2&0&0[frequency]%",
+            "de_DE": "&7Häufigkeit: &x&F&F&D&2&0&0[frequency]%"
+        },
         "trials.gui.trial.additem":
         {
             "en_US": "&aAdd an Item",
