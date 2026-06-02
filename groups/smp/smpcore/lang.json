@@ -502,6 +502,16 @@
             "en_US": "&7View the item probabilities for\n&7this Trial.",
             "de_DE": "&7Siehe dir die Wahrscheinlichkeiten der\n&7Items für diese Trial an."
         },
+        "trials.gui.trial.title":
+        {
+            "en_US": "Probabilities for [trial]",
+            "de_DE": "Wahrscheinlichkeiten für [trial]"
+        },
+        "trials.gui.trial.object.lore":
+        {
+            "en_US": "&7Probability: &x&F&F&D&2&0&0[percentage]%",
+            "de_DE": "&7Wahrscheinlichkeit: &x&F&F&D&2&0&0[percentage]%"
+        },
         "trials.gui.clickaction.moredetails":
         {
             "en_US": "&8» <#F9BD31>Click for details",
