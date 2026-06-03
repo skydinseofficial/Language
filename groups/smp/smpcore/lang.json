@@ -607,10 +607,25 @@
             "en_US": "&7Receive 1x [trial]\n&7Right click the received item to\n&7open the Trial.\n&7\n&7Cost: [costs]",
             "de_DE": "&7Erhalte 1x [trial]\n&7Rechtsklicke das erhaltene Item, um das\n&7Trial zu öffnen.\n&7\n&7Kosten: [costs]"
         },
+        "trialtrader.gui.main.viewprobabilities":
+        {
+            "en_US": "&6View Probabilities",
+            "de_DE": "&6Wahrscheinlichkeiten ansehen"
+        },
+        "trialtrader.gui.main.viewprobabilities.lore":
+        {
+            "en_US": "&7View the contents of the Trials\n&7and the respective item frequencies.",
+            "de_DE": "&7Schaue dir den Inhalt der Trials\n&7und die jeweiligen Häufigkeiten der Items\n&7an."
+        },
         "trialtrader.gui.click2buy":
         {
             "en_US": "&8» <#F9BD31>Click to buy",
             "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "trialtrader.gui.click2view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
         },
         "trialtrader.gui.notenough.blooms":
         {
