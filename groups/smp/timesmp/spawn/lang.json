@@ -114,8 +114,8 @@
         },
         "HOLO.challengeupdate":
         {
-            "en_US": "&x&0&0&E&8&F&F&lNEW!\n&x&F&F&D&2&0&0&n/challenge <name>&7 now with\n&7bets! The winner takes it all!\n&7(You don't lose your inventory)",
-            "de_DE": "&x&0&0&E&8&F&F&lNEU!\n&x&F&F&D&2&0&0&n/challenge <name>&7 jetzt mit\n&7Wetteinsätzen! Der Gewinner bekommt alles!\n&7(Inventar verliert man nicht)"
+            "en_US": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n06/13/2026, 4pm CEST\n&7Get ready for the biggest\n&7Time SMP update ever.\n&7The dawn of a new era.\n&7&oTime is running out!",
+            "de_DE": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n13.06.2026, 16 Uhr\n&7Macht euch bereit für das größte\n&7Time SMP Update.\n&7Der Start einer neuen Ära.\n&7&oDie Zeit läuft!"
         },
     }
 }
