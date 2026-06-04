@@ -37,6 +37,16 @@
             "en_US": "&cTo dismantle a generator, you must return it to its original form.",
             "de_DE": "&cUm einen Generator abzubauen, musst du diesen wieder in die echte Gestalt versetzen."
         },
+        "MSG.success.generatortierupgraded":
+        {
+            "en_US": "&7Your generator has been successfully upgraded to [new]&7!",
+            "de_DE": "&7Dein Generator wurde erfolgreich auf [new]&7 verbesser!"
+        },
+        "MSG.success.notenoughsecondary":
+        {
+            "en_US": "&cYou don't have enough [secondarycurrency]&c!",
+            "de_DE": "&cDu hast nicht genügend [secondarycurrency]&c!"
+        },
         "GUI.camouflage.title":
         {
             "en_US": "Select a camouflage",
@@ -109,8 +119,8 @@
         },
         "GUI.gentrader.upgrade.lore":
         {
-            "en_US": "&7Upgrade the generator to tier [tier]\n&7to increase its efficiency.\n&7All other generator upgrades\n&7will be retained.\n\n&7Cost: &x&F&F&D&2&0&0[cost] [secondarycurrency]",
-            "de_DE": "&7Verbessere den Generator auf tier [tier],\n&7um die Effizienz zu steigern.\n&7Alle weiteren Upgrades des Generators\n&7bleiben bestehen.\n\n&7Kosten: &x&F&F&D&2&0&0[cost] [secondarycurrency]"
+            "en_US": "&7Upgrade the generator to tier [tier]\n&7to increase its efficiency.\n&7This will then bring you &x&F&F&D&2&0&0+[percent]%&7\nmore revenue!\n&7All other generator upgrades\n&7will be retained.\n\n&7Cost: &x&F&F&D&2&0&0[cost] [secondarycurrency]",
+            "de_DE": "&7Verbessere den Generator auf tier [tier],\n&7um die Effizienz zu steigern.\n&7Dieser bringt dir dann &x&F&F&D&2&0&0+[percent]%\n&7mehr Erlös!\n&7Alle weiteren Upgrades des Generators\n&7bleiben bestehen.\n\n&7Kosten: &x&F&F&D&2&0&0[cost] [secondarycurrency]"
         },
         "GUI.clickaction.upgrade":
         {
