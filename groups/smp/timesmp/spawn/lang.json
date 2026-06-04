@@ -102,6 +102,16 @@
             "en_US": "&x&F&F&0&0&7&1&nᴀᴜᴄᴛɪᴏɴ ʜᴏᴜsᴇ\n&7Post items to gain time or\n&7buy some rare items to upgrade\n&7yourself!",
             "de_DE": "&x&F&F&0&0&7&1&nᴀᴜᴋᴛɪᴏɴsʜᴀᴜs\n&7Stelle Items ein, um Zeit zu\n&7gewinnen oder kauf' teils außergewöhnliche\n&7Items, um dich aufzurüsten!"
         },
+        "HOLO.shop":
+        {
+            "en_US": "&x&F&F&2&1&6&7&nsʜᴏᴘ\n&7Don't waste any time — browse\n&7through the &f/shop&7.",
+            "de_DE": "&x&F&F&2&1&6&7&nsʜᴏᴘ\n&7Verlier keine Zeit und stöbere\n&7durch den &f/shop&7."
+        },
+        "HOLO.gentrader":
+        {
+            "en_US": "&x&2&1&F&F&B&1&nɢᴇɴ ᴛʀᴀᴅᴇʀ\n&7I'll upgrade your generators\n&7for tokens!",
+            "de_DE": "&x&2&1&F&F&B&1&nɢᴇɴ ᴛʀᴀᴅᴇʀ\n&7Ich upgrade deine Generatoren\n&7gegen Tokens!"
+        },
         "HOLO.sell":
         {
             "en_US": "&x&0&0&F&F&8&8&nsᴇʟʟ\n&7Sell items here at base worth.\n&7Fast, but not always the\n&7most efficient.",
