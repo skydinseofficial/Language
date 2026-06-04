@@ -37,15 +37,15 @@
             "en_US": "&cTo dismantle a generator, you must return it to its original form.",
             "de_DE": "&cUm einen Generator abzubauen, musst du diesen wieder in die echte Gestalt versetzen."
         },
+        "MSG.error.notenoughsecondary":
+        {
+            "en_US": "&cYou don't have enough [secondarycurrency]&c!",
+            "de_DE": "&cDu hast nicht genügend [secondarycurrency]&c!"
+        },
         "MSG.success.generatortierupgraded":
         {
             "en_US": "&7Your generator has been successfully upgraded to [new]&7!",
             "de_DE": "&7Dein Generator wurde erfolgreich auf [new]&7 verbesser!"
-        },
-        "MSG.success.notenoughsecondary":
-        {
-            "en_US": "&cYou don't have enough [secondarycurrency]&c!",
-            "de_DE": "&cDu hast nicht genügend [secondarycurrency]&c!"
         },
         "GUI.camouflage.title":
         {
