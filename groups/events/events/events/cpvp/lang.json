@@ -7,6 +7,21 @@
             "en_US": "&7The game &x&F&F&D&8&4&Estarts &7in &x&F&F&D&2&0&0[time]&7!",
             "de_DE": "&7Das Spiel &x&F&F&D&8&4&Estartet &7in &x&F&F&D&2&0&0[time]&7!"
         },
+        "BOSSBAR.bordershrink":
+        {
+            "en_US": "&7The game &x&F&F&4&0&3&2starts &7in &x&F&F&D&2&0&0[time]&7!",
+            "de_DE": "&7Die Border &x&F&F&4&0&3&2schrumpft &7in &x&F&F&D&2&0&0[time]&7!"
+        },
+        "BOSSBAR.endingsoon":
+        {
+            "en_US": "&7The game &x&F&F&4&0&3&2ends &7in &x&F&F&D&2&0&0[time]&7!",
+            "de_DE": "&7Das Spiel &x&F&F&4&0&3&2endet &7in &x&F&F&D&2&0&0[time]&7!"
+        },
+        "SCOREBOARD.warmupphase":
+        {
+            "en_US": "&x&F&F&4&0&3&2&nWarm-up phase",
+            "de_DE": "&x&F&F&4&0&3&2&nAufwärmphase"
+        },
         "SCOREBOARD.warmupphase":
         {
             "en_US": "&x&F&F&4&0&3&2&nWarm-up phase",
