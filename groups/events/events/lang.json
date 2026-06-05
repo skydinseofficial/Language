@@ -62,6 +62,11 @@
             "en_US": "Players:",
             "de_DE": "Spieler:"
         },
+        "SCOREBOARD.event.playersleft":
+        {
+            "en_US": "Players left:",
+            "de_DE": "Spieler übrig:"
+        },
         "SCOREBOARD.event.kills":
         {
             "en_US": "Kills:",
