@@ -7,10 +7,10 @@
             "en_US": "&7The game &x&F&F&D&8&4&Estarts &7in &x&F&F&D&2&0&0[time]&7!",
             "de_DE": "&7Das Spiel &x&F&F&D&8&4&Estartet &7in &x&F&F&D&2&0&0[time]&7!"
         },
-        "SCOREBOARD.event.hoster":
+        "SCOREBOARD.warmupphase":
         {
-            "en_US": "Hoster:",
-            "de_DE": "Hoster:"
+            "en_US": "&x&F&F&4&0&3&2&nWarm-up phase",
+            "de_DE": "&x&F&F&4&0&3&2&nAufwärmphase"
         }
     }
 }
