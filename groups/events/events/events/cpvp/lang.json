@@ -12,15 +12,20 @@
             "en_US": "&7The game &x&F&F&4&0&3&2starts &7in &x&F&F&D&2&0&0[time]&7!",
             "de_DE": "&7Die Border &x&F&F&4&0&3&2schrumpft &7in &x&F&F&D&2&0&0[time]&7!"
         },
+        "BOSSBAR.borderdiameter":
+        {
+            "en_US": "&7Border Diameter: &x&F&F&D&2&0&0[diameter]",
+            "de_DE": "&7Border Durchmesser: &x&F&F&D&2&0&0[diameter]"
+        },
+        "BOSSBAR.bordershrinking":
+        {
+            "en_US": "&7Border is shrinking! &x&F&F&4&0&3&2[from] &f» &x&F&F&4&0&3&2[to]",
+            "de_DE": "&7Border schrumpft! &x&F&F&4&0&3&2[from] &f» &x&F&F&4&0&3&2[to]"
+        },
         "BOSSBAR.endingsoon":
         {
             "en_US": "&7The game &x&F&F&4&0&3&2ends &7in &x&F&F&D&2&0&0[time]&7!",
             "de_DE": "&7Das Spiel &x&F&F&4&0&3&2endet &7in &x&F&F&D&2&0&0[time]&7!"
-        },
-        "SCOREBOARD.warmupphase":
-        {
-            "en_US": "&x&F&F&4&0&3&2&nWarm-up phase",
-            "de_DE": "&x&F&F&4&0&3&2&nAufwärmphase"
         },
         "SCOREBOARD.warmupphase":
         {
