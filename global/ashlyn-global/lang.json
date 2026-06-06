@@ -597,6 +597,11 @@
             "en_US": "&x&0&0&9&4&F&FPoints",
             "de_DE": "&x&0&0&9&4&F&FPunkte"
         },
+        "MINIGAMEBASICS.stats.category.timepassed":
+        {
+            "en_US": "&7Time elapsed",
+            "de_DE": "&7Zeit verstrichen"
+        },
         "MINIGAMEBASICS.scoreboard.category.winners":
         {
             "en_US": "Winners",
