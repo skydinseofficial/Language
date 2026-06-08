@@ -2,10 +2,10 @@
     "system": "timesmp-spawn",
     "translations":
     {
-        "HOLO.welcome":
+        "HOLO.tokenconverter":
         {
-            "en_US": "&x&F&F&C&8&5&1&lSTATISTICS;&7(View)",
-            "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN;&7(Ansehen)"
+            "en_US": "&x&0&C&9&D&F&1&lᴄ&x&0&A&A&9&C&D&lᴏ&x&0&8&B&6&A&9&lɴ&x&0&6&C&2&8&5&lᴠ&x&0&4&C&E&6&1&lᴇ&x&0&2&D&B&3&D&lʀ&x&0&0&E&7&1&9&lᴛ &x&6&6&D&5&0&F&lᴏ&x&9&9&C&C&0&A&lʟ&x&C&C&C&3&0&5&lᴅ &x&F&C&A&3&0&8&lᴛ&x&F&8&8&B&0&F&lᴏ&x&F&5&7&4&1&7&lᴋ&x&F&1&5&C&1&E&lᴇ&x&E&E&4&5&2&6&lɴ&x&E&A&2&D&2&D&ls\n&7Extend your highest rank\n&7by converting your Season 1 tokens\n&7into rank minutes.",
+            "de_DE": "&x&0&C&9&D&F&1&lᴀ&x&0&A&A&8&D&2&lʟ&x&0&9&B&2&B&3&lᴛ&x&0&7&B&D&9&4&lᴇ &x&0&3&D&2&5&7&lᴛ&x&0&2&D&C&3&8&lᴏ&x&0&0&E&7&1&9&lᴋ&x&2&B&E&0&1&5&lᴇ&x&5&5&D&8&1&1&lɴ&x&8&0&D&1&0&D&ls &x&D&5&C&2&0&4&lᴜ&x&F&F&B&A&0&0&lᴍ&x&F&C&A&6&0&6&lᴡ&x&F&9&9&2&0&D&lᴀ&x&F&6&7&E&1&3&lɴ&x&F&3&6&9&1&A&lᴅ&x&F&0&5&5&2&0&lᴇ&x&E&D&4&1&2&7&lʟ&x&E&A&2&D&2&D&lɴ\n&7Verlängere deinen höchsten Rang,\n&7indem du deine Tokens aus Season 1\n&7in Rang-Minuten umwandelnst."
         },
         "HOLO.afkarea":
         {
