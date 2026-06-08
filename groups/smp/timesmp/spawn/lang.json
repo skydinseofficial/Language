@@ -5,7 +5,32 @@
         "HOLO.tokenconverter":
         {
             "en_US": "&x&0&C&9&D&F&1&lᴄ&x&0&A&A&9&C&D&lᴏ&x&0&8&B&6&A&9&lɴ&x&0&6&C&2&8&5&lᴠ&x&0&4&C&E&6&1&lᴇ&x&0&2&D&B&3&D&lʀ&x&0&0&E&7&1&9&lᴛ &x&6&6&D&5&0&F&lᴏ&x&9&9&C&C&0&A&lʟ&x&C&C&C&3&0&5&lᴅ &x&F&C&A&3&0&8&lᴛ&x&F&8&8&B&0&F&lᴏ&x&F&5&7&4&1&7&lᴋ&x&F&1&5&C&1&E&lᴇ&x&E&E&4&5&2&6&lɴ&x&E&A&2&D&2&D&ls\n&7Extend your highest rank\n&7by converting your Season 1 tokens\n&7into rank minutes.",
-            "de_DE": "&x&0&C&9&D&F&1&lᴀ&x&0&A&A&8&D&2&lʟ&x&0&9&B&2&B&3&lᴛ&x&0&7&B&D&9&4&lᴇ &x&0&3&D&2&5&7&lᴛ&x&0&2&D&C&3&8&lᴏ&x&0&0&E&7&1&9&lᴋ&x&2&B&E&0&1&5&lᴇ&x&5&5&D&8&1&1&lɴ&x&8&0&D&1&0&D&ls &x&D&5&C&2&0&4&lᴜ&x&F&F&B&A&0&0&lᴍ&x&F&C&A&6&0&6&lᴡ&x&F&9&9&2&0&D&lᴀ&x&F&6&7&E&1&3&lɴ&x&F&3&6&9&1&A&lᴅ&x&F&0&5&5&2&0&lᴇ&x&E&D&4&1&2&7&lʟ&x&E&A&2&D&2&D&lɴ\n&7Verlängere deinen höchsten Rang,\n&7indem du deine Tokens aus Season 1\n&7in Rang-Minuten umwandelnst."
+            "de_DE": "&x&0&0&0&0&0&0&lᴀ&x&2&4&2&4&2&4&lʟ&x&4&9&4&9&4&9&lᴛ&x&6&D&6&D&6&D&lᴇ &x&B&6&B&6&B&6&lᴛ&x&D&B&D&B&D&B&lᴏ&x&F&F&F&F&F&F&lᴋ&x&D&5&D&5&D&5&lᴇ&x&A&A&A&A&A&A&lɴ&x&8&0&8&0&8&0&ls &x&2&B&2&B&2&B&lᴜ&x&0&0&0&0&0&0&lᴍ&x&2&4&2&4&2&4&lᴡ&x&4&9&4&9&4&9&lᴀ&x&6&D&6&D&6&D&lɴ&x&9&2&9&2&9&2&lᴅ&x&B&6&B&6&B&6&lᴇ&x&D&B&D&B&D&B&lʟ&x&F&F&F&F&F&F&lɴ\n&7Verlängere deinen höchsten Rang,\n&7indem du deine Tokens aus Season 1\n&7in Rang-Minuten umwandelnst."
+        },
+        "TOKENCONVERTER.title":
+        {
+            "en_US": "Convert Tokens",
+            "de_DE": "Tokens umwandeln"
+        },
+        "TOKENCONVERTER.yourtokens":
+        {
+            "en_US": "&6Remaining tokens &7from &x&F&F&2&A&2&5Season 1&7: &x&F&F&C&6&0&0[tokens]",
+            "de_DE": "&6Restliche Tokens &7aus &x&F&F&2&A&2&5Season 1&7: &x&F&F&C&6&0&0[tokens]"
+        },
+        "TOKENCONVERTER.yourtokens.lore":
+        {
+            "en_US": "&7This is a &x&F&F&D&8&4&Eone-time promotion &7to ensure the old\n&7season doesn't just go to waste.\n\n&x&F&F&D&8&4&EAny rank &7can be extended for &x&F&F&D&8&4&Efree\n&7during this promotion - even &dUniverse&7!\n&7If you don't have a rank, you will\n&7automatically be granted the &bSky &7rank.",
+            "de_DE": "&7Dies ist eine &x&F&F&D&8&4&Eeinmalige Aktion&7, um die alte\n&7Season nicht einfach so verfliegen zu lassen.\n\n&x&F&F&D&8&4&EJeder Rang &7kann bei dieser Aktion &x&F&F&D&8&4&Ekostenlos\n&7verlängert werden, auch &dUniverse&7!\n&7Wenn du keinen Rang besitzt, wird dir\n&7automatisch der &bSky&7-Rang gutgeschrieben."
+        },
+        "TOKENCONVERTER.yourtokens.lore.notokens":
+        {
+            "en_US": "&x&F&F&4&0&3&2You didn't have any tokens at the end of the old season.\n&7Unfortunately, you cannot convert anything.",
+            "de_DE": "&x&F&F&4&0&3&2Du hattest zum Ende der alten Season keine Tokens.\n&7Du kannst daher leider nichts umwandeln."
+        },
+        "TOKENCONVERTER.yourtokens.lore.alreadyconverted":
+        {
+            "en_US": "&x&F&F&4&0&3&2You have already converted your tokens.",
+            "de_DE": "&x&F&F&4&0&3&2Du hast deine Tokens bereits umgewandelt."
         },
         "HOLO.afkarea":
         {
@@ -126,6 +151,6 @@
         {
             "en_US": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n06/13/2026, 4pm CEST\n&7Get ready for the biggest\n&7Time SMP update ever.\n&7The dawn of a new era.\n&7&oTime is running out!",
             "de_DE": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n13.06.2026, 16 Uhr\n&7Macht euch bereit für das größte\n&7Time SMP Update.\n&7Der Start einer neuen Ära.\n&7&oDie Zeit läuft!"
-        },
+        }
     }
 }
