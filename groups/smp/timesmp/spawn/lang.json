@@ -19,8 +19,8 @@
         },
         "TOKENCONVERTER.yourtokens.lore":
         {
-            "en_US": "&7This is a &x&F&F&D&8&4&Eone-time promotion &7to ensure the old\n&7season doesn't just go to waste.\n\n&x&F&F&D&8&4&EAny rank &7can be extended for &x&F&F&D&8&4&Efree\n&7during this promotion - even &dUniverse&7!\n&7If you don't have a rank, you will\n&7automatically be granted the &bSky &7rank.",
-            "de_DE": "&7Dies ist eine &x&F&F&D&8&4&Eeinmalige Aktion&7, um die alte\n&7Season nicht einfach so verfliegen zu lassen.\n\n&x&F&F&D&8&4&EJeder Rang &7kann bei dieser Aktion &x&F&F&D&8&4&Ekostenlos\n&7verlängert werden, auch &dUniverse&7!\n&7Wenn du keinen Rang besitzt, wird dir\n&7automatisch der &bSky&7-Rang gutgeschrieben."
+            "en_US": "&7This is a &x&F&F&D&8&4&Eone-time promotion &7to ensure the old\n&7season doesn't just go to waste.\n\n&x&F&F&D&8&4&EAny rank &7can be extended for &x&F&F&D&8&4&Efree\n&7during this promotion - even &dUniverse&7!\n&7If you don't have a rank, you will\n&7automatically be granted the &bSky &7rank.\n\n&8» <#F9BD31>Click to continue",
+            "de_DE": "&7Dies ist eine &x&F&F&D&8&4&Eeinmalige Aktion&7, um die alte\n&7Season nicht einfach so verfliegen zu lassen.\n\n&x&F&F&D&8&4&EJeder Rang &7kann bei dieser Aktion &x&F&F&D&8&4&Ekostenlos\n&7verlängert werden, auch &dUniverse&7!\n&7Wenn du keinen Rang besitzt, wird dir\n&7automatisch der &bSky&7-Rang gutgeschrieben.\n\n&8» <#F9BD31>Klicke zum Fortfahren"
         },
         "TOKENCONVERTER.yourtokens.lore.notokens":
         {
@@ -31,6 +31,26 @@
         {
             "en_US": "&x&F&F&4&0&3&2You have already converted your tokens.",
             "de_DE": "&x&F&F&4&0&3&2Du hast deine Tokens bereits umgewandelt."
+        },
+        "TOKENCONVERTER.convertnow":
+        {
+            "en_US": "&6Confirm the conversion",
+            "de_DE": "&6Bestätige die Umwandlung"
+        },
+        "TOKENCONVERTER.convertnow.lore":
+        {
+            "en_US": "&7For &x&F&F&C&6&0&0[tokens] tokens &7you receive:\n[rank]&7 rank\n\n&8» <#F9BD31>Click to convert",
+            "de_DE": "&7Für &x&F&F&C&6&0&0[tokens] Tokens &7erhältst du:\n[rank]&7-Rang\n\n&8» <#F9BD31>Klicke zum Umwandeln"
+        },
+        "TOKENCONVERTER.msg.couldnotloaddata":
+        {
+            "en_US": "&cYour data could not be loaded. Please report this error to the team!",
+            "de_DE": "&cDeine Daten konnten nicht geladen werden. Bitte melde diesen Fehler dem Team!"
+        },
+        "TOKENCONVERTER.msg.alreadyloading":
+        {
+            "en_US": "&cYour data is still loading...",
+            "de_DE": "&cDeine Daten laden noch..."
         },
         "HOLO.afkarea":
         {
