@@ -215,6 +215,11 @@
             "en_US": "<##EDB0F1>You can see all <##D04BD9>rewards <##EDB0F1>at, [link]&r<##EDB0F1>!",
             "de_DE": "<##EDB0F1>Du findest alle <##D04BD9>Belohnungen <##EDB0F1>unter, [link]&r<##EDB0F1>!"
         },
+        "MAINPORTALS.holo.portal.maintenance":
+        {
+            "en_US": "&x&F&F&4&0&3&2Maintenance",
+            "de_DE": "&x&F&F&4&0&3&2Wartungsarbeiten"
+        },
         "MAINPORTALS.game.timesmp.msg.stillbanned.1":
         {
             "en_US": "&x&F&F&0&0&0&0You are still banned!",
