@@ -336,8 +336,8 @@
         },
         "BLOOMS.onjoin":
         {
-            "en_US": "<#D1D9E8>You have received <#face05>[amount] [currency] <#D1D9E8>as a <#fd00cd>one-time bonus<#D1D9E8>. Play <#face05>minigames <#D1D9E8>or visit our <#face05><|store> <#D1D9E8>to get more Blooms!",
-            "de_DE": "<#D1D9E8>Du hast <#face05>[amount] [currency] <#D1D9E8>als <#fd00cd>einmaligen Bonus <#D1D9E8>erhalten. Spiele <#face05>Minispiele <#D1D9E8>oder besuche unseren <#face05><|store>, <#D1D9E8>um weitere Blüten zu erhalten!"
+            "en_US": "<#CED7EB>You have received <#face05>[amount] [currency] <#CED7EB>as a <#fd00cd>one-time bonus<#CED7EB>. Play <#face05>minigames <#CED7EB>or visit our <#face05><|store> <#CED7EB>to get more Blooms!",
+            "de_DE": "<#CED7EB>Du hast <#face05>[amount] [currency] <#CED7EB>als <#fd00cd>einmaligen Bonus <#CED7EB>erhalten. Spiele <#face05>Minispiele <#CED7EB>oder besuche unseren <#face05><|store>, <#CED7EB>um weitere Blüten zu erhalten!"
         }
     }
 }
