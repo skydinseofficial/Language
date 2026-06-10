@@ -334,15 +334,10 @@
             "tr_TR": "Bağlantıyı açmak için tıklayın!",
             "ko_KR": "링크를 열려면 클릭하세요!"
         },
-        "BLOOMS.firstjoin":
-        {
-            "en_US": "<#D1D9E8>As a new player, you have received <#face05>[amount] [currency]. <#D1D9E8>Play <#face05>minigames or visit our <#face05><|store> <#D1D9E8>to get more Blooms!",
-            "de_DE": "<#D1D9E8>Als neuer Spieler hast du <#face05>[amount] [currency] erhalten. <#D1D9E8>Spiele <#face05>Minispiele oder besuche unseren <#face05><|store>, <#D1D9E8>um weitere Blooms zu erhalten!"
-        },
         "BLOOMS.onjoin":
         {
-            "en_US": "<#D1D9E8>You have received <#face05>[amount] [currency] as a one-time bonus. <#D1D9E8>Play <#face05>minigames <#D1D9E8>or visit our <#face05><|store> <#D1D9E8>to get more Blooms!",
-            "de_DE": "<#D1D9E8>Du hast <#face05>[amount] [currency] als einmaligen Bonus erhalten. <#D1D9E8>Spiele <#face05>Minispiele <#D1D9E8>oder besuche unseren <#face05><|store>, <#D1D9E8>um weitere Blüten zu erhalten!"
+            "en_US": "<#D1D9E8>You have received <#face05>[amount] [currency] as a <#fd00cd>one-time bonus<#D1D9E8>. Play <#face05>minigames <#D1D9E8>or visit our <#face05><|store> <#D1D9E8>to get more Blooms!",
+            "de_DE": "<#D1D9E8>Du hast <#face05>[amount] [currency] als <#fd00cd>einmaligen Bonus <#D1D9E8>erhalten. Spiele <#face05>Minispiele <#D1D9E8>oder besuche unseren <#face05><|store>, <#D1D9E8>um weitere Blüten zu erhalten!"
         }
     }
 }
