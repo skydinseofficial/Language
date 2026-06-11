@@ -189,8 +189,8 @@
         },
         "GUI.main.createorder.lore":
         {
-            "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of the <#FFD84E>item in your hand&7.\n\n&7You currently have [orders]&7 orders running.\n\n&7&oTip: Use /order create <quantity> <price>",
-            "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl des <#FFD84E>Items in deiner Hand&7.\n\n&7Du hast derzeit [orders]&7 Bestellungen laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
+            "en_US": "&7Create an <#FFD84E>order &7for a specific quantity\n&7of the <#FFD84E>item in your hand&7.\n\n&7You currently have [orders]&7 running.\n\n&7&oTip: Use /order create <quantity> <price>",
+            "de_DE": "&7Erstelle eine <#FFD84E>Bestellung &7für eine bestimmte\n&7Anzahl des <#FFD84E>Items in deiner Hand&7.\n\n&7Du hast derzeit [orders]&7 laufen.\n\n&7&oTipp: Nutze &x&F&2&F&2&F&2&o/orders create <anzahl> <preis>"
         },
         "GUI.main.order.lore":
         {
