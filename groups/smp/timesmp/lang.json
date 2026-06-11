@@ -87,6 +87,116 @@
             "en_US": "&7You &cleft &7the &6FFA &7area!",
             "de_DE": "&7Du hast den &6FFA&7-Bereich &cverlassen&7!"
         },
+        "FFA.command.noitemwithid":
+        {
+            "en_US": "&cThere is no item with this ID.",
+            "de_DE": "&cEs gibt kein Item mit dieser ID."
+        },
+        "FFA.command.idnotgiven":
+        {
+            "en_US": "&cPlease specify an item ID!",
+            "de_DE": "&cBitte gebe eine Item-Id an!"
+        },
+        "FFA.command.itemnotrecognized":
+        {
+            "en_US": "&cThe item in your hand could not be recognized.",
+            "de_DE": "&cDas Item in deiner Hand konnte nicht erkannt werden."
+        },
+        "FFA.command.itemadded":
+        {
+            "en_US": "&7The item has been added.",
+            "de_DE": "&7Das Item wurde hinzugefügt."
+        },
+        "FFA.command.itemremoved":
+        {
+            "en_US": "&7The item has been removed.",
+            "de_DE": "&7Das Item wurde entfernt."
+        },
+        "FFA.command.invalidfrequency":
+        {
+            "en_US": "&cInvalid frequency. Please enter a positive integer.",
+            "de_DE": "&cUngültige Häufigkeit. Bitte gebe eine positive, ganze Zahl an."
+        },
+        "FFA.command.frequencyupdated":
+        {
+            "en_US": "&7The frequency for the item has been updated.",
+            "de_DE": "&7Die Häufigkeit für das Item wurde aktualisiert."
+        },
+        "FFA.gui.lootpool":
+        {
+            "en_US": "Edit FFA Lootpool",
+            "de_DE": "FFA Lootpool bearbeiten"
+        },
+        "FFA.gui.lootpool.additem":
+        {
+            "en_US": "&aAdd an Item",
+            "de_DE": "&aItem hinzufügen"
+        },
+        "FFA.gui.lootpool.object.lore":
+        {
+            "en_US": "&7Probability: &x&F&F&D&2&0&0[percentage]%",
+            "de_DE": "&7Wahrscheinlichkeit: &x&F&F&D&2&0&0[percentage]%"
+        },
+        "FFA.gui.lootpool.object.lore.extra":
+        {
+            "en_US": "&7Frequency: &x&F&F&D&2&0&0[frequency]",
+            "de_DE": "&7Häufigkeit: &x&F&F&D&2&0&0[frequency]"
+        },
+        "FFA.gui.lootpool.dialog.additem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lAdd item to trial",
+            "de_DE": "&x&F&F&C&8&5&1&lItem zur Trial hinzufügen"
+        },
+        "FFA.gui.lootpool.dialog.additem.description":
+        {
+            "en_US": "&7Add the item in your hand to the ffa lootpool&7.",
+            "de_DE": "&7Füge das Item in deiner Hand zum FFA Lootpool&7 hinzu."
+        },
+        "FFA.gui.lootpool.dialog.additem.description.noitem":
+        {
+            "en_US": "&x&F&F&4&0&3&2You must be holding an item in your hand to add it.",
+            "de_DE": "&x&F&F&4&0&3&2Du musst ein Item in der Hand halten, um es hinzufügen zu können."
+        },
+        "FFA.gui.lootpool.dialog.additem.input.frequency":
+        {
+            "en_US": "Frequency of occurrence",
+            "de_DE": "Häufigkeit des Auftretens"
+        },
+        "FFA.gui.lootpool.dialog.edititem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Item",
+            "de_DE": "&x&F&F&C&8&5&1&lItem Bearbeiten"
+        },
+        "FFA.gui.lootpool.dialog.edititem.description":
+        {
+            "en_US": "&7Adjust the frequency/rarity of the item or remove it from the lootpool.",
+            "de_DE": "&7Passe die Häufigkeit/Seltenheit des Items an oder entferne es aus dem Lootpool."
+        },
+        "FFA.gui.lootpool.dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "FFA.gui.lootpool.dialog.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
+        },
+        "FFA.gui.lootpool.dialog.button.done":
+        {
+            "en_US": "Done",
+            "de_DE": "Fertig"
+        },
+        "FFA.gui.lootpool.dialog.button.delete":
+        {
+            "en_US": "&x&F&F&4&0&3&2Delete Item",
+            "de_DE": "&x&F&F&4&0&3&2Item löschen"
+        },
+        "FFA.gui.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
         "AFK.arena.join":
         {
             "en_US": "&7You &aentered the &6AFK &7area!",
