@@ -124,8 +124,8 @@
         },
         "FFA.gui.lootpool":
         {
-            "en_US": "Edit FFA Lootpool",
-            "de_DE": "FFA Lootpool bearbeiten"
+            "en_US": "FFA Lootpool",
+            "de_DE": "FFA Lootpool"
         },
         "FFA.gui.lootpool.additem":
         {
