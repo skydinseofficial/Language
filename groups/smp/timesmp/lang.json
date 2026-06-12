@@ -222,6 +222,11 @@
             "en_US": "&7A &x&5&1&3&B&D&ER&x&6&2&3&B&D&Eu&x&7&2&3&B&D&Es&x&8&3&3&B&D&Eh &x&8&3&3&B&D&EH&x&7&2&3&B&D&Eo&x&6&2&3&B&D&Eu&x&5&1&3&B&D&Er&7 has just started!",
             "de_DE": "&7In &x&F&F&D&8&4&Edieser Stunde &7erscheinen bis zu &x&F&F&D&2&0&0[lootdrops] Lootdrops&7 pro &x&F&F&D&8&4&EFFA &7Arena&7! Schaue dir mit &x&E&5&E&5&E&5&n<|ffa>&7 den Loot an."
         },
+        "FFA.msg.lootdrop.itemfound":
+        {
+            "en_US": "[player]&7 just found &x&F&F&D&2&0&0[amount]x &x&F&F&D&2&0&0&k&l.. &x&F&F&D&2&0&0[item]&7 &x&F&F&D&2&0&0&k&l..&7 in a &x&F&F&D&8&4&EFFA loot drop&7!",
+            "de_DE": "[player]&7 hat soeben &x&F&F&D&2&0&0[amount]x &x&F&F&D&2&0&0&k&l.. &x&F&F&D&2&0&0[item]&7 &x&F&F&D&2&0&0&k&l..&7 in einem &x&F&F&D&8&4&EFFA-Lootdrop&7 gefunden!"
+        },
         "AFK.arena.join":
         {
             "en_US": "&7You &aentered the &6AFK &7area!",
