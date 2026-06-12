@@ -197,6 +197,31 @@
             "en_US": "&8» <#F9BD31>Click to edit",
             "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
         },
+        "FFA.title.rushhour.start.1":
+        {
+            "en_US": "&x&F&F&C&9&1&9⚡ &x&5&1&3&B&D&E&lR&x&6&2&3&B&D&E&lu&x&7&2&3&B&D&E&ls&x&8&3&3&B&D&E&lh &x&8&3&3&B&D&E&lH&x&7&2&3&B&D&E&lo&x&6&2&3&B&D&E&lu&x&5&1&3&B&D&E&lr &x&F&F&C&9&1&9⚡",
+            "de_DE": "&x&F&F&C&9&1&9⚡ &x&5&1&3&B&D&E&lR&x&6&2&3&B&D&E&lu&x&7&2&3&B&D&E&ls&x&8&3&3&B&D&E&lh &x&8&3&3&B&D&E&lH&x&7&2&3&B&D&E&lo&x&6&2&3&B&D&E&lu&x&5&1&3&B&D&E&lr &x&F&F&C&9&1&9⚡"
+        },
+        "FFA.title.rushhour.start.2":
+        {
+            "en_US": "&x&F&F&C&9&1&9⚡ &x&B&1&A&8&E&C&lR&x&B&7&A&0&F&1&lu&x&B&D&9&8&F&6&ls&x&C&2&8&F&F&A&lh &x&C&2&8&F&F&A&lH&x&B&D&9&8&F&6&lo&x&B&7&A&0&F&1&lu&x&B&1&A&8&E&C&lr &x&F&F&C&9&1&9⚡",
+            "de_DE": "&x&F&F&C&9&1&9⚡ &x&B&1&A&8&E&C&lR&x&B&7&A&0&F&1&lu&x&B&D&9&8&F&6&ls&x&C&2&8&F&F&A&lh &x&C&2&8&F&F&A&lH&x&B&D&9&8&F&6&lo&x&B&7&A&0&F&1&lu&x&B&1&A&8&E&C&lr &x&F&F&C&9&1&9⚡"
+        },
+        "FFA.subtitle.rushhour.start":
+        {
+            "en_US": "&x&E&5&E&5&E&5NOW &x&F&F&3&B&0&0[lootdrops] Loot Drops &x&E&5&E&5&E&5per FFA Arena",
+            "de_DE": "&x&E&5&E&5&E&5JETZT &x&F&F&3&B&0&0[lootdrops] Lootdrops &x&E&5&E&5&E&5pro FFA-Arena"
+        },
+        "FFA.msg.rushhour.start.1":
+        {
+            "en_US": "&7A &x&5&1&3&B&D&ER&x&6&2&3&B&D&Eu&x&7&2&3&B&D&Es&x&8&3&3&B&D&Eh &x&8&3&3&B&D&EH&x&7&2&3&B&D&Eo&x&6&2&3&B&D&Eu&x&5&1&3&B&D&Er&7 has just started!",
+            "de_DE": "&7Eine &x&5&1&3&B&D&ER&x&6&2&3&B&D&Eu&x&7&2&3&B&D&Es&x&8&3&3&B&D&Eh &x&8&3&3&B&D&EH&x&7&2&3&B&D&Eo&x&6&2&3&B&D&Eu&x&5&1&3&B&D&Er&7 ist soeben gestartet!"
+        },
+        "FFA.msg.rushhour.start.2":
+        {
+            "en_US": "&7A &x&5&1&3&B&D&ER&x&6&2&3&B&D&Eu&x&7&2&3&B&D&Es&x&8&3&3&B&D&Eh &x&8&3&3&B&D&EH&x&7&2&3&B&D&Eo&x&6&2&3&B&D&Eu&x&5&1&3&B&D&Er&7 has just started!",
+            "de_DE": "&7In &x&F&F&D&8&4&Edieser Stunde &7erscheinen bis zu &x&F&F&D&2&0&0[lootdrops] Lootdrops&7 pro &x&F&F&D&8&4&EFFA &7Arena&7! Schaue dir mit &x&E&5&E&5&E&5&n<|ffa>&7 den Loot an."
+        },
         "AFK.arena.join":
         {
             "en_US": "&7You &aentered the &6AFK &7area!",
