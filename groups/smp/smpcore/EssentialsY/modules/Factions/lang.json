@@ -237,6 +237,11 @@
             "en_US": "&aYour faction named &6[name] &a(&s[id]&a) has been successfully created!",
             "de_DE": "&aDeine Fraktion namens &6[name] &a(&s[id]&a) wurde erfolgreich erstellt!"
         },
+        "command.create.notenoughmoney":
+        {
+            "en_US": "&cYou cannot afford to create a faction! &7You need at least &x&F&F&D&2&0&0[money]&7!",
+            "de_DE": "&cDu kannst dir das Erstellen einer Fraktion nicht leisten! &7Du benötigst mindestens &x&F&F&D&2&0&0[money]&7!"
+        },
         "command.create.invalid_id":
         {
             "en_US": "&cThe faction abbreviation contains illegal characters.",
