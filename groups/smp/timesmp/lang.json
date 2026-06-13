@@ -219,7 +219,7 @@
         },
         "FFA.msg.rushhour.start.2":
         {
-            "en_US": "&7A &x&5&1&3&B&D&ER&x&6&2&3&B&D&Eu&x&7&2&3&B&D&Es&x&8&3&3&B&D&Eh &x&8&3&3&B&D&EH&x&7&2&3&B&D&Eo&x&6&2&3&B&D&Eu&x&5&1&3&B&D&Er&7 has just started!",
+            "en_US": "&7During &x&F&F&D&8&4&Ethis hour&7, up to &x&F&F&D&2&0&0[lootdrops] loot drops&7 appear per &x&F&F&D&8&4&EFFA &7arena&7! Check out the loot with &x&E&5&E&5&E&5&n<|ffa>&7.",
             "de_DE": "&7In &x&F&F&D&8&4&Edieser Stunde &7erscheinen bis zu &x&F&F&D&2&0&0[lootdrops] Lootdrops&7 pro &x&F&F&D&8&4&EFFA &7Arena&7! Schaue dir mit &x&E&5&E&5&E&5&n<|ffa>&7 den Loot an."
         },
         "FFA.msg.lootdrop.itemfound":
