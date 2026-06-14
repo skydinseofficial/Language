@@ -654,8 +654,8 @@
         },
         "trialtrader.msg.notenough.blooms.3":
         {
-            "en_US": "<#FFFFB6>That's not going fast enough for you? &7In the <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7you <#FFD84E>immediately &7get <#FFD84E>Blooms &7and you can even <#FFD84E>support us&7!",
-            "de_DE": "<#FFFFB6>Das geht dir nicht schnell genug? &7Im <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7gelangst du <#FFD84E>sofort &7an <#FFD84E>Blüten &7und kannst uns dabei sogar <#FFD84E>unterstützen&7!"
+            "en_US": "<#FFFFB6>That's not going fast enough for you? &7Visit the <#FFD84E>Skydinse Store &7at &e<@https://www.skydinse.net/store> &7to <#FFD84E>immediately &7get more <#FFD84E>Blooms &7and <#FFD84E>support &7our development!",
+            "de_DE": "<#FFFFB6>Das geht dir nicht schnell genug? &7Besuche den <#FFD84E>Skydinse-Store &7unter &e<@https://www.skydinse.net/store> &7um <#FFD84E>sofort &7an mehr <#FFD84E>Blüten &7zu gelangen und unsere Entwicklung zu <#FFD84E>unterstützen&7!"
         },
         "trialtrader.msg.notenough.secondary.1":
         {
