@@ -993,10 +993,10 @@
             "en_US": "<#face05>Rewards",
             "de_DE": "<#face05>Belohnungen"
         },
-        "NAVIGATOR.teleport.title.bloomshop":
+        "NAVIGATOR.teleport.title.ranks":
         {
-            "en_US": "<#face05>Bloom Shop",
-            "de_DE": "<#face05>Blüten-Shop",
+            "en_US": "<#face05>Ranks",
+            "de_DE": "<#face05>Ränge",
         },
         "NAVIGATOR.button.clicktp":
         {
