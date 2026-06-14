@@ -682,8 +682,8 @@
         },
         "SHOPNOTIFY.link.2":
         {
-            "en_US": "&7Visit: <#FFD800><underline><@https://shop.skydinse.net/>",
-            "de_DE": "&7Besuche: <#FFD800><underline><@https://shop.skydinse.net/>"
+            "en_US": "&7Visit: <#FFD800><underline><@https://www.skydinse.net/store>",
+            "de_DE": "&7Besuche: <#FFD800><underline><@https://www.skydinse.net/de/store>"
         },
         "APPEARANCE.prefix":
         {
@@ -767,8 +767,8 @@
         },
         "ABC.broadcast.1":
         {
-            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)",
-            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://skyd.link/dc',text:'&#5865f2&lDiscord Server'>&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)"
+            "en_US": "&7Join our <@tip:'&#e0e3ffClick to join!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7 to &#e0e3ffbecome part &7of the &#e0e3ffCommunity &7and not miss anything. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)",
+            "de_DE": "&7Tritt unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7 bei, um &#e0e3ffTeil der Community &7zu werden und nichts zu verpassen. &8(&#5865f2&n<@https://www.skydinse.net/discord>&8)"
         },
         "ABC.broadcast.2":
         {
@@ -782,18 +782,18 @@
         },
         "ABC.broadcast.4":
         {
-            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
-            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
+            "en_US": "&7Need more? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Du brauchst mehr? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
         },
         "ABC.broadcast.4.TIMESMP":
         {
-            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
-            "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
+            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
         },
         "ABC.broadcast.5":
         {
-            "en_US": "&sHave you already &#FDB12A&lv&#FDC534&lo&#FDC53f&lt&#FDC534&le&#FDB12A&ld&s today? &7By &#e5e5e5voting &7you support &#e5e5e5Skydinse &7very much and receive cool &#e5e5e5rewards&7. To vote, visit &s<@https://skyd.link/vote>&7!",
-            "de_DE": "&sHeute schon &#FC9C1F&lg&#FDB12A&le&#FDC534&lv&#FDC534&lo&#FDC534&lt&#FDB12A&le&#FC9C1F&ld&s? &7Durch das &#e5e5e5Voting &7unterstützt du &#e5e5e5Skydinse &7sehr und erhälst coole &#e5e5e5Belohnungen&7. Um zu voten, besuche &s<@hhttps://skyd.link/vote>&7!"
+            "en_US": "&sHave you already &#FDB12A&lv&#FDC534&lo&#FDC53f&lt&#FDC534&le&#FDB12A&ld&s today? &7By &#e5e5e5voting &7you support &#e5e5e5Skydinse &7very much and receive cool &#e5e5e5rewards&7. To vote, visit &s<@https://www.skydinse.net/vote>&7!",
+            "de_DE": "&sHeute schon &#FC9C1F&lg&#FDB12A&le&#FDC534&lv&#FDC534&lo&#FDC534&lt&#FDB12A&le&#FC9C1F&ld&s? &7Durch das &#e5e5e5Voting &7unterstützt du &#e5e5e5Skydinse &7sehr und erhälst coole &#e5e5e5Belohnungen&7. Um zu voten, besuche &s<@https://www.skydinse.net/vote>&7!"
         },
         "ABC.broadcast.6":
         {
@@ -802,26 +802,43 @@
         },
         "ABC.broadcast.7":
         {
-            "en_US": "&7Use &#ffd200<|link> &7to get your rank on our <@tip:'&#e0e3ffClick to join!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7!",
-            "de_DE": "&7Nutze &#ffd200<|link>&7, damit du deinen Rang auch auf unserem <@tip:'&#e0e3ffKlicke zum Beitreten!',value:'https://www.skydinse.net/discord',text:'&#5865f2&lDiscord Server'>&7 erhältst."
-        },
-        "ABC.broadcast.8":
-        {
             "en_US": "&#99ff99Time is money. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7you trade, play, farm and kill with the goal of not losing your precious remaining game time! &#e5e5e5If you're interested: <|value:'play TimeSMP',text:'&a[PLAY NOW]'>",
             "de_DE": "&#99ff99Zeit ist Geld. &7In &#fb8f00&lT&#fc9f00&li&#fcae00&lm&#fdbe00&le&#fdcd00&lS&#ded50e&lM&#c0dc1c&lP &7handelst, spielst, erfarmst und tötest du mit dem Ziel, deine kostbare übrig bleibende Spielzeit nicht zu verlieren! &#e5e5e5Bei Interesse: <|value:'play TimeSMP',text:'&a[JETZT SPIELEN]'>"
         },
-        "ABC.broadcast.9":
+        "ABC.broadcast.8":
         {
-            "en_US": "&7Looking for something in particular? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://store.skydinse.net/',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)",
-            "de_DE": "&7Du brauchst etwas bestimmtes? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://store.skydinse.net/',text:'&#ffd200&nOnline-Shop'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://store.skydinse.net/>&8)"
-        }
-        "ABC.broadcast.10":
+            "en_US": "&7Looking for something in particular? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Du brauchst etwas bestimmtes? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
+        },
+        "ABC.broadcast.9":
         {
             "en_US": "&7If you need &ehelp&7, just use &a/support &7or contact us on our &9Discord server &7(&b/discord&7).",
             "de_DE": "&7Wenn du &eHilfe &7brauchst, nutze einfach &a/support &7oder kontaktiere uns auf unserem &9Discord Server &7(&b/discord&7)."
-        }
+        },
         "ABC.broadcast.10":
         {
-            "en_US": "&#ff4444🔔 Attention: &7Our &#e5e5e5rules &7have been updated! Check out our <@tip:'&#e5e5e5Click to join!',value:'https://www.skydinse.net/discord',text:'&#7289da&nDiscord'> &7to stay up to date – &#ff4444Ignorance is no excuse!",
-            "de_DE": "&#ff4444🔔 Achtung: &7Unsere &#e5e5e5Regeln &7wurden aktualisiert! Schaut auf unserem <@tip:'&#e5e5e5Klicke um beizutreten!',value:'https://www.skydinse.net/discord',text:'&#7289da&nDiscord'> &7vorbei – &#ff4444Unwissenheit schützt nicht vor Strafen!"
+            "en_US": "&7Looking for something in particular? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Du brauchst etwas bestimmtes? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
+        },
+        "ABC.broadcast.11":
+        {
+            "en_US": "&#ff00dc&lMedia &ff00dc🎥 &7as &feasy as never before&7! &7Currently, there is a &#ff2121one-time offer&7. The &#  requirements &7have been &ffd84eupdated&7! You can find further information on TimeSMP with the command <@media>",
+            "de_DE": "&#ff00dc&lMedia &ff00dc🎥 &7so &feinfach wie noch nie&7! &7Aktuell läuft eine &#ff2121einmalige Aktion&7. Die &#  Anforderungen &7wurden &ffd84eaktualisiert&7! Weitere Informationen findest du auf TimeSMP mit dem Befehl <@media>"
+        },
+        "ABC.broadcast.12":
+        {
+            "en_US": "&7Looking for something in particular? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more of our <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Du brauchst etwas bestimmtes? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr unserer <+tip:'&#f29effNetzwerkweiten Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder für tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
+        },
+        "ABC.broadcast.12.TIMESMP":
+        {
+            "en_US": "&7More &#e5e5e5homes&7? More &#e5e5e5ender chests&7? More &#e5e5e5auction house slots&7? &#e5e5e5Support &7us and visit our <@tip:'&#e5e5e5Click to view!',value:'https://www.skydinse.net/store',text:'&#ffd200&nstore'>&7 to get more <+tip:'&#f29effNetwork Wide Currency',text:'&#ff46e4B&#fa69efl&#f58cfao&#f58cfao&#fa69efm&#ff46e4s'>&7 or take advantage of our <+tip:'',text:'&#38acffrank features'>&7! &8(&#ffd200&n<@https://www.skydinse.net/store>&8)",
+            "de_DE": "&7Mehr &#e5e5e5Homes&7? Mehr &#e5e5e5Endertruhen&7? Mehr Slots im &#e5e5e5Auktionshaus&7? &#e5e5e5Unterstütze &7uns und besuch' unseren <@tip:'&#e5e5e5Klicke zum Ansehen!',value:'https://www.skydinse.net/de/store',text:'&#ffd200&nOnline-Store'>&7 für mehr <+tip:'&#f29effNetzwerkweite Währung',text:'&#ff46e4B&#fa69efl&#f58cfaü&#f58cfat&#fa69efe&#ff46e4n'>&7 oder tolle <+tip:'',text:'&#38acffRang-Vorteile'>&7! &8(&#ffd200&n<@https://www.skydinse.net/de/store>&8)"
+        },
+        "ABC.broadcast.13":
+        {
+            "en_US": "&#ff00dc&lMedia &ff00dc🎥 &7as &feasy as never before&7! &7Currently, there is a &#ff2121one-time offer&7. The &#  requirements &7have been &ffd84eupdated&7! You can find further information on TimeSMP with the command <@media>",
+            "de_DE": "&#ff00dc&lMedia &ff00dc🎥 &7so &feinfach wie noch nie&7! &7Aktuell läuft eine &#ff2121einmalige Aktion&7. Die &#  Anforderungen &7wurden &ffd84eaktualisiert&7! Weitere Informationen findest du auf TimeSMP mit dem Befehl <@media>"
+        }
+    }
 }
