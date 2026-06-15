@@ -782,6 +782,11 @@
             "en_US": "Edit",
             "de_DE": "Bearbeiten"
         },
+        "changelogs.dialog.button.preview":
+        {
+            "en_US": "Preview",
+            "de_DE": "Vorschau"
+        },
         "changelogs.dialog.button.createnewchangelog":
         {
             "en_US": "Create a new Changelog",
