@@ -772,6 +772,11 @@
             "en_US": "Publish",
             "de_DE": "Veröffentlichen"
         },
+        "changelogs.dialog.button.edit":
+        {
+            "en_US": "Edit",
+            "de_DE": "Bearbeiten"
+        },
         "changelogs.dialog.button.createnewchangelog":
         {
             "en_US": "Create a new Changelog",
