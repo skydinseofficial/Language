@@ -727,6 +727,11 @@
             "en_US": "&x&F&F&C&8&5&1&lEdit Changelog",
             "de_DE": "&x&F&F&C&8&5&1&lChangelog bearbeiten"
         },
+        "changelogs.dialog.preview":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lPreview Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog-Vorschau"
+        },
         "changelogs.dialog.create":
         {
             "en_US": "&x&F&F&C&8&5&1&lCreate a new Changelog",
