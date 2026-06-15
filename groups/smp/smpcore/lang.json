@@ -691,6 +691,31 @@
         {
             "en_US": "&x&F&F&D&2&0&0Attention: &7You now hold the &x&F&F&D&8&4&ETree Cutter&7!",
             "de_DE": "&x&F&F&D&2&0&0Achtung: &7Du hältst nun den &x&F&F&D&8&4&EBauminator&7!"
+        },
+        "changelogs.dialog.create":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lCreate a new Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog erstellen"
+        },
+        "changelogs.dialog.create.input.en":
+        {
+            "en_US": "English Version here:",
+            "de_DE": "Englische Version hier:"
+        },
+        "changelogs.dialog.create.input.de":
+        {
+            "en_US": "German Version here:",
+            "de_DE": "Deutsche Version hier:"
+        },
+        "changelogs.dialog.button.cancel":
+        {
+            "en_US": "Cancel",
+            "de_DE": "Abbrechen"
+        },
+        "changelogs.dialog.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
         }
     }
 }
