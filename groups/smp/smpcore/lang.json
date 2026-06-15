@@ -692,6 +692,41 @@
             "en_US": "&x&F&F&D&2&0&0Attention: &7You now hold the &x&F&F&D&8&4&ETree Cutter&7!",
             "de_DE": "&x&F&F&D&2&0&0Achtung: &7Du hältst nun den &x&F&F&D&8&4&EBauminator&7!"
         },
+        "changelogs.dialog.allchangelogs":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lAll Changelogs",
+            "de_DE": "&x&F&F&C&8&5&1&lAlle Changelogs"
+        },
+        "changelogs.dialog.allchangelogs.description":
+        {
+            "en_US": "&7Here you'll find all changes regarding [game]!",
+            "de_DE": "&7Hier findest du alle Änderungen bezüglich [game]!"
+        },
+        "changelogs.dialog.allchangelogs.button.view":
+        {
+            "en_US": "&7Changelog from &x&F&F&D&8&4&E[date]",
+            "de_DE": "&7Changelog vom &x&F&F&D&8&4&E[date]"
+        },
+        "changelogs.dialog.allchangelogs.button.draft":
+        {
+            "en_US": "&x&F&F&4&0&3&2&oDraft",
+            "de_DE": "&x&F&F&4&0&3&2&oEntwurf"
+        },
+        "changelogs.dialog.currentchangelog":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lChangelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog"
+        },
+        "changelogs.dialog.currentchangelog.description":
+        {
+            "en_US": "&7Updates from &x&F&F&D&2&0&0[date]&7:",
+            "de_DE": "&7Änderungen vom &x&F&F&D&2&0&0[date]&7:"
+        },
+        "changelogs.dialog.edit":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog bearbeiten"
+        },
         "changelogs.dialog.create":
         {
             "en_US": "&x&F&F&C&8&5&1&lCreate a new Changelog",
@@ -707,15 +742,65 @@
             "en_US": "German Version here:",
             "de_DE": "Deutsche Version hier:"
         },
+        "changelogs.dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "changelogs.dialog.button.next":
+        {
+            "en_US": "Next",
+            "de_DE": "Weiter"
+        },
+        "changelogs.dialog.button.close":
+        {
+            "en_US": "Close",
+            "de_DE": "Schließen"
+        },
         "changelogs.dialog.button.cancel":
         {
             "en_US": "Cancel",
             "de_DE": "Abbrechen"
         },
-        "changelogs.dialog.button.create":
+        "changelogs.dialog.button.save":
         {
-            "en_US": "Create",
-            "de_DE": "Erstellen"
+            "en_US": "Save",
+            "de_DE": "Speichern"
+        },
+        "changelogs.dialog.button.publish":
+        {
+            "en_US": "Publish",
+            "de_DE": "Veröffentlichen"
+        },
+        "changelogs.dialog.button.delete":
+        {
+            "en_US": "&x&F&F&4&0&3&2Delete",
+            "de_DE": "&x&F&F&4&0&3&2Löschen"
+        },
+        "changelogs.msg.saved":
+        {
+            "en_US": "&7The changelog has been saved.",
+            "de_DE": "&7Der Changelog wurde gepeichert."
+        },
+        "changelogs.msg.nochanges":
+        {
+            "en_US": "&7There were no changes.",
+            "de_DE": "&7Es gab keine Änderungen."
+        },
+        "changelogs.msg.published":
+        {
+            "en_US": "&7The changelog has been &apublished&7.",
+            "de_DE": "&7Der Changelog wurde &averöffentlicht&7."
+        },
+        "changelogs.msg.deleted":
+        {
+            "en_US": "&7The changelog has been &cdeleted&7.",
+            "de_DE": "&7Der Changelog wurde &cgelöscht&7."
+        },
+        "changelogs.msg.error":
+        {
+            "en_US": "&cAn unexpected error has occurred. Please try again.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
         }
     }
 }
