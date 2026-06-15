@@ -772,6 +772,11 @@
             "en_US": "Publish",
             "de_DE": "Veröffentlichen"
         },
+        "changelogs.dialog.button.createnewchangelog":
+        {
+            "en_US": "Create a new Changelog",
+            "de_DE": "Neuen Changelog erstellen"
+        },
         "changelogs.dialog.button.delete":
         {
             "en_US": "&x&F&F&4&0&3&2Delete",
