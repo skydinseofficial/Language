@@ -57,6 +57,11 @@
             "en_US": "&x&F&F&1&4&1&0&nᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
             "de_DE": "&x&F&F&1&4&1&0&nᴀғᴋ ʙᴇʀᴇɪᴄʜ\n&7Stehe hier afk, um regelmäßig\n&7Belohnungen zu erhalten!\n&7Deine Zeit bleibt stehen."
         },
+        "HOLO.ffalootdroppreview":
+        {
+            "en_US": "&x&9&C&4&C&F&FThis is a loot drop!\n&7Click to view the contents.\n&fRush Hour &7every day at &f8 PM &7CEST!",
+            "de_DE": "&x&9&C&4&C&F&FDies ist ein Lootdrop!\n&7Klicke, um dir den Inhalt anzuschauen.\n&fRush Hour &7jeden Tag um &f20 Uhr&7!"
+        },
         "HOLO.help":
         {
             "en_US": "&x&5&9&F&F&2&1&nʜᴇʟᴘ\n&7How do I play the game?\n&7Get help with &f/tutorial&7!",
