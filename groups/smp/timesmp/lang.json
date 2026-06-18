@@ -30,7 +30,7 @@
         "VOTE.voteparty.tokenrainnow":
         {
             "en_US": "&x&F&F&2&B&6&EVOTE PARTY! &7A &x&F&F&D&2&0&0token rain &7is starting now at &x&F&F&D&2&0&0&n<|spawn>&7!",
-            "de_DE": "&x&F&F&2&B&6&EVOTEPARTY! &7E&x&F&F&D&2&0&0Token-Regen &7startet jetzt am &x&F&F&D&2&0&0&n<|spawn>&7!"
+            "de_DE": "&x&F&F&2&B&6&EVOTEPARTY! &x&F&F&D&2&0&0Token-Regen &7startet jetzt am &x&F&F&D&2&0&0&n<|spawn>&7!"
         },
         "VOTE.voteparty.tokenrain.title":
         {
