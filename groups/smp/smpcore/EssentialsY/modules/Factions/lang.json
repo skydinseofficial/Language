@@ -39,8 +39,8 @@
         },
         "command.help.create":
         {
-            "en_US": "Create a new faction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, spaces and underscores).",
-            "de_DE": "Eine neue Fraktion erstellen. Wählen eine ID (Kurzname, nur Buchstaben und Unterstriche) und einen Namen (vollständiger Name, Buchstaben, &s<@text:'Farbcodes',value:'https://www.skydinse.net/wiki/minecraft-chat/colorcodes'>&7, Leerzeichen und Unterstriche)."
+            "en_US": "Create a new faction. Choose an id (short name, letters and underscores only) and a name (full name, letters, &s<@text:'color codes',value:'https://www.skydinse.net/colors-formats'>&7, spaces and underscores).",
+            "de_DE": "Eine neue Fraktion erstellen. Wählen eine ID (Kurzname, nur Buchstaben und Unterstriche) und einen Namen (vollständiger Name, Buchstaben, &s<@text:'Farbcodes',value:'https://www.skydinse.net/colors-formats'>&7, Leerzeichen und Unterstriche)."
         },
         "command.help.invite":
         {
@@ -774,8 +774,8 @@
         },
         "dialog.mainsettingsrename.description":
         {
-            "en_US": "&7You can &x&F&F&D&8&4&Eedit &7the current &x&F&F&D&8&4&Edisplay name &7of the faction in the &x&F&F&D&8&4&Etext field&7.\n&7With the &f&x&F&F&D&8&4&E rank&7, you can also &x&F&F&D&8&4&Euse colors &7and other &x&F&F&D&8&4&Eformats&7!\n\n&7Here's how: &x&F&F&D&2&0&0&nskydinse.net/go/colorcodes",
-            "de_DE": "&7Du kannst im &x&F&F&D&8&4&ETextfeld &7den aktuellen &x&F&F&D&8&4&EAnzeigenamen &7der Fraktion &x&F&F&D&8&4&Ebearbeiten&7.\n&7Mit dem &f&x&F&F&D&8&4&E-Rang &7kannst du auch &x&F&F&D&8&4&EFarben &7und weitere &x&F&F&D&8&4&EFormate &7nutzen!\n\n&7So geht's: &x&F&F&D&2&0&0&nskydinse.net/go/colorcodes"
+            "en_US": "&7You can &x&F&F&D&8&4&Eedit &7the current &x&F&F&D&8&4&Edisplay name &7of the faction in the &x&F&F&D&8&4&Etext field&7.\n&7With the &f&x&F&F&D&8&4&E rank&7, you can also &x&F&F&D&8&4&Euse colors &7and other &x&F&F&D&8&4&Eformats&7!\n\n&7Here's how: &x&F&F&D&2&0&0&nskydinse.net/colors-formats",
+            "de_DE": "&7Du kannst im &x&F&F&D&8&4&ETextfeld &7den aktuellen &x&F&F&D&8&4&EAnzeigenamen &7der Fraktion &x&F&F&D&8&4&Ebearbeiten&7.\n&7Mit dem &f&x&F&F&D&8&4&E-Rang &7kannst du auch &x&F&F&D&8&4&EFarben &7und weitere &x&F&F&D&8&4&EFormate &7nutzen!\n\n&7So geht's: &x&F&F&D&2&0&0&nskydinse.net/colors-formats"
         },
         "dialog.mainsettingsrename.input.newname":
         {
