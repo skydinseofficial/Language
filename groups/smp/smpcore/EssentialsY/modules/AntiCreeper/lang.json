@@ -9,8 +9,8 @@
         },
         "dialog.description":
         {
-            "en_US": "&7A <#f93c3c>creeper &7is asking for your permission to <#f93c3c>explode &7on you! Let the creeper explode?",
-            "de_DE": "&7Ein <#f93c3c>Creeper &7fragt um deine Erlaubnis, neben dir zu <#f93c3c>explodieren&7! Den Creeper explodieren lassen?"
+            "en_US": "&7A <#f93c3c>creeper &7is asking for your permission to <#f93c3c>explode &7on you!\nLet the creeper explode?",
+            "de_DE": "&7Ein <#f93c3c>Creeper &7fragt um deine Erlaubnis, neben dir zu <#f93c3c>explodieren&7!\nDen Creeper explodieren lassen?"
         },
         "dialog.button.explode":
         {
