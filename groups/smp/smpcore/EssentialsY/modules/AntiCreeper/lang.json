@@ -4,8 +4,8 @@
     {
         "dialog.title":
         {
-            "en_US": "<#f93c3c>&lCreeper exploding!",
-            "de_DE": "<#f93c3c>&lCreeper explodiert!"
+            "en_US": "<#f93c3c>Creeper Consent Request",
+            "de_DE": "<#f93c3c>Anfrage zur Zustimmung für Creeper"
         },
         "dialog.description":
         {
