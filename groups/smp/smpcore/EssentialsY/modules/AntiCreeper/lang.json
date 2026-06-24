@@ -2,25 +2,40 @@
     "system": "esy-anticreeper",
     "translations":
     {
-        "dialog.title":
+        "DIALOG.title":
         {
             "en_US": "<#f93c3c>Creeper Consent Request",
             "de_DE": "<#f93c3c>Anfrage zur Zustimmung für Creeper"
         },
-        "dialog.description":
+        "DIALOG.description":
         {
             "en_US": "&7A <#f93c3c>creeper &7is asking for your permission to <#f93c3c>explode &7on you!\nLet the creeper explode?",
             "de_DE": "&7Ein <#f93c3c>Creeper &7fragt um deine Erlaubnis, neben dir zu <#f93c3c>explodieren&7!\nDen Creeper explodieren lassen?"
         },
-        "dialog.button.explode":
+        "DIALOG.button.explode":
         {
             "en_US": "Let it explode!",
             "de_DE": "Lass ihn explodieren!"
         },
-        "dialog.button.cancel":
+        "DIALOG.button.cancel":
         {
             "en_US": "Cancel explosion.",
             "de_DE": "Explosion abbrechen."
+        },
+        "COMMAND.moduleDisabled":
+        {
+            "en_US": "The AntiCreeper module is currently disabled!",
+            "de_DE": "Das AntiCreeper-Modul ist derzeit deaktiviert!"
+        },
+        "COMMAND.toggle.true":
+        {
+            "en_US": "&7You have &aenabled &7your Creeper blast protection!",
+            "de_DE": "&7Du hast deinen Creeper-Explosionsschutz &aaktiviert&7!"
+        },
+        "COMMAND.toggle.false":
+        {
+            "en_US": "&7You have &cdisabled &7your Creeper blast protection!",
+            "de_DE": "&7Du hast deinen Creeper-Explosionsschutz &cdeaktiviert&7!"
         }
     }
 }
