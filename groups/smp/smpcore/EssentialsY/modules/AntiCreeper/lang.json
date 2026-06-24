@@ -24,8 +24,8 @@
         },
         "DIALOG.button.disable":
         {
-            "en_US": "Disable this feature.",
-            "de_DE": "Dieses Feature deaktivieren."
+            "en_US": "Disable this feature",
+            "de_DE": "Dieses Feature deaktivieren"
         },
         "COMMAND.moduleDisabled":
         {
