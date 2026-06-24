@@ -14,13 +14,13 @@
         },
         "DIALOG.button.explode":
         {
-            "en_US": "Let it explode!",
-            "de_DE": "Lass ihn explodieren!"
+            "en_US": "Sure, let it explode",
+            "de_DE": "Klar, lass ihn explodieren"
         },
         "DIALOG.button.cancel":
         {
-            "en_US": "Cancel explosion.",
-            "de_DE": "Explosion abbrechen."
+            "en_US": "Nah, not today",
+            "de_DE": "Nee, heute nicht"
         },
         "DIALOG.button.disable":
         {
