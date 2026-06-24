@@ -22,6 +22,11 @@
             "en_US": "Cancel explosion.",
             "de_DE": "Explosion abbrechen."
         },
+        "DIALOG.button.disable":
+        {
+            "en_US": "Disable this feature.",
+            "de_DE": "Dieses Feature deaktivieren."
+        },
         "COMMAND.moduleDisabled":
         {
             "en_US": "The AntiCreeper module is currently disabled!",
