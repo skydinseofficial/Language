@@ -1,0 +1,26 @@
+{
+    "system": "esy-anticreeper",
+    "translations":
+    {
+        "dialog.title":
+        {
+            "en_US": "<#f93c3c>&lCreeper exploding!",
+            "de_DE": "<#f93c3c>&lCreeper explodiert!"
+        },
+        "dialog.description":
+        {
+            "en_US": "&7A <#f93c3c>creeper &7is about to <#f93c3c>explode &7on you! Let the creeper explode or cancel the explosion?",
+            "de_DE": "&7Ein <#f93c3c>Creeper &7steht kurz davor, neben dir zu <#f93c3c>explodieren&7! Den Creeper explodieren lassen oder die Explosion abbrechen?"
+        },
+        "dialog.button.explode":
+        {
+            "en_US": "Let it explode!",
+            "de_DE": "Lass ihn explodieren!"
+        },
+        "dialog.button.cancel":
+        {
+            "en_US": "Cancel explosion.",
+            "de_DE": "Explosion abbrechen."
+        }
+    }
+}
