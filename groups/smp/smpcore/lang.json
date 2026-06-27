@@ -14,8 +14,8 @@
         },
         "higherrankneeded":
         {
-            "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nshop.skydinse.net",
-            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nshop.skydinse.net"
+            "en_US": "&7You need a higher rank für this feature. Visit &x&F&F&D&8&0&0&nskydinse.net/store",
+            "de_DE": "&7Für dieses Feature benötigst du einen höheren Rang. Besuche &x&F&F&D&8&0&0&nskydinse.net/store"
         },
         "spawnnotfound":
         {
@@ -412,15 +412,10 @@
             "en_US": "&cThis Trial does not exist.",
             "de_DE": "&cDieser Trial existiert nicht."
         },
-        "trials.command.idnotgiven":
+        "trials.command.trialdisplaynamenotgiven":
         {
-            "en_US": "&cPlease type an ID.",
-            "de_DE": "&cBitte gebe eine ID an."
-        },
-        "trials.command.itemalreadywithid":
-        {
-            "en_US": "&cThere is already an item with this ID for this trial.",
-            "de_DE": "&cEs gibt zu diesem Trial bereits ein Item mit dieser ID."
+            "en_US": "&cPlease type a display name for the trial.",
+            "de_DE": "&cBitte gebe einen Anzeigenamen für die Trial an."
         },
         "trials.command.noitemwithid":
         {
@@ -432,20 +427,25 @@
             "en_US": "&cThe item in your hand could not be recognized.",
             "de_DE": "&cDas Item in deiner Hand konnte nicht erkannt werden."
         },
-        "trials.command.itemcategoryneeded":
-        {
-            "en_US": "&cPlease enter an item category.",
-            "de_DE": "&cBitte gebe eine Categorie für das Item an."
-        },
         "trials.command.itemadded":
         {
             "en_US": "&7The item has been added.",
             "de_DE": "&7Das Item wurde hinzugefügt."
         },
+        "trials.command.frequencyupdated":
+        {
+            "en_US": "&7The frequency for the item has been updated.",
+            "de_DE": "&7Die Häufigkeit für das Item wurde aktualisiert."
+        },
         "trials.command.itemremoved":
         {
             "en_US": "&7The item has been removed.",
             "de_DE": "&7Das Item wurde entfernt."
+        },
+        "trials.command.updatingtrials":
+        {
+            "en_US": "&7Updating trials on all servers.",
+            "de_DE": "&7Trials werden auf allen Servern geupdated."
         },
         "trials.create.finished":
         {
@@ -461,6 +461,11 @@
         {
             "en_US": "&cID or display is not specified.",
             "de_DE": "&cID oder Display ist nicht angegeben."
+        },
+        "trials.create.invalidfrequency":
+        {
+            "en_US": "&cInvalid frequency. Please enter a positive integer.",
+            "de_DE": "&cUngültige Häufigkeit. Bitte gebe eine positive, ganze Zahl an."
         },
         "trials.opening.nowopening":
         {
@@ -487,6 +492,101 @@
             "en_US": "&cYou don't have enough space in your inventory.",
             "de_DE": "&cDu hast nicht genügend Platz in deinem Inventar."
         },
+        "trials.gui.main.title":
+        {
+            "en_US": "Trials",
+            "de_DE": "Trials"
+        },
+        "trials.gui.main.trial.lore":
+        {
+            "en_US": "&7View the item probabilities for\n&7this Trial.",
+            "de_DE": "&7Siehe dir die Wahrscheinlichkeiten der\n&7Items für diese Trial an."
+        },
+        "trials.gui.trial.title":
+        {
+            "en_US": "Probabilities for [trial]",
+            "de_DE": "Wahrscheinlichkeiten für [trial]"
+        },
+        "trials.gui.trial.object.lore":
+        {
+            "en_US": "&7Probability: &x&F&F&D&2&0&0[percentage]%",
+            "de_DE": "&7Wahrscheinlichkeit: &x&F&F&D&2&0&0[percentage]%"
+        },
+        "trials.gui.trial.object.lore.extra":
+        {
+            "en_US": "&7Frequency: &x&F&F&D&2&0&0[frequency]",
+            "de_DE": "&7Häufigkeit: &x&F&F&D&2&0&0[frequency]"
+        },
+        "trials.gui.trial.additem":
+        {
+            "en_US": "&aAdd an Item",
+            "de_DE": "&aItem hinzufügen"
+        },
+        "trials.gui.clickaction.moredetails":
+        {
+            "en_US": "&8» <#F9BD31>Click for details",
+            "de_DE": "&8» <#F9BD31>Klicke für Details"
+        },
+        "trials.gui.clickaction.edit":
+        {
+            "en_US": "&8» <#F9BD31>Click to edit",
+            "de_DE": "&8» <#F9BD31>Klicke zum Bearbeiten"
+        },
+        "trials.dialog.additem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lAdd item to trial",
+            "de_DE": "&x&F&F&C&8&5&1&lItem zur Trial hinzufügen"
+        },
+        "trials.dialog.additem.description":
+        {
+            "en_US": "&7Add the item in your hand to [trial]&7.",
+            "de_DE": "&7Füge das Item in deiner Hand zu [trial]&7 hinzu."
+        },
+        "trials.dialog.additem.description.noitem":
+        {
+            "en_US": "&x&F&F&4&0&3&2You must be holding an item in your hand to add it.",
+            "de_DE": "&x&F&F&4&0&3&2Du musst ein Item in der Hand halten, um es hinzufügen zu können."
+        },
+        "trials.dialog.additem.input.trial":
+        {
+            "en_US": "Target Trial",
+            "de_DE": "Hinzufügen zu:"
+        },
+        "trials.dialog.additem.input.frequency":
+        {
+            "en_US": "Frequency of occurrence",
+            "de_DE": "Häufigkeit des Auftretens"
+        },
+        "trials.dialog.edititem.title":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Item",
+            "de_DE": "&x&F&F&C&8&5&1&lItem Bearbeiten"
+        },
+        "trials.dialog.edititem.description":
+        {
+            "en_US": "&7Adjust the frequency/rarity of the item or remove it from the trial.",
+            "de_DE": "&7Passe die Häufigkeit/Seltenheit des Items an oder entferne es aus der Trial."
+        },
+        "trials.dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "trials.dialog.button.create":
+        {
+            "en_US": "Create",
+            "de_DE": "Erstellen"
+        },
+        "trials.dialog.button.done":
+        {
+            "en_US": "Done",
+            "de_DE": "Fertig"
+        },
+        "trials.dialog.button.delete":
+        {
+            "en_US": "&x&F&F&4&0&3&2Delete Item",
+            "de_DE": "&x&F&F&4&0&3&2Item löschen"
+        },
         "trials.broadcast.trialall.1":
         {
             "en_US": "&x&B&E&3&3&F&F&lTRIAL ALL&7: [player] &7has thrown a round! &8[[trial]&8]",
@@ -507,10 +607,25 @@
             "en_US": "&7Receive 1x [trial]\n&7Right click the received item to\n&7open the Trial.\n&7\n&7Cost: [costs]",
             "de_DE": "&7Erhalte 1x [trial]\n&7Rechtsklicke das erhaltene Item, um das\n&7Trial zu öffnen.\n&7\n&7Kosten: [costs]"
         },
+        "trialtrader.gui.main.viewprobabilities":
+        {
+            "en_US": "&6View Probabilities",
+            "de_DE": "&6Wahrscheinlichkeiten ansehen"
+        },
+        "trialtrader.gui.main.viewprobabilities.lore":
+        {
+            "en_US": "&7View the contents of the Trials\n&7and the respective item frequencies.",
+            "de_DE": "&7Schaue dir den Inhalt der Trials\n&7und die jeweiligen Häufigkeiten der Items\n&7an."
+        },
         "trialtrader.gui.click2buy":
         {
             "en_US": "&8» <#F9BD31>Click to buy",
             "de_DE": "&8» <#F9BD31>Klicke zum Kaufen"
+        },
+        "trialtrader.gui.click2view":
+        {
+            "en_US": "&8» <#F9BD31>Click to view",
+            "de_DE": "&8» <#F9BD31>Klicke zum Ansehen"
         },
         "trialtrader.gui.notenough.blooms":
         {
@@ -539,8 +654,8 @@
         },
         "trialtrader.msg.notenough.blooms.3":
         {
-            "en_US": "<#FFFFB6>That's not going fast enough for you? &7In the <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7you <#FFD84E>immediately &7get <#FFD84E>Blooms &7and you can even <#FFD84E>support us&7!",
-            "de_DE": "<#FFFFB6>Das geht dir nicht schnell genug? &7Im <#FFD84E>Shop &8[&x&F&F&D&2&0&0&n<|shop>&8] &7gelangst du <#FFD84E>sofort &7an <#FFD84E>Blüten &7und kannst uns dabei sogar <#FFD84E>unterstützen&7!"
+            "en_US": "<#FFFFB6>That's not going fast enough for you? &7Visit the <#FFD84E>Skydinse Store &7at &e<@https://www.skydinse.net/store> &7to <#FFD84E>immediately &7get more <#FFD84E>Blooms &7and <#FFD84E>support &7our development!",
+            "de_DE": "<#FFFFB6>Das geht dir nicht schnell genug? &7Besuche den <#FFD84E>Skydinse-Store &7unter &e<@https://www.skydinse.net/store> &7um <#FFD84E>sofort &7an mehr <#FFD84E>Blüten &7zu gelangen und unsere Entwicklung zu <#FFD84E>unterstützen&7!"
         },
         "trialtrader.msg.notenough.secondary.1":
         {
@@ -576,6 +691,136 @@
         {
             "en_US": "&x&F&F&D&2&0&0Attention: &7You now hold the &x&F&F&D&8&4&ETree Cutter&7!",
             "de_DE": "&x&F&F&D&2&0&0Achtung: &7Du hältst nun den &x&F&F&D&8&4&EBauminator&7!"
+        },
+        "changelogs.dialog.allchangelogs":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lAll Changelogs",
+            "de_DE": "&x&F&F&C&8&5&1&lAlle Changelogs"
+        },
+        "changelogs.dialog.allchangelogs.description":
+        {
+            "en_US": "&7Here you'll find all changes regarding [game]!",
+            "de_DE": "&7Hier findest du alle Änderungen bezüglich [game]!"
+        },
+        "changelogs.dialog.allchangelogs.button.view":
+        {
+            "en_US": "&7Changelog from &x&F&F&D&8&4&E[date]",
+            "de_DE": "&7Changelog vom &x&F&F&D&8&4&E[date]"
+        },
+        "changelogs.dialog.allchangelogs.button.draft":
+        {
+            "en_US": "&x&F&F&4&0&3&2&oDraft",
+            "de_DE": "&x&F&F&4&0&3&2&oEntwurf"
+        },
+        "changelogs.dialog.currentchangelog":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lChangelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog"
+        },
+        "changelogs.dialog.currentchangelog.description":
+        {
+            "en_US": "&7Updates from &x&F&F&D&2&0&0[date]&7:",
+            "de_DE": "&7Änderungen vom &x&F&F&D&2&0&0[date]&7:"
+        },
+        "changelogs.dialog.edit":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lEdit Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog bearbeiten"
+        },
+        "changelogs.dialog.preview":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lPreview Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog-Vorschau"
+        },
+        "changelogs.dialog.create":
+        {
+            "en_US": "&x&F&F&C&8&5&1&lCreate a new Changelog",
+            "de_DE": "&x&F&F&C&8&5&1&lChangelog erstellen"
+        },
+        "changelogs.dialog.create.input.en":
+        {
+            "en_US": "English Version here:",
+            "de_DE": "Englische Version hier:"
+        },
+        "changelogs.dialog.create.input.de":
+        {
+            "en_US": "German Version here:",
+            "de_DE": "Deutsche Version hier:"
+        },
+        "changelogs.dialog.button.back":
+        {
+            "en_US": "Back",
+            "de_DE": "Zurück"
+        },
+        "changelogs.dialog.button.next":
+        {
+            "en_US": "Next",
+            "de_DE": "Weiter"
+        },
+        "changelogs.dialog.button.close":
+        {
+            "en_US": "Close",
+            "de_DE": "Schließen"
+        },
+        "changelogs.dialog.button.cancel":
+        {
+            "en_US": "Cancel",
+            "de_DE": "Abbrechen"
+        },
+        "changelogs.dialog.button.save":
+        {
+            "en_US": "Save",
+            "de_DE": "Speichern"
+        },
+        "changelogs.dialog.button.publish":
+        {
+            "en_US": "Publish",
+            "de_DE": "Veröffentlichen"
+        },
+        "changelogs.dialog.button.edit":
+        {
+            "en_US": "Edit",
+            "de_DE": "Bearbeiten"
+        },
+        "changelogs.dialog.button.preview":
+        {
+            "en_US": "Preview",
+            "de_DE": "Vorschau"
+        },
+        "changelogs.dialog.button.createnewchangelog":
+        {
+            "en_US": "Create a new Changelog",
+            "de_DE": "Neuen Changelog erstellen"
+        },
+        "changelogs.dialog.button.delete":
+        {
+            "en_US": "&x&F&F&4&0&3&2Delete",
+            "de_DE": "&x&F&F&4&0&3&2Löschen"
+        },
+        "changelogs.msg.saved":
+        {
+            "en_US": "&7The changelog has been saved.",
+            "de_DE": "&7Der Changelog wurde gepeichert."
+        },
+        "changelogs.msg.nochanges":
+        {
+            "en_US": "&7There were no changes.",
+            "de_DE": "&7Es gab keine Änderungen."
+        },
+        "changelogs.msg.published":
+        {
+            "en_US": "&7The changelog has been &apublished&7.",
+            "de_DE": "&7Der Changelog wurde &averöffentlicht&7."
+        },
+        "changelogs.msg.deleted":
+        {
+            "en_US": "&7The changelog has been &cdeleted&7.",
+            "de_DE": "&7Der Changelog wurde &cgelöscht&7."
+        },
+        "changelogs.msg.error":
+        {
+            "en_US": "&cAn unexpected error has occurred. Please try again.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
         }
     }
 }

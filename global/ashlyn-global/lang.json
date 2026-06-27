@@ -534,8 +534,13 @@
         },
         "MINIGAMEBASICS.msg.ingame.playergoteliminated":
         {
-            "en_US": "&e[player] &7got &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lA&x&d&3&0&0&0&0&lT&x&c&1&0&0&0&0&lE&x&a&f&0&0&0&0&lD&7!",
-            "de_DE": "&e[player] &7wurde &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lI&x&d&3&0&0&0&0&lE&x&c&1&0&0&0&0&lR&x&a&f&0&0&0&0&lT&7!"
+            "en_US": "&e[player]&7 got &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lA&x&d&3&0&0&0&0&lT&x&c&1&0&0&0&0&lE&x&a&f&0&0&0&0&lD&7!",
+            "de_DE": "&e[player]&7 wurde &x&a&f&0&0&0&0&lE&x&c&1&0&0&0&0&lL&x&d&3&0&0&0&0&lI&x&e&4&0&0&0&0&lM&x&f&6&0&0&0&0&lI&x&f&6&0&0&0&0&lN&x&e&4&0&0&0&0&lI&x&d&3&0&0&0&0&lE&x&c&1&0&0&0&0&lR&x&a&f&0&0&0&0&lT&7!"
+        },
+        "MINIGAMEBASICS.msg.ingame.playergotkilled":
+        {
+            "en_US": "&e[player]&7 was killed by &c[killer]&7!",
+            "de_DE": "&e[player]&7 wurde von &c[killer]&7 getötet!"
         },
         "MINIGAMEBASICS.msg.nostatsduetoprivateround":
         {
@@ -597,10 +602,95 @@
             "en_US": "&x&0&0&9&4&F&FPoints",
             "de_DE": "&x&0&0&9&4&F&FPunkte"
         },
+        "MINIGAMEBASICS.stats.category.timepassed":
+        {
+            "en_US": "&7Time elapsed",
+            "de_DE": "&7Zeit verstrichen"
+        },
         "MINIGAMEBASICS.scoreboard.category.winners":
         {
             "en_US": "Winners",
             "de_DE": "Gewinner"
+        },
+        "MINIGAMEBASICS.combat.bossbar":
+        {
+            "en_US": "&8[&x&F&F&0&F&0&0&lCOMBAT&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]",
+            "de_DE": "&8[&x&F&F&0&F&0&0&lKAMPF&8] [player] &7» &x&F&F&0&F&0&0[health] &8/ &x&F&F&1&C&1&C[maxhealth]"
+        },
+        "MINIGAMEBASICS.combat.nowincombat.1":
+        {
+            "en_US": "&x&F&F&0&0&0&0&lATTENTION: &7You are now in &cCombat Mode&7!",
+            "de_DE": "&x&F&F&0&0&0&0&lACHTUNG: &7Du befindest dich nun im &cKampfmodus&7!"
+        },
+        "MINIGAMEBASICS.combat.nowincombat.2":
+        {
+            "en_US": "&7Leaving the server will result in death while in combat mode.",
+            "de_DE": "&7Das Verlassen des Servers führt zum Tod, solange du dich im Kampfmodus befindest."
+        },
+        "MINIGAMEBASICS.combat.youdied.title":
+        {
+            "en_US": "&x&F&F&0&0&0&0You died!",
+            "de_DE": "&x&F&F&0&0&0&0Du bist gestorben!"
+        },
+        "MINIGAMEBASICS.combat.deathmessage.word.damage":
+        {
+            "en_US": "Damage",
+            "de_DE": "Schaden"
+        },
+        "MINIGAMEBASICS.combat.deathmessage.quitincombat":
+        {
+            "en_US": "[victim]&7 left the server during combat and &cdied &7thus &cimmediately&7.",
+            "de_DE": "[victim]&7 hat den Server während eines Kampfes verlassen und &cstarb &7somit &csofort&7."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.attacker.1":
+        {
+            "en_US": "[victim]&7 was killed by [attacker]&7.",
+            "de_DE": "[victim]&7 wurde von [attacker]&7 getötet."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.1":
+        {
+            "en_US": "[victim] &7died.",
+            "de_DE": "[victim] &7ist gestorben."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.2":
+        {
+            "en_US": "[victim] &7passed away.",
+            "de_DE": "[victim] &7ist von uns gegangen."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.3":
+        {
+            "en_US": "[victim] &7is pushing up daisies.",
+            "de_DE": "[victim] &7liegt jetzt unter der Erde."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.4":
+        {
+            "en_US": "[victim] &7went to heaven.",
+            "de_DE": "[victim] &7ist in den Himmel gegangen."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.5":
+        {
+            "en_US": "[victim] &7is leaving this mortal coil.",
+            "de_DE": "[victim] &7hat diese irdische Welt verlassen."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.6":
+        {
+            "en_US": "[victim] &7went to a better place.",
+            "de_DE": "[victim] &7ist an einen besseren Ort gegangen."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.7":
+        {
+            "en_US": "[victim] &7moved over.",
+            "de_DE": "[victim] &7hat das Zeitliche gesegnet."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.8":
+        {
+            "en_US": "[victim] &7is not with us anymore.",
+            "de_DE": "[victim] &7ist nicht mehr unter uns."
+        },
+        "MINIGAMEBASICS.combat.deathmessage.9":
+        {
+            "en_US": "[victim] &7went west.",
+            "de_DE": "[victim] &7ist gestorben."
         },
         "QUEUE.scoreboard.category.winners":
         {

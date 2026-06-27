@@ -7,6 +7,21 @@
             "en_US": "&cA transaction error occurred. Please try again or rejoin.",
             "de_DE": "&cEin Transaktionsfehler ist aufgetreten. Bitte versuche es erneut oder betrete den Server neu."
         },
+        "MSG.error.unexpectederror":
+        {
+            "en_US": "&cAn unexpected error has occurred. Please contact the team.",
+            "de_DE": "&cEin unerwarteter Fehler ist aufgetreten. Bitte melde dich beim Team."
+        },
+        "MSG.error.nogeninhand":
+        {
+            "en_US": "&cYou must be holding a generator in your hand to upgrade it.",
+            "de_DE": "&cDu musst einen Generator in der Hand halten, um diesen verbessern zu können."
+        },
+        "MSG.error.genalreadymax":
+        {
+            "en_US": "&cThis generator is already top-tier.",
+            "de_DE": "&cDieser Generator ist bereits vom höchsten Tier."
+        },
         "MSG.error.cantafford":
         {
             "en_US": "&cYou can't afford the upgrade.",
@@ -21,6 +36,16 @@
         {
             "en_US": "&cTo dismantle a generator, you must return it to its original form.",
             "de_DE": "&cUm einen Generator abzubauen, musst du diesen wieder in die echte Gestalt versetzen."
+        },
+        "MSG.error.notenoughsecondary":
+        {
+            "en_US": "&cYou don't have enough [secondarycurrency]&c!",
+            "de_DE": "&cDu hast nicht genügend [secondarycurrency]&c!"
+        },
+        "MSG.success.generatortierupgraded":
+        {
+            "en_US": "&7Your generator has been successfully upgraded to [new]&7!",
+            "de_DE": "&7Dein Generator wurde erfolgreich auf [new]&7 verbesser!"
         },
         "GUI.camouflage.title":
         {
@@ -86,6 +111,16 @@
         {
             "en_US": "&x&F&F&1&4&0&0ᴠɪsɪʙʟᴇ",
             "de_DE": "&x&F&F&1&4&0&0sɪᴄʜᴛʙᴀʀ"
+        },
+        "GUI.gentrader.title":
+        {
+            "en_US": "Upgrade Generator Tier",
+            "de_DE": "Generator Tier upgraden"
+        },
+        "GUI.gentrader.upgrade.lore":
+        {
+            "en_US": "&7Upgrade the generator to tier [tier]\n&7to increase its efficiency.\n&7This will then bring you &x&F&F&D&2&0&0+[percent]%&7\nmore revenue!\n&7All other generator upgrades\n&7will be retained.\n\n&7Cost: &x&F&F&D&2&0&0[cost] [secondarycurrency]",
+            "de_DE": "&7Verbessere den Generator auf tier [tier],\n&7um die Effizienz zu steigern.\n&7Dieser bringt dir dann &x&F&F&D&2&0&0+[percent]%\n&7mehr Erlös!\n&7Alle weiteren Upgrades des Generators\n&7bleiben bestehen.\n\n&7Kosten: &x&F&F&D&2&0&0[cost] [secondarycurrency]"
         },
         "GUI.clickaction.upgrade":
         {

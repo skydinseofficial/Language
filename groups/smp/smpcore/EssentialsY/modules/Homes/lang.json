@@ -43,8 +43,8 @@
         },
         "GUI.main.createhome.lore.higherrankneeded":
         {
-            "en_US": "&7Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang,\n&7um noch &x&F&F&D&8&4&Emehr Homes &7zu erstellen.\n&7\n&7Besuche: &x&F&F&D&2&0&0&nshop.skydinse.net",
-            "de_DE": "&7Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang,\n&7um noch &x&F&F&D&8&4&Emehr Homes &7zu erstellen.\n&7\n&7Besuche: &x&F&F&D&2&0&0&nshop.skydinse.net"
+            "en_US": "&7You need a &x&F&F&D&8&4&Ehigher rank\n&7to create &x&F&F&D&8&4&Emore homes&7.\n&7\n&7Visit: &x&F&F&D&2&0&0&nskydinse.net/store",
+            "de_DE": "&7Du benötigst einen &x&F&F&D&8&4&Ehöheren Rang,\n&7um noch &x&F&F&D&8&4&Emehr Homes &7zu erstellen.\n&7\n&7Besuche: &x&F&F&D&2&0&0&nskydinse.net/store"
         },
         "GUI.main.createhome.lore.notallowedother":
         {

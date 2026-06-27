@@ -329,13 +329,10 @@
             "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
-        "INVHOTBAR.profile.name":
+        "INVHOTBAR.stats.name":
         {
-            "en_US": "&6Your Profile",
-            "de_DE": "&6Dein Profil",
-            "pt_BR": "&6Teu perfil",
-            "tr_TR": "&6Profilin",
-            "ko_KR": "&6당신의 프로필"
+            "en_US": "&6Your Stats",
+            "de_DE": "&6Deine Stats"
         },
         "INVHOTBAR.gadget.name":
         {
@@ -432,7 +429,7 @@
             "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
-        "INVHOTBAR.profile.click":
+        "INVHOTBAR.stats.click":
         {
             "en_US": "Rightclick to open!",
             "de_DE": "Rechtsklicke um zu öffnen!",
@@ -440,13 +437,10 @@
             "tr_TR": "Açmak için sağ tıkla!",
             "ko_KR": "오른쪽 클릭해서 열기!"
         },
-        "INVHOTBAR.profile.desc":
+        "INVHOTBAR.stats.desc":
         {
-            "en_US": "&7Here you can manage\n&7all your profile settings!",
-            "de_DE": "&7Hier kannst du all deine\n&7Profileinstellungen verwalten!",
-            "pt_BR": "&7Aqui você pode gerenciar todas\n&7as suas configurações de perfil!",
-            "tr_TR": "&7Burada tüm profil \n&7ayarlarınızı yönetebilirsin!",
-            "ko_KR": "&7여기에서 모든 프로필 설정을\n&7관리할 수 있습니다!"
+            "en_US": "&7Here you can view\n&7all your statistics!",
+            "de_DE": "&7Hier kannst du all deine\n&7Statistiken ansehen!"
         },
         "SETTINGS.elytranoperm":
         {
@@ -963,8 +957,8 @@
         },
         "NAVIGATOR.button.details.store":
         {
-            "en_US": "&f\n&7=> &eVisit our store at &sstore.skydinse.net&e!",
-            "de_DE": "&f\n&7=> &eBesuche unseren Shop unter &sshop.skydinse.net&e!"
+            "en_US": "&f\n&7=> &eVisit our store at &sskydinse.net/store&e!",
+            "de_DE": "&f\n&7=> &eBesuche unseren Shop unter &sskydinse.net/store&e!"
         },
         "NAVIGATOR.button.details.discord":
         {
@@ -993,10 +987,10 @@
             "en_US": "<#face05>Rewards",
             "de_DE": "<#face05>Belohnungen"
         },
-        "NAVIGATOR.teleport.title.bloomshop":
+        "NAVIGATOR.teleport.title.ranks":
         {
-            "en_US": "<#face05>Bloom Shop",
-            "de_DE": "<#face05>Blüten-Shop",
+            "en_US": "<#face05>Ranks",
+            "de_DE": "<#face05>Ränge",
         },
         "NAVIGATOR.button.clicktp":
         {

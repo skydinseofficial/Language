@@ -246,6 +246,12 @@
             "de_DE": "Schneebälle geworfen",
             "pt_PT": "Bolas de neve lançadas"
         },
+        "GUI.category.events.kills":
+        {
+            "en_US": "Kills",
+            "de_DE": "Kills",
+            "pt_PT": "Eliminações"
+        },
         "GUI.stats.title.duels.anchor":
         {
             "en_US": "&6Anchor:",

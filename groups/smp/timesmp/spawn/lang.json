@@ -2,15 +2,65 @@
     "system": "timesmp-spawn",
     "translations":
     {
-        "HOLO.welcome":
+        "HOLO.tokenconverter":
         {
-            "en_US": "&x&F&F&C&8&5&1&lSTATISTICS;&7(View)",
-            "de_DE": "&x&F&F&C&8&5&1&lSTATISTIKEN;&7(Ansehen)"
+            "en_US": "&x&0&C&9&D&F&1&lᴄ&x&0&A&A&9&C&D&lᴏ&x&0&8&B&6&A&9&lɴ&x&0&6&C&2&8&5&lᴠ&x&0&4&C&E&6&1&lᴇ&x&0&2&D&B&3&D&lʀ&x&0&0&E&7&1&9&lᴛ &x&6&6&D&5&0&F&lᴏ&x&9&9&C&C&0&A&lʟ&x&C&C&C&3&0&5&lᴅ &x&F&C&A&3&0&8&lᴛ&x&F&8&8&B&0&F&lᴏ&x&F&5&7&4&1&7&lᴋ&x&F&1&5&C&1&E&lᴇ&x&E&E&4&5&2&6&lɴ&x&E&A&2&D&2&D&ls\n&7Extend your highest rank\n&7by converting your Season 1 tokens\n&7into rank minutes.",
+            "de_DE": "&x&0&0&7&9&F&F&lᴀ&x&0&3&8&A&D&B&lʟ&x&0&7&9&B&B&6&lᴛ&x&0&A&A&C&9&2&lᴇ &x&1&0&C&F&4&9&lᴛ&x&1&4&E&0&2&4&lᴏ&x&1&7&F&1&0&0&lᴋ&x&3&E&E&D&0&0&lᴇ&x&6&4&E&9&0&0&lɴ&x&8&B&E&5&0&0&ls &x&D&8&D&D&0&0&lᴜ&x&F&F&D&9&0&0&lᴍ&x&F&F&B&A&0&0&lᴡ&x&F&F&9&B&0&0&lᴀ&x&F&F&7&C&0&0&lɴ&x&F&F&5&D&0&0&lᴅ&x&F&F&3&E&0&0&lᴇ&x&F&F&1&F&0&0&lʟ&x&F&F&0&0&0&0&lɴ\n&7Verlängere deinen höchsten Rang,\n&7indem du deine Tokens aus Season 1\n&7in Rang-Minuten umwandelnst."
+        },
+        "TOKENCONVERTER.title":
+        {
+            "en_US": "Convert Tokens",
+            "de_DE": "Tokens umwandeln"
+        },
+        "TOKENCONVERTER.yourtokens":
+        {
+            "en_US": "&6Remaining tokens &7from &x&F&F&2&A&2&5Season 1&7: &x&F&F&C&6&0&0[tokens]",
+            "de_DE": "&6Restliche Tokens &7aus &x&F&F&2&A&2&5Season 1&7: &x&F&F&C&6&0&0[tokens]"
+        },
+        "TOKENCONVERTER.yourtokens.lore":
+        {
+            "en_US": "&7This is a &x&F&F&D&8&4&Eone-time promotion &7to ensure the old\n&7season doesn't just go to waste.\n\n&x&F&F&D&8&4&EAny rank &7can be extended for &x&F&F&D&8&4&Efree\n&7during this promotion - even &dUniverse&7!\n&7If you don't have a rank, you will\n&7automatically be granted the &bSky &7rank.\n\n&8» <#F9BD31>Click to continue",
+            "de_DE": "&7Dies ist eine &x&F&F&D&8&4&Eeinmalige Aktion&7, um die alte\n&7Season nicht einfach so verfliegen zu lassen.\n\n&x&F&F&D&8&4&EJeder Rang &7kann bei dieser Aktion &x&F&F&D&8&4&Ekostenlos\n&7verlängert werden, auch &dUniverse&7!\n&7Wenn du keinen Rang besitzt, wird dir\n&7automatisch der &bSky&7-Rang gutgeschrieben.\n\n&8» <#F9BD31>Klicke zum Fortfahren"
+        },
+        "TOKENCONVERTER.yourtokens.lore.notokens":
+        {
+            "en_US": "&x&F&F&4&0&3&2You didn't have any tokens at the end of the old season.\n&7Unfortunately, you cannot convert anything.",
+            "de_DE": "&x&F&F&4&0&3&2Du hattest zum Ende der alten Season keine Tokens.\n&7Du kannst daher leider nichts umwandeln."
+        },
+        "TOKENCONVERTER.yourtokens.lore.alreadyconverted":
+        {
+            "en_US": "&x&F&F&4&0&3&2You have already converted your tokens.",
+            "de_DE": "&x&F&F&4&0&3&2Du hast deine Tokens bereits umgewandelt."
+        },
+        "TOKENCONVERTER.convertnow":
+        {
+            "en_US": "&6Confirm the conversion",
+            "de_DE": "&6Bestätige die Umwandlung"
+        },
+        "TOKENCONVERTER.convertnow.lore":
+        {
+            "en_US": "&7For &x&F&F&C&6&0&0[tokens] tokens &7you receive:\n[rank]&7 rank\n\n&8» <#F9BD31>Click to convert",
+            "de_DE": "&7Für &x&F&F&C&6&0&0[tokens] Tokens &7erhältst du:\n[rank]&7-Rang\n\n&8» <#F9BD31>Klicke zum Umwandeln"
+        },
+        "TOKENCONVERTER.msg.couldnotloaddata":
+        {
+            "en_US": "&cYour data could not be loaded. Please report this error to the team!",
+            "de_DE": "&cDeine Daten konnten nicht geladen werden. Bitte melde diesen Fehler dem Team!"
+        },
+        "TOKENCONVERTER.msg.alreadyloading":
+        {
+            "en_US": "&cYour data is still loading...",
+            "de_DE": "&cDeine Daten laden noch..."
         },
         "HOLO.afkarea":
         {
             "en_US": "&x&F&F&1&4&1&0&nᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
             "de_DE": "&x&F&F&1&4&1&0&nᴀғᴋ ʙᴇʀᴇɪᴄʜ\n&7Stehe hier afk, um regelmäßig\n&7Belohnungen zu erhalten!\n&7Deine Zeit bleibt stehen."
+        },
+        "HOLO.ffalootdroppreview":
+        {
+            "en_US": "&x&9&C&4&C&F&FThis is a loot drop!\n&7Click to view the contents.\n&fRush Hour &7every day at &f8 PM &7CEST!",
+            "de_DE": "&x&9&C&4&C&F&FDies ist ein Lootdrop!\n&7Klicke, um dir den Inhalt anzuschauen.\n&fRush Hour &7jeden Tag um &f20 Uhr&7!"
         },
         "HOLO.help":
         {
@@ -102,6 +152,16 @@
             "en_US": "&x&F&F&0&0&7&1&nᴀᴜᴄᴛɪᴏɴ ʜᴏᴜsᴇ\n&7Post items to gain time or\n&7buy some rare items to upgrade\n&7yourself!",
             "de_DE": "&x&F&F&0&0&7&1&nᴀᴜᴋᴛɪᴏɴsʜᴀᴜs\n&7Stelle Items ein, um Zeit zu\n&7gewinnen oder kauf' teils außergewöhnliche\n&7Items, um dich aufzurüsten!"
         },
+        "HOLO.shop":
+        {
+            "en_US": "&x&F&F&2&1&6&7&nsʜᴏᴘ\n&7Don't waste any time — browse\n&7through the &f/shop&7.",
+            "de_DE": "&x&F&F&2&1&6&7&nsʜᴏᴘ\n&7Verlier keine Zeit und stöbere\n&7durch den &f/shop&7."
+        },
+        "HOLO.gentrader":
+        {
+            "en_US": "&x&2&1&F&F&B&1&nɢᴇɴ ᴛʀᴀᴅᴇʀ\n&7I'll upgrade your generators\n&7for tokens!",
+            "de_DE": "&x&2&1&F&F&B&1&nɢᴇɴ ᴛʀᴀᴅᴇʀ\n&7Ich upgrade deine Generatoren\n&7gegen Tokens!"
+        },
         "HOLO.sell":
         {
             "en_US": "&x&0&0&F&F&8&8&nsᴇʟʟ\n&7Sell items here at base worth.\n&7Fast, but not always the\n&7most efficient.",
@@ -114,8 +174,8 @@
         },
         "HOLO.challengeupdate":
         {
-            "en_US": "&x&0&0&E&8&F&F&lNEW!\n&x&F&F&D&2&0&0&n/challenge <name>&7 now with\n&7bets! The winner takes it all!\n&7(You don't lose your inventory)",
-            "de_DE": "&x&0&0&E&8&F&F&lNEU!\n&x&F&F&D&2&0&0&n/challenge <name>&7 jetzt mit\n&7Wetteinsätzen! Der Gewinner bekommt alles!\n&7(Inventar verliert man nicht)"
-        },
+            "en_US": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n06/13/2026, 4pm CEST\n&7Get ready for the biggest\n&7Time SMP update ever.\n&7The dawn of a new era.\n&7&oTime is running out!",
+            "de_DE": "&x&F&F&2&A&2&5&lSEASON II\n&x&E&5&E&5&E&5&n13.06.2026, 16 Uhr\n&7Macht euch bereit für das größte\n&7Time SMP Update.\n&7Der Start einer neuen Ära.\n&7&oDie Zeit läuft!"
+        }
     }
 }
