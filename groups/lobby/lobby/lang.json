@@ -957,8 +957,8 @@
         },
         "NAVIGATOR.button.details.store":
         {
-            "en_US": "&f\n&7=> &eVisit our store at &sstore.skydinse.net&e!",
-            "de_DE": "&f\n&7=> &eBesuche unseren Shop unter &sshop.skydinse.net&e!"
+            "en_US": "&f\n&7=> &eVisit our store at &sskydinse.net/store&e!",
+            "de_DE": "&f\n&7=> &eBesuche unseren Shop unter &sskydinse.net/store&e!"
         },
         "NAVIGATOR.button.details.discord":
         {
