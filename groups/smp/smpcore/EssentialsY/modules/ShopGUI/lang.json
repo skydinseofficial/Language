@@ -192,6 +192,11 @@
             "en_US": "&6Ressources",
             "de_DE": "&6Ressourcen"
         },
+        "GUI.main.category.name.Coming Soon":
+        {
+            "en_US": "&6Coming Soon",
+            "de_DE": "&6Kommt Bald"
+        },
         "GUI.main.category.name.equipment":
         {
             "en_US": "&6Equipment",
