@@ -12,10 +12,20 @@
             "en_US": "<#FF00DC>Epic! &7You found a <#FFD84E>huge amount of time &7with a <#FFD84E>low probability&7! &7You receive [amount] [icon]&7.",
             "de_DE": "<#FF00DC>Episch! &7Du hast eine <#FFD84E>riesige Summe Zeit &7mit einer <#FFD84E>geringen Wahrscheinlichkeit &7gefunden! &7Du erhältst [amount] [icon]&7."
         },
-        "BOSSBAR.picklevel":
+        "PICKLEVEL.bossbar":
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
             "de_DE": "&7Spitzhackenlevel: <#FFD200>[level] &7([progress]&7)"
+        },
+        "PICKLEVEL.levelup.title":
+        {
+            "en_US": "<#4CFF00>Level Up!",
+            "de_DE": "<#4CFF00>Level Up!"
+        },
+        "PICKLEVEL.levelup.subtitle":
+        {
+            "en_US": "<#FFD84E>Pickaxe Level <#E5E5E5>[from] &7» <#FFD200>[to]",
+            "de_DE": "<#FFD84E>Spitzhackenlevel <#E5E5E5>[from] &7» <#FFD200>[to]"
         }
     }
 }
