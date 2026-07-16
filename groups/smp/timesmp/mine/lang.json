@@ -54,8 +54,8 @@
         },
         "PICKLEVEL.gui.picklevel.lore.locked":
         {
-            "en_US": "&7&oThis upgrade is still locked.\n&7&oUnlock the next step first.",
-            "de_DE": "&7&oDieses Upgrade ist noch gesperrt.\n&7&oSchalte zuerst den nächsten Schritt frei."
+            "en_US": "<#FF4032>&oThis upgrade is still locked.\n<#FF4032>&oUnlock the next step first.",
+            "de_DE": "<#FF4032>&oDieses Upgrade ist noch gesperrt.\n<#FF4032>&oSchalte zuerst den nächsten Schritt frei."
         },
         "PICKLEVEL.gui.upgrades.enchantment.efficiency":
         {
