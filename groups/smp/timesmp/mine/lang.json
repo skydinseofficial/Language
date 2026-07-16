@@ -26,6 +26,61 @@
         {
             "en_US": "<#FFD84E>Pickaxe Level <#E5E5E5>[from] &7» <#FFD200>[to]",
             "de_DE": "<#FFD84E>Spitzhackenlevel <#E5E5E5>[from] &7» <#FFD200>[to]"
+        },
+        "PICKLEVEL.gui.title":
+        {
+            "en_US": "Pickaxe Level Path",
+            "de_DE": "Spitzhackenlevel-Pfad"
+        },
+        "PICKLEVEL.gui.picklevel":
+        {
+            "en_US": "Pickaxe Level",
+            "de_DE": "Spitzhackenlevel"
+        },
+        "PICKLEVEL.gui.picklevel.lore":
+        {
+            "en_US": "&7New Features:\n[upgrades]\n\n&7Requirements:\n[requirements]",
+            "de_DE": "&7Neuerungen:\n[upgrades]\n\n&7Anforderungen:\n[requirements]"
+        },
+        "PICKLEVEL.gui.picklevel.lore.progress":
+        {
+            "en_US": "&7Progress: <#FFD200>[percentage]% &7([details]&7)",
+            "de_DE": "&7Fortschritt: <#FFD200>[percentage]% &7([details]&7)"
+        },
+        "PICKLEVEL.gui.picklevel.lore.done":
+        {
+            "en_US": "<#4CFF00>UNLOCKED",
+            "de_DE": "<#4CFF00>FREIGESCHALTET"
+        },
+        "PICKLEVEL.gui.picklevel.lore.locked":
+        {
+            "en_US": "&7&oThis upgrade is still locked.\n&7&oUnlock the next step first.",
+            "de_DE": "&7&oDieses Upgrade ist noch gesperrt.\n&7&oSchalte zuerst den nächsten Schritt frei."
+        },
+        "PICKLEVEL.gui.upgrades.enchantment.efficiency":
+        {
+            "en_US": "Efficiency",
+            "de_DE": "Effizienz"
+        },
+        "PICKLEVEL.gui.upgrades.enchantment.unbreaking":
+        {
+            "en_US": "Unbreaking",
+            "de_DE": "Haltbarkeit"
+        },
+        "PICKLEVEL.gui.upgrades.tool.golden_pickaxe":
+        {
+            "en_US": "Golden Pickaxe",
+            "de_DE": "Goldspitzhacke"
+        },
+        "PICKLEVEL.gui.upgrades.feature.time":
+        {
+            "en_US": "Opportunity to find time during ore mining",
+            "de_DE": "Möglichkeit Zeit beim Erzabbau zu finden"
+        },
+        "PICKLEVEL.gui.requirements.breakores":
+        {
+            "en_US": "Mine [amount] ores",
+            "de_DE": "Baue [amount] Erze ab"
         }
     }
 }
