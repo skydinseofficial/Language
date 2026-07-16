@@ -1,0 +1,16 @@
+{
+    "system": "timesmp-mine",
+    "translations":
+    {
+        "MSG.objectfound.time":
+        {
+            "en_US": "&7Bravo! You found <#FFD84E>time &7and thus receive [amount] [icon]&7!",
+            "de_DE": "&7Bravo! Du hast <#FFD84E>Zeit gefunden &7und erhältst somit [amount] [icon]&7!"
+        },
+        "MSG.objectfound.time.epic":
+        {
+            "en_US": "<#FF00DC>Epic! &7You found a <#FFD84E>huge amount of time &7with a <#FFD84E>low probability&7! &7You receive [amount] [icon]&7.",
+            "de_DE": "<#FF00DC>Episch! &7Du hast eine <#FFD84E>riesige Summe Zeit &7mit einer <#FFD84E>geringen Wahrscheinlichkeit &7gefunden! &7Du erhältst [amount] [icon]&7."
+        }
+    }
+}
