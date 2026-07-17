@@ -12,6 +12,16 @@
             "en_US": "<#FF00DC>Epic! &7You found a <#FFD84E>huge amount of time &7with a <#FFD84E>low probability&7! &7You receive [amount] [icon]&7.",
             "de_DE": "<#FF00DC>Episch! &7Du hast eine <#FFD84E>riesige Summe Zeit &7mit einer <#FFD84E>geringen Wahrscheinlichkeit &7gefunden! &7Du erhältst [amount] [icon]&7."
         },
+        "ITEM.backtospawn":
+        {
+            "en_US": "&7Back to &a/spawn",
+            "de_DE": "&7Zurück zum &a/spawn"
+        },
+        "ITEM.nofoundobjects":
+        {
+            "en_US": "&cNo Objects found",
+            "de_DE": "&cKeine Objekte gefunden"
+        },
         "REPAIR.msg.pickaxenotinhand":
         {
             "en_US": "&cYou must hold your pickaxe in your hand to be able to repair it.",
