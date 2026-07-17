@@ -87,6 +87,11 @@
             "en_US": "<#FF4032>&oThis upgrade is still locked.\n<#FF4032>&oUnlock the next step first.",
             "de_DE": "<#FF4032>&oDieses Upgrade ist noch gesperrt.\n<#FF4032>&oSchalte zuerst den nächsten Schritt frei."
         },
+        "PICKLEVEL.gui.picklevel.lore.starterpick":
+        {
+            "en_US": "&7Startet Pickaxe",
+            "de_DE": "&7Starter Spitzhacke"
+        },
         "PICKLEVEL.gui.upgrades.enchantment.efficiency":
         {
             "en_US": "Efficiency",
