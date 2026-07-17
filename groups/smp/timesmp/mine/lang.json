@@ -22,6 +22,21 @@
             "en_US": "&cNo Objects found",
             "de_DE": "&cKeine Objekte gefunden"
         },
+        "ITEM.tnt":
+        {
+            "en_US": "<#FF0F00>TNT",
+            "de_DE": "<#FF0F00>TNT"
+        },
+        "ITEM.screwdriver":
+        {
+            "en_US": "<#FFB254>Screwdriver",
+            "de_DE": "<#FFB254>Schraubenzieher"
+        },
+        "ITEM.shell":
+        {
+            "en_US": "<#FF5EC4>Shell",
+            "de_DE": "<#FF5EC4>Schale"
+        },
         "REPAIR.msg.pickaxenotinhand":
         {
             "en_US": "&cYou must hold your pickaxe in your hand to be able to repair it.",
