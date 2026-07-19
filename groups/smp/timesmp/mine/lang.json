@@ -141,6 +141,11 @@
         {
             "en_US": "<#FF4032>Your [type]<#FF4032> storage is full!",
             "de_DE": "<#FF4032>Dein [type]<#FF4032>-Lager ist voll!"
+        },
+        "GRINDSTONE.title":
+        {
+            "en_US": "&6Repair Pickaxe\n[costs]",
+            "de_DE": "&6Spitzhacke reparieren\n[costs]"
         }
     }
 }
