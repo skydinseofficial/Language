@@ -116,6 +116,26 @@
         {
             "en_US": "Mine [amount] ores",
             "de_DE": "Baue [amount] Erze ab"
+        },
+        "STORAGE.gui.title":
+        {
+            "en_US": "Expand storage space",
+            "de_DE": "Lagerplatz erweitern"
+        },
+        "STORAGE.gui.ore.lore":
+        {
+            "en_US": "&7Current utilization:\n[utilization]\n\n&7Expansion costs: (+[add])\n[costs]",
+            "de_DE": "&7Aktuelle Auslastung:\n[utilization]\n\n&7Kosten zur Erweiterung: (+[add])\n[costs]"
+        },
+        "STORAGE.gui.ore.lore.cannotafford":
+        {
+            "en_US": "<#FF4032>You can't afford the expansion!",
+            "de_DE": "<#FF4032>Du kannst dir die Erweiterung nicht leisten!"
+        },
+        "STORAGE.gui.clickaction.expand":
+        {
+            "en_US": "&8» <#F9BD31>Click to Expand",
+            "de_DE": "&8» <#F9BD31>Klicke zum Erweitern"
         }
     }
 }
