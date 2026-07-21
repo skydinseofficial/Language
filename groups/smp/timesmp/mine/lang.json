@@ -117,6 +117,26 @@
             "en_US": "Mine [amount] ores",
             "de_DE": "Baue [amount] Erze ab"
         },
+        "ORELEVEL.gui.title":
+        {
+            "en_US": "Ore probabilities",
+            "de_DE": "Erz-Wahrscheinlichkeiten"
+        },
+        "ORELEVEL.gui.ore.lore":
+        {
+            "en_US": "&7You currently receive an average of <#E5E5E5>[amount]x [ore]\n&7per mined ore.",
+            "de_DE": "&7Du erhältst derzeit im Schnitt <#E5E5E5>[amount]x [ore]\n&7pro Abbau eines Erzes."
+        },
+        "ORELEVEL.gui.ore.lore.requirements":
+        {
+            "en_US": "&7Upgrade costs (+1 avg.):\n[costs]",
+            "de_DE": "&7Verbesserungskosten (+1 ⌀):\n[costs]"
+        },
+        "ORELEVEL.item.lore":
+        {
+            "en_US": "Average loot per ore mining:\n[ores]",
+            "de_DE": "Durchschnittlicher Loot pro Erzabbau:\n[ores]"
+        },
         "STORAGE.gui.title":
         {
             "en_US": "Expand storage space",
