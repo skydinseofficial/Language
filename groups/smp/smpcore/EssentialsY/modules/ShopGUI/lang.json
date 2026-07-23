@@ -147,6 +147,11 @@
             "en_US": "To use a custom currency, use '<id>:' as the prefix.",
             "de_DE": "&7Um eine custom Währung zu verwenden, nutze '<id>:' als Präfix."
         },
+        "MSG.defineitem.customcurrencies.notavailable":
+        {
+            "en_US": "&cThe currency '[currency]' does not exist!",
+            "de_DE": "&cDie Währung '[currency]' existiert nicht!"
+        },
         "WORD.item":
         {
             "en_US": "Item",
