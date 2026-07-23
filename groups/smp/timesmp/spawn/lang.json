@@ -107,6 +107,11 @@
             "en_US": "&x&F&F&0&0&5&4&nᴀᴅᴠᴀɴᴄᴇᴅ ғғᴀ\n&7Mace & Crystal enabled\n&8[&fJOIN&8]",
             "de_DE": "&x&F&F&0&0&5&4&nᴀᴅᴠᴀɴᴄᴇᴅ ғғᴀ\n&7Mace & Crystal aktiviert\n&8[&fBEITRETEN&8]"
         },
+        "HOLO.mine":
+        {
+            "en_US": "&x&F&F&D&8&0&0&nᴇɴᴛᴇʀ ᴍɪɴᴇ\n&7Here you can get\n&x&3&6&A&F&F&9Shards &7and &x&F&A&0&F&0&0Orbs&7!",
+            "de_DE": "&x&F&F&D&8&0&0&nᴍɪɴᴇ ʙᴇᴛʀᴇᴛᴇɴ\n&7Hier erhältst du\n&x&3&6&A&F&F&9Shards &7und &x&F&A&0&F&0&0Orbs&7!"
+        },
         "HOLO.rewards":
         {
             "en_US": "&x&F&F&9&B&0&0&nʀᴇᴡᴀʀᴅs\n&7Rewards available: [amount]",
