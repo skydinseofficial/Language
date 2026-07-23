@@ -137,6 +137,16 @@
             "en_US": "&7e.g. <#FFD200>10m &7(10 Minutes) or <#FFD200>1d 3h &7(1 Day & 3 Hours)",
             "de_DE": "&7z.B. <#FFD200>10m &7(10 Minuten) oder <#FFD200>1d 3h &7(1 Tag & 3 Stunden)"
         },
+        "MSG.defineitem.customcurrencies":
+        {
+            "en_US": "&7Additional currencies are available:",
+            "de_DE": "&7Es sind weitere Währungen verfügbar:"
+        },
+        "MSG.defineitem.customcurrencies.explanation":
+        {
+            "en_US": "To use a custom currency, use '<id>:' as the prefix.",
+            "de_DE": "&7Um eine custom Währung zu verwenden, nutze '<id>:' als Präfix."
+        },
         "WORD.item":
         {
             "en_US": "Item",
