@@ -106,6 +106,7 @@
         {
             "en_US": "shot down",
             "de_DE": "abgeschossen"
+        },
         "deathmessage.attacker.additionbytype.bad_respawn_point":
         {
             "en_US": "blown to bits by a bad respawn point",
@@ -226,7 +227,7 @@
             "en_US": "turned to ash in lava",
             "de_DE": "in Lava zu Asche verbrannt"
         },
-        "deathmessage.attacker.additionbytype.lightning_bolt":
+        "deathmessage.attacker.additionbytype.lightning":
         {
             "en_US": "struck by lightning",
             "de_DE": "vom Blitz getroffen"
@@ -486,7 +487,7 @@
             "en_US": "tried to swim in lava",
             "de_DE": "versuchte in Lava zu schwimmen"
         },
-        "deathmessage.solo.additionbytype.lightning_bolt":
+        "deathmessage.solo.additionbytype.lightning":
         {
             "en_US": "was struck by lightning",
             "de_DE": "wurde vom Blitz getroffen"
