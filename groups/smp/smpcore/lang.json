@@ -92,6 +92,11 @@
             "en_US": "[victim]&7 was killed by [attacker]&7.",
             "de_DE": "[victim]&7 wurde von [attacker]&7 getötet."
         },
+        "deathmessage.attacker.1.custom":
+        {
+            "en_US": "[victim]&7 was killed by [attacker]&7 using &8[&f[item]&8]&7.",
+            "de_DE": "[victim]&7 wurde von [attacker]&7 mit &8[&f[item]&8] &7getötet."
+        },
         "deathmessage.1":
         {
             "en_US": "[victim] &7died.",
