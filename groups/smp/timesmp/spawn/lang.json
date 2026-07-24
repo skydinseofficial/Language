@@ -52,6 +52,11 @@
             "en_US": "&cYour data is still loading...",
             "de_DE": "&cDeine Daten laden noch..."
         },
+        "HOLO.beta":
+        {
+            "en_US": "&x&F&F&5&F&4&7&nᴛɪᴍᴇsᴍᴘ ʙᴇᴛᴀ sᴇʀᴠᴇʀ\n&7When testing phases are active, you can\n&7enter the beta instances here.",
+            "de_DE": "&x&F&F&5&F&4&7&nᴛɪᴍᴇsᴍᴘ ʙᴇᴛᴀ sᴇʀᴠᴇʀ\n&7Wenn Testphasen laufen, kannst du\n&7die Beta-Instanzen hier betreten."
+        },
         "HOLO.afkarea":
         {
             "en_US": "&x&F&F&1&4&1&0&nᴀғᴋ ᴀʀᴇᴀ\n&7Join this area to receive rewards\n&7while being afk!\n&7Your time stands still.",
