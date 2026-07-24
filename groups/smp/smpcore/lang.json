@@ -444,8 +444,8 @@
         },
         "deathmessage.solo.additionbytype.fly_into_wall":
         {
-            "en_US": "was smashed against a wall",
-            "de_DE": "wurde gegen eine Wand geschmettert"
+            "en_US": "turned into wall art",
+            "de_DE": "zu Wandkunst verarbeitet"
         },
         "deathmessage.solo.additionbytype.freeze":
         {
