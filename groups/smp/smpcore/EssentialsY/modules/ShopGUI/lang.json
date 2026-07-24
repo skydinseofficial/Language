@@ -207,10 +207,15 @@
             "en_US": "&6Ressources",
             "de_DE": "&6Ressourcen"
         },
-        "GUI.main.category.name.gear":
+        "GUI.main.category.name.shards":
         {
-            "en_US": "&6Coming Soon",
-            "de_DE": "&6Kommt Bald"
+            "en_US": "&x&3&6&A&F&F&9Shard Shop",
+            "de_DE": "&x&3&6&A&F&F&9Shard Shop"
+        },
+        "GUI.main.category.name.orbs":
+        {
+            "en_US": "&x&F&A&0&F&0&0Orb Shop",
+            "de_DE": "&x&F&A&0&F&0&0Orb Shop"
         },
         "GUI.main.category.name.equipment":
         {
