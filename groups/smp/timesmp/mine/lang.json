@@ -1,176 +1,244 @@
 {
     "system": "timesmp-mine",
-    "translations":
+    "translations": 
     {
         "MSG.objectfound.time":
-        {
+         {
             "en_US": "&7Bravo! You found <#FFD84E>time &7and thus receive [amount] [icon]&7!",
-            "de_DE": "&7Bravo! Du hast <#FFD84E>Zeit gefunden &7und erhältst somit [amount] [icon]&7!"
+            "de_DE": "&7Bravo! Du hast <#FFD84E>Zeit gefunden &7und erhältst somit [amount] [icon]&7!",
+            "es_ES": "&7¡Bravo! Has encontrado <#FFD84E>tiempo &7y por ello recibes [amount] [icon]&7.",
+            "fr_FR": "&7Bravo ! Tu as trouvé du <#FFD84E>temps &7et tu reçois donc [amount] [icon]&7 !"
         },
         "MSG.objectfound.time.epic":
-        {
+         {
             "en_US": "<#FF00DC>Epic! &7You found a <#FFD84E>huge amount of time &7with a <#FFD84E>low probability&7! &7You receive [amount] [icon]&7.",
-            "de_DE": "<#FF00DC>Episch! &7Du hast eine <#FFD84E>riesige Summe Zeit &7mit einer <#FFD84E>geringen Wahrscheinlichkeit &7gefunden! &7Du erhältst [amount] [icon]&7."
+            "de_DE": "<#FF00DC>Episch! &7Du hast eine <#FFD84E>riesige Summe Zeit &7mit einer <#FFD84E>geringen Wahrscheinlichkeit &7gefunden! &7Du erhältst [amount] [icon]&7.",
+            "es_ES": "<#FF00DC>¡Épico! &7¡Has encontrado una <#FFD84E>enorme cantidad de tiempo &7con una <#FFD84E>probabilidad muy baja&7! &7Recibes [amount] [icon]&7.",
+            "fr_FR": "<#FF00DC>Épique ! &7Tu as trouvé une <#FFD84E>énorme quantité de temps &7malgré une <#FFD84E>très faible probabilité&7 ! &7Tu reçois [amount] [icon]&7."
         },
         "ITEM.backtospawn":
-        {
+         {
             "en_US": "&7Back to &a/spawn",
-            "de_DE": "&7Zurück zum &a/spawn"
+            "de_DE": "&7Zurück zum &a/spawn",
+            "es_ES": "&7Volver a &a/spawn",
+            "fr_FR": "&7Retour à &a/spawn"
         },
         "ITEM.nofoundobjects":
-        {
+         {
             "en_US": "&cNo Objects found",
-            "de_DE": "&cKeine Objekte gefunden"
+            "de_DE": "&cKeine Objekte gefunden",
+            "es_ES": "&cNo se ha encontrado ningún objeto",
+            "fr_FR": "&cAucun objet trouvé"
         },
         "ITEM.tnt":
-        {
+         {
             "en_US": "<#FF0F00>TNT",
-            "de_DE": "<#FF0F00>TNT"
+            "de_DE": "<#FF0F00>TNT",
+            "es_ES": "<#FF0F00>TNT",
+            "fr_FR": "<#FF0F00>TNT"
         },
-        "ITEM.screwdriver":
+        "ITEM.screwdriver": 
         {
             "en_US": "<#FFB254>Screwdriver",
-            "de_DE": "<#FFB254>Schraubenzieher"
+            "de_DE": "<#FFB254>Schraubenzieher",
+            "es_ES": "<#FFB254>Destornillador",
+            "fr_FR": "<#FFB254>Tournevis"
         },
         "ITEM.shell":
-        {
+         {
             "en_US": "<#FF5EC4>Shell",
-            "de_DE": "<#FF5EC4>Schale"
+            "de_DE": "<#FF5EC4>Schale",
+            "es_ES": "<#FF5EC4>Concha",
+            "fr_FR": "<#FF5EC4>Coquillage"
         },
         "REPAIR.msg.pickaxenotinhand":
-        {
+         {
             "en_US": "&cYou must hold your pickaxe in your hand to be able to repair it.",
-            "de_DE": "&cDu musst deine Spitzhacke in der Hand halten, um diese reparieren zu können."
+            "de_DE": "&cDu musst deine Spitzhacke in der Hand halten, um diese reparieren zu können.",
+            "es_ES": "&cDebes tener el pico en la mano para poder repararlo.",
+            "fr_FR": "&cTu dois tenir ta pioche en main pour pouvoir la réparer."
         },
-        "PICKLEVEL.bossbar":
+        "PICKLEVEL.bossbar": 
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
-            "de_DE": "&7Spitzhackenlevel: <#FFD200>[level] &7([progress]&7)"
+            "de_DE": "&7Spitzhackenlevel: <#FFD200>[level] &7([progress]&7)",
+            "es_ES": "&7Nivel del pico: <#FFD200>[level] &7([progress]&7)",
+            "fr_FR": "&7Niveau de la pioche : <#FFD200>[level] &7([progress]&7)"
         },
         "PICKLEVEL.levelup.title":
-        {
+         {
             "en_US": "<#4CFF00>Level Up!",
-            "de_DE": "<#4CFF00>Level Up!"
+            "de_DE": "<#4CFF00>Level Up!",
+            "es_ES": "<#4CFF00>¡Subida de nivel!",
+            "fr_FR": "<#4CFF00>Niveau supérieur !"
         },
         "PICKLEVEL.levelup.subtitle":
-        {
+         {
             "en_US": "<#FFD84E>Pickaxe Level <#E5E5E5>[from] &7» <#FFD200>[to]",
-            "de_DE": "<#FFD84E>Spitzhackenlevel <#E5E5E5>[from] &7» <#FFD200>[to]"
+            "de_DE": "<#FFD84E>Spitzhackenlevel <#E5E5E5>[from] &7» <#FFD200>[to]",
+            "es_ES": "<#FFD84E>Nivel del pico <#E5E5E5>[from] &7» <#FFD200>[to]",
+            "fr_FR": "<#FFD84E>Niveau de la pioche <#E5E5E5>[from] &7» <#FFD200>[to]"
         },
         "PICKLEVEL.gui.title":
-        {
+         {
             "en_US": "Pickaxe Level Path",
-            "de_DE": "Spitzhackenlevel-Pfad"
+            "de_DE": "Spitzhackenlevel-Pfad",
+            "es_ES": "Progresión del pico",
+            "fr_FR": "Progression de la pioche"
         },
-        "PICKLEVEL.gui.picklevel":
+        "PICKLEVEL.gui.picklevel": 
         {
             "en_US": "Pickaxe Level",
-            "de_DE": "Spitzhacke Level"
+            "de_DE": "Spitzhacke Level",
+            "es_ES": "Nivel del pico",
+            "fr_FR": "Niveau de la pioche"
         },
-        "PICKLEVEL.gui.picklevel.lore":
+        "PICKLEVEL.gui.picklevel.lore": 
         {
             "en_US": "&7New Features:\n[upgrades]\n\n&7Requirements:\n[requirements]",
-            "de_DE": "&7Neuerungen:\n[upgrades]\n\n&7Anforderungen:\n[requirements]"
+            "de_DE": "&7Neuerungen:\n[upgrades]\n\n&7Anforderungen:\n[requirements]",
+            "es_ES": "&7Novedades:\n[upgrades]\n\n&7Requisitos:\n[requirements]",
+            "fr_FR": "&7Nouveautés :\n[upgrades]\n\n&7Conditions requises :\n[requirements]"
         },
         "PICKLEVEL.gui.picklevel.lore.progress":
-        {
+         {
             "en_US": "&7Progress: <#FFD200>[percentage]% &7([details]&7)",
-            "de_DE": "&7Fortschritt: <#FFD200>[percentage]% &7([details]&7)"
+            "de_DE": "&7Fortschritt: <#FFD200>[percentage]% &7([details]&7)",
+            "es_ES": "&7Progreso: <#FFD200>[percentage]% &7([details]&7)",
+            "fr_FR": "&7Progression : <#FFD200>[percentage]% &7([details]&7)"
         },
         "PICKLEVEL.gui.picklevel.lore.done":
-        {
+         {
             "en_US": "<#4CFF00>UNLOCKED",
-            "de_DE": "<#4CFF00>FREIGESCHALTET"
+            "de_DE": "<#4CFF00>FREIGESCHALTET",
+            "es_ES": "<#4CFF00>DESBLOQUEADO",
+            "fr_FR": "<#4CFF00>DÉBLOQUÉ"
         },
-        "PICKLEVEL.gui.picklevel.lore.locked":
+        "PICKLEVEL.gui.picklevel.lore.locked": 
         {
             "en_US": "<#FF4032>&oThis upgrade is still locked.\n<#FF4032>&oUnlock the next step first.",
-            "de_DE": "<#FF4032>&oDieses Upgrade ist noch gesperrt.\n<#FF4032>&oSchalte zuerst den nächsten Schritt frei."
+            "de_DE": "<#FF4032>&oDieses Upgrade ist noch gesperrt.\n<#FF4032>&oSchalte zuerst den nächsten Schritt frei.",
+            "es_ES": "<#FF4032>&oEsta mejora sigue bloqueada.\n<#FF4032>&oDesbloquea primero el siguiente paso.",
+            "fr_FR": "<#FF4032>&oCette amélioration est encore verrouillée.\n<#FF4032>&oDébloque d'abord l'étape suivante."
         },
-        "PICKLEVEL.gui.picklevel.lore.starterpick":
+        "PICKLEVEL.gui.picklevel.lore.starterpick": 
         {
             "en_US": "&7Startet Pickaxe",
-            "de_DE": "&7Starter Spitzhacke"
+            "de_DE": "&7Starter Spitzhacke",
+            "es_ES": "&7Pico inicial",
+            "fr_FR": "&7Pioche de départ"
         },
         "PICKLEVEL.gui.upgrades.enchantment.efficiency":
-        {
+         {
             "en_US": "Efficiency",
-            "de_DE": "Effizienz"
+            "de_DE": "Effizienz",
+            "es_ES": "Eficiencia",
+            "fr_FR": "Efficacité"
         },
-        "PICKLEVEL.gui.upgrades.enchantment.unbreaking":
+        "PICKLEVEL.gui.upgrades.enchantment.unbreaking": 
         {
             "en_US": "Unbreaking",
-            "de_DE": "Haltbarkeit"
+            "de_DE": "Haltbarkeit",
+            "es_ES": "Irrompibilidad",
+            "fr_FR": "Solidité"
         },
         "PICKLEVEL.gui.upgrades.tool.golden_pickaxe":
-        {
+         {
             "en_US": "Golden Pickaxe",
-            "de_DE": "Goldspitzhacke"
+            "de_DE": "Goldspitzhacke",
+            "es_ES": "Pico de oro",
+            "fr_FR": "Pioche en or"
         },
         "PICKLEVEL.gui.upgrades.feature.time":
-        {
+         {
             "en_US": "Opportunity to find time during ore mining",
-            "de_DE": "Möglichkeit Zeit beim Erzabbau zu finden"
+            "de_DE": "Möglichkeit Zeit beim Erzabbau zu finden",
+            "es_ES": "Posibilidad de encontrar tiempo al extraer minerales",
+            "fr_FR": "Possibilité de trouver du temps en minant des minerais"
         },
-        "PICKLEVEL.gui.requirements.breakores":
+        "PICKLEVEL.gui.requirements.breakores": 
         {
             "en_US": "Mine [amount] ores",
-            "de_DE": "Baue [amount] Erze ab"
+            "de_DE": "Baue [amount] Erze ab",
+            "es_ES": "Extrae [amount] minerales",
+            "fr_FR": "Mine [amount] minerais"
         },
-        "ORELEVEL.gui.title":
+        "ORELEVEL.gui.title": 
         {
             "en_US": "Ore probabilities",
-            "de_DE": "Erz-Wahrscheinlichkeiten"
+            "de_DE": "Erz-Wahrscheinlichkeiten",
+            "es_ES": "Probabilidades de los minerales",
+            "fr_FR": "Probabilités des minerais"
         },
         "ORELEVEL.gui.ore.lore":
-        {
+         {
             "en_US": "&7You currently receive an average of <#E5E5E5>[amount]x [ore]\n&7per mined ore.",
-            "de_DE": "&7Du erhältst derzeit im Schnitt <#E5E5E5>[amount]x [ore]\n&7pro Abbau eines Erzes."
+            "de_DE": "&7Du erhältst derzeit im Schnitt <#E5E5E5>[amount]x [ore]\n&7pro Abbau eines Erzes.",
+            "es_ES": "&7Actualmente recibes una media de <#E5E5E5>[amount]x [ore]\n&7por cada mineral extraído.",
+            "fr_FR": "&7Tu reçois actuellement en moyenne <#E5E5E5>[amount]x [ore]\n&7par minerai extrait."
         },
         "ORELEVEL.gui.ore.lore.requirements":
-        {
+         {
             "en_US": "&7Upgrade costs (+1 avg.):\n[costs]",
-            "de_DE": "&7Verbesserungskosten (+1 ⌀):\n[costs]"
+            "de_DE": "&7Verbesserungskosten (+1 ⌀):\n[costs]",
+            "es_ES": "&7Coste de la mejora (+1 de media):\n[costs]",
+            "fr_FR": "&7Coût de l'amélioration (+1 en moyenne) :\n[costs]"
         },
-        "ORELEVEL.item.lore":
+        "ORELEVEL.item.lore": 
         {
             "en_US": "&7Average loot per ore mining:\n[ores]",
-            "de_DE": "&7Durchschnittlicher Loot pro Erzabbau:\n[ores]"
+            "de_DE": "&7Durchschnittlicher Loot pro Erzabbau:\n[ores]",
+            "es_ES": "&7Botín medio por mineral extraído:\n[ores]",
+            "fr_FR": "&7Butin moyen par minerai extrait :\n[ores]"
         },
         "STORAGE.gui.title":
-        {
+         {
             "en_US": "Expand storage space",
-            "de_DE": "Lagerplatz erweitern"
+            "de_DE": "Lagerplatz erweitern",
+            "es_ES": "Ampliar la capacidad de almacenamiento",
+            "fr_FR": "Agrandir l'espace de stockage"
         },
         "STORAGE.gui.ore.lore":
-        {
+         {
             "en_US": "&7Current utilization:\n[utilization]\n\n&7Expansion costs: (+[add])\n[costs]",
-            "de_DE": "&7Aktuelle Auslastung:\n[utilization]\n\n&7Kosten zur Erweiterung: (+[add])\n[costs]"
+            "de_DE": "&7Aktuelle Auslastung:\n[utilization]\n\n&7Kosten zur Erweiterung: (+[add])\n[costs]",
+            "es_ES": "&7Uso actual:\n[utilization]\n\n&7Coste de ampliación: (+[add])\n[costs]",
+            "fr_FR": "&7Utilisation actuelle :\n[utilization]\n\n&7Coût de l'agrandissement : (+[add])\n[costs]"
         },
         "STORAGE.gui.ore.lore.cannotafford":
-        {
+         {
             "en_US": "<#FF4032>You can't afford the expansion!",
-            "de_DE": "<#FF4032>Du kannst dir die Erweiterung nicht leisten!"
+            "de_DE": "<#FF4032>Du kannst dir die Erweiterung nicht leisten!",
+            "es_ES": "<#FF4032>¡No tienes suficientes recursos para la ampliación!",
+            "fr_FR": "<#FF4032>Tu n'as pas les moyens de payer cet agrandissement !"
         },
         "STORAGE.gui.clickaction.expand":
-        {
+         {
             "en_US": "&8» <#F9BD31>Click to Expand",
-            "de_DE": "&8» <#F9BD31>Klicke zum Erweitern"
+            "de_DE": "&8» <#F9BD31>Klicke zum Erweitern",
+            "es_ES": "&8» <#F9BD31>Haz clic para ampliar",
+            "fr_FR": "&8» <#F9BD31>Clique pour agrandir"
         },
         "STORAGE.actionbar.full":
-        {
+         {
             "en_US": "<#FF4032>Your [type]<#FF4032> storage is full!",
-            "de_DE": "<#FF4032>Dein [type]<#FF4032>-Lager ist voll!"
+            "de_DE": "<#FF4032>Dein [type]<#FF4032>-Lager ist voll!",
+            "es_ES": "<#FF4032>¡Tu almacén de [type]<#FF4032> está lleno!",
+            "fr_FR": "<#FF4032>Ton stockage de [type]<#FF4032> est plein !"
         },
         "STORAGE.item.lore":
-        {
+         {
             "en_US": "&7Storage utilization:\n[storage]",
-            "de_DE": "&7Lagerauslastung:\n[storage]"
+            "de_DE": "&7Lagerauslastung:\n[storage]",
+            "es_ES": "&7Uso del almacén:\n[storage]",
+            "fr_FR": "&7Utilisation du stockage :\n[storage]"
         },
         "GRINDSTONE.title":
-        {
+         {
             "en_US": "&6Repair Pickaxe\n[costs]",
-            "de_DE": "&6Spitzhacke reparieren\n[costs]"
+            "de_DE": "&6Spitzhacke reparieren\n[costs]",
+            "es_ES": "&6Reparar pico\n[costs]",
+            "fr_FR": "&6Réparer la pioche\n[costs]"
         }
     }
 }
