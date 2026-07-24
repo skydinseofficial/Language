@@ -87,15 +87,534 @@
             "en_US": "[victim]&7 left the server during combat and &cdied &7thus &cimmediately&7.",
             "de_DE": "[victim]&7 hat den Server während eines Kampfes verlassen und &cstarb &7somit &csofort&7."
         },
-        "deathmessage.attacker.1":
+        "deathmessage.attacker":
         {
-            "en_US": "[victim]&7 was killed by [attacker]&7.",
-            "de_DE": "[victim]&7 wurde von [attacker]&7 getötet."
+            "en_US": "[victim]&7 was [additionbytype] by [attacker]&7.",
+            "de_DE": "[victim]&7 wurde von [attacker]&7 [additionbytype]."
         },
-        "deathmessage.attacker.1.custom":
+        "deathmessage.attacker.custom":
         {
-            "en_US": "[victim]&7 was killed by [attacker]&7 using &8[&f[item]&8]&7.",
-            "de_DE": "[victim]&7 wurde von [attacker]&7 mit &8[&f[item]&8] &7getötet."
+            "en_US": "[victim]&7 was [additionbytype] by [attacker]&7 using &8[&f[item]&8]&7.",
+            "de_DE": "[victim]&7 wurde von [attacker]&7 mit &8[&f[item]&8] &7[additionbytype]."
+        },
+        "deathmessage.attacker.additionbytype.default":
+        {
+            "en_US": "killed",
+            "de_DE": "getötet"
+        },
+        "deathmessage.attacker.additionbytype.arrow":
+        {
+            "en_US": "shot down",
+            "de_DE": "abgeschossen"
+        "deathmessage.attacker.additionbytype.bad_respawn_point":
+        {
+            "en_US": "blown to bits by a bad respawn point",
+            "de_DE": "durch einen schlechten Schlafplatz zerfetzt"
+        },
+        "deathmessage.attacker.additionbytype.cactus":
+        {
+            "en_US": "turned into a pincushion",
+            "de_DE": "zum Nadelkissen gemacht"
+        },
+        "deathmessage.attacker.additionbytype.campfire":
+        {
+            "en_US": "roasted",
+            "de_DE": "geröstet"
+        },
+        "deathmessage.attacker.additionbytype.cramming":
+        {
+            "en_US": "squished flat",
+            "de_DE": "zu Brei gequetscht"
+        },
+        "deathmessage.attacker.additionbytype.dragon_breath":
+        {
+            "en_US": "melted",
+            "de_DE": "weggeätzt"
+        },
+        "deathmessage.attacker.additionbytype.drown":
+        {
+            "en_US": "drowned",
+            "de_DE": "ertränkt"
+        },
+        "deathmessage.attacker.additionbytype.dry_out":
+        {
+            "en_US": "dried out like a raisin",
+            "de_DE": "wie eine Rosine ausgetrocknet"
+        },
+        "deathmessage.attacker.additionbytype.ender_pearl":
+        {
+            "en_US": "splattered by their own ender pearl",
+            "de_DE": "durch die eigene Enderperle zerschmettert"
+        },
+        "deathmessage.attacker.additionbytype.explosion":
+        {
+            "en_US": "blown to smithereens",
+            "de_DE": "in die Luft gesprengt"
+        },
+        "deathmessage.attacker.additionbytype.fall":
+        {
+            "en_US": "sent to meet the ground",
+            "de_DE": "auf dem Boden zerschellt"
+        },
+        "deathmessage.attacker.additionbytype.falling_anvil":
+        {
+            "en_US": "flattened by an anvil",
+            "de_DE": "von einem Amboss plattgewalzt"
+        },
+        "deathmessage.attacker.additionbytype.falling_block":
+        {
+            "en_US": "crushed under a block",
+            "de_DE": "unter einem Block zerquetscht"
+        },
+        "deathmessage.attacker.additionbytype.falling_stalactite":
+        {
+            "en_US": "skewered by a stalactite",
+            "de_DE": "von einem Stalaktiten aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.fireball":
+        {
+            "en_US": "incinerated",
+            "de_DE": "eingeäschert"
+        },
+        "deathmessage.attacker.additionbytype.fireworks":
+        {
+            "en_US": "blown apart in a shower of sparks",
+            "de_DE": "in einem Funkenregen zerfetzt"
+        },
+        "deathmessage.attacker.additionbytype.fly_into_wall":
+        {
+            "en_US": "turned into wall art",
+            "de_DE": "zu Wandkunst verarbeitet"
+        },
+        "deathmessage.attacker.additionbytype.freeze":
+        {
+            "en_US": "frozen solid",
+            "de_DE": "zu Eis erstarrt"
+        },
+        "deathmessage.attacker.additionbytype.generic":
+        {
+            "en_US": "killed",
+            "de_DE": "getötet"
+        },
+        "deathmessage.attacker.additionbytype.generic_kill":
+        {
+            "en_US": "killed",
+            "de_DE": "getötet"
+        },
+        "deathmessage.attacker.additionbytype.hot_floor":
+        {
+            "en_US": "burned by the floor",
+            "de_DE": "vom heißen Boden verbrannt"
+        },
+        "deathmessage.attacker.additionbytype.in_fire":
+        {
+            "en_US": "burned alive",
+            "de_DE": "bei lebendigem Leib verbrannt"
+        },
+        "deathmessage.attacker.additionbytype.in_wall":
+        {
+            "en_US": "suffocated in a wall",
+            "de_DE": "in einer Wand erstickt"
+        },
+        "deathmessage.attacker.additionbytype.indirect_magic":
+        {
+            "en_US": "erased by magic",
+            "de_DE": "durch Magie ausgelöscht"
+        },
+        "deathmessage.attacker.additionbytype.lava":
+        {
+            "en_US": "turned to ash in lava",
+            "de_DE": "in Lava zu Asche verbrannt"
+        },
+        "deathmessage.attacker.additionbytype.lightning_bolt":
+        {
+            "en_US": "struck by lightning",
+            "de_DE": "vom Blitz getroffen"
+        },
+        "deathmessage.attacker.additionbytype.mace_smash":
+        {
+            "en_US": "smashed into the ground",
+            "de_DE": "in den Boden gehämmert"
+        },
+        "deathmessage.attacker.additionbytype.magic":
+        {
+            "en_US": "obliterated by magic",
+            "de_DE": "durch Magie vernichtet"
+        },
+        "deathmessage.attacker.additionbytype.mob_attack":
+        {
+            "en_US": "mauled",
+            "de_DE": "zerfleischt"
+        },
+        "deathmessage.attacker.additionbytype.mob_attack_no_aggro":
+        {
+            "en_US": "ambushed",
+            "de_DE": "aus dem Hinterhalt erledigt"
+        },
+        "deathmessage.attacker.additionbytype.mob_projectile":
+        {
+            "en_US": "shot down",
+            "de_DE": "abgeschossen"
+        },
+        "deathmessage.attacker.additionbytype.on_fire":
+        {
+            "en_US": "burned to a crisp",
+            "de_DE": "zu Asche verbrannt"
+        },
+        "deathmessage.attacker.additionbytype.out_of_world":
+        {
+            "en_US": "erased from existence",
+            "de_DE": "aus der Existenz gelöscht"
+        },
+        "deathmessage.attacker.additionbytype.outside_border":
+        {
+            "en_US": "vaporized at the edge of the world",
+            "de_DE": "am Rand der Welt pulverisiert"
+        },
+        "deathmessage.attacker.additionbytype.player_attack":
+        {
+            "en_US": "slain",
+            "de_DE": "erschlagen"
+        },
+        "deathmessage.attacker.additionbytype.player_explosion":
+        {
+            "en_US": "blown to bits",
+            "de_DE": "in die Luft gesprengt"
+        },
+        "deathmessage.attacker.additionbytype.sonic_boom":
+        {
+            "en_US": "shattered by a sonic boom",
+            "de_DE": "von einem Sonic Boom zerschmettert"
+        },
+        "deathmessage.attacker.additionbytype.spear":
+        {
+            "en_US": "impaled",
+            "de_DE": "aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.spit":
+        {
+            "en_US": "splattered by a glob of spit",
+            "de_DE": "von einer Ladung Spucke zersetzt"
+        },
+        "deathmessage.attacker.additionbytype.stalagmite":
+        {
+            "en_US": "impaled on a stalagmite",
+            "de_DE": "auf einem Stalagmiten aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.starve":
+        {
+            "en_US": "starved",
+            "de_DE": "verhungert"
+        },
+        "deathmessage.attacker.additionbytype.sting":
+        {
+            "en_US": "stung to death",
+            "de_DE": "zu Tode gestochen"
+        },
+        "deathmessage.attacker.additionbytype.sulfur_cube_hot":
+        {
+            "en_US": "melted by a scorching cube",
+            "de_DE": "von einem glühenden Würfel geschmolzen"
+        },
+        "deathmessage.attacker.additionbytype.sweet_berry_bush":
+        {
+            "en_US": "pricked to death by berries",
+            "de_DE": "von Beerensträuchern aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.thorns":
+        {
+            "en_US": "impaled on their own thorns",
+            "de_DE": "an den eigenen Dornen aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.thrown":
+        {
+            "en_US": "pelted to death",
+            "de_DE": "zu Tode beworfen"
+        },
+        "deathmessage.attacker.additionbytype.trident":
+        {
+            "en_US": "harpooned",
+            "de_DE": "aufgespießt"
+        },
+        "deathmessage.attacker.additionbytype.unattributed_fireball":
+        {
+            "en_US": "incinerated",
+            "de_DE": "eingeäschert"
+        },
+        "deathmessage.attacker.additionbytype.wind_charge":
+        {
+            "en_US": "blasted away",
+            "de_DE": "weggepustet"
+        },
+        "deathmessage.attacker.additionbytype.wither":
+        {
+            "en_US": "withered away",
+            "de_DE": "dahingesiecht"
+        },
+        "deathmessage.attacker.additionbytype.wither_skull":
+        {
+            "en_US": "blown apart by a wither skull",
+            "de_DE": "von einem Wither-Schädel zerfetzt"
+        },
+        "deathmessage.solo":
+        {
+            "en_US": "[victim]&7 [additionbytype].",
+            "de_DE": "[victim]&7 [additionbytype]."
+        },
+        "deathmessage.solo.additionbytype.arrow":
+        {
+            "en_US": "was shot down by an arrow",
+            "de_DE": "wurde von einem Pfeil getroffen"
+        },
+        "deathmessage.solo.additionbytype.bad_respawn_point":
+        {
+            "en_US": "was blown up by a bad respawn point",
+            "de_DE": "wurde durch einen schlechten Schlafplatz zerfetzt"
+        },
+        "deathmessage.solo.additionbytype.cactus":
+        {
+            "en_US": "was turned into a pincushion by a cactus",
+            "de_DE": "spießte sich an einem Kaktus auf"
+        },
+        "deathmessage.solo.additionbytype.campfire":
+        {
+            "en_US": "was roasted over a campfire",
+            "de_DE": "wurde am Lagerfeuer geröstet"
+        },
+        "deathmessage.solo.additionbytype.cramming":
+        {
+            "en_US": "was squished in the crowd",
+            "de_DE": "wurde zu Tode gequetscht"
+        },
+        "deathmessage.solo.additionbytype.dragon_breath":
+        {
+            "en_US": "melted in dragon's breath",
+            "de_DE": "wurde vom Drachenatem weggeätzt"
+        },
+        "deathmessage.solo.additionbytype.drown":
+        {
+            "en_US": "drowned",
+            "de_DE": "ertrank"
+        },
+        "deathmessage.solo.additionbytype.dry_out":
+        {
+            "en_US": "dried out",
+            "de_DE": "trocknete aus"
+        },
+        "deathmessage.solo.additionbytype.ender_pearl":
+        {
+            "en_US": "was splattered by their own ender pearl",
+            "de_DE": "zerschmetterte sich mit der eigenen Enderperle"
+        },
+        "deathmessage.solo.additionbytype.explosion":
+        {
+            "en_US": "blew up",
+            "de_DE": "wurde in die Luft gesprengt"
+        },
+        "deathmessage.solo.additionbytype.fall":
+        {
+            "en_US": "fell to their death",
+            "de_DE": "stürzte in die Tiefe"
+        },
+        "deathmessage.solo.additionbytype.falling_anvil":
+        {
+            "en_US": "was squashed by a falling anvil",
+            "de_DE": "wurde von einem herabfallenden Amboss zerquetscht"
+        },
+        "deathmessage.solo.additionbytype.falling_block":
+        {
+            "en_US": "was crushed by a falling block",
+            "de_DE": "wurde von einem herabfallenden Block zerquetscht"
+        },
+        "deathmessage.solo.additionbytype.falling_stalactite":
+        {
+            "en_US": "was skewered by a falling stalactite",
+            "de_DE": "wurde von einem herabfallenden Stalaktiten aufgespießt"
+        },
+        "deathmessage.solo.additionbytype.fireball":
+        {
+            "en_US": "was incinerated by a fireball",
+            "de_DE": "wurde von einem Feuerball eingeäschert"
+        },
+        "deathmessage.solo.additionbytype.fireworks":
+        {
+            "en_US": "went off with a bang",
+            "de_DE": "ging mit einem Knall in die Luft"
+        },
+        "deathmessage.solo.additionbytype.fly_into_wall":
+        {
+            "en_US": "was smashed against a wall",
+            "de_DE": "wurde gegen eine Wand geschmettert"
+        },
+        "deathmessage.solo.additionbytype.freeze":
+        {
+            "en_US": "froze to death",
+            "de_DE": "erfror"
+        },
+        "deathmessage.solo.additionbytype.generic":
+        {
+            "en_US": "died",
+            "de_DE": "starb"
+        },
+        "deathmessage.solo.additionbytype.generic_kill":
+        {
+            "en_US": "died",
+            "de_DE": "wurde getötet"
+        },
+        "deathmessage.solo.additionbytype.hot_floor":
+        {
+            "en_US": "discovered the floor was lava",
+            "de_DE": "entdeckte, dass der Boden aus Lava war"
+        },
+        "deathmessage.solo.additionbytype.in_fire":
+        {
+            "en_US": "burned to death",
+            "de_DE": "verbrannte"
+        },
+        "deathmessage.solo.additionbytype.in_wall":
+        {
+            "en_US": "suffocated in a wall",
+            "de_DE": "erstickte in einer Wand"
+        },
+        "deathmessage.solo.additionbytype.indirect_magic":
+        {
+            "en_US": "was killed by magic",
+            "de_DE": "wurde durch Magie getötet"
+        },
+        "deathmessage.solo.additionbytype.lava":
+        {
+            "en_US": "tried to swim in lava",
+            "de_DE": "versuchte in Lava zu schwimmen"
+        },
+        "deathmessage.solo.additionbytype.lightning_bolt":
+        {
+            "en_US": "was struck by lightning",
+            "de_DE": "wurde vom Blitz getroffen"
+        },
+        "deathmessage.solo.additionbytype.mace_smash":
+        {
+            "en_US": "was smashed into the ground",
+            "de_DE": "wurde in den Boden gehämmert"
+        },
+        "deathmessage.solo.additionbytype.magic":
+        {
+            "en_US": "was killed by magic",
+            "de_DE": "wurde von Magie hinweggerafft"
+        },
+        "deathmessage.solo.additionbytype.mob_attack":
+        {
+            "en_US": "was mauled",
+            "de_DE": "wurde zerfleischt"
+        },
+        "deathmessage.solo.additionbytype.mob_attack_no_aggro":
+        {
+            "en_US": "was ambushed",
+            "de_DE": "wurde aus dem Hinterhalt erledigt"
+        },
+        "deathmessage.solo.additionbytype.mob_projectile":
+        {
+            "en_US": "was shot down",
+            "de_DE": "wurde abgeschossen"
+        },
+        "deathmessage.solo.additionbytype.on_fire":
+        {
+            "en_US": "burned to a crisp",
+            "de_DE": "verbrannte zu Asche"
+        },
+        "deathmessage.solo.additionbytype.out_of_world":
+        {
+            "en_US": "fell out of the world",
+            "de_DE": "fiel aus der Welt"
+        },
+        "deathmessage.solo.additionbytype.outside_border":
+        {
+            "en_US": "was vaporized at the world's edge",
+            "de_DE": "wurde am Rand der Welt pulverisiert"
+        },
+        "deathmessage.solo.additionbytype.player_attack":
+        {
+            "en_US": "was slain",
+            "de_DE": "wurde erschlagen"
+        },
+        "deathmessage.solo.additionbytype.player_explosion":
+        {
+            "en_US": "blew up",
+            "de_DE": "wurde in die Luft gesprengt"
+        },
+        "deathmessage.solo.additionbytype.sonic_boom":
+        {
+            "en_US": "was shattered by a sonic boom",
+            "de_DE": "wurde von einem Sonic Boom zerschmettert"
+        },
+        "deathmessage.solo.additionbytype.spear":
+        {
+            "en_US": "was impaled",
+            "de_DE": "wurde aufgespießt"
+        },
+        "deathmessage.solo.additionbytype.spit":
+        {
+            "en_US": "was splattered by spit",
+            "de_DE": "wurde von einer Ladung Spucke zersetzt"
+        },
+        "deathmessage.solo.additionbytype.stalagmite":
+        {
+            "en_US": "was impaled on a stalagmite",
+            "de_DE": "spießte sich auf einem Stalagmiten auf"
+        },
+        "deathmessage.solo.additionbytype.starve":
+        {
+            "en_US": "starved to death",
+            "de_DE": "verhungerte"
+        },
+        "deathmessage.solo.additionbytype.sting":
+        {
+            "en_US": "was stung to death",
+            "de_DE": "wurde zu Tode gestochen"
+        },
+        "deathmessage.solo.additionbytype.sulfur_cube_hot":
+        {
+            "en_US": "melted next to a scorching cube",
+            "de_DE": "schmolz neben einem glühenden Würfel dahin"
+        },
+        "deathmessage.solo.additionbytype.sweet_berry_bush":
+        {
+            "en_US": "was poked to death by berries",
+            "de_DE": "spießte sich an einem Beerenstrauch auf"
+        },
+        "deathmessage.solo.additionbytype.thorns":
+        {
+            "en_US": "was killed by thorns",
+            "de_DE": "wurde von Dornen getötet"
+        },
+        "deathmessage.solo.additionbytype.thrown":
+        {
+            "en_US": "was pelted to death",
+            "de_DE": "wurde zu Tode beworfen"
+        },
+        "deathmessage.solo.additionbytype.trident":
+        {
+            "en_US": "was impaled by a trident",
+            "de_DE": "wurde von einem Dreizack aufgespießt"
+        },
+        "deathmessage.solo.additionbytype.unattributed_fireball":
+        {
+            "en_US": "was incinerated by a fireball",
+            "de_DE": "wurde von einem Feuerball eingeäschert"
+        },
+        "deathmessage.solo.additionbytype.wind_charge":
+        {
+            "en_US": "was blasted away",
+            "de_DE": "wurde weggepustet"
+        },
+        "deathmessage.solo.additionbytype.wither":
+        {
+            "en_US": "withered away",
+            "de_DE": "siechte dahin"
+        },
+        "deathmessage.solo.additionbytype.wither_skull":
+        {
+            "en_US": "was blown apart by a wither skull",
+            "de_DE": "wurde von einem Wither-Schädel zerfetzt"
         },
         "deathmessage.1":
         {
