@@ -166,6 +166,16 @@
             "es_ES": "Posibilidad de encontrar tiempo al extraer minerales",
             "fr_FR": "Possibilité de trouver du temps en minant des minerais"
         },
+        "PICKLEVEL.gui.upgrades.feature.chests":
+         {
+            "en_US": "Opportunity to open chests",
+            "de_DE": "Möglichkeit Truhen zu öffnen"
+        },
+        "PICKLEVEL.gui.upgrades.feature.tokens":
+         {
+            "en_US": "Opportunity to mine Token Blocks",
+            "de_DE": "Möglichkeit Tokenblöcke abzubauen"
+        },
         "PICKLEVEL.gui.requirements.breakores": 
         {
             "en_US": "Mine [amount] ores",
