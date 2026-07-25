@@ -159,6 +159,11 @@
             "es_ES": "Pico de oro",
             "fr_FR": "Pioche en or"
         },
+        "PICKLEVEL.gui.upgrades.tool.copper_pickaxe":
+         {
+            "en_US": "Copper Pickaxe",
+            "de_DE": "Kupferspitzhacke"
+        },
         "PICKLEVEL.gui.upgrades.feature.time":
          {
             "en_US": "Opportunity to find time during ore mining",
