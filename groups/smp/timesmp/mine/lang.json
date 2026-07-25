@@ -242,6 +242,11 @@
         {
             "en_US": "&cOh no! &7Your pickaxe has broken! Find a <#FFD84E>grindstone &7to <#FFD84E>repair &7it.",
             "de_DE": "&cOh nein! &7Deine Spitzhacke ist kaputt gegangen! Suche einen <#FFD84E>Schleifstein&7, um sie zu <#FFD84E>reparieren&7."
+        },
+        "GRINDSTONE.actionbar.pickbroke":
+        {
+            "en_US": "<#FF4032>Find a grindstone to repair your pickaxe!",
+            "de_DE": "<#FF4032>Finde einen Schleifstein, um deine Spitzhacke zu reparieren!"
         }
         "GRINDSTONE.title":
         {
