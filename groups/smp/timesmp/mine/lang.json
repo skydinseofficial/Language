@@ -58,7 +58,12 @@
             "es_ES": "&cDebes tener el pico en la mano para poder repararlo.",
             "fr_FR": "&cTu dois tenir ta pioche en main pour pouvoir la réparer."
         },
-        "PICKLEVEL.bossbar": 
+        "PICKLEVEL.msg.featurelocked.tokens":
+        {
+            "en_US": "&cYour pickaxe cannot mine token blocks yet! &7You need a higher level.",
+            "de_DE": "&cDeine Spitzhacke kann noch keine Tokenblöcke abbauen! &7Du benötigst ein höheres Level."
+        },
+        "PICKLEVEL.bossbar":
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
             "de_DE": "&7Spitzhackenlevel: <#FFD200>[level] &7([progress]&7)",
@@ -192,49 +197,54 @@
             "fr_FR": "&7Butin moyen par minerai extrait :\n[ores]"
         },
         "STORAGE.gui.title":
-         {
+        {
             "en_US": "Expand storage space",
             "de_DE": "Lagerplatz erweitern",
             "es_ES": "Ampliar la capacidad de almacenamiento",
             "fr_FR": "Agrandir l'espace de stockage"
         },
         "STORAGE.gui.ore.lore":
-         {
+        {
             "en_US": "&7Current utilization:\n[utilization]\n\n&7Expansion costs: (+[add])\n[costs]",
             "de_DE": "&7Aktuelle Auslastung:\n[utilization]\n\n&7Kosten zur Erweiterung: (+[add])\n[costs]",
             "es_ES": "&7Uso actual:\n[utilization]\n\n&7Coste de ampliación: (+[add])\n[costs]",
             "fr_FR": "&7Utilisation actuelle :\n[utilization]\n\n&7Coût de l'agrandissement : (+[add])\n[costs]"
         },
         "STORAGE.gui.ore.lore.cannotafford":
-         {
+        {
             "en_US": "<#FF4032>You can't afford the expansion!",
             "de_DE": "<#FF4032>Du kannst dir die Erweiterung nicht leisten!",
             "es_ES": "<#FF4032>¡No tienes suficientes recursos para la ampliación!",
             "fr_FR": "<#FF4032>Tu n'as pas les moyens de payer cet agrandissement !"
         },
         "STORAGE.gui.clickaction.expand":
-         {
+        {
             "en_US": "&8» <#F9BD31>Click to Expand",
             "de_DE": "&8» <#F9BD31>Klicke zum Erweitern",
             "es_ES": "&8» <#F9BD31>Haz clic para ampliar",
             "fr_FR": "&8» <#F9BD31>Clique pour agrandir"
         },
         "STORAGE.actionbar.full":
-         {
+        {
             "en_US": "<#FF4032>Your [type]<#FF4032> storage is full!",
             "de_DE": "<#FF4032>Dein [type]<#FF4032>-Lager ist voll!",
             "es_ES": "<#FF4032>¡Tu almacén de [type]<#FF4032> está lleno!",
             "fr_FR": "<#FF4032>Ton stockage de [type]<#FF4032> est plein !"
         },
         "STORAGE.item.lore":
-         {
+        {
             "en_US": "&7Storage utilization:\n[storage]",
             "de_DE": "&7Lagerauslastung:\n[storage]",
             "es_ES": "&7Uso del almacén:\n[storage]",
             "fr_FR": "&7Utilisation du stockage :\n[storage]"
         },
+        "GRINDSTONE.msg.pickbroke":
+        {
+            "en_US": "&cOh no! &7Your pickaxe has broken! Find a <#FFD84E>grindstone &7to <#FFD84E>repair &7it.",
+            "de_DE": "&cOh nein! &7Deine Spitzhacke ist kaputt gegangen! Suche einen <#FFD84E>Schleifstein&7, um sie zu <#FFD84E>reparieren&7."
+        }
         "GRINDSTONE.title":
-         {
+        {
             "en_US": "&6Repair Pickaxe\n[costs]",
             "de_DE": "&6Spitzhacke reparieren\n[costs]",
             "es_ES": "&6Reparar pico\n[costs]",
