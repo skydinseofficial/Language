@@ -64,6 +64,11 @@
             "de_DE": "&cDiese Funktion ist derzeit deaktiviert!",
             "de_XX": "&cDiese Funktion geht ned mehr wegen den kagg Haidern!"
         },
+        "MODULES.this.disabledhere":
+        {
+            "en_US": "&cThis feature is disabled here!",
+            "de_DE": "&cDiese Funktion ist hier deaktiviert!"
+        },
         "MODULES.enabling":
         {
             "en_US": "&6[module] &7has been &aenabled&7!",
