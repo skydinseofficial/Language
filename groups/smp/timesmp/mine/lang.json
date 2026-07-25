@@ -63,6 +63,11 @@
             "en_US": "&cYour pickaxe cannot mine token blocks yet! &7You need a higher level.",
             "de_DE": "&cDeine Spitzhacke kann noch keine Tokenblöcke abbauen! &7Du benötigst ein höheres Level."
         },
+        "PICKLEVEL.msg.featurelocked.chests":
+        {
+            "en_US": "&cYour pickaxe cannot mine token blocks yet! &7You need a higher pickaxe level.",
+            "de_DE": "&cDu hast die Truhen noch nicht freigeschaltet! &7Du benötigst ein höheres Spitzhackenlevel."
+        },
         "PICKLEVEL.bossbar":
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
