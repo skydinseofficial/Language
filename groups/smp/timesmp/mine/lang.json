@@ -68,6 +68,11 @@
             "en_US": "&cYour pickaxe cannot mine token blocks yet! &7You need a higher pickaxe level.",
             "de_DE": "&cDu hast die Truhen noch nicht freigeschaltet! &7Du benötigst ein höheres Spitzhackenlevel."
         },
+        "PICKLEVEL.sugarrush.actionbar":
+        {
+            "en_US": "<#FF506E>Sugar Rush&7: &a[percent]%",
+            "de_DE": "<#FF506E>Zuckerrausch&7: &a[percent]%"
+        },
         "PICKLEVEL.bossbar":
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
@@ -76,21 +81,21 @@
             "fr_FR": "&7Niveau de la pioche : <#FFD200>[level] &7([progress]&7)"
         },
         "PICKLEVEL.levelup.title":
-         {
+        {
             "en_US": "<#4CFF00>Level Up!",
             "de_DE": "<#4CFF00>Level Up!",
             "es_ES": "<#4CFF00>¡Subida de nivel!",
             "fr_FR": "<#4CFF00>Niveau supérieur !"
         },
         "PICKLEVEL.levelup.subtitle":
-         {
+        {
             "en_US": "<#FFD84E>Pickaxe Level <#E5E5E5>[from] &7» <#FFD200>[to]",
             "de_DE": "<#FFD84E>Spitzhackenlevel <#E5E5E5>[from] &7» <#FFD200>[to]",
             "es_ES": "<#FFD84E>Nivel del pico <#E5E5E5>[from] &7» <#FFD200>[to]",
             "fr_FR": "<#FFD84E>Niveau de la pioche <#E5E5E5>[from] &7» <#FFD200>[to]"
         },
         "PICKLEVEL.gui.title":
-         {
+        {
             "en_US": "Pickaxe Level Path",
             "de_DE": "Spitzhackenlevel-Pfad",
             "es_ES": "Progresión del pico",
