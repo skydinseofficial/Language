@@ -160,9 +160,14 @@
             "fr_FR": "Pioche en or"
         },
         "PICKLEVEL.gui.upgrades.tool.copper_pickaxe":
-         {
+        {
             "en_US": "Copper Pickaxe",
             "de_DE": "Kupferspitzhacke"
+        },
+        "PICKLEVEL.gui.upgrades.tool.iron_pickaxe":
+        {
+            "en_US": "Iron Pickaxe",
+            "de_DE": "Eisenspitzhacke"
         },
         "PICKLEVEL.gui.upgrades.feature.time":
          {
