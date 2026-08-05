@@ -73,6 +73,26 @@
             "en_US": "<#FF506E>Sugar Rush&7: &a[percent]%",
             "de_DE": "<#FF506E>Zuckerrausch&7: &a[percent]%"
         },
+        "PICKLEVEL.sugarrush.actionbar.activated":
+        {
+            "en_US": "<#FF506E>Sugar Rush active! &7(&e[time]&7)",
+            "de_DE": "<#FF506E>Zuckerrausch aktiv! &7(&e[time]&7)"
+        },
+        "PICKLEVEL.sugarrush.title.activated":
+        {
+            "en_US": "<#FF506E>Sugar Rush active",
+            "de_DE": "<#FF506E>Zuckerrausch aktiviert"
+        },
+        "PICKLEVEL.sugarrush.subtitle.activated":
+        {
+            "en_US": "&7You are now even more efficient!",
+            "de_DE": "&7Du bist nun noch effizienter!"
+        },
+        "PICKLEVEL.sugarrush.msg.activated":
+        {
+            "en_US": "&7You are now in a <#FF506E>Sugar Rush&7! You receive the <FFD84E>Haste &7and <FFD84E>Speed ​​effects &7for the next <#FFD200>60 seconds&7!",
+            "de_DE": "&7Du bist nun im <#FF506E>Zuckerrausch&7! Du erhältst für die nächsten <#FFD200>60 Sekunden &7den <FFD84E>Eile- &7und <FFD84E>Geschwindigkeitseffekt&7!"
+        },
         "PICKLEVEL.bossbar":
         {
             "en_US": "&7Pickaxe Level: <#FFD200>[level] &7([progress]&7)",
